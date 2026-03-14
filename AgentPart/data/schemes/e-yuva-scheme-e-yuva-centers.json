@@ -1,0 +1,42 @@
+{
+  "id": "e-yuva-scheme-e-yuva-centers-0842",
+  "name": "E-YUVA Scheme: E-YUVA Centers",
+  "slug": "e-yuva-scheme-e-yuva-centers",
+  "ministry": "",
+  "category": "sports",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 75000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Financial Support to each EYC: A. Non-recurring Head (Creating pre-incubation space): ﻿ Year 1 (INR in Lakhs) Year 2 (INR in Lakhs) Year 3 (INR in Lakhs) Total (INR in Lakhs) Refurbishing Cost 10 0 0 10 Equipment Cost 30 0 0 30 Sub Total (A) 40 0 0 40 B. Recurring Head: ﻿ Year 1 (INR in Lakhs) Year",
+  "details": "“Empowering Youth for Undertaking Value Added Innovative Translational Research (E-YUVA)” scheme was started by the Biotechnology Industry Research Assistance Council (BIRAC) to promote a culture of applied research and need-oriented (societal or industry) entrepreneurial innovation among young students and researchers. The scheme provides funding support (through fellowship and research grant), technical and business mentoring, exposure to bio incubation model, orientation to an entrepreneurial",
+  "eligibility_text": "University/Institution established as a legal entity under the relevant Law of India having at least 51% Indian stakeholders (owners/partners/trustees/members/associates etc.) from Tier II/III cities is eligible to apply. The University/Institution could be Public (Central/State)/Private owned. Other mandatory conditions are as follows: Applicant University/Institution should have a Department in",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 3-3 years",
+      "field": "age",
+      "min": 3,
+      "max": 3
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Application Process: Step 01: Applications for EYCs need to be routed through the Head of the University/Institution. Step 02: The applicant University/Institution allows only online submission of pro",
+  "tags": [
+    "E-YUVA",
+    "Centers",
+    "University",
+    "Institution",
+    "Bio-incubator",
+    "Infrastructure",
+    "Equipment"
+  ],
+  "scheme_category_raw": "Transport & Infrastructure"
+}

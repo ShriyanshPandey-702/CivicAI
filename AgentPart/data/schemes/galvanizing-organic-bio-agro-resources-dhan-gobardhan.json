@@ -1,0 +1,31 @@
+{
+  "id": "galvanizing-organic-bio-agro-r-1164",
+  "name": "Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan)",
+  "slug": "galvanizing-organic-bio-agro-resources-dhan-gobardhan",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Helps in managing a major portion of solid waste in villages i.e cattle dung and agricultural waste and promotes environmental sanitation. Substantially reduces vector-borne diseases and promotes public health. Promotes household income and saving as the use of biogas reduces the expenditure on LPG.",
+  "details": "Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan) was launched by the Ministry of Drinking Water & Sanitation in April 2018 as a part of the Solid and Liquid Waste Management component under the Swachh Bharat Mission (Grameen) to positively impact village cleanliness and generate wealth and energy from cattle and organic waste. The main focus of GOBARDHAN is to keep villages clean, increase the income of rural households, and generate energy and organic manure from cattle waste. As rural I",
+  "eligibility_text": "For Individual Household Model: Individual Households identified by the Gram Panchayats. For Cluster Model: Cluster of Households identified by the Gram Panchayats, in association with Cooperatives, Milk Unions, Farmer Producer Organizations (FPOs), SHGs, CBOs developed under DAY-NRLM, Private entrepreneurs, etc. These households should have a minimum of 3 to 4 cattle. For Community Model: Househo",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Step 1: The Gram Panchayat will identify the beneficiaries with the support of SHGs/FPOs/milk cooperatives/milk unions/ private entrepreneurs/CBOs developed under DAY-NRLM/agencies selected or empanel",
+  "tags": [
+    "Solid Waste Management",
+    "Agriculture",
+    "Renewable Energy"
+  ],
+  "scheme_category_raw": "Utility & Sanitation, Agriculture,Rural & Environment"
+}

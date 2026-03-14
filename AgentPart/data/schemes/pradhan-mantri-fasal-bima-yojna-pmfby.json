@@ -1,0 +1,37 @@
+{
+  "id": "pradhan-mantri-fasal-bima-yojn-2416",
+  "name": "Pradhan Mantri Fasal Bima Yojna (PMFBY)",
+  "slug": "pradhan-mantri-fasal-bima-yojna-pmfby",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Affordable Premiums:  The maximum premium payable by the farmer will be 2% for the Kharif food and oilseed crops. For rabi food and oilseeds crop, it is 1.5% and for yearly commercial or horticultural crops it will be 5%. The remaining premium is subsidized by the government. * For the farmers in No",
+  "details": "Launched on 18th February 2016, \"Pradhan Mantri Fasal Bima Yojana\" is a crop insurance scheme by the Department of Agriculture, Cooperation and Farmers’ Welfare, Ministry of Agriculture. PMFBY aims to provide financial protection to farmers against crop loss due to natural disasters (hail, drought, famine), pests, and diseases. PMFBY provides crop insurance at a cost-effective premium to all Indian farmers. PMFBY is an affordable crop insurance product implemented through a network of insurance",
+  "eligibility_text": "All farmers, including tenant farmers and sharecroppers growing notified crops in notified areas. Farmers must have an insurable interest in the insured crops. Farmers must possess a valid and authenticated land ownership certificate or a valid land tenure agreement. The farmer must be a cultivator or sharecropper on the insured land. The farmer must apply for insurance coverage within the prescri",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "land_record",
+    "bank_passbook",
+    "address_proof",
+    "pan_card"
+  ],
+  "application_url": "Step 1: Visit the Official Website of \"Pradhan Mantri Fasal Bima Yojana\". Step 2: At the top right corner of the homepage, click \"Farmer Corner\". In the popup window, click \"Guest Farmer\". You will be",
+  "tags": [
+    "Crop",
+    "Farmer",
+    "Insurance",
+    "Agriculture",
+    "Premium"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment, Banking,Financial Services and Insurance"
+}

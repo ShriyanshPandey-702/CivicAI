@@ -1,0 +1,49 @@
+{
+  "id": "central-sector-scheme-of-natio-0498",
+  "name": "Central Sector Scheme of National Fellowship for Providing Fellowship to Scheduled Caste Students to Pursue M.Phil. & PhD",
+  "slug": "central-sector-scheme-of-national-fellowship-for-providing-fellowship-to-schedul",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Number of Slots The scheme provides for 2000 new Fellowships (1500 Junior Research Fellows for Humanities/ Social Sciences and 500 Junior Research Fellows for Science stream) per year. These slots are over and above the number of SC students selected under the normal reservation policy of the Govern",
+  "details": "\"Central Sector Scheme of National Fellowship for Providing Fellowship to Scheduled Caste Students to Pursue M.Phil. & PhD\" is a Fellowship Scheme by the Department of Social Justice & Empowerment, Ministry of Social Justice & Empowerment. The scheme was introduced during the financial year 2005-06 to provide opportunities to Scheduled Castes students to pursue higher education leading to M.Phil/Ph.D degrees in Sciences, Humanities and Social Science streams. The objective of the scheme is to pr",
+  "eligibility_text": "1.    The applicant should be from a Scheduled Caste. 2.    The applicant should be pursuing regular and full-time advanced studies/ research leading to an M.Phil/PhD Degree. 3.    The applicant should have qualified one of the following tests: a)    National Eligibility Test - Junior Research Fellowship (NET - JRF) of UGC. b)    UGC - Council of Scientific and Industrial Research (UGC - CSIR) NET",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "bank_passbook"
+  ],
+  "application_url": "Call of Applications UGC will advertise/ invite online applications from NET/UGC -CSIR joint tests qualified candidates for the award of National Fellowship for SC students. The selection for the awar",
+  "tags": [
+    "Fellowship",
+    "Scheduled Caste",
+    "Research",
+    "Social Justice",
+    "PhD"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "vikaas-day-care-scheme-for-per-3293",
+  "name": "Vikaas-Day Care Scheme For Person with Disability Children",
+  "slug": "vikaas-day-care-scheme-for-person-with-disability-children",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Day Care: RO should provide day-care facilities to PwDs for at least 6 hours in a day(between 8 am to 6 pm) along with age specific activities. Staffing: Interpersonal and vocational skills would be provided for the betterment of the children. Counselling: Counselling and guidance especially for Act",
+  "details": "Vikaas is a Day care scheme, launched by the Department of Empowerment of Persons with Disabilities , Ministry of Social Justice & Empowerment. Govt. of India, primarily to expand the range of opportunities available to a person with disability attaining the age of 10 years for enhancing interpersonal and vocational skills as they are on a transition to higher age groups.Registered Organisation(RO) centre will also offer caregiving support to Person with Disability(PwD) during the time the PwD i",
+  "eligibility_text": "Beneficiary should be of the age of 10 years or more Beneficiary should have one of the disabilities under the National Trust Act, 1999, which are Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilitities. Beneficiary should not be simultaneously enrolled under Samarth or Gharaunda scheme.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "income_cert",
+    "address_proof",
+    "birth_cert",
+    "disability_cert"
+  ],
+  "application_url": "Beneficiary provides necessary proofs at the Vikaas Centre . Individual Assessment Test conducted for children aged 10-14. Fit for school: Parents guided on school options or National Trust schemes. I",
+  "tags": [
+    "Person With Disability",
+    "Child",
+    "Counselling",
+    "Special Care"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

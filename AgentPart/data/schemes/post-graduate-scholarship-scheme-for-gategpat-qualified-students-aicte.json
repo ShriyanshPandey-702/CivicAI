@@ -1,0 +1,38 @@
+{
+  "id": "post-graduate-scholarship-sche-2380",
+  "name": "Post Graduate Scholarship Scheme for GATE/GPAT Qualified Students-AICTE",
+  "slug": "post-graduate-scholarship-scheme-for-gategpat-qualified-students-aicte",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 12400,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Amount of Scholarship: The Scholarship under the scheme is ₹12,400/- per month per student. Other Entitlements: Students are eligible for the following leaves- Casual leave: 15 days in an academic year Medical leave: Maximum of one month (30 days) in an academic year Maternity leave: Candidates are",
+  "details": "The scheme “Post Graduate Scholarship Scheme for GATE/GPAT Qualified Students- AICTE” has been started by the All India Council for Technical Education, Government of India. AICTE in order to ensure the development of technical education in India awards Post Graduate Scholarship of ₹12,400/- per month to full-time GATE/CEED qualified students admitted to AICTE approved post-graduate programs in AICTE approved Institutions/ University Departments as per AICTE approved intake.",
+  "eligibility_text": "Post Graduate Scholarship is entitled only to those students: Having a valid GATE/CEED score at the time of admission. Must be admitted as a full-time scholar. Students of final years of dual degree integrated programmes would also be entitled to a PG Scholarship from the 9th semester onwards i.e. only for one year in the final year. Admitted in AICTE approved Institutions/University Departments &",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "disability_cert"
+  ],
+  "application_url": "On-line proposals are invited from AICTE approved Institutions for disbursement of Post Graduate Scholarship to the students admitted in AICTE approved Institutes/Programs and within approved intake o",
+  "tags": [
+    "Post Graduate",
+    "Scholarship",
+    "GATE",
+    "GPAT",
+    "AICTE",
+    "CEED"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

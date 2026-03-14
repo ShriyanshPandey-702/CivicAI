@@ -1,0 +1,41 @@
+{
+  "id": "pre-matric-scholarship-2455",
+  "name": "Pre-Matric Scholarship",
+  "slug": "pre-matric-scholarship",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 150,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Monthly Rs. 150/- for a maximum of 10 months. Annually Rs. 750/- ad hoc grant in one go.",
+  "details": "Education is top seeded to uplift the backward classes. Because of lack of education, a social category remains backward. Inspite of long duration passed since independence of the country, expected improvement is not seen in the educational status of Other Backward Classes. Many efforts have been made to improve the educational status.  At present, Fee Reimbursement scheme is being operated in online mode by Department of Backward Classes Welfare with the objective of development of backward cla",
+  "eligibility_text": "Native and studying in Uttar Pradesh. Annual income of the parents/guardians of the students upto Rs. 2 Lakh. Students studying in government schools, aided and recognized educational institutes (provided the availability of the budget). । ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹200,000",
+      "field": "income",
+      "max": 200000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "ration_card",
+    "pan_card"
+  ],
+  "application_url": "First of all, OBC students need to click on Option in the Student Section of website. ﻿ Student Registration. Fill out the application form. Print out of application form. Deposit the print out along ",
+  "tags": [
+    "Financial Assistance",
+    "Education",
+    "Student Welfare"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

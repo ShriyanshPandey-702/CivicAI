@@ -1,0 +1,42 @@
+{
+  "id": "additional-pension-to-widow-of-0183",
+  "name": "Additional Pension to Widow of Ex-Serviceman having Children",
+  "slug": "additional-pension-to-widow-of-ex-serviceman-having-children",
+  "ministry": "",
+  "category": "women",
+  "level": "State",
+  "state": "Uttar Pradesh",
+  "benefit_amount": 100,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The rates of additional pension admissible under the scheme are as follows: Sl. No. Category Additional Pension Amount 1 Other Ranks ₹100/- per child per month subject to a maximum of ₹300/- 2 JCO’s ₹150/- per child per month subject to a maximum of ₹450/- 3 Officers ₹200/- per child per month subje",
+  "details": "The scheme \"Additional Pension to Widow of Ex-Serviceman having Children\" is implemented by the Sainik and Ardh Sainik Welfare Department, Government of Haryana. Under the scheme, an additional amount, in addition to the pension, is provided to the widow of an ex-serviceman who dies while in service but not in any battle. This additional amount is given for up to three children and continues until the child dies, reaches the age of 20 years, gets married, or becomes employed, whichever is the ea",
+  "eligibility_text": "The applicant should be the widow of an ex-serviceman. A ‘widow’ means the widow of a member of the Armed Forces whose death has taken place while in service but not in any battle. The widow should be a resident of Haryana. The benefit is provided for up to three children of the widow. The benefit continues until the child dies, attains the age of 20 years, gets married, or becomes employed, which",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 20-2 years",
+      "field": "age",
+      "min": 20,
+      "max": 2
+    },
+    {
+      "criterion": "Must be a resident of Haryana",
+      "field": "state",
+      "value": "Haryana"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "address_proof",
+    "ration_card",
+    "pan_card"
+  ],
+  "application_url": "Registration Process on Antyodaya-SARAL Portal: Step 1: The eligible applicant may apply online through the Official Portal- Antyodaya-SARAL Portal . Step 2: If the applicant is not registered on the ",
+  "tags": [
+    "Additional Pension",
+    "Widow",
+    "Ex-Serviceman",
+    "Sainik"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment, Women and Child"
+}

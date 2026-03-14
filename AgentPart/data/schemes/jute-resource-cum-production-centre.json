@@ -1,0 +1,35 @@
+{
+  "id": "jute-resource-cum-production-c-1610",
+  "name": "Jute Resource-Cum-Production Centre",
+  "slug": "jute-resource-cum-production-centre",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "To spread Jute Diversificaion Programs and activities throughout the country. To popularise Jute as Natural, Bio-degradable and Eco-friendly fibre as a robust alternative to hazardous plastic/polythene bags. To set up Jute Resource-cum-Production Centres (JRCPC) in multiple locations of the country",
+  "details": "Jute Resource-Cum-Production Centre (JRCPC) will be set up in the local clusters/ localities across the country in collaboration with bonafide Agencies who have adequate experience in training/ skilling programs and have required training cum-production infrastructure.  The Collaborating Agency will draw list of potential beneficiaries from artisans, individuals, members of Women Self Help Groups, NGOs, members of Cooperative Societies, Trusts etc. willing to be involved in the JDP manufacturing",
+  "eligibility_text": "The Agency and its functionaries should be bonafide Indian agencies and Indian Citizens; Reputed Registered Jute Entrepreneurs/Manufacturers, Exporters, Merchant Traders, NGOs, Cooperative Societies, Federations, PSUs/Organisations of the Central/State Govt. and other firms / Agencies engaged in the Product identification, Bulk Production, Skill Training and Marketing of Jute Diversified Products",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 250-500 years",
+      "field": "age",
+      "min": 250,
+      "max": 500
+    }
+  ],
+  "documents_required": [
+    "address_proof",
+    "pan_card"
+  ],
+  "application_url": "The proposals, complete in all respects, are to be submitted  \"Online\" through the NJB website  The hard copies of the applications and proposals, along with all prescribed supporting documents are to",
+  "tags": [
+    "Training Skilling Program",
+    "Production",
+    "Resource",
+    "Sales",
+    "Marketing"
+  ],
+  "scheme_category_raw": "Skills & Employment"
+}

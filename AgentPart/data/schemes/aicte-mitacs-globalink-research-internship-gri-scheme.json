@@ -1,0 +1,36 @@
+{
+  "id": "aicte-mitacs-globalink-researc-0111",
+  "name": "AICTE – Mitacs Globalink Research Internship (GRI) Scheme",
+  "slug": "aicte-mitacs-globalink-research-internship-gri-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "The total cost of the program is $12,000 CAD per student. MITACS will contribute $9,000 CAD per student. AICTE will contribute $3,000 CAD per student. The full cost per student includes airfare, visa, medical, stipend, accommodation, Globalink Student Mentors, programming, and research costs. It wil",
+  "details": "AICTE, on 23rd February 2018, entered into a Memorandum of Understanding with Mathematics of Information Technology and Computer Systems (MITACS) Canada for AICTE – MITACS Globalink Research Internships (GRI) Program to foster cross-border partnerships focused on creating a platform that opens the path for collaborative research between Canada and India to a wider pool of student talent in India. The AICTE-MITACS GRI Program is open to Science, Technology, Engineering, and Mathematics (STEM) dis",
+  "eligibility_text": "The applicant must be a 3rd-year full-time student of an undergraduate program (B.E / B.Tech) in AICTE Approved Institution in the year of application. The applicant must have a minimum CGPA / GPA of 85% in 2nd year. The applicant must be at least 18 years of age. The applicant must be able to spend twelve (12) weeks between May and September at a university in Canada on a research project related",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be 18 years or older",
+      "field": "age",
+      "min": 18
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "PROCEDURE TO APPLY The student fulfilling the eligibility criteria shall apply directly to MITACS Canada via its portal and follow the procedure, guidelines, and terms and conditions mentioned therein",
+  "tags": [
+    "Internship",
+    "Research"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "aicte-swanath-scholarship-sche-0126",
+  "name": "AICTE-Swanath Scholarship Scheme For Students",
+  "slug": "aicte-swanath-scholarship-scheme-for-students",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "NUMBER OF SCHOLARSHIPS A maximum of 2000 scholarships (1000 for Degree Students and 1000 for Diploma Students) will be awarded every year to eligible candidates as above. ﻿ AMOUNT OF SCHOLARSHIP Rs. 50,000.00 per annum for every year of study i.e. maximum 4 years duration for the first year admitted",
+  "details": "A scholarship scheme by the Student Development Cell (StDC) of All India Council for Technical Education (AICTE) to provide encouragement and support to orphans, wards of parents who died due to Covid-19, wards of Armed Forces, and Central Paramilitary Forces martyred in action (Shaheed) to pursue education. This is an attempt to give every such child, an opportunity to study further and prepare for a successful future through education in AICTE Approved institutions and courses. The family inco",
+  "eligibility_text": "The candidate should be one of the following: (i) an orphan, OR (ii) whose either or both parents died due to Covid 19, OR (iii) Ward of Armed Forces and Central Paramilitary Forces martyred in action (Shaheed). The family income from all sources should not be more than ₹8,00,000 per annum during the financial year of the application. The candidate should be currently studying in the AICTE Approve",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "income_cert"
+  ],
+  "application_url": "Step 1: Go to Official Website . Guidelines for Registration will appear. Scroll to the bottom. Read carefully the undertaking. Accept the Terms. Click “Continue”. Step 2:  A Registration Form will ap",
+  "tags": [
+    "Orphan",
+    "Scholarship"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "assistance-to-training-institu-0314",
+  "name": "Assistance to Training Institutions Scheme",
+  "slug": "assistance-to-training-institutions-scheme",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 30000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Assistance under the Scheme: Scale of Assistance to Training Institutions of the Ministry of MSME: The amount of assistance will not exceed the actual amount required for the creation or strengthening/expansion of the infrastructure of the training institution and meeting the revenue deficit, etc. o",
+  "details": "The scheme “Assistance to Training Institutions (ATI) Scheme” was launched by the Ministry of Micro, Small & Medium Enterprises, Government of India. Under the scheme, assistance would be provided to the training institutions under the Ministry of MSME for the creation, strengthening and expansion of infrastructure, including the setting up of new branches and centres. Further, assistance would be provided for meeting any revenue deficit with the National Institute for Micro, Small and Medium En",
+  "eligibility_text": "Eligibility criteria for assistance to Training Institutions of the Ministry of MSME: Assistance may be provided under the scheme for the creation or strengthening/expansion of infrastructure, including the opening of new branches/centres to training institutions of the Ministry of MSME and for meeting the revenue deficit, if any, of the National Institute for Micro, Small and Medium Enterprises (",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "bank_passbook",
+    "pan_card"
+  ],
+  "application_url": "Application Process: The proposals from national and state level EDIs, training institutions of M/o MSME etc. for grant of financial assistance under the scheme shall be submitted to the Deputy Secret",
+  "tags": [
+    "Training",
+    "ATI",
+    "MSME",
+    "EDI",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Skills & Employment"
+}

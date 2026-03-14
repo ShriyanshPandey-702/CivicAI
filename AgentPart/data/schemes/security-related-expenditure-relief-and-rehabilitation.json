@@ -1,0 +1,29 @@
+{
+  "id": "security-related-expenditure-r-2887",
+  "name": "Security Related Expenditure (Relief and Rehabilitation)",
+  "slug": "security-related-expenditure-relief-and-rehabilitation",
+  "ministry": "",
+  "category": "housing",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3250,
+  "benefit_frequency": "monthly",
+  "benefit_description": "1. Cash relief to Kashmiri and Jammu migrants settled in J&K: ₹3,250 per person per month, with a maximum of ₹13,000 per family per month. 2. Cash relief to Kashmiri migrants settled in Delhi/NCR: ₹3,250 per person per month, with a maximum of ₹13,000 per family per month. 3. Cash relief to migrants",
+  "details": "The scheme \"Security Related Expenditure (Relief and Rehabilitation)\" also known as \"SRE (R&R) Scheme\" was also introduced in 1989-90 by the Jammu and Kashmir Division, Ministry of Home Affairs to support the relief and rehabilitation of the Kashmiri migrants who have been uprooted from the Valley during the militancy period besides other relief & rehabilitation measures. It provides for 100% reimbursement. 60% of the amount is reimbursed upfront on receipt of claims and the remaining 40% is rel",
+  "eligibility_text": "The beneficiary should be Kashmir or Jammu Migrant.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Step 1: Proforma for Claims The claims for the reimbursement of Security Related Expenditures should be submitted using the prescribed proforma , duly certified by an officer, not below the rank of Ad",
+  "tags": [
+    "Reimbursement",
+    "Migrant",
+    "Shelter",
+    "Rehabilitation",
+    "Relief"
+  ],
+  "scheme_category_raw": "Housing & Shelter, Social welfare & Empowerment"
+}

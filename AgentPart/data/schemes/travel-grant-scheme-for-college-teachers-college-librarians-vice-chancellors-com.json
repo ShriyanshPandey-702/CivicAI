@@ -1,0 +1,43 @@
+{
+  "id": "travel-grant-scheme-for-colleg-3227",
+  "name": "Travel Grant Scheme For College Teachers / College Librarians / Vice Chancellors / Commission Members And UGC Officers",
+  "slug": "travel-grant-scheme-for-college-teachers-college-librarians-vice-chancellors-com",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Financial Assistance for the total admissible expenditure such as travel, registration fee, per diem allowance and visa fee. NOTE: The entire amount due to the candidate is disbursed in one instalment after the conference is over and relevant documents are submitted by the applicant.",
+  "details": "This scheme provides financial assistance to permanent teachers and librarians of colleges and vice-chancellors of state universities, deemed to be universities and central universities to present research papers at international conferences abroad. This facility is also available to the permanent teachers of Institutions of National Importance with a cap of 10% of the total approved cases annually. The Commission members and UGC Officers at the level of EO/US and above are also eligible to appl",
+  "eligibility_text": "The applicant should qualify as one of the following - Permanent Teacher of College, College Librarian enlisted in 2 (f) and 12 B of the UGC Act . Vice Chancellor of State University / Deemed to be University / Central University recognized under sections 2(f) and 12(B) of the UGC Act . UGC Member, UGC Officer and SC/ST/OBC (Non-Creamy Layer) / Physically Handicapped Teacher. Permanent Teacher of",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "bank_passbook"
+  ],
+  "application_url": "The application in the prescribed application form along with all necessary enclosures should be sent to: Joint Secretary (Travel Grant), University Grants Commission, Bahadur Shah Zafar Marg, New Del",
+  "tags": [
+    "Travel",
+    "Conference",
+    "Grant",
+    "International",
+    "Teacher",
+    "Librarian"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

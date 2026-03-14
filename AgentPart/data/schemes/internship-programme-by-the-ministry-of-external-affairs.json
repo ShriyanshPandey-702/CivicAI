@@ -1,0 +1,46 @@
+{
+  "id": "internship-programme-by-the-mi-1523",
+  "name": "Internship Programme By The Ministry Of External Affairs",
+  "slug": "internship-programme-by-the-ministry-of-external-affairs",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 10000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "An honorarium of ₹ 10,000 per month will be paid to each intern to defray basic costs. Introduction to the various aspects of the functioning of the MEA, its attached offices, the public interface of the Ministry, and its role in helping the Indian citizens. Possible visit one of the Missions abroad",
+  "details": "The Ministry of External Affairs of the Govt. of India launched the first edition of its Internship Programme in 2022. The internship policy aims to take foreign policy closer to the people; bring in more focus on MEA; provide value to the interns; ensure better gender inclusivity and increase diversity in terms of qualifications, domicile, and socio-economic status in the cohort of interns engaged by the MEA. During the course of the internship, the Interns would be introduced to various aspect",
+  "eligibility_text": "1.  The internship shall generally be open to Indian citizens with a minimum educational qualification of a graduate degree from a recognized university at the time of applying. 2.  The internship shall also be open to student who is presently in the final year of their graduation, where an internship is a mandatory part of the final year curriculum. 3.  The age of the candidate should not exceed",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 25-2 years",
+      "field": "age",
+      "min": 25,
+      "max": 2
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof",
+    "birth_cert"
+  ],
+  "application_url": "Registration Process Step 1: Visit https://internship.mea.gov.in/registration ﻿ Step 2: Register by providing your Full Name, Gender, Email ID, and Password. Now, Confirm the password and fill in the ",
+  "tags": [
+    "Internship"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

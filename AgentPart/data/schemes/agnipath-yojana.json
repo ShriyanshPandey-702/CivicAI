@@ -1,0 +1,43 @@
+{
+  "id": "agnipath-yojana-0200",
+  "name": "Agnipath Yojana",
+  "slug": "agnipath-yojana",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Agniveers will be given an attractive customized monthly package along with Risk and Hardship allowances as applicable in the three services. On completion of the engagement period of four years, Agniveers will be paid a one-time ‘SevaNidhi’ package which shall comprise their contribution including",
+  "details": "The Union Cabinet on 14th June 2022 approved an attractive recruitment scheme for Indian youth to serve in the Armed Forces called AGNIPATH and the youth selected under this scheme will be known as Agniveers. AGNIPATH allows patriotic and motivated youth to serve in the Armed Forces for a period of four years. The AGNIPATH scheme has been designed to enable a youthful profile of the Armed Forces. \"Agnipath Yojana\" is a new HR Management scheme for the Armed Forces. Candidates inducted through th",
+  "eligibility_text": "The applicant must be a citizen of India. For the 2022 intake, the age of the applicant should be between 17.5 to 23 years. For the subsequent intakes, the age of the applicant should be between 17.5 to 21 years. The applicant must fulfill the educational qualifications and physical and medical standards set by the Indian Army / Indian Navy / Indian Air Force. Note 01: The Agniveers will be enroll",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 17-23 years",
+      "field": "age",
+      "min": 17,
+      "max": 23
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Enrolment will be undertaken through an online centralized system for all three services with specialized rallies and campus interviews from recognized technical institutes such as Industrial Training",
+  "tags": [
+    "Youth",
+    "Armed Forces",
+    "Military",
+    "Agniveer",
+    "Employment",
+    "Indian Navy",
+    "Indian Air Force",
+    "Indian Army"
+  ],
+  "scheme_category_raw": "Skills & Employment"
+}

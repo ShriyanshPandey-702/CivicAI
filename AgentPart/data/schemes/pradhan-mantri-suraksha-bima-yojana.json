@@ -1,0 +1,33 @@
+{
+  "id": "pradhan-mantri-suraksha-bima-y-2433",
+  "name": "Pradhan Mantri Suraksha Bima Yojana",
+  "slug": "pradhan-mantri-suraksha-bima-yojana",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 200000,
+  "benefit_frequency": "annual",
+  "benefit_description": "On Death- the Nominee shall get Rs. 2 Lakhs. Total and irrecoverable loss of both eyes or loss of use of both hands or feet or loss of sight of one eye and loss of use of hand or foot-  Subscriber shall get Rs. 2 Lakhs. Total and irrecoverable loss of sight of one eye or loss of use of one hand or f",
+  "details": "An Accident Insurance Scheme offering accidental death and disability cover for death or disability on account of an accident. Premium: Rs.20/- per annum per member. The premium will be deducted from the account holder’s bank / Post office account through ‘auto debit’ facility on or before 1st June of each annual coverage period under the scheme. Coverage Duration: Coverage under PMJJBY is valid for one year from 1st June to 31st May on payment of annual premium. Accident cover assurance termina",
+  "eligibility_text": "Individual bank account holders of participating banks aged between 18 years (completed) and 70 years (age nearer birthday) who give their consent to join / enable auto-debit, will be enrolled into the scheme.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-70 years",
+      "field": "age",
+      "min": 18,
+      "max": 70
+    }
+  ],
+  "documents_required": [
+    "bank_passbook"
+  ],
+  "application_url": "Step 01: In order to enrol in PMSBY offline, one can visit the bank branch where one has a savings account or the candidate can visit the official site: https://jansuraksha.gov.in/Forms-PMSBY.aspx  to",
+  "tags": [
+    "Bank Account Holders",
+    "Insurance",
+    "Accident Insurance",
+    "Death Insurance"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "icro-amrit-internship-programm-1366",
+  "name": "ICRO Amrit Internship Programme",
+  "slug": "icro-amrit-internship-programme",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 6000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "STIPEND The selected intern shall be entitled to ₹ 6,000/- per month as a stipend during the period of internship. CERTIFICATE The interns will be issued an Internship Completion Certificate upon successful completion of the internship. NOTE: No payment towards transportation and other allowance etc",
+  "details": "The IPL Centre for Rural Outreach (ICRO) established under the Indian Potash Limited (IPL), Department of Fertilizers, Ministry of Chemicals and Fertilizers, has launched ICRO Amrit Internship Programme focused on youth productivity for prosperity. The interns will be placed at the headquarters and Regional Offices of NPC/ IPL. The duration of the internship will be 3 months initially which can be renewed up to 4 times. The internship program shall be available throughout the year. The placement",
+  "eligibility_text": "The applicant for the internship should be a citizen of India. The applicant should be 12th Pass / Diploma Holder / Graduate or in the Final Year of their graduation degree. The applicant should be in the age group of 18-45 years. Reservation/Preference/Priority Preference will be given to candidates having agriculture or related sector qualification. ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-45 years",
+      "field": "age",
+      "min": 18,
+      "max": 45
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Prior filling the application form, applicants may ensure that the following documents may be readily available for uploading: Passport size photo in JPG/JPEG (format size less than 2 MB). Letter of r",
+  "tags": [
+    "Internship",
+    "Student",
+    "Youth Productivity",
+    "Stipend"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment, Education & Learning, Social welfare & Empowerment"
+}

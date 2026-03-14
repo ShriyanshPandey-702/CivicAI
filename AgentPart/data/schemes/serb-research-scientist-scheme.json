@@ -1,0 +1,35 @@
+{
+  "id": "serb-research-scientist-scheme-2620",
+  "name": "SERB Research Scientist Scheme",
+  "slug": "serb-research-scientist-scheme",
+  "ministry": "",
+  "category": "science",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 120000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The “SERB Research Scientists” will be entitled to receive the grants as given below: Sl. No. Budget Head Amount 1 Emolument * Consolidated amount of ₹1,20,000/- per month 2 Research Grant ₹7,00,000/- per annum 3 Overheads ₹1,00,000/- per annum * All Inclusive Note 01: Research grants can be used fo",
+  "details": "The INSPIRE Faculty Scheme of the Department of Science and Technology (DST) and the Ramanujan Fellowship Scheme of the Science and Engineering Research Board (SERB) offer opportunities for young scientists to initiate and sustain research careers in various fields of science and engineering. These schemes do not offer an extension of the fellowship after the completion of five years. The support link is broken after the end of the tenure of the respective fellowships. In order to provide a plat",
+  "eligibility_text": "The scheme is open only to INSPIRE Faculty and Ramanujan Fellows. The applicant should have completed or nearing completion of the tenure of INSPIRE Faculty of DST or Ramanujan Fellowship of SERB. The upper age limit for INSPIRE Faculty/Ramanujan Fellows is 40 years at the time of submission of application. SRS can be availed only once by a candidate in his/her career. Note 01: The SRS Scheme will",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 40-01 years",
+      "field": "age",
+      "min": 40,
+      "max": 1
+    }
+  ],
+  "documents_required": [
+    "birth_cert"
+  ],
+  "application_url": "Application Procedure: Step 01 : The application for SRS will be opened throughout the year. The details of SRS will be notified through the websites www.serb.gov.in , www.serbonline.in and www.dst.go",
+  "tags": [
+    "SERB",
+    "Research Scientist",
+    "INSPIRE",
+    "Faculty",
+    "Ramanujan",
+    "Fellowship"
+  ],
+  "scheme_category_raw": "Science, IT & Communications"
+}

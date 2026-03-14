@@ -1,0 +1,42 @@
+{
+  "id": "group-insurance-scheme-for-pow-1284",
+  "name": "Group Insurance Scheme for Powerloom Weavers",
+  "slug": "group-insurance-scheme-for-powerloom-weavers",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 60000,
+  "benefit_frequency": "annual",
+  "benefit_description": "1.\tIn the event of the natural death of the member, Sum assured of ₹60,000/- will become payable to the nominee. 2.\tIn the event of death by accident or Partial/Total Permanent Disability due to accident, the following benefit shall be payable: On death due to accident: ₹1,50,000/- Permanent total d",
+  "details": "The Government of India had introduced the 'Group Insurance Scheme for Powerloom Weavers' from 1st July, 2003 which is a combination of 'Janshree Bima Yojana (JBY)' and 'Add-on Group Insurance Scheme (AGIS)'. The Scheme was revised w.e.f. 1st January, 2008 and the revised Scheme was known as \"Group Insurance Scheme for Powerloom Weavers\". This scheme is implemented in collaboration with the Life Insurance Corporation (LIC) of India. Objective: The basic objective of this scheme is to provide ins",
+  "eligibility_text": "The Powerloom weavers who are between 18 to 59 years of age. The scheme will be universally applicable for powerloom workers/weavers irrespective of their status with reference to BPL/APL categories. The scheme is applicable to the families of powerloom workers engaged in the activity of weaving on powerlooms and in allied pre-weaving/preparatory activities like twisting, winding, warping and sizi",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 4-12 years",
+      "field": "age",
+      "min": 4,
+      "max": 12
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Application Process Step 1: A prospective beneficiary shall be required to fill up an application-cum-nomination form and submit the same to the nodal agency along with his share of the premium. Step ",
+  "tags": [
+    "Insurance",
+    "Powerloom Weavers",
+    "LIC",
+    "Educational Grant"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance"
+}

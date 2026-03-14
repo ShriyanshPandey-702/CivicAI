@@ -1,0 +1,51 @@
+{
+  "id": "welfare-measures-for-children--3320",
+  "name": "Welfare Measures for Children of Labourers",
+  "slug": "welfare-measures-for-children-of-labourers",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 2250,
+  "benefit_frequency": "annual",
+  "benefit_description": "Educational Stipends ₹2,250 per student Incentive Award (in addition to ₹2,250/- Educational Stipend) For Boys: ₹1,000; For Girls: ₹1,500 Financial Assistance Traditional Courses (Arts, Science, Commerce, etc.) (a) Graduation: ₹3,750 per student (b) Post-Graduation: ₹7,500 per student Professional C",
+  "details": "The scheme \"Welfare Measures for Children of Labourers\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to provide welfare measures in the form of educational stipends, incentives for academic excellence, and financial support for higher education to the children of SC/ST (Scheduled Caste/Sched",
+  "eligibility_text": "Children of SC/ST labourers working in coffee plantations and Licensed Coffee Curing Works, who are pursuing higher education after the 10th grade, are eligible. Eligibility extends to the first two surviving children of SC/ST labourers employed in Coffee Plantations and Licensed Coffee Curing Works. In cases where the birth of the second child results in twins or multiple births, assistance shall",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 10-1 years",
+      "field": "age",
+      "min": 10,
+      "max": 1
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert"
+  ],
+  "application_url": "For availing the incentives Step 1: The interested and eligible applicants should take print of the prescribed format of the application form. Step 2: In the application form, fill in all the mandator",
+  "tags": [
+    "Scholarship",
+    "Financial Assistance",
+    "Stipend",
+    "Student",
+    "DBT",
+    "Scheduled Caste",
+    "Scheduled Tribe"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

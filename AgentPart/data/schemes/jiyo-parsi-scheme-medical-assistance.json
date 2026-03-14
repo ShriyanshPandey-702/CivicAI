@@ -1,0 +1,30 @@
+{
+  "id": "jiyo-parsi-scheme-medical-assi-1600",
+  "name": "Jiyo Parsi Scheme – Medical Assistance",
+  "slug": "jiyo-parsi-scheme-medical-assistance",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 600000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Under this component, Parsis couples would get financial assistance for undertaking treatment cycles of Assisted Reproductive Technologies (ART), surrogacy, In-Vitro Fertilization (IVF) or Intra Cytoplasmic Sperm Injection (ICSI). The monetary ceiling of expenditure would be as follows: Assistance f",
+  "details": "The scheme \"Jiyo Parsi Scheme – Medical Assistance\" is a unique Central Sector Scheme launched by the Ministry of Minority Affairs, Government of India, in 2013-14. It aims to provide financial assistance for fertility treatment to the Parsi couples under standard medical protocols to address fertility issues. Financial support is provided for fertility treatments, including Assisted Reproductive Technologies (ART) such as In-Vitro Fertilization (IVF) and Intra Cytoplasmic Sperm Injection (ICSI)",
+  "eligibility_text": "Only Parsi/Zoroastrian couples who are Indian residents are eligible to apply. The applicant should belong to a notified minority community, i.e., Parsi/Zoroastrian.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Parsi couples willing of availing the scheme would be required to apply on the Jiyo Parsi Portal to seek benefits under the respective components and fill in the requisite application form providing t",
+  "tags": [
+    "Parsi Community",
+    "Medical Assistance",
+    "Parsi Couples",
+    "Fertility Treatment",
+    "Zoroastrians"
+  ],
+  "scheme_category_raw": "Health & Wellness"
+}

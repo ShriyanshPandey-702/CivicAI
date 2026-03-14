@@ -1,0 +1,46 @@
+{
+  "id": "advocate-grant-0198",
+  "name": "Advocate Grant",
+  "slug": "advocate-grant",
+  "ministry": "",
+  "category": "education",
+  "level": "State",
+  "state": "Kerala",
+  "benefit_amount": 12000,
+  "benefit_frequency": "annual",
+  "benefit_description": "1.\tThe grant of ₹12000/- per year will be provided to law graduates who enrolled before the Bar Council. 2.\tThe grant will be provided for 3 consecutive years.",
+  "details": "The Scheme “Advocate Grant” was launched by the Backward Classes Development Department, Government of Kerala during the year 2012-13. Under the scheme, the grant will be provided to law graduates belonging to backward classes facing financial difficulties for starting practice as advocates. The scheme aims to ensure adequate representation of OBC’s in the judiciary.",
+  "eligibility_text": "1.\tThe applicant should be a permanent resident of the Kerala State. 2.\tThe applicant should belong to the State Backward Community of Kerala State. 3.\tThe applicant should be a Law Graduate. 4.\tThe applicant should be enrolled as an Advocate in the Bar Council (Kerala). 5.\tThe applicant should be started practice as an Advocate within the state shall alone be considered. 6.\tThe annual family inco",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹2",
+      "field": "income",
+      "max": 2
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "address_proof",
+    "ration_card",
+    "disability_cert"
+  ],
+  "application_url": "Step 01: The Director, Backward Communities Development Department is permitted to invite applications from the eligible candidates after giving wide publicity through media (through press Release). S",
+  "tags": [
+    "Advocate",
+    "Grant",
+    "OBC",
+    "Law Graduate"
+  ],
+  "scheme_category_raw": "Education & Learning, Skills & Employment"
+}

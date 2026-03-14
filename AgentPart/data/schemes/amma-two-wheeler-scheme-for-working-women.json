@@ -1,0 +1,56 @@
+{
+  "id": "amma-two-wheeler-scheme-for-wo-0227",
+  "name": "Amma Two Wheeler Scheme for Working Women",
+  "slug": "amma-two-wheeler-scheme-for-working-women",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "State",
+  "state": "Uttar Pradesh",
+  "benefit_amount": 25000,
+  "benefit_frequency": "annual",
+  "benefit_description": "The reservation under the Amma two-wheeler scheme is as follows: 21% of the scheme's allocation is reserved for women belonging to Scheduled Castes. 1% of the scheme’s allocation is reserved for women belonging to Scheduled Tribes. 4% of the scheme’s allocation is reserved for differently abled wome",
+  "details": "The Amma two-wheeler working women scheme Department of Social Welfare and Women Empowerment provides a scheme to empower working women by enabling them to purchase women-friendly two-wheelers and to ease their commute to their enterprises, places of employment, and engagements with banks and community-based institutions. Ease of use is a key consideration and therefore the vehicle is gearless/auto-geared. The Differently Abled Mayavaill o  retro-fitted three-wheeler scooters. Each year one lakh",
+  "eligibility_text": "The applicant should be a native of and residing in Tamil Nadu. The applicant should be in the age group of 18 to 40 years. The applicant should know how to drive and possess a valid Two Wheeler / Learner License Registration (LLR) at the time of applying. The annual income of the beneficiary should not exceed ₹ 2,50,000/-. Only woman and only one woman will be eligible to avail of the benefit in",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-40 years",
+      "field": "age",
+      "min": 18,
+      "max": 40
+    },
+    {
+      "criterion": "Annual income below ₹250,000",
+      "field": "income",
+      "max": 250000
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "address_proof",
+    "birth_cert"
+  ],
+  "application_url": "The application form for women in rural areas is different. Applicant can visit the Tamil Nadu Corporation for Development of Women to access the form for rural areas and follow these steps: ﻿ Applica",
+  "tags": [
+    "Women",
+    "Empowerment",
+    "Two Wheeler",
+    "Loan",
+    "Banking"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment, Transport & Infrastructure"
+}

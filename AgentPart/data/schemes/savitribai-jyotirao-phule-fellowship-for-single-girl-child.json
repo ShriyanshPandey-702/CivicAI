@@ -1,0 +1,47 @@
+{
+  "id": "savitribai-jyotirao-phule-fell-2689",
+  "name": "Savitribai Jyotirao Phule Fellowship For Single Girl Child",
+  "slug": "savitribai-jyotirao-phule-fellowship-for-single-girl-child",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "one_time",
+  "benefit_description": "TENURE OF FELLOWSHIP: ﻿ The tenure of the fellowship is for five years and will be effective from 1st April of the selection year or the actual date of joining under the fellowship in the University/College/Institute, whichever is later. Fellowship will be granted upto the date of submission of Ph.D",
+  "details": "Savitribai Jyotirao Phule Fellowship for Single Girl Child (SJSGC) is a Fellowship Scheme by the University Grants Commission (UGC), Department of Higher Education, for pursuing research work leading to the award of a Ph.D. degree. The target group of this scheme are the ‘single girl child’, i.e. the only girl child in the family without having any brother or sister. A girl scholar who is one of the twin daughters/fraternal daughters is also eligible to apply for fellowship under the scheme. The",
+  "eligibility_text": "(i) Any single girl child of her parents pursuing Ph.D. in any stream/subject in recognised Universities/Colleges/ Institutes is eligible to apply under the scheme. ﻿ (ii) The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. program. ﻿ (iii) Admission to Ph.D. Course in part-time/distance mode is not covered under the scheme. A scholar is not",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 40-45 years",
+      "field": "age",
+      "min": 40,
+      "max": 45
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Applications are invited through online mode once in a year through advertisement in leading newspapers & employment news. Short notification is also uploaded in the UGC website i.e. www.ugc.ac.in ﻿ ﻿",
+  "tags": [
+    "Girl Child",
+    "Fellowship",
+    "Ph.D."
+  ],
+  "scheme_category_raw": "Education & Learning, Women and Child"
+}

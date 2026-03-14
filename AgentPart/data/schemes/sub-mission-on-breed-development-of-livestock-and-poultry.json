@@ -1,0 +1,35 @@
+{
+  "id": "sub-mission-on-breed-developme-3064",
+  "name": "Sub-mission on Breed Development of Livestock and Poultry",
+  "slug": "sub-mission-on-breed-development-of-livestock-and-poultry",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 2500000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Capital Subsidy Provision One-time 50% capital subsidy offered for total project cost. Maximum subsidy capped at ₹25,00,000 per unit. Standard Subsidy Disbursement First installment released upfront through SIDBI to bank/financial institutions. Second installment released after project completion an",
+  "details": "Launched in the Financial Year 2014-15, the scheme \"National Livestock Mission\" by the Department of Animal Husbandry & Dairying, Ministry of Fisheries, Animal Husbandry and Dairying, aims towards employment generation, entrepreneurship development, increase in per animal productivity and thus targeting increased production of meat, goat milk, egg and wool under the umbrella scheme \"Development Programme\". The excess production will help in the export earnings after meeting the domestic demands.",
+  "eligibility_text": "The following are eligible to apply - Individuals Self Help Groups (SHGs) Farmer Producer Organizations (FPOs) Farmer Cooperatives (FCOs) Joint Liability Groups (JLGs) Section 8 Companies",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "address_proof",
+    "pan_card"
+  ],
+  "application_url": "Step 1: Visit the Official Website of \"National Livestock Mission\" and click \" Apply Here \". Step 2: The following methods of Logging In will be displayed: Login as Entrepreneur Login as Government / ",
+  "tags": [
+    "Rural",
+    "Poultry",
+    "Farming",
+    "Livestock"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Agriculture,Rural & Environment"
+}

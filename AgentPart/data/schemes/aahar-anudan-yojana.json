@@ -1,0 +1,37 @@
+{
+  "id": "aahar-anudan-yojana-0131",
+  "name": "Aahar Anudan Yojana",
+  "slug": "aahar-anudan-yojana",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "State",
+  "state": "Madhya Pradesh",
+  "benefit_amount": 1000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Financial Assistance of ₹1,000/- per month.",
+  "details": "The scheme \"Aahar Anudan Yojana\" by the Tribal Welfare and Scheduled Caste (SC) Department, Government of Madhya Pradesh, provides monthly assistance of ₹1,000 to students, girls, and women from backward tribes like Baiga, Bharia, and Saharia. The scheme aims to combat malnutrition among special tribal families in the state by ensuring access to nutritious food through financial assistance.",
+  "eligibility_text": "The applicant should be a native of Madhya Pradesh. The applicant should be a woman. The applicant should be from the Baiga, Bharia or Saharia tribe. The applicant or any member of the applicant's family should not be in government service. The applicant or any member of the applicant's family should not be an income tax payee.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "bank_passbook",
+    "ration_card"
+  ],
+  "application_url": "Registration Step 1: The applicant should visit the Madhya Pradesh Tribal Affairs & Scheduled Caste Welfare Automation System MPTAAS portal. ﻿ Step 2: Click on \"New Beneficiary Profile Registration .\"",
+  "tags": [
+    "Women",
+    "Food",
+    "Financial Assistance",
+    "Child Care",
+    "Meal",
+    "Nutrition"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

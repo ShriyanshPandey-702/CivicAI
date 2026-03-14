@@ -1,0 +1,31 @@
+{
+  "id": "saansad-adarsh-gram-yojana-2629",
+  "name": "Saansad Adarsh Gram Yojana",
+  "slug": "saansad-adarsh-gram-yojana",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Activities The elements of an Adarsh Gram would be contexted specific. However, it is still possible to broadly identify the essential activities. They would include: 1.  Personal Development 2.  Social Development 3.  Human Development 4.  Economic Development 5.  Environmental Development 6.  Soci",
+  "details": "Introduction Saansad Adarsh Gram Yojana (SAGY) was launched on 11th October 2014 with the aim to translate the comprehensive vision of Mahatma Gandhi about an ideal Indian village into reality, keeping in view the present context. Under SAGY, each Member of Parliament adopts a Gram Panchayat and guides its holistic progress giving importance to social development at par with infrastructure. The 'Adarsh Grams' are to become schools of local development and governance, inspiring other Gram Panchay",
+  "eligibility_text": "1.  The Gram Panchayat should be the basic unit. ﻿ 2.  The village should have a population of 3000-5000 in plain areas and 1000-3000 in hilly, tribal, and difficult areas. (In districts where this unit size is not available, Gram Panchayats approximating the desirable population size may be chosen.) ﻿ 3.  The MP would identify a suitable Gram Panchayat from the rural area of any district in the c",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 3000-5000 years",
+      "field": "age",
+      "min": 3000,
+      "max": 5000
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "The Member of Parliament (MP) would identify a suitable Gram Panchayat from the rural area of any district in the country, other than his/her own village or that of his/her spouse.",
+  "tags": [
+    "Rural Development"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

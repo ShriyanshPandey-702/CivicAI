@@ -1,0 +1,39 @@
+{
+  "id": "internship-programme-of-the-de-1524",
+  "name": "Internship Programme Of The Department Of Expenditure",
+  "slug": "internship-programme-of-the-department-of-expenditure",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 10000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Remuneration Token Remuneration @ ₹ 10,000/- per month per intern, payable on satisfactory completion of their internships and on submission of their Report / Paper. ﻿ Certificate of Internship Certificates will be issued to the interns on satisfactory completion of their internship and on submissio",
+  "details": "The Internship Programme of the Department of Expenditure aims to familiarize willing and eligible undergraduates pursuing five-year integrated courses and Graduates pursuing post-Graduation/ post-Graduates pursuing Research with the overall process of formulation of economic policies of the Government. The internship is neither a job nor any such assurance for a job in the Department of Expenditure. ﻿ Duration The duration of the internship will be from two to six months at different points in",
+  "eligibility_text": "Indian national pursuing postgraduation Research Courses in Economics/Finance/Management and in the 4th and 5th year of 5-year integrated Course in Law/any other professional course from Universities/Institutions of National and International repute are eligible to apply for the internship provided - Students pursuing post-graduate courses should have obtained a first-class Graduate degree. Resear",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 4-5 years",
+      "field": "age",
+      "min": 4,
+      "max": 5
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Interested and eligible students are to send their applications, along with their CVs in the enclosed proforma to - Section Officer (Admn-l), Department of Expenditure, Room No.264-B, North Block, New",
+  "tags": [
+    "Internship",
+    "Expenditure",
+    "Finance",
+    "Economics"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

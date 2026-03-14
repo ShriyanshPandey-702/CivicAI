@@ -1,0 +1,35 @@
+{
+  "id": "development-support-for-coffee-0696",
+  "name": "Development Support for Coffee in Traditional Areas: Water Augmentation",
+  "slug": "development-support-for-coffee-in-traditional-areas-water-augmentation",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 250000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Scale of Subsidy 40% of the unit cost, with a ceiling of ₹2,50,000 per beneficiary for all the components put together under the water augmentation scheme. ﻿ Additional Support for Scheduled Caste/Scheduled Tribe (SC/ST) Community Coffee growers belonging to the SC/ST community with a coffee holding",
+  "details": "The scheme \"Development Support for Coffee in Traditional Areas: Water Augmentation\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to improve the production and productivity of coffee plantations by encouraging water augmentation in traditional areas.",
+  "eligibility_text": "This subsidy is available to individual growers, joint owners, or family members applying jointly (limited to mother, father, wife, and children). Eligible applicants can possess coffee holdings of up to 10 hectares. ﻿ Subsidy Applicability The subsidy is applicable for two primary purposes: (a) Water harvesting structures like water storage tanks, open wells, or ring wells. (b) Procurement of irr",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 10-10 years",
+      "field": "age",
+      "min": 10,
+      "max": 10
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert"
+  ],
+  "application_url": "For obtaining Feasibility Report Step 1: Visit the Official Website/Portal of Coffee Board. Step 2: In the top ribbon, click on \"Online Services\", then click \" Subsidy \". You will be taken to the Onli",
+  "tags": [
+    "Coffee",
+    "Farmer",
+    "Water",
+    "Subsidy",
+    "DBT"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "aicte-e-shodh-sindhu-scheme-es-0110",
+  "name": "AICTE e-Shodh Sindhu Scheme (eSS)",
+  "slug": "aicte-e-shodh-sindhu-scheme-ess",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Benefits: Subscriptions of e-Resources like Web of Science, Scopus, ASME, ASCE and Bentham Science to institutions. ﻿ Duration of Subscriptions: Initially for one calendar year, renewable for further year on the basis of usage by institute and fulfilments of other essential eligibility criteria.",
+  "details": "Launched by the All India Council for Technical Education, AICTE e-Shodh Sindhu Scheme (eSS) provides  subscriptions of e-Resources like Web of Science, Scopus, The American Society of Mechanical Engineers (ASME), American Society of Civil Engineers (ASCE) and Bentham Science to institutions. Objective: Facilitating access to e-Resource to the students, faculty and researchers, a new to augment the culture of research in the institution and overall quality of technical education.",
+  "eligibility_text": "AICTE approved Government/ Government-aided institutes. The institute must have a digital library network having internet bandwidth (32 Mbps) and Wi-Fi connectivity with one or more static IP address. The proposed coordinator must be full-time regular faculty with at least 10 year of experience in teaching and research with publications to his/her credit. The institute should also identify a co-co",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Download the Application form for E-Shodh Sindhu Scheme. Fill in the required information. Verify that every page of the application form has signature and stamp of the Institute’s Head. Attach all th",
+  "tags": [
+    "Subscriptions Of E-Resources",
+    "Web Of Science",
+    "Scopus",
+    "ASME",
+    "ASCE",
+    "Bentham Science"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

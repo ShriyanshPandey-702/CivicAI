@@ -1,0 +1,40 @@
+{
+  "id": "national-award-for-senior-citi-2123",
+  "name": "National Award For Senior Citizens (vayoshreshtha Samman): Best Institution For Research In The Field Of Ageing",
+  "slug": "national-award-for-senior-citizens-vayoshreshtha-samman-best-institution-for-res",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Decoration The Awardee is given a Citation, Memento, and a Cash award of ₹ 5,00,000/-. ﻿ Presentation of Award (Ceremony Details) The Award shall be presented in New Delhi at a special ceremony/function to be held on the occasion of the International Day of Older Persons on the 1st of October every",
+  "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the \"National Award for Senior Citizens (Vayoshreshtha Samman)\" to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon’ble President of India at Vigyan Bhawan, New Delhi. The \"Vayoshreshtha Samman: Best Institu",
+  "eligibility_text": "For the Nominee A.  The award shall be given to the institutions which are generating and spreading knowledge In the field of ageing. B.  To claim the award the following requirements shall be fulfilled, namely: The Institution or Organisation should be a registered body and should have a minimum of five years of experience in the field of ageing and related issues. The institution should have rem",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1-2 years",
+      "field": "age",
+      "min": 1,
+      "max": 2
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Registration Step 1: The agencies or persons, authorized to nominate and recommend eligible institutions or individuals, should visit the National Awards Portal . On the top right of the homepage, cli",
+  "tags": [
+    "Institution",
+    "Award",
+    "Social Welfare",
+    "Senior Citizen",
+    "Research"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

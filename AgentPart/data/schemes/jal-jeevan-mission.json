@@ -1,0 +1,26 @@
+{
+  "id": "jal-jeevan-mission-1571",
+  "name": "Jal Jeevan Mission",
+  "slug": "jal-jeevan-mission",
+  "ministry": "",
+  "category": "science",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Functional household tap connection(FHTC) to households, Schools, Anganwadi centres, GP buildings, Health centres, wellness centres and community buildings. (Priority in quality affected areas, villages in drought prone and desert areas) ﻿ The scheme shall provide FHTC in every household with three",
+  "details": "The programme will also implement source sustainability measures as mandatory elements, such as recharge and reuse through grey water management, water conservation, rainwater harvesting. ﻿ The Jal Jeevan Mission will be based on a community approach to water and will include extensive Information, Education and communication as a key component of the mission. ﻿ Objectives: The broad objectives of the Mission are to provide FHTC to every rural household, schools, anganwadi centres, GP buildings,",
+  "eligibility_text": "This scheme is applicable to all households in rural India.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "ration_card"
+  ],
+  "application_url": "The applicant need not apply for the scheme. ﻿ State Governments/ UT Administration will implement the mission based on the finalized SAP with timelines to cover all the villages of the respective Sta",
+  "tags": [
+    "Rural Household",
+    "Water Supply",
+    "Household Tap"
+  ],
+  "scheme_category_raw": "Utility & Sanitation"
+}

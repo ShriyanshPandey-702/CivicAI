@@ -1,0 +1,46 @@
+{
+  "id": "women-in-science-and-engineeri-3363",
+  "name": "Women In Science and Engineering-Societal Challenges with Opportunities Fellowship",
+  "slug": "women-in-science-and-engineering-societal-challenges-with-opportunities-fellowsh",
+  "ministry": "",
+  "category": "women",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 200000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Under this Program, a fellowship amount of ₹55,000/- and HRA (as per norms) per month will be given to the eligible candidates. The selected fellow will also be eligible for a Research Grant of ₹2.00 Lakhs per year, a Field Demonstration, etc. of ₹1.00 Lakh (for project tenure), and the cost of smal",
+  "details": "The “Women In Science and Engineering-Societal Challenges with Opportunities (WISE-SCOPE) Fellowship” Program was started by the Department of Science & Technology, Government of India to provide opportunities to Women Scientists and Technologists who have completed Ph.D. and want to utilize their Science & Technology knowledge and expertise for the benefit of society. This program promotes projects that directly deal with challenges at the grassroots level and address them through Science & Tec",
+  "eligibility_text": "Employment: Candidates in regular employment are not eligible for WISE-SCOPE. Note 01: The women scientists who are temporarily employed in research or academics may apply to this program but they have to leave earlier assignments, if, selected for the WISE-SCOPE program. Note 02: The position of the applicant in any project, as Post-Doctoral Fellow, Research Associate, etc. will be considered a t",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 27-60 years",
+      "field": "age",
+      "min": 27,
+      "max": 60
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 01: The call is open for proposal submission under WISE-SCOPE at ePMS ( https://onlinedst.gov.in ). Step 02: The proposal format is available at https://dst.gov.in , https://onlinedst.gov.in . St",
+  "tags": [
+    "WISE",
+    "SCOPE",
+    "Fellowship",
+    "Woman",
+    "Research",
+    "Scientist"
+  ],
+  "scheme_category_raw": "Science, IT & Communications, Women and Child"
+}

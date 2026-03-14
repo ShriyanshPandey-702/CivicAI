@@ -1,0 +1,38 @@
+{
+  "id": "womens-instinct-for-developing-3369",
+  "name": "Women’s Instinct for Developing and Ushering in Scientific Heights & Innovation",
+  "slug": "womens-instinct-for-developing-and-ushering-in-scientific-heights-innovation",
+  "ministry": "",
+  "category": "women",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Category A: 1.\tThe Programme provides fellowship to the Principal Investigator @₹75,000/- per month, One Research Assistant, Research Grant of ₹5.0 Lakh per year and Institutional overhead charges @₹1.00 lakh per annum. Category B: 1.\tThe Programme provides fellowship to the Principal Investigator @",
+  "details": "A new programme “Women's Instinct for Developing and Ushering in Scientific Heights & Innovations (WIDUSHI)” is started by the Department of Science and Technology (DST) under its umbrella scheme “Women in Science and Engineering-KIRAN (WISE-KIRAN)” for senior women scientists to harness their knowledge and potential for the betterment of Science and Society. WIDUSHI programme aims to encourage and support senior women scientists to conduct research in interdisciplinary areas of Science and Tech",
+  "eligibility_text": "Category A: The following are the primary eligibility criteria- Employment: Women Scientists who are permanent employees but retiring in a year or already retired/superannuated from government academic/research institutions. Age: 57-62 years Qualification: Women Scientists having Ph.D. in Basic/Applied Sciences or equivalent degree. Research Experience: Minimum 2 R&D projects as Principal Investig",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 57-62 years",
+      "field": "age",
+      "min": 57,
+      "max": 62
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "birth_cert",
+    "pan_card"
+  ],
+  "application_url": "Registration Process: Step 01: The proposal submission is open throughout the year. Step 02: The proposal format is available at https://dst.gov.in /, https://onlinedst.gov.in/ and https://online-wosa",
+  "tags": [
+    "WIDUSHI",
+    "Woman",
+    "KIRAN",
+    "Scientist",
+    "Retired",
+    "Fellowship",
+    "Research"
+  ],
+  "scheme_category_raw": "Women and Child, Science, IT & Communications"
+}

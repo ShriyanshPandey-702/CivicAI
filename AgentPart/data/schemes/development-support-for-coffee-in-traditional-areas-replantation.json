@@ -1,0 +1,40 @@
+{
+  "id": "development-support-for-coffee-0694",
+  "name": "Development Support for Coffee in Traditional Areas: Replantation",
+  "slug": "development-support-for-coffee-in-traditional-areas-replantation",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 275000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Unit Cost for Arabica: ₹ 2,75,000/- per ha Unit Cost for Robusta: ₹ 2,00,000/- per ha. Scale of Subsidy: 40% of the unit cost ﻿ Coffee growers belonging to the SC/ST community with a coffee holding size of up to 4.00 Ha are eligible for additional support of 10% of the unit cost. ﻿ Release of Subsid",
+  "details": "The scheme \"Development Support for Coffee in Traditional Areas: Replantation\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to improve the production and productivity of coffee plantations by encouraging replantation of old/senile and unproductive plantations with high-yieldin",
+  "eligibility_text": "Only Small growers with coffee holding sizes of up to 10 Ha. are eligible. Applicable for replantation of existing old/senile and low-productive Arabica and Robusta coffee plantations; aged 25 years in the case of Arabica, 40 years in the case of Robusta and 15 years in the case of Arabica dwarfs by adopting either clean replanting or interlining in the existing blocks. In the case of inter-planti",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 25-15 years",
+      "field": "age",
+      "min": 25,
+      "max": 15
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert"
+  ],
+  "application_url": "Procedure for Claiming Subsidy ﻿ Step 1: Obtaining Technical Feasibility Report (TFR) The applicant/s shall submit the application online and also in the prescribed format along with necessary documen",
+  "tags": [
+    "Coffee",
+    "Agriculture",
+    "Farmer",
+    "Plantation",
+    "Subsidy"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

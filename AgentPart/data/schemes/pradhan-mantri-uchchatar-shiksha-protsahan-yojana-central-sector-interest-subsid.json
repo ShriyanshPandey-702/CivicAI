@@ -1,0 +1,43 @@
+{
+  "id": "pradhan-mantri-uchchatar-shiks-2435",
+  "name": "Pradhan Mantri Uchchatar Shiksha Protsahan Yojana: Central Sector Interest Subsidy Scheme",
+  "slug": "pradhan-mantri-uchchatar-shiksha-protsahan-yojana-central-sector-interest-subsid",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Under the scheme, interest subsidy on education loans is provided for a maximum amount of ₹10 lakhs (Even sanctioned loan amount in excess of ₹10 lakhs would qualify for interest subsidy up to ₹10 lakhs only). In the scheme, no collateral security or third-party guarantee is required for Education L",
+  "details": "The “Pradhan Mantri Uchchatar Shiksha Protsahan Yojana: Central Sector Interest Subsidy Scheme” was launched by the Ministry of Education (Erstwhile Ministry of Human Resource Development), Government of India in the year 2009. The scheme provides full interest subsidy during the moratorium period on loans availed under the Model Education Loan Scheme of the Indian Banks’ Association (IBA) to students belonging to economically weaker sections whose annual parental income is up to ₹4.5 Lakhs from",
+  "eligibility_text": "Education Loans taken under the IBA Model Education Loan Scheme. The benefit of the Scheme is applicable to students belonging to economically weaker sections having gross parental/ family income up to ₹4.5 lakhs per annum from all sources. Students enrolled in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutio",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹400,000",
+      "field": "income",
+      "max": 400000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "pan_card"
+  ],
+  "application_url": "To apply under the scheme, the eligible student has to visit the nearest Bank branch office from where he/she has availed the facility of Education Loan for studying from a recognized institute in Ind",
+  "tags": [
+    "Interest Subsidy",
+    "Student",
+    "Economically Weaker Sections",
+    "Education Loan",
+    "IBA",
+    "Professional Programmes",
+    "Technical Programmes"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance, Education & Learning"
+}

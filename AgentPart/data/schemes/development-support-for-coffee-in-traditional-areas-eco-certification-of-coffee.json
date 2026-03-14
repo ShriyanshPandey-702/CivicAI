@@ -1,0 +1,33 @@
+{
+  "id": "development-support-for-coffee-0693",
+  "name": "Development Support for Coffee in Traditional Areas: Eco-certification of Coffee",
+  "slug": "development-support-for-coffee-in-traditional-areas-eco-certification-of-coffee",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Extent of Support/ Subsidy Certification Support: 50% of the certification cost, subject to a maximum of ₹50,000 (Rupees 50,000) per individual grower/grower groups. In the case of Organic certification, spread over a period of 3 years or the conversion period, whichever is less; in the case of othe",
+  "details": "The scheme \"Development Support for Coffee in Traditional Areas: Eco-certification of Coffee\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to encourage coffee growers to access high-value specialty markets through production of eco-certified coffees so as to realize higher ret",
+  "eligibility_text": "Individual Growers: Individual growers owning up to 10 hectares of coffee holding and groups of small growers (SHGs, collectives) who obtain certification of their plantations for various sustainability and quality standards are eligible. Subsidy Limit: A grower who has availed subsidy under one activity/component is not eligible to avail subsidy for the same activity/component during the Mission",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Procedure for Claiming Subsidy Step 1: Application Submission: After obtaining certification from an accredited certification body/agency, the grower/grower groups must submit their application along ",
+  "tags": [
+    "Coffee",
+    "Farmer",
+    "Agriculture",
+    "Subsidy",
+    "DBT"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

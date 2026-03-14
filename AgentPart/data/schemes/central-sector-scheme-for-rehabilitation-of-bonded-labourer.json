@@ -1,0 +1,28 @@
+{
+  "id": "central-sector-scheme-for-reha-0497",
+  "name": "Central Sector Scheme for Rehabilitation of Bonded Labourer",
+  "slug": "central-sector-scheme-for-rehabilitation-of-bonded-labourer",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 10000000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "For Adult Male Beneficiaries The rehabilitation assistance shall be ₹1,00,000 (One Lakh Rupees) per adult male beneficiary. Beneficiaries have the option to deposit the assistance in an annuity scheme or receive it as a cash grant. The District Administration will assess the cash requirement of the",
+  "details": "The Central Sector Scheme for Rehabilitation of Bonded Labourer-2021, effective from January 27, 2022, is a crucial initiative led by the Ministry of Labour & Employment, Government of India that addresses eradicating bonded labour in India. It introduces varying rehabilitation assistance amounts based on beneficiary categories, such as adults, children, women, and extreme cases, with provisions for annuity schemes and Direct Benefit Transfer. The scheme also facilitates surveys, awareness progr",
+  "eligibility_text": "The beneficiary should be a rescued bonded labour.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 1: Submission of Proposal The District Magistrate/Administration forwards the proposal for financial support to the relevant State Ministry/Department dealing with the Bonded Labour Rehabilitatio",
+  "tags": [
+    "Rehabilitation",
+    "Labour",
+    "DBT",
+    "Trafficking",
+    "Social Justice"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

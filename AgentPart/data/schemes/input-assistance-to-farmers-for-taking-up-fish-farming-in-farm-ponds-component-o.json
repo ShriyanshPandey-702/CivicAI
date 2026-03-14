@@ -1,0 +1,41 @@
+{
+  "id": "input-assistance-to-farmers-fo-0066",
+  "name": "\"Input Assistance to Farmers for Taking up Fish Farming in Farm Ponds\" Component of the \"Mukhyamantri Maschyajibi Kalyan Yojana\" Scheme",
+  "slug": "input-assistance-to-farmers-for-taking-up-fish-farming-in-farm-ponds-component-o",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "State",
+  "state": "Uttar Pradesh",
+  "benefit_amount": 400000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "One-day training and awareness programme will be conducted by the District Fisheries Officers for skill up-gradation of the beneficiaries. ﻿ Type of Farm Pond with Unit Cost and Pattern of Assistance The input assistance towards pisciculture on the unit cost of ₹4,00,000/- hectare shall be given to",
+  "details": "The \"Input Assistance to Farmers for Taking up Fish Farming in Farm Ponds\" Component of the \"Mukhyamantri Maschyajibi Kalyan Yojana\" Scheme was launched by the Fisheries & Animal Resources Development Department, Government of Odisha. The objective of this scheme is to increase the inland fish production, and to enhance the income of farmers in the State though aquaculture. Input assistance is provided to the farmers who have excavated farm ponds under MGNREGA for facilitating the production of",
+  "eligibility_text": "The applicant should be a resident of Odisha. The applicant must have a bank account in his/her name in Odisha. The farm pond should have been excavated by the applicant. The farm pond should have been excavated under the various Government schemes including Watershed Development Projects & MGNREGA through the Directorate of Soil Conservation & Watershed Development. The farm pond should have a mi",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    },
+    {
+      "criterion": "Must be a resident of Odisha",
+      "field": "state",
+      "value": "Odisha"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "bank_passbook"
+  ],
+  "application_url": "Step 1: The applicant should take print of the prescribed format of the application form. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed",
+  "tags": [
+    "Farmer",
+    "Fisheries",
+    "Seed",
+    "Subsidy",
+    "Fertilizer",
+    "Pond"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

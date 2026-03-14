@@ -1,0 +1,37 @@
+{
+  "id": "annual-insurance-premium-for-b-0032",
+  "name": "\"Annual Insurance Premium for Boat Owners\" under \"Financial Assistance for Availing Subsidy Components for the Development of Marine Fisheries\"",
+  "slug": "annual-insurance-premium-for-boat-owners-under-financial-assistance-for-availing",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "State",
+  "state": "",
+  "benefit_amount": 20000,
+  "benefit_frequency": "annual",
+  "benefit_description": "50% subsidy subject to a maximum of ₹ 20,000 per boat on annual insurance premium. The rate of subsidy/maximum limit may be revised by the Government from time to time.",
+  "details": "The scheme \"Annual Insurance Premium for Boat Owners\" is a Sub-Component under the Umbrella Scheme \"Financial Assistance for Availing Subsidy Components for the Development of Marine Fisheries\" by the Department of Fisheries and Fishermen Welfare, Government of Puducherry. The scheme is introduced with the objective to increase marine fish production by extending subsidies for the procurement of annual premiums for insurance coverage paid by the registered mechanized boat operators. ﻿ ﻿",
+  "eligibility_text": "The applicant should either belong to the fishermen community or be one of those professionally engaged in fishing/fish trade occupation on a full-time basis/prospective entrepreneurs. The applicant must have resided in the Union territory of Puducherry for a continuous period of not less than five years at the time of applying for extending subsidies/ grants. The applicant must have been enrolled",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 23-60 years",
+      "field": "age",
+      "min": 23,
+      "max": 60
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof",
+    "ration_card",
+    "birth_cert"
+  ],
+  "application_url": "Step 1: The interested applicant should visit the Office/ Sub-Office of the Department of Fisheries and Fishermen Welfare. Step 1: The interested applicant should request the hard copy of the prescrib",
+  "tags": [
+    "Insurance",
+    "Boat",
+    "Marine",
+    "Fisheries",
+    "Fisherman"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment, Banking,Financial Services and Insurance"
+}

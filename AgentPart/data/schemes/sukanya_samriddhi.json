@@ -1,0 +1,34 @@
+{
+  "name": "Sukanya Samriddhi Yojana",
+  "category": "social_welfare",
+  "description": "Small savings scheme for the girl child under Beti Bachao Beti Padhao campaign",
+  "eligibility_rules": {
+    "max_income": null,
+    "min_age": 0,
+    "max_age": null,
+    "caste": ["all"],
+    "states": ["all"],
+    "occupation": ["all"],
+    "requires_land": false,
+    "min_land_acres": 0,
+    "additional_rules": [
+      "Must be parents or legal guardians of a girl child",
+      "Girl child must be below 10 years of age"
+    ]
+  },
+  "required_docs": [
+    "aadhaar",
+    "birth_cert",
+    "address_proof"
+  ],
+  "benefit_amount": 72000,
+  "benefit_description": "High-interest savings (currently ~8.2% p.a.) up to ₹72,000/year deposit, earmarked for girl child's education and marriage",
+  "portal_url": "https://www.indiapost.gov.in",
+  "deep_eligibility_questions": [
+    {
+      "field": "has_girl_child_under_10",
+      "question": "Do you have a daughter who is currently under 10 years of age?",
+      "type": "yes_no"
+    }
+  ]
+}

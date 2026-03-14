@@ -1,0 +1,32 @@
+{
+  "id": "scheme-for-supportive-money-to-2794",
+  "name": "Scheme for Supportive Money to the Parents of Transgender Children",
+  "slug": "scheme-for-supportive-money-to-the-parents-of-transgender-children",
+  "ministry": "",
+  "category": "women",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Financial assistance of ₹1,000/- per transgender parent per child per month.",
+  "details": "The \"Scheme for Supportive Money to the Parents of Transgender Children\" was launched by the Ministry of Social Justice and Empowerment. The scheme aims to support 5,000 beneficiaries annually, with the potential for higher numbers based on State/UT identification. Transgender persons face stigma and discrimination in almost every sphere of their life including within the group, health facilities, education, employment, etc. Awareness and information are needed among parents to support their gen",
+  "eligibility_text": "The Parents must certify on an affidavit that they have a child exhibiting gender non-conforming behavior. The child's age should be less than 18 years. ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be 18 years or older",
+      "field": "age",
+      "min": 18
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 1: The parents/guardians should visit (during office hours) the State Government or UT Administration office. and request a hard copy of the prescribed format of the application form from the sta",
+  "tags": [
+    "Financial Assistance",
+    "Transgender",
+    "Child"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment, Women and Child"
+}

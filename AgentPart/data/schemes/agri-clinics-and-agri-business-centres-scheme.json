@@ -1,0 +1,42 @@
+{
+  "id": "agri-clinics-and-agri-business-0201",
+  "name": "Agri-Clinics And Agri-Business Centres Scheme",
+  "slug": "agri-clinics-and-agri-business-centres-scheme",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Agri-Clinics - Agri-Clinics are envisaged to provide expert advice and services to farmers on various aspects to enhance the productivity of crops/animals and increase the incomes of farmers. Agri-Clinics provide support in the following areas: Soil health Cropping practices Plant protection Crop in",
+  "details": "A welfare scheme by the Ministry of Agriculture and Farmers' Welfare was launched in 2002. AC&ABC aims at agricultural development by supplementing the efforts of public extension by providing extension and other services to farmers either on a payment basis or free of cost as per the business model of agri-preneur, local needs, and affordability of the target group of farmers. AC&ABC creates gainful self-employment opportunities for unemployed agricultural graduates, agricultural diploma holder",
+  "eligibility_text": "The age of the applicant must be between 18 and 60 years. The applicant must qualify as one of the following - Graduates in agriculture and allied subjects from SAUs/ Central Agricultural Universities/ Universities recognized by ICAR/ UGC. Degree in Agriculture and allied subjects offered by other agencies are also considered subject to the approval of the Department of Agriculture & Cooperation,",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-60 years",
+      "field": "age",
+      "min": 18,
+      "max": 60
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "ration_card"
+  ],
+  "application_url": "Step 1: Visit on the Official Website  ﻿ ﻿ Step 2: Fill in the mandatory fields correctly. Upload the required documents in the said format and size. Step 3: Click \"Submit\" to complete the application",
+  "tags": [
+    "Business",
+    "Entrepreneur",
+    "Student",
+    "Training",
+    "Agriculture",
+    "Employment"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment, Business & Entrepreneurship, Skills & Employment"
+}

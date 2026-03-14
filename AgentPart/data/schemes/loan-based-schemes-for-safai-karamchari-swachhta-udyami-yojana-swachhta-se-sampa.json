@@ -1,0 +1,43 @@
+{
+  "id": "loan-based-schemes-for-safai-k-1735",
+  "name": "Loan Based Schemes For Safai Karamchari - Swachhta Udyami Yojana – Swachhta Se Sampannta Ki Aur",
+  "slug": "loan-based-schemes-for-safai-karamchari-swachhta-udyami-yojana-swachhta-se-sampa",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50,
+  "benefit_frequency": "annual",
+  "benefit_description": "Term loan with a maximum unit cost of Rs.50.00 lacs at an interest rate of 4% , for any viable income-generating schemes including sanitation-related activities. A rebate of  1% per annum on interest will be admissible to women beneficiaries. A rebate of 0.5% per annum will be extended for the benef",
+  "details": "A general term loan scheme by the Ministry of Social justice and Empowerment for Safai Karamchari, Manual Scavengers, and their dependants aged 18 years and above for procurement of sanitation-related vehicles. ﻿ Under this scheme, term loans are extended through State Channelising Agencies (SCA), Regional Rural Banks(RRBs), and Nationalised Banks to the target group. ﻿ Unit Cost Upto 5 Lacs Capital Subsidy: 50 % of the unit Cost ﻿ Unit Cost 5 to 10 Lacs Capital Subsidy: 2 Lacs + 25 % of the uni",
+  "eligibility_text": "The following person(s)/entities shall be considered eligible for availing of financial assistance under the various schemes of NSKFDC:- • Safai Karamcharis (including Wastepickers), identified Manual Scavengers and their dependents. Registered co-operative societies of the target group. Legally constituted association/firm promoted by the target group, and Persons, who produce a certificate from",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 2013-2018 years",
+      "field": "age",
+      "min": 2013,
+      "max": 2018
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "address_proof",
+    "pan_card"
+  ],
+  "application_url": "Loan applications are submitted by the applicants to the district offices of SCAs of NSKFDC of RRBs and Nationalised Banks. These applications are then sent to the head offices where the project propo",
+  "tags": [
+    "Entrepreneurship",
+    "Loan",
+    "Financial Assistance",
+    "Credit",
+    "Sanitation",
+    "Manual Scavengers",
+    "Waste Pickers",
+    "Safai Karamcharis"
+  ],
+  "scheme_category_raw": "Utility & Sanitation, Business & Entrepreneurship, Banking,Financial Services and Insurance, Social "
+}

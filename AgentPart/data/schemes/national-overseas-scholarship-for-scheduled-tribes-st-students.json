@@ -1,0 +1,43 @@
+{
+  "id": "national-overseas-scholarship--2175",
+  "name": "National Overseas Scholarship For Scheduled Tribes (ST) Students",
+  "slug": "national-overseas-scholarship-for-scheduled-tribes-st-students",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "﻿ Sl. No. Scholarship Component Details 1. Annual Maintenance Allowance The Annual maintenance allowance in USD15,400 ($ Fifteen thousand four hundred only) in US/ Pound sterling 9,900 (£ Nine thousand nine hundred only) in United Kingdom for all level courses. For other countries, the USD or equiva",
+  "details": "A scholarship scheme by the Ministry of Tribal Affairs for regular, full-time students from Scheduled Tribes, to obtain higher education (post-graduate courses viz. Masters, Ph.D. and Post-Doctoral Research) from foreign institutes/universities. The Scheme is implemented through the Indian Embassies/Missions abroad, Ministry of External Affairs. 30% of the scholarship awards are earmarked for female candidates. Bachelor-level courses in any discipline are not covered under the scheme. Financial",
+  "eligibility_text": "The applicant must be from a Scheduled Tribe (ST). The applicant must be pursuing a post-graduate course (Master, Ph.D., or Post-Doctoral Research) from a foreign institute/university. The annual income of the family of the applicant (from all sources) should not be greater than ₹ 6,00,000/-. The applicant must have secured at least 55% marks or equivalent grade in the qualifying examination (In t",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1-6 years",
+      "field": "age",
+      "min": 1,
+      "max": 6
+    },
+    {
+      "criterion": "Annual income below ₹600,000",
+      "field": "income",
+      "max": 600000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "income_cert"
+  ],
+  "application_url": "A. Registration Process on Digilocker portal (Only for those candidates who doesn’t have their Digilocker Account):- The applicant need to visit: https://www.digilocker.gov.in/signup ﻿ ﻿ ﻿ Enter your ",
+  "tags": [
+    "Higher Education",
+    "Scholarship Scheme",
+    "Overseas",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

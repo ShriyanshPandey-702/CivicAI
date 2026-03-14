@@ -1,0 +1,35 @@
+{
+  "id": "testing-fee-reimbursement-sche-3168",
+  "name": "Testing Fee Reimbursement Scheme",
+  "slug": "testing-fee-reimbursement-scheme",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 100000,
+  "benefit_frequency": "annual",
+  "benefit_description": "SC-ST MSEs can receive reimbursement of 80% or ₹1,00,000/- (excluding GST and other applicable taxes), whichever is lower, for testing fees paid to NABL or BIS accredited laboratories, labs of government departments/PSUs, and for BIS licenses/certifications. The scheme covers testing of raw material",
+  "details": "Testing Fee Reimbursement Scheme for Scheduled Caste / Scheduled Tribe is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme. This component has provision for reimbursement on testing fee charged by various National Accreditation Board for Testing(NABL) or Bureau of Indian Standards(BIS) accredited laboratories across the country to SC-ST MSEs. ﻿ This is a financial assistance program offered to micro and small enterprises (MSEs) owned by Scheduled Castes (SCs) and",
+  "eligibility_text": "Applicant should have a micro or small scale industry. Applicant should belong to Scheduled Caste (SC) or Scheduled Tribe (ST). The enterprise must be registered with the Udyam portal or any other valid registration platform recognized by the MSME Ministry.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "caste_cert",
+    "pan_card"
+  ],
+  "application_url": "Applicant need to visit the official website https://www.scsthub.in . For registration click on sign-up and provide the following details Full Name Valid Email ID Mobile Number Password and confirm pa",
+  "tags": [
+    "Business",
+    "Enterpremeurship"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "smile-comprehensive-rehabilita-2626",
+  "name": "SMILE - Comprehensive Rehabilitation For Welfare Of Transgender Persons – Skill Development And Training",
+  "slug": "smile-comprehensive-rehabilitation-for-welfare-of-transgender-persons-skill-deve",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Free of cost training is provided to trainees. Stipend at Rs. 1000 per month per trainee in case of Non-residential training Post placement assistance is also provided to the transgender candidate based on achievement of 80% attendance in the skill training programme. Trainees shall also be provided",
+  "details": "A scheme for Transgender Persons to provide employment opportunities to the person belonging to transgender person community by providing them market-oriented skills. ﻿ Objectives ﻿ The main purpose is to provide employment opportunities to the person belonging to transgender person community by providing them market-oriented skills. Areas for imparting skill training have been chosen after careful consideration by the training partners and also based on the national consultations done with the",
+  "eligibility_text": "The Transgender persons will be selected as per criteria indicated below:- ﻿ Transgender persons having a valid Transgender certificate & Identity card issued by the National portal for Transgender persons would be automatically eligible to attend the skill development training of their choice on priority. The beneficiaries should belong to the Transgender community as notified by the Government o",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-45 years",
+      "field": "age",
+      "min": 18,
+      "max": 45
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Applicants can login on the National Portal for Transgender Persons ( https://transgender.dosje.gov.in/Applicant/Login/Index )using the login credential used to get the Transgender Certificate & Ident",
+  "tags": [
+    "Transgender",
+    "Skill Developemnt",
+    "Training"
+  ],
+  "scheme_category_raw": "Skills & Employment, Social welfare & Empowerment"
+}

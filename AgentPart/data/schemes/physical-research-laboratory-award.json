@@ -1,0 +1,26 @@
+{
+  "id": "physical-research-laboratory-a-2360",
+  "name": "Physical Research Laboratory Award",
+  "slug": "physical-research-laboratory-award",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Cash Prize of ₹50,000/- and Medal",
+  "details": "The PRL Award, instituted by the late Prof. Devendra Lal, former Director of the Physical Research Laboratory (PRL), is awarded biennially to recognize outstanding Indian scientists for original work in Earth and Planetary systems, including areas like Oceanography, Atmospheric Sciences, and Meteorology. The award consists of a cash prize of ₹50,000 and a medal. ﻿ Discipline Areas: Earth and Planetary systems, including areas of oceanography, atmospheric sciences, and meteorology.",
+  "eligibility_text": "The applicant should be an Indian citizen. The applicant should be a scientist. The applicant's age below 45 years as of 1st January 2021 (born on or after 02.01.1976) The applicant's contribution to Earth and Planetary Systems, Oceanography, Atmospheric Sciences, or Meteorology. ﻿",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step-01: The applicant visits the PRL website and navigate to the \"Opportunities\" section. Step-02: Click on \"Awards Administered By PRL\" and select scheme \"PRL Award\" Step-03: The candidate downloads",
+  "tags": [
+    "Award",
+    "Scientist",
+    "Cash Prize"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

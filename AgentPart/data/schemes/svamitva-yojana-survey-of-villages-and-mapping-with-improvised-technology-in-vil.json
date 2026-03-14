@@ -1,0 +1,28 @@
+{
+  "id": "svamitva-yojana-survey-of-vill-2628",
+  "name": "SVAMITVA Yojana (Survey of Villages and Mapping with Improvised Technology in Village Areas)",
+  "slug": "svamitva-yojana-survey-of-villages-and-mapping-with-improvised-technology-in-vil",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Drone Digitally Maps All the Land Parcels of the Inhabited Area of the Village. Creation of Property Cards on the Exact Area of Each Property in the Village. Proprietary Rights to the Village Household Owner. Property as a Financial Asset for Taking Loans and Other Financial Benefits. Reduce Propert",
+  "details": "SVAMITVA, a Central Sector scheme of the Ministry of Panchayati Raj provides a ‘Record of Rights’ to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners by mapping land parcels using drone technology. Objectives Creation of accurate land records for rural planning and reducing property-related disputes. To bring financial stability to the citizens in rural India by enabling them to use their property as a financial asset for tak",
+  "eligibility_text": "The applicant should have a property in rural inhabited (Abadi) area.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Pre-Survey Activities Step 1: Permission is sought to conduct the survey, followed by organizing a Gram Sabha to inform villagers about the schedule, methodology, and benefits. Step 2: Identification,",
+  "tags": [
+    "Rural",
+    "Survey",
+    "Village",
+    "Drone",
+    "Property"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "scheme-for-financial-assistanc-2704",
+  "name": "Scheme For Financial Assistance For Veteran Artists",
+  "slug": "scheme-for-financial-assistance-for-veteran-artists",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 6000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Under the scheme, a total allowance of ₹6000/- per month will be given to an eligible beneficiary. In case of the death of a beneficiary getting an artist pension, the financial assistance may be transferred, at the discretion of the Central Government, in the name of the spouse of the beneficiary t",
+  "details": "The “Scheme for Financial Assistance for Veteran Artists”, earlier known as “Scheme for Pension and Medical Aid to Artists” was launched by the Ministry of Culture. The Scheme is meant for improving the financial and socio-economic status of the old artists and scholars who have contributed significantly in their specialized fields of arts, letters, etc. in their active age or are still contributing in the field of arts, letters, etc. but due to old age, they have to lead a miserable life or are",
+  "eligibility_text": "To be eligible for assistance under the Scheme, a person's contribution to art and letters, etc. must be of significance. Traditional scholars who have made significant contributions in their fields would also be eligible notwithstanding the absence of any published works. The personal income of the applicant (including the income of the spouse) must not exceed ₹4,000/- per month or an annual inco",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹4,000",
+      "field": "income",
+      "max": 4000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "address_proof",
+    "birth_cert",
+    "pan_card"
+  ],
+  "application_url": "Application Procedure: The application may be made online through using the Registration/login Page of \" Culture Scheme Monitoring System (CSMS) \" on the website of the Ministry of Culture under the h",
+  "tags": [
+    "Artists",
+    "Pension",
+    "Veteran",
+    "Culture",
+    "Senior Citizen",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Sports & Culture, Social welfare & Empowerment"
+}

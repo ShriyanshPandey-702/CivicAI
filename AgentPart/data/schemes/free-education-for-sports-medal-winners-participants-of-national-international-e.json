@@ -1,0 +1,31 @@
+{
+  "id": "free-education-for-sports-meda-1117",
+  "name": "Free Education For Sports Medal Winners / Participants Of National/ International Events",
+  "slug": "free-education-for-sports-medal-winners-participants-of-national-international-e",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 7500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Medals at Olympics, World Championship (more than 20 countries) Tuition Fee and Other Funds: Bachelor's degree: Actual; PG: Actual; Diploma: Actual; PG Degree: Actual; M. Phil: Rs. 7500/- per month + Actual; Ph.D.: As per with JRF scale (UGC); MBA or other professional courses (*): Rs. 7500/- per mo",
+  "details": "The scheme \"Free Education for Sports Medal Winners / Participants of National/ International Events\", introduced by the University Grants Commission, Ministry of Education, aims to assist medal-winning sportspersons pursuing higher education and motivate them to achieve excellence in sports and academics. Applicable to national medalists and international participants, it ensures their holistic development.",
+  "eligibility_text": "(i) The Scholarship will be provided to the Medal winners of National games and participants in recognized international sporting events recognized by the World University Service, International Olympic Committee, and Olympic Committee of Asia (OCA) who have taken admitted to the Universities/Colleges/Institutions as indicated below: Universities/Institutions/Colleges included under sections 2(f)",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 1: Download the prescribed application form (Refer Page No. 5 ). Step 2: Fill in the application form with accurate details. Step 3: Attach a certificate of participation or medal-winning as proo",
+  "tags": [
+    "Sports",
+    "Education"
+  ],
+  "scheme_category_raw": "Education & Learning, Sports & Culture"
+}

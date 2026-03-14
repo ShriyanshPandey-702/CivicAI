@@ -1,0 +1,33 @@
+{
+  "name": "Pradhan Mantri Fasal Bima Yojana",
+  "category": "agriculture",
+  "description": "Comprehensive crop insurance scheme against non-preventable natural risks",
+  "eligibility_rules": {
+    "max_income": null,
+    "min_age": 18,
+    "max_age": null,
+    "caste": ["general", "obc", "sc", "st", "ews"],
+    "states": ["all"],
+    "occupation": ["farmer", "sharecropper", "tenant_farmer"],
+    "requires_land": true,
+    "min_land_acres": 0.01,
+    "additional_rules": [
+      "Must be growing notified crops in notified areas"
+    ]
+  },
+  "required_docs": [
+    "aadhaar",
+    "land_record",
+    "bank_passbook"
+  ],
+  "benefit_amount": 0,
+  "benefit_description": "Insurance cover against crop loss; premium rate capped at 1.5% - 2%",
+  "portal_url": "https://pmfby.gov.in",
+  "deep_eligibility_questions": [
+    {
+      "field": "has_notified_crops",
+      "question": "Are you growing crops that are notified under the insurance scheme for your area?",
+      "type": "yes_no"
+    }
+  ]
+}

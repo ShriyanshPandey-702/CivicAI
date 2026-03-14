@@ -1,0 +1,44 @@
+{
+  "id": "loan-based-schemes-for-safai-k-1732",
+  "name": "Loan Based Schemes For Safai Karamchari - Education Loan Scheme (ELS)",
+  "slug": "loan-based-schemes-for-safai-karamchari-education-loan-scheme-els",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 10,
+  "benefit_frequency": "quarterly",
+  "benefit_description": "Educational Loan: Upto 90% of the unit cost with a maximum unit cost of Rs.10.00 lacs for study in India and Rs.20.00 lacs to  study abroad at interest rate of 4% 0.5% per annum rebate for women in case of study in India ﻿ Repayment period: 5 years after co-termination of course. However, the intere",
+  "details": "an Education Loan scheme by the Ministry of Social justice and Empowerment for Safai Karamchari, Manual Scavengers, and their dependents aged 18 years and above. ﻿ Under this scheme, term loans are extended through State Channelising Agencies (SCA), Regional Rural Banks(RRBs) and Nationalised Banks to the target group. ﻿ Educational Loan Upto 90% of the unit cost with a maximum unit cost of Rs.10.00 lacs for study in India and Rs.20.00 lacs to  study abroad  at interest rate of 4% 0.5% per annum",
+  "eligibility_text": "The following person(s)/entities shall be considered eligible for availing of financial assistance under the various schemes of NSKFDC:- Safai Karamcharis (including Wastepickers), identified Manual Scavengers and their dependents. Registered co-operative societies of the target group. Legally constituted association/firm promoted by the target group, and Persons, who produce a certificate from lo",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 2013-2018 years",
+      "field": "age",
+      "min": 2013,
+      "max": 2018
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook"
+  ],
+  "application_url": "Loan applications are submitted by the applicants to the district offices of SCAs of NSKFDC of RRBs and Nationalised Banks. These applications are then sent to the head offices where the project propo",
+  "tags": [
+    "Professional Course",
+    "Technical Course",
+    "Education Loan",
+    "Student",
+    "Manual Scavengers",
+    "Waste Pickers",
+    "Safai Karamcharis"
+  ],
+  "scheme_category_raw": "Education & Learning, Banking,Financial Services and Insurance, Social welfare & Empowerment"
+}

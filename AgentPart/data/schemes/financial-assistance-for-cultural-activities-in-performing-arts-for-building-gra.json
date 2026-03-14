@@ -1,0 +1,35 @@
+{
+  "id": "financial-assistance-for-cultu-0950",
+  "name": "Financial Assistance For Cultural Activities In Performing Arts For Building Grants Including Studio Theatres",
+  "slug": "financial-assistance-for-cultural-activities-in-performing-arts-for-building-gra",
+  "ministry": "",
+  "category": "sports",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 5000000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "1. Maximum assistance under the scheme will be as under: CITIES TYPE OF PROJECT LIMIT OF ASSISTANCE Bangalore, Chennai, Delhi, Hyderabad, Kolkata, Mumbai Projects involving new construction or the purchase of built-up space ₹50 lakhs Bangalore, Chennai, Delhi, Hyderabad, Kolkata, Mumbai All other pr",
+  "details": "The scheme “Financial Assistance for Cultural Activities in Performing Arts for Building Grants Including Studio Theatres” was launched by the Ministry of Culture, Government of India. The objective of the Scheme is to support voluntary cultural organizations and government-aided cultural organizations in their efforts to create appropriately equipped training, rehearsal, and performance spaces for artists. Sanction and Release of Grant: 1.\tOn approval of the project proposal, the Ministry will",
+  "eligibility_text": "Eligible Project: Grants will be given to projects for creating cultural spaces, which will include: 1.\tConventional Cultural Spaces for Performing Arts: Performance venues like Auditoria, Open-air Theatres, and Concert Halls. Rehearsal halls for Theatre/ Music/ Dance. Training Centres/ Schools for Theatre/ Music/ Dance etc. 2.\tFlexible Spaces, i.e., Studio Theatres, etc.: Non-proscenium rehearsal",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 100-200 years",
+      "field": "age",
+      "min": 100,
+      "max": 200
+    }
+  ],
+  "documents_required": [
+    "bank_passbook"
+  ],
+  "application_url": "Application Process: Step 01: Applications are invited from voluntary cultural organizations and government-aided cultural organizations for assistance under Financial Assistance for Cultural Activiti",
+  "tags": [
+    "Arts",
+    "Culture",
+    "Theatres",
+    "Studio",
+    "Financial Assistance",
+    "Grants"
+  ],
+  "scheme_category_raw": "Sports & Culture"
+}

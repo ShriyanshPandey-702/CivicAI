@@ -1,0 +1,43 @@
+{
+  "id": "kishore-vaigyanik-protsahan-yo-1674",
+  "name": "Kishore Vaigyanik Protsahan Yojana",
+  "slug": "kishore-vaigyanik-protsahan-yojana",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 5000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Scholarships and Awards: Under this scheme, scholarships and grants are provided to students, offering financial assistance for studies ranging from undergraduate programs (such as B.Sc., B.S., B.Stat., B.Math., Int. M.Sc., M.S.) to postgraduate programs (such as M.Sc. and M.S.). For school students",
+  "details": "The \"Kishore Vaigyanik Protsahan Yojana (KVPY)\" is a National Program of Fellowship in Basic Sciences which is initiated and funded by the Department of Science and Technology, Government of India, to attract exceptionally motivated students to pursue basic science courses and research careers in science. Under this scheme, students are encouraged in science research from school level to postgraduate level. Objective: Identify students with talent and aptitude for research. Help them realize the",
+  "eligibility_text": "Eligibility for Stream SA: The student should have passed the 10 th class with a minimum of 75% marks (65% for SC/ST/PwD). The student should be enrolled in the 12 th class with the science stream. Eligibility for Stream SX: The student should have passed the 12 th class with a minimum of 75% (65% for SC/ST/PwD). The student should be enrolled in higher education with science subject. Eligibility",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "caste_cert",
+    "bank_passbook"
+  ],
+  "application_url": "Registration Process: Step 1: Visit the official website: KVPY Official Website . Step 2: Fill in personal details such as name, date of birth, class details, stream, mobile number, email ID, and nati",
+  "tags": [
+    "Scientist",
+    "Student",
+    "Science",
+    "Fellowship",
+    "Research"
+  ],
+  "scheme_category_raw": "Education & Learning, Science, IT & Communications"
+}

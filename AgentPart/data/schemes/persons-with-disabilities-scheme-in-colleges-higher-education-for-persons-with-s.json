@@ -1,0 +1,39 @@
+{
+  "id": "persons-with-disabilities-sche-2355",
+  "name": "Persons With Disabilities Scheme In Colleges: Higher Education For Persons With Special Needs",
+  "slug": "persons-with-disabilities-scheme-in-colleges-higher-education-for-persons-with-s",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Provision of Facilities and Financial assistance  The HEPSN scheme has three components. They are enumerated as follows: Component 1: Establishment of Enabling Units for differently-abled Persons To develop awareness in the higher education system and also to provide necessary guidance and counselin",
+  "details": "The Higher Education for Persons with Special Needs (HEPSN) scheme is meant for creating an environment at higher education institutions to enrich the higher education learning experiences of differently-abled persons. Creating awareness about the capabilities of differently-abled persons, construction aimed at improving accessibility, purchase of equipment to enrich learning, etc., are the broad categories of assistance under this scheme. Specific Objectives of HEPSN  The specific objectives of",
+  "eligibility_text": "The college applying for a grant for any one of the components of the scheme should have enrolled disabled persons, including persons with visual impairment, hearing impairment, locomotor disability, etc., in various courses of the institute. The definitions of disability are in accordance with the Persons with Disabilities Act 1995 . Institutions applying for the scheme should have been approved",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "disability_cert"
+  ],
+  "application_url": "Application for specific projects should be sent in the prescribed Proforma For financial assistance under the scheme to assist for college to facilitate higher Education for Person (HEPSN) Scheme on ",
+  "tags": [
+    "Education",
+    "Persons With Disablities",
+    "Higher Education",
+    "Learning"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "national-scheme-of-welfare-of--2183",
+  "name": "National Scheme Of Welfare Of Fishermen",
+  "slug": "national-scheme-of-welfare-of-fishermen",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Here are the features and benefits that this government scheme for fishermen offers - ﻿ Housing Facility The National Scheme of Welfare of Fishermen offers fishermen facilities for constructing houses. There is no upper limit for building homes in a particular village as it entirely depends on the n",
+  "details": "The National Scheme of Welfare of Fishermen is a centrally sponsored scheme that provides financial assistance to fishermen. They can use these for constructing houses and community halls for both recreation and work purposes. Further, through the amount availed under this scheme, fishermen can install tube wells. ﻿ Objectives- ﻿ Provide fishermen with basic amenities such as housing, community halls, tube well for drinking water. Ensure Financial And Social Securities Of Fishermen And Their Fam",
+  "eligibility_text": "Eligibility Criteria for Inland Fishermen ﻿ Fishermen living in coastal areas and with whom the respective States and Union Territories have officially licensed are eligible for this scheme. The age of fishermen must be below 60 years old. Applicant fishermen must belong to the BPL (Below Poverty Line) category. They must be engaged in full-time activities inland. ﻿ Eligibility Criteria for Marine",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age 60 years or above",
+      "field": "age",
+      "min": 60
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "income_cert",
+    "ration_card"
+  ],
+  "application_url": "The respective States and Union Territories complete the implementation of the National Scheme of Welfare of Fishermen.  The working and fund allocation processes are as follows. ﻿ Step-1:  Eligible f",
+  "tags": [
+    "Fisheries",
+    "Financial Assistance",
+    "Social Welfare"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "E-Shram",
+  "category": "employment",
+  "description": "National Database of Unorganized Workers for targeted delivery of welfare schemes",
+  "eligibility_rules": {
+    "max_income": null,
+    "min_age": 16,
+    "max_age": 59,
+    "caste": ["all"],
+    "states": ["all"],
+    "occupation": ["farmer", "daily_wage", "self_employed", "unemployed"],
+    "requires_land": false,
+    "min_land_acres": 0,
+    "additional_rules": [
+      "Must be an unorganized worker",
+      "Should not be an EPFO/ESIC member",
+      "Should not be an income tax payer"
+    ]
+  },
+  "required_docs": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "benefit_amount": 200000,
+  "benefit_description": "Accidental insurance cover of ₹2 Lakhs under PMSBY and targeted welfare delivery",
+  "portal_url": "https://eshram.gov.in",
+  "deep_eligibility_questions": [
+    {
+      "field": "is_epfo_member",
+      "question": "Are you a member of EPFO (Provident Fund) or ESIC?",
+      "type": "yes_no"
+    }
+  ]
+}

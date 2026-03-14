@@ -1,0 +1,31 @@
+{
+  "id": "livestock-health-and-diseases--1729",
+  "name": "Livestock Health and Diseases Control",
+  "slug": "livestock-health-and-diseases-control",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Improved animal health and productivity : To protect livestock from diseases, which leads to improved animal health and productivity. Reduced economic losses: To reduce economic losses to farmers due to livestock diseases. Improved food security: To improve food security by ensuring a steady supply",
+  "details": "Objectives To implement Critical Animal disease control programme to eradicate PPR by 2030 by vaccinating all sheep and goats and to control Classical Swine Fever (CSF) by vaccinating the entire pig population To provide veterinary services at the farmers’ doorstep through Mobile Veterinary Units (MVUs) To assist States/UTs for Control of Animal Disease (ASCAD) by prevention & control of important livestock and poultry diseases prevalent in different States / UTs as per the State /UT’s prioritie",
+  "eligibility_text": "Beneficiary must be a bona fide farmer or livestock owner. Beneficiary must have a valid livestock ownership document. Beneficiary's livestock must be used for commercial purposes.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Contact local veterinary office or the Department of Animal Husbandry and Dairying in state. Get the application form. Fill out the application form with required details. Submit it to the concerned a",
+  "tags": [
+    "Animal Husbandry",
+    "Animal Health",
+    "Livestock Diseases"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

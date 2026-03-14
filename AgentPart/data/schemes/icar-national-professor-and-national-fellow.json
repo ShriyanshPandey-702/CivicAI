@@ -1,0 +1,34 @@
+{
+  "id": "icar-national-professor-and-na-1362",
+  "name": "ICAR National Professor And National Fellow",
+  "slug": "icar-national-professor-and-national-fellow",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 75000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "National Professorial Salary ﻿ The ICAR National Professor would be appointed with a monthly pay of Rs. 75,000/- (fixed) along with admissible allowances and as revised from time to time. ﻿ National Fellowship Salary Irrespective of the previous emoluments, the [CAR National Fellow would be appointe",
+  "details": "NATIONAL PROFESSORIAL To promote excellence by recognizing outstanding scientists with proven output and outcomes for creating a culture of basic research through their project work in the National Agricultural Research System (NARS). Establishing and nurturing a novel school of thought around the recognized person. ﻿ Number of Positions The total number of positions of ICAR National Professors would not exceed ten (10) at any given time. These will include one B.P. Pal Chair in Genetics and Pla",
+  "eligibility_text": "National Professor Indian nationals occupying positions of Professors/Principal Scientists or equivalent for at least 8 years and their age being not more than 60 years as on the specified date are eligible for nomination. Nominations from the sponsoring institutions would be invited in the prescribed format that will include a detailed research project proposal. The nomination should be supported",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 60-52 years",
+      "field": "age",
+      "min": 60,
+      "max": 52
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Steps For Submission Of Online Application Form on https://rlbs.icar.gov.in/ : Login at ﻿ using your Email/User-id & Password. To create User Id use \"Create New Account\" on home page. If you have forg",
+  "tags": [
+    "ICAR",
+    "National Professor",
+    "National Fellow",
+    "Agricultural"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

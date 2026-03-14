@@ -1,0 +1,43 @@
+{
+  "id": "credit-enhancement-guarantee-s-0638",
+  "name": "Credit Enhancement Guarantee Scheme For The Scheduled Castes",
+  "slug": "credit-enhancement-guarantee-scheme-for-the-scheduled-castes",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1500000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Amount of Guarantee Minimum Rs.0.15 crore and maximum Rs.5.00 crore. Individual SC Entrepreneur would be eligible for a guarantee cover of a loan amount of upto Rs. 1.00 crore. ﻿ Tenure of Guarantee Maximum 7 years or repayment period whichever is earlier. However, initially the loan shall be guaran",
+  "details": "To encourage and promote entrepreneurship among the Scheduled Castes who are oriented towards innovations and growth technologies by supporting the Bank and Financial Institutions [designated as Members Lending Institutions (MLIs) for the Scheme], in the form of Credit Enhancement Guarantee (minimum Rs.0.15 crore and maximum Rs.5.00 crore) against Working Capital Loans, Term Loans or Composite Terms Loans granted by (Money Lending Institutions) MLIs to SC entrepreneurs. ﻿ Objective of the Scheme",
+  "eligibility_text": "Enterprises, projects/units being set up, promoted and run by Scheduled castes in primary, manufacturing and services sector ensuring asset creation out of the funds deployed in the unit, under any State/Central Government Subsidy/Grant Scheme shall be considered; Registered Companies and Societies/Registered Partnership Firms/Sole Proprietorship firms/Individual SC Entrepreneur having more than 5",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 6-1 years",
+      "field": "age",
+      "min": 6,
+      "max": 1
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Enter the details of the Enterprise details and other mandatory fields Enter the details of the Borrower details and other mandatory fields. The applicant will fill Loan and Bank details and other man",
+  "tags": [
+    "Entrepreneur",
+    "Scheduled Caste",
+    "Companies",
+    "Societies"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Banking,Financial Services and Insurance, Social welfare & Empowerment"
+}

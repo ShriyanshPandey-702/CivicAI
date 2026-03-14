@@ -1,0 +1,34 @@
+{
+  "id": "aicte-iste-inductionrefresher--0119",
+  "name": "AICTE-ISTE INDUCTION/REFRESHER PROGRAMME SCHEME",
+  "slug": "aicte-iste-inductionrefresher-programme-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 300000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Funding to the  institution/University: ₹ 3,00,000/- ﻿",
+  "details": "AICTE-ISTE Induction/ Refresher Programme has been launched by the All India Council for Technical Education with an intention to provide financial assistance to AICTE approved institutions/universities in conducting training for the teaching faculties working in technical institutions. ﻿ Objectives: The AICTE-ISTE Induction/Refresher Programme are essential for teachers in technical institutions for their professional refinement. The other aims for the conduct of these Programme are: Updating k",
+  "eligibility_text": "AICTE approved institutions/University departments imparting technical education. Coordinator must be a full time regular faculty with adequate experience in teaching and research with publications. Maximum 2 proposals per institute would be considered in a year. Preferably one self-financing program should have been arranged in last 12 months by the college. ISTE will charge ₹1,500/- per proposal",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Registration of New Institute: Step 01: Visit http://portal.aicte-india.org/partnerportal_enu/start.swe and click on 'New Institute' button. Step 02: Users will be redirected to another website. Hover",
+  "tags": [
+    "Training",
+    "Technical Education",
+    "Pedagogical Skills",
+    "Skill Development",
+    "AICTE"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "telecom-technology-development-3160",
+  "name": "Telecom Technology Development Fund",
+  "slug": "telecom-technology-development-fund",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "one_time",
+  "benefit_description": "The scheme is envisaged to bridge the digital divide by developing and manufacturing the state-of-the-art technologies for rural and remote areas. The objectives are, inter alia, to promote: Technology Ownership and indigenous Manufacturing (Atmanirbhar Bharat) & reduce import and open up export opp",
+  "details": "Telecommunication technology products require significantly large funding and long gestation periods for R&D and commercialization including the additional efforts and resources for the products to move from prototype to commercial grade. In the cases of high-impact deep-tech projects, elaborated in later sections, there is a need for higher funding to build such products at an affordable cost to enable state of the art services for rural areas in the country. Taking note of this strategic need",
+  "eligibility_text": "The following Indian entities are only eligible for support from this fund. Domestic Company(ies) with focus on telecom R&D, Use case development Startups / MSMEs Academic institutions R&D institutions, Section 8 companies / Societies, Central & State government entities / PSUs /Autonomous Bodies/SPVs / Limited liability partnerships- with a focus on telecom research and development Collaborative",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Application Process: (Stepwise): Step 01: Online submission of Proposal ( https://usof.gov.in/en/home ) Step 02: Screening of the applicant Step 03: Review and due diligence by the Technical Evaluatio",
+  "tags": [
+    "Domestic Companies",
+    "Startups",
+    "Telecom In Rural",
+    "IPR Creation Mentoring",
+    "Pilot",
+    "Chipset",
+    "Grants",
+    "Atmanirbhar Bharat",
+    "Telecom In Remote Areas",
+    "MSMEs"
+  ],
+  "scheme_category_raw": "Science, IT & Communications, Business & Entrepreneurship"
+}

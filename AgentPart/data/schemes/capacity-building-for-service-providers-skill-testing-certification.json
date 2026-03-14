@@ -1,0 +1,40 @@
+{
+  "id": "capacity-building-for-service--0480",
+  "name": "Capacity Building For Service Providers - Skill Testing & Certification",
+  "slug": "capacity-building-for-service-providers-skill-testing-certification",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1500,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Benefits to the Institute - The administrative expenses incurred by the implementing agencies towards organizing the training programmes under the guide training and other sectoral programmes (including tourism awareness programmes) shall be met by the MoT to the extent of 5% of the total estimated",
+  "details": "The scheme \"Skill Testing & Certification\" is a Suo-Moto Sub-Category of Programmes under the Umbrella Scheme of \"Capacity Building for Service Providers\", Ministry of Tourism. In this scheme, financial assistance is provided to the to conduct Skilling (Capacity Building) and Re-Skilling (Capacity Enhancement) Programmes. In this scheme, education, training, and certification is provided to tourism service providers at every level through the CBSP Scheme. ﻿ The main objectives of this initiative",
+  "eligibility_text": "For the Trainee (before enrolment) - The applicant should have passed Class 8th. The applicant should be above the age of 18 years. ﻿ For the Trainee (after enrolment) - To ensure that training are viewed seriously, a trainee must attend 80% of the classes/periods to become eligible for a certificate/ for appearing in the end-of-the-course test. ﻿ Note 1: The batch size of all programs/courses req",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-80 years",
+      "field": "age",
+      "min": 18,
+      "max": 80
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "For the Trainee - Step 1: Eligible candidates can obtain application forms from the Institute office or from Institute's Website. Step 2: The applicant should submit the duly filled application form a",
+  "tags": [
+    "Tourism",
+    "Skill",
+    "Training",
+    "Employment"
+  ],
+  "scheme_category_raw": "Skills & Employment"
+}

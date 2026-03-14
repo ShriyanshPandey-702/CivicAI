@@ -1,0 +1,36 @@
+{
+  "id": "serb-science-and-technology-aw-2621",
+  "name": "SERB Science and Technology Award for Research",
+  "slug": "serb-science-and-technology-award-for-research",
+  "ministry": "",
+  "category": "science",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Fellowship of ₹15,000/- per month, research grant of ₹10 lakh per annum, and ₹1 lakh per annum as overhead charges for a period of three years. Up to 30 awards per year and not more than 90 at any time.",
+  "details": "The \"SERB Science and Technology Award for Research (SERB-STAR)” is a prestigious award instituted by the Science and Engineering Research Board (SERB) to recognize and reward the outstanding performance of Principal Investigators (PIs) of SERB Projects. SERB has been supporting basic research in frontier areas of science and engineering through its various programs and schemes. The number of researchers under the ambit of SERB has increased over the years and they contribute significantly towar",
+  "eligibility_text": "The nominee should have completed an individual-centric SERB project in the previous three financial years with an \"Excellent\" grade. Only the Principal Investigator of such projects and not the Co-Principal Investigators shall be eligible. The applicant must hold a regular academic/research position in a recognized academic institution or national laboratories or any other recognized R&D institut",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 40-50 years",
+      "field": "age",
+      "min": 40,
+      "max": 50
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Nomination Procedure: Call for nomination would be made once in a year. Nomination shall be made by the Head of the Institution of the nominee. The application would be by nomination which must be sub",
+  "tags": [
+    "SERB",
+    "STAR",
+    "Award",
+    "Research",
+    "Fellowship",
+    "Principal Investigator"
+  ],
+  "scheme_category_raw": "Science, IT & Communications"
+}

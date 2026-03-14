@@ -1,0 +1,46 @@
+{
+  "id": "artisan-promotion-0252",
+  "name": "Artisan Promotion",
+  "slug": "artisan-promotion",
+  "ministry": "",
+  "category": "business",
+  "level": "State",
+  "state": "Delhi",
+  "benefit_amount": 150,
+  "benefit_frequency": "annual",
+  "benefit_description": "The Corporation provides opportunities for artisans to participate in fairs and melas organized by different National Apex Corporations. Stipend for Beneficiaries from Scheduled Castes Category Daily Allowance (DA) for Participant: ₹150/- per day DA for Attendant/Spouse: ₹100/- per day Travel Allowa",
+  "details": "The scheme \"Artisan Promotion\" by the Delhi Scheduled Castes, Scheduled Tribes, Other Backward Classes, Minorities, and Safai Karamchari Finance and Development Corporation (DSFDC), Government of Delhi, aims to provide artisans with opportunities to showcase their talents by participating in various national fairs and exhibitions (Shilpotsav, IITF, East Himalaya Expo, International Surajkund Mela) organized by the different National Apex Corporations. The scheme offers financial support for part",
+  "eligibility_text": "The applicant should be an Artisan. The applicant should be from one of the following target groups - Scheduled Castes, Other Backward Classes, Minority, Safai Karamchari, and Persons with Disabilities. The applicant should be a beneficiary of the Delhi Scheduled Castes, Scheduled Tribes, Other Backward Classes, Minorities, and Safai Karamchari Finance and Development Corporation (DSFDC). The appl",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a resident of Delhi",
+      "field": "state",
+      "value": "Delhi"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert"
+  ],
+  "application_url": "Step 1: The interested applicant should visit the designated office of the DSFDC, and request the hard copy of the prescribed format of the application form from the concerned staff. Alternatively, th",
+  "tags": [
+    "Artisan",
+    "Exhibition",
+    "Stipend",
+    "Scheduled Caste",
+    "OBC",
+    "Minority",
+    "Safai Karamchari",
+    "Disability"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

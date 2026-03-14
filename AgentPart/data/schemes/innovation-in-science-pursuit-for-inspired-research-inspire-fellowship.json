@@ -1,0 +1,33 @@
+{
+  "id": "innovation-in-science-pursuit--1468",
+  "name": "Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship",
+  "slug": "innovation-in-science-pursuit-for-inspired-research-inspire-fellowship",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 20000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Duration The fellowship shall be tenable for a maximum period of five years from INSPIRE Fellowship “Effective Date” or completion of the Ph.D. program (i.e. up to the date of successful Ph.D. viva-voce), whichever is earlier. ﻿ HRA HRA to the Fellows shall also be applicable as per GoI norms depend",
+  "details": "INSPIRE Fellowship is one of the components of INSPIRE scheme implemented by the Department of Science and Technology (DST), Government of India to strengthen the Science and Technology base of the country. This Component focuses on attracting students to pursue doctoral degrees in basic and applied sciences including engineering, medicine, agriculture, veterinary, pharmacy, etc. after either master’s degree in science/engineering or a bachelor/ master’s degree in Medicine.",
+  "eligibility_text": "1st Rank Holders in any recognized University and academic Institutions (Excluding Autonomous Colleges) in India in Post-Graduate (PG) level examination in Basic/Applied Sciences including Engineering, Pharmacy, Agricultural Sciences, and Veterinary Sciences. 1st Rank Holders at the Graduate/Post-graduate Level Examination in Medicine only conducted by a University/ Institution in India. 1st Rank",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Call for INSPIRE Fellowship Applications Call for INSPIRE Fellowship applications is announced during 3 rd/4th quarter of each financial year. Applications are sought from the eligible students throug",
+  "tags": [
+    "Fellowship",
+    "Science",
+    "University",
+    "Doctoral"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

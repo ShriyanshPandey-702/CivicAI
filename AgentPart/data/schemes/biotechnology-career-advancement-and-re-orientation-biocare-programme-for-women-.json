@@ -1,0 +1,42 @@
+{
+  "id": "biotechnology-career-advanceme-0445",
+  "name": "Biotechnology Career Advancement And Re-orientation (BioCARe) Programme For Women Scientists",
+  "slug": "biotechnology-career-advancement-and-re-orientation-biocare-programme-for-women-",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Date of Commencement of Project & its Duration The duration of the project is of three (3) years and is specified in the sanction order. The project starting date will be effective from the date on which the candidate joins the Institution but within 45 days from the date of issuance of the sanction",
+  "details": "Biotechnology Career Advancement and Re-orientation (BioCARe) Programme, a special scheme of the Department of Biotechnology (DBT), Ministry of Science & Technology, the government of India aims to enhance the participation of women scientists in India towards research in Biotechnology and allied area. The program is mainly for the career development of unemployed female scientists for whom it will be the first “sanctioned” extramural research funding. Through this endeavor of the Department, a",
+  "eligibility_text": "Eligible Areas for Financial Support 1. Animal and Marine Biotechnology or allied areas. 2. Bioengineering and Biomaterials or allied areas. 3. Medical Biotechnology or allied areas. 4. Environmental Biotechnology and Bioenergy or allied areas. 5. Plant and Agriculture Biotechnology or allied areas. ﻿ 1. Employment: a)   Candidates in regular or permanent employment are not eligible to apply for B",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 2-55 years",
+      "field": "age",
+      "min": 2,
+      "max": 55
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "birth_cert",
+    "disability_cert"
+  ],
+  "application_url": "Advertisement for Inviting Applications The scheme of BioCARe program will be advertised on PMU and the Department of Biotechnology website. The desirous candidates are required to apply through the l",
+  "tags": [
+    "Bio-Technology",
+    "Research",
+    "PhD",
+    "Women",
+    "Scientist"
+  ],
+  "scheme_category_raw": "Education & Learning, Women and Child"
+}

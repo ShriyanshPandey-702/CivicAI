@@ -1,0 +1,58 @@
+{
+  "id": "national-overseas-scholarship--2176",
+  "name": "National Overseas Scholarship For Students With Disabilities",
+  "slug": "national-overseas-scholarship-for-students-with-disabilities",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Annual Maintenance Allowance: For United States of America (USA) & other countries except UK: $15400 (US Dollars); For United Kingdom (UK): 9900 GBP (Great Britain Pounds) Contingency Allowance: For United States of America (USA) & other countries except UK: $1500 (US Dollars); For United Kingdom (U",
+  "details": "A scholarship scheme by the Ministry of Social Justice & Empowerment for regular, full-time students with disabilities to obtain higher education viz., Master's degree, or Ph.D. courses from foreign universities, in one of the specified fields of study. ﻿ The students with the specified disabilities defined in Schedule of the \"Rights of Persons with Disabilities Act, 2016\" will be eligible under this scheme. This includes persons with visual, hearing, speech, loco-motor, mental retardation, and",
+  "eligibility_text": "The applicant must be a student. The applicant must be Admitted into (or received an unconditional offer of admission) Masters's level courses and Ph.D. courses abroad in institutions/universities accredited by the Government/authorized body of that country. The Disability Percentage of the applicant must be 40% & above. The applicant must be 35 years or lesser in age, as on the first day of the m",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 40-6 years",
+      "field": "age",
+      "min": 40,
+      "max": 6
+    },
+    {
+      "criterion": "Annual income below ₹600,000",
+      "field": "income",
+      "max": 600000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "address_proof",
+    "birth_cert",
+    "disability_cert",
+    "pan_card"
+  ],
+  "application_url": "Step 1: The candidates can download the application form from the following link: http://disabilityaffairs.gov.in/upload/uploadfiles/files/Appl-Form%20-NOS(1).pdf ﻿ Step 2: Send the duly filled applic",
+  "tags": [
+    "Scholarship",
+    "Student",
+    "Person With Disability",
+    "Higher Education",
+    "Degree",
+    "Empowerment",
+    "PhD",
+    "Post-Graduation"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

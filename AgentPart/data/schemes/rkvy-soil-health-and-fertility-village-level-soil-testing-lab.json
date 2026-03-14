@@ -1,0 +1,39 @@
+{
+  "id": "rkvy-soil-health-and-fertility-2528",
+  "name": "RKVY Soil Health and Fertility Village level Soil Testing Lab",
+  "slug": "rkvy-soil-health-and-fertility-village-level-soil-testing-lab",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "The scheme targets to provide following benefits: 1)\tProvide affordable access to soil test 2)\tProvide farmers with timely and accurate soil analysis results 3)\tFacilitate customized soil nutrient recommendations based on test results 4)\tEnable farmers to optimize their fertiliser use and minimise i",
+  "details": "Village level labs can be set up by rural youth, village-level entrepreneurs, including SHGs set up under The Rural Awareness Works Experience (RAWE) programme, Krishi Sakhis, students of government schools, and agriculture graduates from SAUs, PACS, etc. The labs should be operated by local youth. Under the scheme, a one-time financial assistance of Rs 1.5 lakh will be given for establishment of VLSTL. ﻿ S. No, Component Cost (Rs. lakhs) 1 Soil testing with reagents & sample shaker machine with",
+  "eligibility_text": "1)\tThe Age of the applicant should be between 18 to 27 years 2)\tThe Educational Qualification of the applicant should be 10th pass with science and knowledge of computer 3)\tThe applicant / entrepreneur group should have their own premises / rented building with lease agreement for atleast four years. ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-27 years",
+      "field": "age",
+      "min": 18,
+      "max": 27
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Step 01: Identification of individual beneficiary i.e. village level young entrepreneur and community based beneficiaries i.e., PACS, SHGs, School, Agriculture University, etc., in a transparent and t",
+  "tags": [
+    "Soil Testing Lab",
+    "Soil Health",
+    "INM",
+    "Rural Entrepreneur",
+    "RKVY"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

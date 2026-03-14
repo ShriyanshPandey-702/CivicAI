@@ -1,0 +1,39 @@
+{
+  "id": "indira-mahila-shakti-udyam-pro-0008",
+  "name": "Indira Mahila Shakti Udyam Protsahan Yojana",
+  "slug": "indira-mahila-shakti-udyam-protsahan-yojana",
+  "ministry": "",
+  "category": "women",
+  "level": "State",
+  "state": "Rajasthan",
+  "benefit_amount": 5000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Loan Limit Loan amount of ₹ 50,00,000/- to individual women. Loan amount of Rs 1,00,00,000/- to self-help groups. ﻿ Margin Money A margin money of 25% of the sanctioned loan amount will be provided under the scheme. For women belonging to Scheduled Castes/Tribes, Scheduled Castes, widows, abandoned",
+  "details": "The Indira Mahila Shakti Udyam Protsahan Yojana (IMSUPY) is a scheme launched by the Rajasthan government to empower women entrepreneurs by providing them with financial assistance and support. The main objective of the scheme is to ecourage women to start their own businesses and become financially independent. Promote self-employment and reduce unemployment among women in Rajasthan. Support the growth of micro, small, and medium enterprises (MSMEs) led by women.",
+  "eligibility_text": "The applicant's age should be 18 years or more. The applicant should be a permanent resident of Rajasthan. The women's self-help group or group of these groups (cluster/ federation) must be registered under any department of the state government and in case of cluster/federation of groups, it will be necessary to be registered under the Cooperative Act as per the rules. ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be 18 years or older",
+      "field": "age",
+      "min": 18
+    },
+    {
+      "criterion": "Must be a resident of Rajasthan",
+      "field": "state",
+      "value": "Rajasthan"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Registration Step-1: Applicant have to visit the official portal . Step-2: Click on the option “ Register ”. Step-3: Then you will be redirected to the SSO registration page. The registration page wil",
+  "tags": [
+    "Women",
+    "Empowerment",
+    "Development",
+    "Motivaction"
+  ],
+  "scheme_category_raw": "Women and Child"
+}

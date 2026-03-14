@@ -1,0 +1,33 @@
+{
+  "id": "international-centre-for-envir-1515",
+  "name": "International Centre for Environment Audit and Sustainable Development (iCED)",
+  "slug": "international-centre-for-environment-audit-and-sustainable-development-iced",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 10000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Token Remuneration: Interns will receive a token remuneration of ₹10,000/- per month to cover conveyance and daily needs. NOTE: If boarding and lodging are provided by iCED the remuneration will be reduced to ₹5000/- per month. ﻿ Certificate of Internship: Certificate will be issued upon satisfactor",
+  "details": "The \"International Centre for Environment Audit and Sustainable Development (iCED)\" was launched by the  Indian Audit and Accounts Department, and the Comptroller and Auditor General of India. The iCED Internship Scheme offers a unique opportunity for students specializing in Ocean Science, Environmental Science, Environmental Management, Environment Audit, Environmental Economics, Environmental Law, Public Administration, Public Policy, Sustainable Development, Information Technology, Data Anal",
+  "eligibility_text": "Applicant must be an Indian national. Applicant must be a Graduate or pursuing Post Graduate/Doctoral courses in one of the following fields Ocean Science Environmental Science Environment Management Environment Audit Environmental Economics Environmental Law Public Administration Public Policy Sustainable Development Information Technology Data Analytics Architecture Human Resource Management Dis",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Application procedure. Step 01: The student downloads the prescribe forma t of the application form. Step 02: In the application form, fill in all the mandatory fields, and attach copies of all the ma",
+  "tags": [
+    "Remuneration",
+    "Internship",
+    "Student",
+    "Post-Graduate"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "coir-udyami-yojana-0605",
+  "name": "Coir Udyami Yojana",
+  "slug": "coir-udyami-yojana",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Beneficiary’s contribution (of Project Cost) - 5% Bank credit - 55% Rate of Subsidy (of project cost) - 40% ﻿ Note: Maximum admissible cost of the project is Rs.10 lakhs plus working capital. Working capital shall not exceed 25% of the project cost. Subsidy will be computed excluding working capital",
+  "details": "Coir Udyami Yojana is a credit linked subsidy scheme for setting up of coir units with project cost up to Rs.10 lakhs plus one cycle of working capital, which shall not exceed 25% of the project cost. Working capital will not be considered for subsidy. Coir Udyami Yojana is a Central Sector Scheme to be administered by the Ministry of Micro, Small and Medium Enterprises. The Scheme will be implemented by Coir Board a statutory organization under the Ministry of MSME as the Nodal Agency at the na",
+  "eligibility_text": "Any individual above 18 years of age with Indian Citizenship. There will be no income ceiling for assistance for setting up of project under Coir Udyami Yojana. Assistance under the Scheme is only available for projects for the production of coir fibre /yarn/products etc. coming under coir sector. Assistance under the Scheme will be made available to individuals, Companies, Self Help Groups, Non G",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1860-25 years",
+      "field": "age",
+      "min": 1860,
+      "max": 25
+    },
+    {
+      "criterion": "Annual income below ₹5",
+      "field": "income",
+      "max": 5
+    }
+  ],
+  "documents_required": [
+    "caste_cert"
+  ],
+  "application_url": "Applicants have to visit the official portal . Click on the \"Apply Now\". If already registered, log in with the UserName and password. If applicants did not register themself, click on \"New Login Regi",
+  "tags": [
+    "Credit Linked Subsidy",
+    "Coir Production"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

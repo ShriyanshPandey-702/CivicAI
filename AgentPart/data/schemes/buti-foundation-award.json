@@ -1,0 +1,27 @@
+{
+  "id": "buti-foundation-award-0470",
+  "name": "Buti Foundation Award",
+  "slug": "buti-foundation-award",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Award Amount: ₹50,000/- Award Recognition: Medal",
+  "details": "The Buti Foundation Award, established in 2007 by the Buti Foundation, New Delhi, is a biennial award recognizing innovative and outstanding research in the field of Plasma Science & Technology. The award aims to honor a Scientist/Engineer under the age of 45 years for their significant contributions to this field. The award includes a medal and a cash prize.",
+  "eligibility_text": "The applicant should be a Scientist/Engineer. The applicant’s age should be 45 years as of 1st January 2021 (born on or after 02.01.1976). The applicant should have conducted innovative and outstanding research in the field of Plasma Science & Technology in India. ﻿ ﻿",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step-01: Download the prescribed format of the application form from the PRL official website . Step-02: Fill in all the mandatory fields in the application form and attach copies of all the required ",
+  "tags": [
+    "Award",
+    "Scientist",
+    "Engineer",
+    "Research"
+  ],
+  "scheme_category_raw": "Skills & Employment, Education & Learning"
+}

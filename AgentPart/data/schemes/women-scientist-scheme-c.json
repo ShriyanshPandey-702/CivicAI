@@ -1,0 +1,46 @@
+{
+  "id": "women-scientist-scheme-c-3367",
+  "name": "Women Scientist Scheme-C",
+  "slug": "women-scientist-scheme-c",
+  "ministry": "",
+  "category": "women",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 35000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "₹ 35,000/- per month for Ph.D. in Basic or Applied Sciences/MD or equivalent degree. ₹ 30,000/- per month for M.Phil / M.Tech / M.Pharm / M.VSc or equivalent degree. ₹ 25,000/- per month  for M.Sc in Basic or Applied Sciences / MBBS / B.Tech or equivalent degree.",
+  "details": "A scheme by MoST for female candidates with a break in their career interested in addressing societal challenges through viable S&T interventions. 1-year training is provided in Intellectual Property Rights (IPRs), patent search, know-how, drafting, filing, trademarks, trade secrets, and copyright, in association with various Knowledge Partners (i.e. Law firms, Knowledge Processing Organizations (KPOs), Companies, Government agencies, and so on). The scheme is being implemented by the Patent Fac",
+  "eligibility_text": "The applicant must be a female. The applicant must have a break in her career. The age of the applicant must be between 27 and 45 years. Minimum Educational Qualification must be either Master of Science or Bachelors in Engineering / Technology or equivalent.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 27-45 years",
+      "field": "age",
+      "min": 27,
+      "max": 45
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Candidates should keep the required documents ready before filling the form online. ﻿ Step 1: Register yourself and create Login/Password at: http://115.112.95.114/wosc/online/Control.do?_mXpa=100&540",
+  "tags": [
+    "Women",
+    "Scientist",
+    "Science",
+    "Technology",
+    "Post-graduation",
+    "Skill"
+  ],
+  "scheme_category_raw": "Skills & Employment, Social welfare & Empowerment, Science, IT & Communications, Women and Child"
+}

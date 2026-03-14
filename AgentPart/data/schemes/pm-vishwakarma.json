@@ -1,0 +1,35 @@
+{
+  "id": "pm-vishwakarma-2280",
+  "name": "PM Vishwakarma",
+  "slug": "pm-vishwakarma",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Benefits Recognition : Recognition as Vishwakarma through Certificate and ID Card Skilling : Skill Verification followed by 5-7 days (40 hours) of Basic Training Interested candidates can also enrol for 15 days (120 hours) of Advanced Training Training Stipend: ₹ 500 per day Toolkit Incentive : ₹ 15",
+  "details": "PM Vishwakarma is a Central Sector Scheme launched by Ministry of Micro, Small and Medium Enterprises to provide holistic and end-to-end support to artisans and craftspeople through access to collateral free credit, skill training, modern tools, incentive for digital transactions and market linkage support. The scheme will initially be implemented for five years up to 2027-28. Objectives To enable the recognition of artisans and craftspeople as Vishwakarma making them eligible to avail all the b",
+  "eligibility_text": "The applicant should be an artisan or craftsperson working with hands and tools. The applicant should be engaged in an unorganized sector on a self-employment basis. The applicant should be engaged in one of the 18 family-based traditional trades mentioned in the scheme. On the date of registration for the scheme, the minimum age of the applicant should be 18 years. The applicant should be engaged",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-18 years",
+      "field": "age",
+      "min": 18,
+      "max": 18
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "ration_card"
+  ],
+  "application_url": "(i) The eligible beneficiaries are required to get themselves enrolled through nearest CSC in their area. (ii) The beneficiary can apply either on their own or with the help of the CSCs through Villag",
+  "tags": [
+    "Artisans",
+    "Craftspeople",
+    "Skill Upgradation",
+    "Toolkit Incentive"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Skills & Employment"
+}

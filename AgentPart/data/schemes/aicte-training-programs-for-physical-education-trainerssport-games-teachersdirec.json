@@ -1,0 +1,33 @@
+{
+  "id": "aicte-training-programs-for-ph-0128",
+  "name": "AICTE-Training programs for Physical Education Trainers/Sport-Games Teachers/Director of Sports",
+  "slug": "aicte-training-programs-for-physical-education-trainerssport-games-teachersdirec",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 639000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Funding to the institution: ₹ 6,39,000/- per program. ﻿ S.No. Head of expenditure Rate per head (in Rs.) Limit of funding (in Rs.) 1. Boarding & Lodging to the participants (Boarding + Lodging) @ ₹ 500/- 25 participant for 14 days (₹  500x25x14days) ₹ 175,000.00/- 2. TA to outstation participants II",
+  "details": "Training programs for Physical Education Trainers/Sport-Games Teachers/Director of Sports, launched by All India Council for Technical Education, aims to support institutions in conducting trainings to develop the skill of the participants to involve the masses in traditional sports/games and fun games for physical activity through recreation. Objective: The objectives of this program are: To orient the participants to develop physical fitness through mass participation in physical activities. T",
+  "eligibility_text": "AICTE approved technical institutions.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Registration of New Institute: Step 01: Visit http://portal.aicte-india.org/partnerportal_enu/start.swe and click on 'New Institute' button. Step 02: Users will be redirected to another website. Hover",
+  "tags": [
+    "Training",
+    "Physical Education",
+    "Sport Games",
+    "Physical Fitness"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

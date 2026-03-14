@@ -1,0 +1,46 @@
+{
+  "id": "aasra-scheme-0098",
+  "name": "AASRA Scheme",
+  "slug": "aasra-scheme",
+  "ministry": "",
+  "category": "finance",
+  "level": "State",
+  "state": "Jammu and Kashmir",
+  "benefit_amount": 75000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Under this scheme, Social Security cover is provided to widows, Destitute, Below Poverty Line (BPL) families, and breadwinners of such families whose annual income is less than ₹75000/-. The Government of Union Territory will bear the premium of two policies (PMSBY & PMJJBY) for a period of five yea",
+  "details": "The scheme “AASRA Scheme” is an insurance scheme and it was launched by the Department of Social Welfare, Government of Jammu & Kashmir in 2015 to provide Social Security cover to widows, Destitute, Below Poverty Line (BPL) families, and Breadwinners of such families whose annual income is less than ₹75000/-. The Government of Union Territory will bear the premium of all these policies and will cover the entire segment of the destitute and BPL families in the Union Territory. The scheme has alre",
+  "eligibility_text": "The applicant should be a permanent resident of the Union Territory of Jammu & Kashmir. All breadwinners of families whose total annual income is less than ₹75000/- are eligible under the scheme. All widows and destitute residing in the Union Territory are eligible under the scheme. All breadwinners of Below Poverty Line (BPL) families are eligible under the scheme. The intending family must estab",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹75,000",
+      "field": "income",
+      "max": 75000
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Registration Process: Step 01: Before applying the under scheme, User has to register using the Citizen Registration Link given on the login Screen. (Already Registered Citizens can avail of the Servi",
+  "tags": [
+    "Insurance",
+    "Social Welfare",
+    "Social Security",
+    "Widow",
+    "Destitute",
+    "Below Poverty Line",
+    "Bread Winner"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance, Social welfare & Empowerment"
+}

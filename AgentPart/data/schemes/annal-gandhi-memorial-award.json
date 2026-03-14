@@ -1,0 +1,47 @@
+{
+  "id": "annal-gandhi-memorial-award-0235",
+  "name": "Annal Gandhi Memorial Award",
+  "slug": "annal-gandhi-memorial-award",
+  "ministry": "",
+  "category": "education",
+  "level": "State",
+  "state": "Tamil Nadu",
+  "benefit_amount": 2000,
+  "benefit_frequency": "annual",
+  "benefit_description": "In first year: ₹2,000/-. For the succeeding five years: ₹1,500/- per annum.",
+  "details": "The “Annal Gandhi Memorial Award”, introduced on May 7, 2012, by the Adi Dravidar and Tribal Welfare Department, Tamil Nadu, aims to encourage academic excellence among students from the Hindu Adi Dravidar community. The scheme helps students pursue higher education through providing financial assistance. ﻿ ﻿",
+  "eligibility_text": "The beneficiary should be a resident of Tamil Nadu. The beneficiary should be a Student. The beneficiary should belong to the SC/ST (Hindu Adi Dravidar) community. The beneficiary must have secured the first rank in plus 2 Public Examinations in their district.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must be a resident of Tamil Nadu",
+      "field": "state",
+      "value": "Tamil Nadu"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Step 1: The interested applicant should collect the application form from the concerned educational institution. Step 2: In the application form, fill in all the mandatory fields, paste the passport-s",
+  "tags": [
+    "Tribal Welfare",
+    "Education",
+    "Award",
+    "Examination"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

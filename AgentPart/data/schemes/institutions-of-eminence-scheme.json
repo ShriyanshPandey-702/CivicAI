@@ -1,0 +1,38 @@
+{
+  "id": "institutions-of-eminence-schem-1473",
+  "name": "Institutions of Eminence scheme",
+  "slug": "institutions-of-eminence-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 10000000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Financial Assistance would be provided to Government institutions up to ₹ 1000 crore additional funding from the government. The Institution would have the full freedom to mobilize resources from the industry or alumni or other donors and utilize it in accordance with its implementation plan without",
+  "details": "The scheme Institutions of Eminence has been launched by the University Grants Commision in 2017 to empower Higher Educational lnstitutions to help them become world class teaching and research institutions. The objective of the scheme is to provide an enabling regulatory architecture to ten public and ten private Higher Educational institutions to emerge as world-class Teaching and Research institutions. This will enhance affordable access to high quality education for ordinary Indians. ﻿ The p",
+  "eligibility_text": "10 institutions chosen as Institutions of Eminence. Mix of technical, management/arts, and central universities. Top 50 in category on latest National Ranking Framework. OR top 500 in Times Higher Education, QS, or Shanghai Ranking.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 50-500 years",
+      "field": "age",
+      "min": 50,
+      "max": 500
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Who can applies: Central Govt. controlled institutions: through controlling Ministry/Department. State Public Universities: through state government. Application Components: The application comprises ",
+  "tags": [
+    "Financial Assistance",
+    "Education",
+    "Infrastructure"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

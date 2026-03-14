@@ -1,0 +1,35 @@
+{
+  "id": "atal-beemit-vyakti-kalyan-yoja-0321",
+  "name": "Atal Beemit Vyakti Kalyan Yojana",
+  "slug": "atal-beemit-vyakti-kalyan-yojana",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "one_time",
+  "benefit_description": "The scheme provides relief to the extent of 50% of the average per day earnings of employees during their last employment. The relief amount to be paid up to a maximum of 90 days of unemployment (once in a lifetime) subject to conditions that the employee should have completed two years of Insurable",
+  "details": "The scheme “Atal Beemit Vyakti Kalyan Yojana (ABVKY)” was introduced by the Employees’ State Insurance Corporation (ESIC) on a pilot basis for a period of 2 years w.e.f. 01.07.2018 for providing relief to the Insured Persons (IPs) who have become unemployed. Under this scheme relief in the form of cash compensation to the extent of 50% of the average per day earnings was paid up to a maximum of 90 days of unemployment subject to conditions that the employee should have completed two years of Ins",
+  "eligibility_text": "The Insured Person (IP) should have been rendered unemployed during the period the relief is claimed. The Insured Person should have been in insurable employment for a minimum period of two years. The Insured Person should have contributed not less than 78 days during each of the preceding three contribution periods. The contribution in respect of him/her should have been paid or payable by the em",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Application Process: Step 01: To submit an online claim, the application can be made online at the website: https://esic.gov.in/ ﻿ Step 02: On the home page of the official website: Services-->Employe",
+  "tags": [
+    "Atal",
+    "Employee",
+    "Insurance",
+    "Insured Person",
+    "Unemployment"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance, Social welfare & Empowerment"
+}

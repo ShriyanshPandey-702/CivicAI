@@ -1,0 +1,36 @@
+{
+  "id": "khadi-karigar-janashree-bima-y-1657",
+  "name": "Khadi Karigar Janashree Bima Yojana",
+  "slug": "khadi-karigar-janashree-bima-yojana",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 20000,
+  "benefit_frequency": "annual",
+  "benefit_description": "For death: Natural causes – ₹20,000; and Accident – ₹50,000. For permanent disability (loss of two eyes or two limbs) – ₹50,000. For partial disability (loss of one eye or one limb) – ₹25,000. Free add-on benefit : Scholarship of ₹300 per quarter for children of Khadi Karigar, studying in class 9th",
+  "details": "A group insurance scheme by MoMSME for khadi artisans (spinners and weavers). The scheme provides insurance cover against normal death, accidental death, permanent or partial disability of the insured artisan. Scholarships are provided to the insurer’s children studying in class 9th to 12th. ﻿ The artisan must be member of the approved vocation / occupation groups. This scheme was formulated by Khadi and Village Industries Commission (KVIC) in association with the Life Insurance Corporation of I",
+  "eligibility_text": "The applicant must be a Khadi Artisan (Khadi Karigar). The age of the applicant must be between 18 and 59 years. The applicant must be a member of the approved vocation/occupation groups. The group must have a minimum of 25 members. ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-59 years",
+      "field": "age",
+      "min": 18,
+      "max": 59
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "birth_cert"
+  ],
+  "application_url": "The nominee of the deceased person will have to follow the below procedure: Step 1: The beneficiary will have to furnish the original death certificate of the deceased person to the Pension Group Sche",
+  "tags": [
+    "Insurance",
+    "Entrepreneur",
+    "Business",
+    "Persons With Disability",
+    "Citizen Empowerment"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance, Social welfare & Empowerment, Education & Learning, Busine"
+}

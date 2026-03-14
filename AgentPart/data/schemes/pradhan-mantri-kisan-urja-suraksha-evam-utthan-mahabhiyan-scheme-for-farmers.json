@@ -1,0 +1,33 @@
+{
+  "id": "pradhan-mantri-kisan-urja-sura-2428",
+  "name": "Pradhan Mantri Kisan Urja Suraksha Evam Utthan Mahabhiyan Scheme For Farmers.",
+  "slug": "pradhan-mantri-kisan-urja-suraksha-evam-utthan-mahabhiyan-scheme-for-farmers",
+  "ministry": "",
+  "category": "science",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "This scheme provides the following benefits: The Indian Government initiated the construction of solar plants that can generate an aggregate of 28,250 MW of power. The Government will subsidize 60% and provide a loan of 30% of the total cost. This leads our farmers to bear only 10% of the total cost",
+  "details": "Pradhan Mantri Kisan Urja Surakshaevam Utthaan Mahabhiyan Yojana (PM-KUSUM Scheme) was launched in March 2019 by the Ministry of New and Renewable Energy (MNRE), to subsidize farmers to install solar irrigation pumps for cultivation. Each farmer will receive a 60% subsidy to set up tube wells and pump sets. They will also get 30% of the total cost as a loan from the Government. ﻿ The primary objective of the PM KUSUM Scheme is to make cutting-edge technology available to our farmers and provide",
+  "eligibility_text": "The eligible categories for KUSUM Scheme are: ﻿ An individual farmer. A group of farmers. FPO or Farmer producer organization. Panchayat. Co-operatives. Water User Associations.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Interested individuals can apply for KUSUM Scheme by following the procedures stated below - ﻿ Step 1: Go to the official portal and click on the registration section. Step 2: Fill in the registration",
+  "tags": [
+    "Solar",
+    "Farmer",
+    "Infrastructure",
+    "Utility"
+  ],
+  "scheme_category_raw": "Utility & Sanitation, Transport & Infrastructure"
+}

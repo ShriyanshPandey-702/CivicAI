@@ -1,0 +1,35 @@
+{
+  "id": "technology-development-and-uti-3153",
+  "name": "Technology Development And Utilization Programme For Women",
+  "slug": "technology-development-and-utilization-programme-for-women",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Duration of the Project The project should be time-bound, depending upon the nature of the project. Normally a duration of less than 2 years is preferred. ﻿ Quantum of Financial Assistance Assistance will be provided for those projects which are relevant to technology development and utilization by",
+  "details": "Introduction In order to meet the specific needs of women and to enhance the contribution of women towards technology capability building, the “Technology Development & Utilization Programme for Women (TDUPW)” has been formulated by the Department of Scientific and Industrial Research (DSIR). DSIR has a mandate to carry out activities relating to indigenous technology promotion, development, utilization and transfer. DSIR under its “Technology Development and Utilization Programme for Women (TDU",
+  "eligibility_text": "For Projects 1.  Studies/ surveys for the assessment of technology-related information needs of women in different walks of life. 2.  Documentation and content development on the following aspects: >  Technologies useful for production activities, personal care and community management including food processing, water conservation, waste disposal, maintenance of health and hygiene, etc. >  Best pr",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 3-5 years",
+      "field": "age",
+      "min": 3,
+      "max": 5
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Submission of the Proposals The applications are open throughout the year. One set of hard copy of the proposal , along with the required (self-attested) documents, should be sent by speed post to: Dr",
+  "tags": [
+    "Women",
+    "Technology",
+    "Research",
+    "Science",
+    "Capacity Building"
+  ],
+  "scheme_category_raw": "Science, IT & Communications, Education & Learning, Women and Child"
+}

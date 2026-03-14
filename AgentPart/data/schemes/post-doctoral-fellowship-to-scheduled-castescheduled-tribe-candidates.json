@@ -1,0 +1,58 @@
+{
+  "id": "post-doctoral-fellowship-to-sc-2377",
+  "name": "Post Doctoral Fellowship to Scheduled Caste/Scheduled Tribe Candidates",
+  "slug": "post-doctoral-fellowship-to-scheduled-castescheduled-tribe-candidates",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 16000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The financial assistance available under the scheme is as follows: Sl. No. Item Rate of Fellowship (Pre-revised) Rate of Fellowship (Revised w. e. f. 01.12.2014) 1 Fellowship @ ₹16,000/- per month @ ₹38,800/- per month for first 2 years & ₹46,500/- per month from third years onwards. 2 Contingency @",
+  "details": "This scheme has been initiated keeping in view the social background of the candidates from the deprived section of society and to provide them an opportunity to undertake advanced studies and research in Science, Engineering & Technology, Humanities and Social Sciences in Indian Universities/Institutions/Colleges. Objective: The objective of the scheme is to provide an opportunity to SC/ST candidates to undertake postdoctoral research in Sciences, Engineering & Technology, Humanities and Social",
+  "eligibility_text": "Target Group: Unemployed candidates from the deprived section of the society with Ph.D. Degree awarded and aptitude for research. The candidate must have a doctorate degree in the relevant subject preferably with published research work to their credit. (Provisional degree certificate may be accepted if degree is not awarded) The candidates should belong to the Scheduled Caste/Scheduled Tribe cate",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 50-55 years",
+      "field": "age",
+      "min": 50,
+      "max": 55
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "disability_cert"
+  ],
+  "application_url": "Procedure for applying for the scheme: The applications are invited through online mode once in a year through advertisements in leading newspapers and Employment News from the candidates belonging to",
+  "tags": [
+    "Post Doctoral",
+    "Fellowship",
+    "Scheduled Caste",
+    "Scheduled Tribe",
+    "Student",
+    "UGC"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

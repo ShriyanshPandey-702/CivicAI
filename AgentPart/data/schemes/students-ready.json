@@ -1,0 +1,32 @@
+{
+  "id": "students-ready-3060",
+  "name": "Students Ready",
+  "slug": "students-ready",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Benefits The stipend payable to the Student shall be Rs. 3,000/- (Rs. 2,500/- as ICAR Share + Rs 500/- as State Share) per student per month for a maximum of six months. An amount of Rs. 500/- per student/per month will also be provided as ICAR Share towards operational expenses (meeting faculty exp",
+  "details": "The Student READY (Rural Entrepreneurship Awareness Development Yojana) program aims to provide rural entrepreneurship awareness, and practical experience in a real-life situation in rural agriculture, and create awareness to undergraduate students about practical agriculture and allied sciences. ﻿ The program will help in building confidence, skills, and acquiring Indigenous Technical Knowledge (ITK) of the locality and thereby preparing the pass-out for self-employment. It also aims to provide",
+  "eligibility_text": "Eligibility A student, who is pursuing UG programme in SAUs/DUs/CAU/CUs of NARES in courses duly accredited by the National Agricultural Education Accreditation Board (NAEAB) of ICAR, New Delhi The student must maintain merit and good conduct as certified by the Head of College/University/Institution. He/  She should not remain absent during the programme without prior permission of the Competent",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Registration : The students shall first register for RAWE-SPW program at the concerned College on the date notified by the University / Associate Dean/ Principal of the College. After registration at ",
+  "tags": [
+    "Student",
+    "Ready",
+    "Agriculture"
+  ],
+  "scheme_category_raw": "Education & Learning, Agriculture,Rural & Environment"
+}

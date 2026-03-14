@@ -1,0 +1,33 @@
+{
+  "id": "star-college-scheme-for-streng-3010",
+  "name": "Star College Scheme For Strengthening Of Science Education And Training At Undergraduate Level",
+  "slug": "star-college-scheme-for-strengthening-of-science-education-and-training-at-under",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Nature of Financial Assistance One-time non-recurring grant of ₹10,00,000 per science department, recurring grant of ₹3,00,000 per science department per year for a period of three years, subject to satisfactory annual review, and ₹1,00,000, ₹2,00,000 and ₹3,00,000 subject to their departments for m",
+  "details": "The Dept. of Biotechnology (DBT) has launched a scheme \"Star College Scheme for Strengthening of Science Education and Training at Undergraduate Level\" for improving critical thinking and 'hands-on' experimental work at the undergraduate (college) level in sciences. It is expected to encourage, more students to take up higher education in science. DBT will identify colleges with ambition and potential for excellence and provide academic and physical infrastructure for achieving excellence in tea",
+  "eligibility_text": "For Colleges Minimum 4-5 UG courses in basic science such as botany, zoology, applied life science, microbiology, physiology/biochemistry, biotechnology etc. and 1-2 applied course/PG diploma courses. Adequate in-house faculty expertise in each science department. Independent laboratories for practicals to accommodate sanctioned student strength. Lecture halls/rooms for theory classes with minimum",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 1: The applications are invited online via Epromis Portal (please refer to the advertisement ). Step 2: The duly signed and stamped hardcopy version of the proposal submitted via EproMIS may be s",
+  "tags": [
+    "College",
+    "Student",
+    "Training",
+    "Research"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

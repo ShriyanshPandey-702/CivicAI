@@ -1,0 +1,42 @@
+{
+  "id": "agr-50-scheme-assistance-to-pu-0103",
+  "name": "AGR-50 Scheme-Assistance To Purchase Tractors",
+  "slug": "agr-50-scheme-assistance-to-purchase-tractors",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "State",
+  "state": "Gujarat",
+  "benefit_amount": 45000,
+  "benefit_frequency": "annual",
+  "benefit_description": "1.\tThe financial assistance is given to farmers for the purchase of tractors as below: a)\tUpto 40 PTO HP Model Tractors: 25% of expense or ₹45,000/-, whichever is less. b)\tAbove 40 PTO HP and up to 60 PTO HP Model Tractors: 25% of expense or ₹60,000/-, whichever is less.",
+  "details": "The scheme “AGR-50 Scheme-Assistance to Purchase Tractors” was started by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat in the year 2011-12. The scheme was implemented for the farmers to help in buying the tractor in the state. Further, the scheme has been started in the state, considering the tractor's importance, to increase farm mechanization in the state and the demand of farmers from the society. The cost of the tractor was different in the whole state",
+  "eligibility_text": "The beneficiary should be a permanent resident of Gujarat State. Any farmer of Gujarat state is eligible under this scheme. The beneficiary farmer has to purchase the empaneled tractor model of the manufacturer included in the empanelment prepared for the purpose of prize discovery announced by the agriculture department from time to time for tractors from their authorized dealer.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    },
+    {
+      "criterion": "Must be a resident of Gujarat State",
+      "field": "state",
+      "value": "Gujarat State"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "bank_passbook",
+    "ration_card",
+    "disability_cert"
+  ],
+  "application_url": "Step 01: To avail of the benefits of the scheme, the beneficiary has to apply online at I-Khedut Portal. https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx ﻿ Step ",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Mechanization",
+    "Tractor",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

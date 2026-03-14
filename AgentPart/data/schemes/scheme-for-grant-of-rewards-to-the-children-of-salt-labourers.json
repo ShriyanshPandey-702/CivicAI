@@ -1,0 +1,52 @@
+{
+  "id": "scheme-for-grant-of-rewards-to-2705",
+  "name": "Scheme For Grant Of Rewards To The Children Of Salt Labourers",
+  "slug": "scheme-for-grant-of-rewards-to-the-children-of-salt-labourers",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "one_time",
+  "benefit_description": "The rewards shall be granted once in each academic year to the meritorious children of salt workers to enable the students to meet the initial expenses either partly or wholly for the purchase of books, stationery, etc. on admission to a recognized Institute, recognized by the State/Central Governme",
+  "details": "The scheme “Scheme for Grant of Rewards to the Children of Salt Labourers” was launched by Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry in the year 1985. Initially, the scheme known as “Scheme for grant of rewards to the children of labourers working in Salt Industry (CRS)” was initiated for granting 20 rewards to the children of the salt workers to enable them to meet the initial expenses either partly or wholly for purchase of books, statio",
+  "eligibility_text": "The children of only those salt workers who have put in a minimum of one year of continuous service in any of the salt works & passing from a recognized Government School are eligible to apply under the scheme. A child of a salt worker should be studying in Class VI to XII. A child of a salt worker to be eligible for a reward should have passed the examination in the first attempt. Note 01: Prefer",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "bank_passbook",
+    "address_proof",
+    "birth_cert"
+  ],
+  "application_url": "Application Process: Step 01: A child of a salt worker, who desires to avail himself/herself of a reward, shall apply in the prescribed application form. The application form is available with Scheme ",
+  "tags": [
+    "Salt Workers",
+    "Salt Labourers",
+    "Children",
+    "Rewards",
+    "Salt Industry",
+    "Students"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment, Education & Learning"
+}

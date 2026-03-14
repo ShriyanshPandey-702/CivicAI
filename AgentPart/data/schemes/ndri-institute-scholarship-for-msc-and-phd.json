@@ -1,0 +1,30 @@
+{
+  "id": "ndri-institute-scholarship-for-2093",
+  "name": "NDRI Institute Scholarship For M.Sc. And Ph.d",
+  "slug": "ndri-institute-scholarship-for-msc-and-phd",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 7560,
+  "benefit_frequency": "monthly",
+  "benefit_description": "1. Value All eligible Master’s students on the rolls of NDRI will receive Rs. 7560/- per month. All eligible Doctoral students on the rolls of NDRI will receive Rs. 10,500/- per month during the period of Ph.D. tenure. In-service Ph.D. students will receive Institute Scholarship @ Rs. 1000/- per mon",
+  "details": "Detailed The Scholarship will be admissible to students of Indian Nationality as defined in the Constitution of India or persons domiciled in India, irrespective of sex, race or religion. Only those students shall be eligible for the award of scholarships that are not in receipt of any other scholarship/fellowship stipend from any other source. The awardees shall be required to submit an undertaking to this effect in the prescribed form. However, students getting compensation during the course o",
+  "eligibility_text": "Eligibility “Institute Scholarship” is offered to all students of Indian Nationality admitted to Master’s and Doctoral programmes at NDRI to provide them financial assistance as per rules and conditions in this document. Scholarships are offered to only those who do not hold any other financial Assistance/ Scholarship. As and when a student receives or accepts financial assistance from any other s",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "How to apply Students need to visit the ICAR Official Portal (https://education.icar.gov.in/) Select the Course you want to apply for – UG or PG. Fill out the ICAR Exam Application Form with the prope",
+  "tags": [
+    "NDRI",
+    "Scholarship"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

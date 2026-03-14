@@ -1,0 +1,37 @@
+{
+  "id": "employees-pension-scheme-0887",
+  "name": "Employees' Pension Scheme",
+  "slug": "employees-pension-scheme",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Superannuation Pension: Payable to members who retire at 58 years with at least 10 years of eligible service. Calculated as (Pensionable Salary × Pensionable Service) / 70. Early Pension: Reduced pension for members retiring between 50-58 years, with a 4% reduction per year below 58. Payable if the",
+  "details": "Launched on 16th November 1995, the \"Employees' Pension Scheme\" is a social security initiative by the Government of India, implemented under the Employees' Provident Funds and Miscellaneous Provisions Act, 1952. The scheme ensures financial security for employees post-retirement, disability, or to their families in case of death. Key benefits include superannuation pension, early pension, and family pension. Eligible employees must be members of the Employees' Provident Fund Scheme, 1952, and t",
+  "eligibility_text": "The applicant must be a member of the Employees' Provident Fund Scheme, 1952, or an exempted establishment under Section 17 of the Act. The applicant's pay must not exceed ₹15,000/month (unless contributing additional 1.16% above this limit). The applicant must have a minimum of 10 years of eligible service for pension. The applicant must have contributed to the Employees' Pension Fund. For Supera",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 10-58 years",
+      "field": "age",
+      "min": 10,
+      "max": 58
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "birth_cert",
+    "disability_cert"
+  ],
+  "application_url": "For Registration Step 1: Activate UAN (Universal Account Number) Visit the EPFO Unified Portal . Click \"For Employees\" > \"Member UAN/Online Services (OCS/OTCP)\". Enter UAN, mobile number, and CAPTCHA ",
+  "tags": [
+    "Employment",
+    "Pension",
+    "Retirement",
+    "Senior Citizen",
+    "EPFO"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment, Skills & Employment"
+}

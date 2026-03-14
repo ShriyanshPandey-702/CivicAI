@@ -1,0 +1,33 @@
+{
+  "name": "PM Awas Yojana",
+  "category": "housing",
+  "description": "Financial assistance for construction of pucca house",
+  "eligibility_rules": {
+    "max_income": 300000,
+    "min_age": 18,
+    "max_age": null,
+    "caste": ["general", "obc", "sc", "st", "ews"],
+    "states": ["all"],
+    "occupation": ["all"],
+    "requires_land": false,
+    "min_land_acres": 0,
+    "additional_rules": [
+      "Must not own a pucca house anywhere in India"
+    ]
+  },
+  "required_docs": [
+    "aadhaar",
+    "income_cert",
+    "land_record"
+  ],
+  "benefit_amount": 120000,
+  "benefit_description": "₹1,20,000 one time assistance",
+  "portal_url": "https://pmayg.nic.in",
+  "deep_eligibility_questions": [
+    {
+      "field": "owns_pucca_house",
+      "question": "Do you already own a pucca (permanent) house?",
+      "type": "yes_no"
+    }
+  ]
+}

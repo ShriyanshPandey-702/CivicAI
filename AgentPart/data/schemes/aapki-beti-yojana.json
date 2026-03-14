@@ -1,0 +1,42 @@
+{
+  "id": "aapki-beti-yojana-0137",
+  "name": "Aapki Beti Yojana",
+  "slug": "aapki-beti-yojana",
+  "ministry": "",
+  "category": "education",
+  "level": "State",
+  "state": "Rajasthan",
+  "benefit_amount": 2100,
+  "benefit_frequency": "annual",
+  "benefit_description": "Financial Assistance: ₹2,100/- per annum for girl students in classes 1 st to 8 th . ₹2,500/- per annum for girl students in classes 9 th to 12 th . Mode of Disbursement: Direct Benefit Transfer (DBT) to the bank account linked with Jan Aadhaar of the family head or the girl child.",
+  "details": "The \"Aapki Beti Yojana\" scheme was launched by the School Education Department, Government of Rajasthan, to support girls in continuing their education in government schools from Class 1 to 12. Under the scheme, financial assistance of ₹2,100/- per year is provided to girls studying in Class 1 to 8 in government schools who belong to families living below the poverty line (BPL) and whose one or both parents have passed away. For girls studying in Class 9 to 12, the assistance is ₹2,500/- per yea",
+  "eligibility_text": "The applicant should be a native of Rajasthan. The applicant should be a girl student The applicant should be studying in a government school in Rajasthan. The applicant should be studying in classes 1 st to 12 th . The applicant’s family should fall under the Below Poverty Line (BPL) category. The applicant should have lost either one parent (single parent) or both parents.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "To avail of the benefits of the scheme, the parents/guardians need to contact their respective government school. Data Entry on Shala Darpan Portal: School authorities log in through the Shala Darpan ",
+  "tags": [
+    "Financial Assistance",
+    "Girl Student",
+    "BPL",
+    "Below Poverty Line",
+    "Daughter"
+  ],
+  "scheme_category_raw": "Education & Learning, Women and Child"
+}

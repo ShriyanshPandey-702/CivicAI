@@ -1,0 +1,47 @@
+{
+  "id": "cife-institutional-fellowship-0473",
+  "name": "CIFE - Institutional Fellowship",
+  "slug": "cife-institutional-fellowship",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 5760,
+  "benefit_frequency": "monthly",
+  "benefit_description": "﻿ ICAR offers Junior Research Fellowship (JRF) for post-graduate education leading to a Master's Degree Program at the rate of Rs. 5760/- per month for two years with a contingent grant of Rs. 6000/- per annum (for procurement of essential chemicals, equipment, books and travel allowances connected",
+  "details": "ICAR-CIFE offers two years Masters (Masters in Fisheries Science) and three years Doctoral (Ph.D.) degrees in as many as eleven specialised disciplines of fisheries sciences, perhaps one of its kinds in the world. Since its recognition as Deemed to be University in 1989, under Section 3 of University Grants Commission Act, 1953, CIFE offers its own degrees. ﻿ Fellowship ﻿ ICAR offers Junior Research Fellowship (JRF) for post-graduate education leading to a Master's Degree Program at the rate of",
+  "eligibility_text": "Eligibility For M.F.Sc . The candidates having a Bachelor's Degree in the concerned field under 10 + 2 + 4 are eligible to apply for admission. Candidates must have obtained at least 60% marks or an overall grade point average (OGPA) of 6.50 out of 10.00, 3.25 out of 5.00 or 2.60 out of 4.00 (for SC/ST candidates 55% marks or OGPA of 6.00 out of 10.00, 3.00 out of 5.00 or 2.40 out of 4.00). For Ph",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 6-55 years",
+      "field": "age",
+      "min": 6,
+      "max": 55
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Application Submission Application Forms can only be submitted online mode on the website https://icar.nta.ac.in. The Application Form other than online mode will not be accepted. ﻿ Selection Procedur",
+  "tags": [
+    "CIFE",
+    "Institutional",
+    "Fellowship"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

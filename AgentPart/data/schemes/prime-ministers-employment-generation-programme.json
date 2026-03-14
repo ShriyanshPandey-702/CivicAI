@@ -1,0 +1,39 @@
+{
+  "id": "prime-ministers-employment-gen-2479",
+  "name": "Prime Minister's Employment Generation Programme",
+  "slug": "prime-ministers-employment-generation-programme",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Funds under PMEGP Scheme will be available under two major heads: 1.  Margin Money Subsidy a) Funds will be allocated under annual Budget Estimates toward disbursement of Margin Money (subsidy) for setting up new micro-enterprises/units; and b) From the funds allocated under BE for the Margin Money",
+  "details": "Launched in August 2008, Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme, administered by the Ministry of Micro, Small and Medium Enterprises (MSME). PMEGP aims to generate employment opportunities through the establishment of micro-enterprises in the non-farm sector for rural as well as urban areas. The scheme has been approved for continuation over the 15th Finance Commission cycle i.e., for the period of five years from 2021-22 to 2025-26. PMEGP was",
+  "eligibility_text": "For PMEGP new enterprises (Units) Any individual, above 18 years of age. There will be no income ceiling for assistance in setting up projects under PMEGP. For setting up of project costing above Rs.10 lakh in the Manufacturing sector and above ₹ 5,00,000 in the Business /Service sector, the beneficiaries should possess at least VIII standard pass educational qualification. Assistance under the sc",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 10-5 years",
+      "field": "age",
+      "min": 10,
+      "max": 5
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "caste_cert"
+  ],
+  "application_url": "1. Application For New Unit: Visit the official website https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp . Click on the “Apply” button under the “Application For New Unit” tab . Furnish ",
+  "tags": [
+    "Financial Assistance",
+    "Loan",
+    "Entrepreneur",
+    "Projects",
+    "Micro Enterprises"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Banking,Financial Services and Insurance, Social welfare & Empowerment,"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "national-fellowship-for-studen-2157",
+  "name": "National Fellowship for Students with Disabilities",
+  "slug": "national-fellowship-for-students-with-disabilities",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 31000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The value of the fellowship is as follows: The fellowship provides financial assistance to students with disabilities to pursue M. Phil. and Ph.D. degrees. The fellowship is awarded on the basis of merit and the student's disability certificate. The value of the fellowship is ₹ 31,000 per month for",
+  "details": "The National Fellowship for Students with Disabilities (NFPwD) is a fellowship scheme launched by the Government of India in 2012-13 to increase opportunities for students with disabilities to pursue higher education leading to degrees such as M. Phil. and Ph.D. The scheme is implemented by the University Grants Commission (UGC) on behalf of the Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice and Empowerment. ﻿ The NFPwD scheme provides financial assist",
+  "eligibility_text": "The applicant must be a person with disability (PWD) as defined under the Rights of Persons with Disabilities Act, 2016, with at least 40% disability. The applicant must have a valid disability certificate issued by the competent authority. The applicant must have secured admission to an M. Phil. or Ph.D. program in a university/institution recognized by the University Grants Commission (UGC). The",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "caste_cert",
+    "disability_cert"
+  ],
+  "application_url": "To apply for the National Fellowship for Persons with Disabilities (NFPwD), applicants must visit the University Grants Commission's (UGC) NFPwD website . On the home page, go to the \" Scholarships/Fe",
+  "tags": [
+    "Education",
+    "Learning",
+    "Fellowship"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

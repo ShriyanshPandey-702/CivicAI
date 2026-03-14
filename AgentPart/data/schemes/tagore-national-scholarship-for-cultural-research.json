@@ -1,0 +1,35 @@
+{
+  "id": "tagore-national-scholarship-fo-3140",
+  "name": "Tagore National Scholarship for Cultural Research",
+  "slug": "tagore-national-scholarship-for-cultural-research",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Honorarium: The scholarship honorarium will be ₹50,000/- per month. However, if the scholar is from a University, College, Research Institute, or Government set-up in India, he/she would be entitled to the same pay, including grade pay, etc., which he/she would have drawn had he/she continued in his",
+  "details": "The Scheme “Tagore National Scholarship for Cultural Research” has been introduced to invigorate and revitalize the various institutions under the Ministry of Culture (MoC) and other identified cultural institutions in the country, by encouraging scholars/academicians to affiliate themselves with these institutions to work on projects of mutual interest. With a view to infusing fresh knowledge capital into the institutions, the scheme expects these scholars/academicians to select specific resour",
+  "eligibility_text": "A scholar with good academic credentials at least one publication, either a book or a research paper in reputed journals, and 2 years of research/teaching experience will be eligible to apply for the Tagore National Scholarships. This scheme also gives opportunities to young artists/performers to apply for the scholarship. The scholars also need to identify a nodal institution from the list given",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "disability_cert"
+  ],
+  "application_url": "Application Process: Step 01: The Ministry of Culture and/or the concerned institution will widely advertise the Scholarship in the leading national/regional newspapers and on its website (which shoul",
+  "tags": [
+    "Tagore",
+    "Scholarship",
+    "Cultural Research",
+    "Culture",
+    "Scholar"
+  ],
+  "scheme_category_raw": "Education & Learning, Sports & Culture"
+}

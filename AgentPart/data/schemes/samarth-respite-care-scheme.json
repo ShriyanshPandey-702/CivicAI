@@ -1,0 +1,29 @@
+{
+  "id": "samarth-respite-care-scheme-2652",
+  "name": "Samarth-Respite Care Scheme",
+  "slug": "samarth-respite-care-scheme",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Group Home: Registered Orgaisations(RO) should provide group home facilities for all age groups with adequate and quality care service with acceptable living standards including provision of basic medical care from professional doctors. Vocational Activities: Samarth Centre should provide age specif",
+  "details": "Samarth (Respite Care) scheme was launched by the Department of Empowerment of Persons with Disabilities, Ministry of Social Justice & Empowerment. Govt. of India.The objective of the scheme is to provide respite home for orphans or abandoned PwDs, families in crisis and also for Persons with Disabilities (PwD) from BPL & LIG families including destitutes with at least one of the four disabilities covered under the National Trust Act. It also aims at creating opportunities for family members to",
+  "eligibility_text": "Applicant should have one of the disabilities under the National Trust Act, 1999, which are Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "income_cert",
+    "birth_cert",
+    "disability_cert"
+  ],
+  "application_url": "Enrolment of PwD at the Samarth Centre Step-1: PwD need to come or is brought to the Samarth Centre with the required proof along with their parents/guardian. Step-2: The Samarth centre conducts an In",
+  "tags": [
+    "Person With Disability",
+    "Respite And Residential Care",
+    "Group Home",
+    "Orphan",
+    "Abandoned"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

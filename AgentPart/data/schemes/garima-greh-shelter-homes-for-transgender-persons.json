@@ -1,0 +1,34 @@
+{
+  "id": "garima-greh-shelter-homes-for--1172",
+  "name": "Garima Greh Shelter Homes For Transgender Persons",
+  "slug": "garima-greh-shelter-homes-for-transgender-persons",
+  "ministry": "",
+  "category": "housing",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Transgenders are provided with Shelter, Food, medical care and recreational facilities. ﻿",
+  "details": "Garima Greh aims to provide shelter to Destitute & abandoned Transgender persons with basic amenities like shelter, food, medical care and recreational facilities. ﻿ Broader objectives of the schemes are: To provide shelter with basic amenities such as food, clothing, recreation, medical facilities and counseling To safeguard the rights of Transgender persons To confirm the prevalence of congenial atmosphere in the Garima Greh by adopting uniform rules and regulations suitable to be followed by",
+  "eligibility_text": "Following are the eligibility criteria of Transgender Person as a resident of Garima Greh: Transgenders certified issued through National Portal for Transgender Persons and preferably living below the poverty line. Persons having such certificate from elsewhere, may be persuaded to register on the National Portal. Transgenders who are abandoned, aged above 18 years and below 60 years Transgenders",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-60 years",
+      "field": "age",
+      "min": 18,
+      "max": 60
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "The Transgender person can visit the Garima Greh and register by filling the admission form and the personal affidavit. ﻿ The location of Garima Greh can be checked online  - https://transgender.dosje",
+  "tags": [
+    "Transgender",
+    "Shelter Home",
+    "Accomodation",
+    "Rehabilitation"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment, Housing & Shelter"
+}

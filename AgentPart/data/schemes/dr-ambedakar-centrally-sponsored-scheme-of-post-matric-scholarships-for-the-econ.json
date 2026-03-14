@@ -1,0 +1,43 @@
+{
+  "id": "dr-ambedakar-centrally-sponsor-0788",
+  "name": "Dr. Ambedakar Centrally Sponsored Scheme of Post-Matric Scholarships for the Economically Backward Class (EBC) Students",
+  "slug": "dr-ambedakar-centrally-sponsored-scheme-of-post-matric-scholarships-for-the-econ",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Maintenance Allowance ﻿ Group A Degree and Post Graduate level courses including M.Phil., PhD and Post Doctoral research in Medicine (Allopathic, Indian and other recognized systems of medicines), Engineering, Technology, Planning, Architecture, Design, Fashion Technology, Agriculture, Veterinary an",
+  "details": "\"Dr. Ambedakar Centrally Sponsored Scheme of Post-Matric Scholarships for the Economically Backward Class (EBC) Students\" is a Scholarship Scheme by the Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment. The objective of the scheme is to provide financial assistance to the Economically Backward Class (EBC) students studying at the post-matriculation or post-secondary stage to enable them to complete their education. These scholarships shall be available for",
+  "eligibility_text": "The scholarships will be open to Indian nationals belonging to the General Category (Other than Schedule Caste, Schedule Tribe and Other Backward Classes). These scholarships will be given for the study of all recognized post-matriculation or post-secondary courses pursued in Government institutions. Students pursuing Post-graduate courses in medicine will be eligible if they are not allowed to pr",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 1: Visit the National Scholarship Portal and click “New Registration”. The guidelines for Registration will appear. Scroll to the bottom. Read carefully the undertaking. Accept the Terms. Click “",
+  "tags": [
+    "Scholarship",
+    "Post Matric",
+    "Economically Backward Class",
+    "EBC",
+    "Student"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "annai-teresa-ninaivu-marriage--0233",
+  "name": "Annai Teresa Ninaivu Marriage Assistance Scheme for Orphan Girls-II",
+  "slug": "annai-teresa-ninaivu-marriage-assistance-scheme-for-orphan-girls-ii",
+  "ministry": "",
+  "category": "women",
+  "level": "State",
+  "state": "Tamil Nadu",
+  "benefit_amount": 25000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Financial assistance of ₹25,000/-. One sovereign (8gm) 22-carat gold coin for making Thirumangalyam. Mode of Disbursal: Through Electronic Clearing Service.",
+  "details": "The \"Annai Teresa Ninaivu Marriage Assistance Scheme for Orphan Girls-I\" was launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. The scheme provides financial assistance to the orphan girls for their marriage. The bride should have completed 18 years of age at the time of marriage.",
+  "eligibility_text": "The applicant should be a girl. The applicant should be an orphan. The bride should be 18 years or above at the time of marriage. The applicant should have a degree passed from regular colleges, distance education/government-recognized open university. The applicant should have a diploma passed from the Institution recognized by the Directorate of Technical Education, Government of Tamil Nadu.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be 18 years or older",
+      "field": "age",
+      "min": 18
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "income_cert",
+    "birth_cert"
+  ],
+  "application_url": "Step 1: The applicant should gather copies of the necessary documents needed to apply for the concerned scheme. Step 2: The applicant should visit the nearest Common Service Center (CSC) and complete ",
+  "tags": [
+    "Orphan",
+    "Girl",
+    "Marriage",
+    "Gold"
+  ],
+  "scheme_category_raw": "Women and Child, Social welfare & Empowerment"
+}

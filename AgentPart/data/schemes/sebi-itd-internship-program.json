@@ -1,0 +1,34 @@
+{
+  "id": "sebi-itd-internship-program-2616",
+  "name": "SEBI ITD Internship Program",
+  "slug": "sebi-itd-internship-program",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Stipend (₹) For interns working 3 days in a week: 25,000 For interns working 4 days in a week: 30,000 ﻿ Leaves For interns working 3 days in a week: 9 For interns working 4 days in a week: 12 ﻿ Accommodation Unfurnished shared accommodation only for outstation candidates, subject to availability ﻿ C",
+  "details": "The SEBI ITD Internship Program provides hands-on training to the students of the institutes based in and around Mumbai. The program accepts up to 15 interns. The Interns accepted under this program would be given an opportunity to work on different Information Technology (IT) projects including Data Analytics (DA), regulatory business processes and reporting, and FinTech at SEBI. Such projects will provide an exceptional opportunity to the interns to apply their IT and DA skills while gaining v",
+  "eligibility_text": "The applicant should be a student pursuing a full-time MBA/MCA or equivalent degree or diploma of a duration of two years from an eligible institute. The applicant should hold a full-time graduate degree in engineering or a BCA degree. The applicant should have a strong aptitude for computer programming and data analytics. The applicant should have a minimum 60% aggregate marks at graduate level o",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "The eligible institutes may express their interest to participate in SEBI ITD Internship Program in the prescribed format Annexure-1) along with the relevant enclosures on or before January 20, 2020, ",
+  "tags": [
+    "Internship",
+    "Student",
+    "FinTech",
+    "Business",
+    "Data Analytics"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

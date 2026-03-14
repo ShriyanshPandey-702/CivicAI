@@ -1,0 +1,37 @@
+{
+  "id": "bank-guarantee-charges-reimbur-0381",
+  "name": "Bank Guarantee Charges Reimbursement Scheme",
+  "slug": "bank-guarantee-charges-reimbursement-scheme",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 100000,
+  "benefit_frequency": "annual",
+  "benefit_description": "The assistance under this scheme will be limited to 80% or ₹ 1,00,000/- (excluding GST and all other applicable taxes), whichever is less, on PBG charges paid in a financial year.",
+  "details": "Under the the Ministry Of Micro, Small & Medium Enterprises, Bank Guarantee Charges Reimbursement Scheme is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme. In this reimbursement is provided to SC/ST MSEs on bank charges paid to the bank for issuance of Performance Bank Guarantee (PBG) in favor of the buyer departments from where some work has been awarded to such MSEs.",
+  "eligibility_text": "Applicant should belong to the Scheduled Caste / Scheduled Tribe category. He/she should represent/own any MSEs unit. MSEs availing loans from any Scheduled Commercial Banks, Non-Banking Finance Companies (NBFCs), and State Finance Corporations will be considered under the scheme. ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "caste_cert",
+    "pan_card"
+  ],
+  "application_url": "Applicant need to visit the official website https://www.scsthub.in . For registration click on sign-up and provide the following details Full Name Valid Email ID Mobile Number Password and confirm pa",
+  "tags": [
+    "Financial Assistance",
+    "Reimbursement",
+    "Business",
+    "Enterpreneurship"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

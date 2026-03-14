@@ -1,0 +1,29 @@
+{
+  "id": "pradhan-mantri-jan-dhan-yojana-2422",
+  "name": "Pradhan Mantri Jan Dhan Yojana",
+  "slug": "pradhan-mantri-jan-dhan-yojana",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Basic Savings Bank Deposit Account (BSBDA) Any Indian citizen eligible to open a regular bank account can open a BSBDA. Such an account does not require any minimum balance maintenance. The account holders can use both bank branches, ATMs and Banking Correspondents (BCs) for depositing and withdrawi",
+  "details": "A  National Mission for Financial Inclusion (NMFI), namely, Pradhan Mantri Jan Dhan Yojana (PMJDY) was launched across the Country  in August, 2014 by the Prime Minister with the idea to ensure that citizens envisage their financial activities. PMJDY provides universal banking services for every unbanked household, based on the guiding principles of banking the unbanked, securing the unsecured, funding the unfunded and serving unserved and underserved areas. In order to give impetus to financial",
+  "eligibility_text": "The applicant should be an Indian National. If minors above ten years apply, they will require support from their legal guardians for administering their PMJDY account.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "address_proof",
+    "ration_card",
+    "pan_card"
+  ],
+  "application_url": "Step 1 - Go to the official portal of PMJDY. Step 2 - Under the \"e-documents\" section, you will find live links for \"Account Opening Form\". Applicants can access this in both English and Hindi languag",
+  "tags": [
+    "Jan Dhan",
+    "Bank",
+    "Chota Khata",
+    "Insurance"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance"
+}

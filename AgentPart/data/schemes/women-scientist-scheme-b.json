@@ -1,0 +1,46 @@
+{
+  "id": "women-scientist-scheme-b-3366",
+  "name": "Women Scientist Scheme-B",
+  "slug": "women-scientist-scheme-b",
+  "ministry": "",
+  "category": "women",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "₹ 55,000/- pm (and HRA as applicable) for Ph.D. or equivalent (total project cost not exceeding ₹ 30 lakh (excluding HRA and Overhead) ₹ 40,000/- pm (and HRA as applicable) for M.Phil./MTech or equivalent (total project cost not exceeding ₹ 25 lakh (excluding HRA and Overhead) ₹ 31,000/- pm (and HRA",
+  "details": "A Research Grant by MoST for female candidates with break in their career interested in addressing societal challenges through viable S&T interventions. ﻿ This scheme will provide a research grant for a well-defined project proposal for a period of maximum three years. This grant will cover the fellowship of the applicant and cost of small equipments, contingencies, travel, consumables, etc. Institutional overhead charges will be extra. ﻿ Women scientists who wish to apply under this scheme are",
+  "eligibility_text": "The applicant must be a FEMALE. The applicant must either be unemployed or in a position other than regular/permanent position. The age of the applicant must be between 27 and 57 years (5 year relaxation for SC/ST/OBC and physically challenged candidates) The applicant must hold either of the following Minimum essential qualification - a)   Minimum Post Graduate degree, equivalent to M.Sc. in Basi",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 27-57 years",
+      "field": "age",
+      "min": 27,
+      "max": 57
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "caste_cert",
+    "birth_cert"
+  ],
+  "application_url": "Step 1: Register at the online portal https://online-wosa.gov.in/wosb/ using your active email ID. An auto-generated mail will be received with an ID and link to create a password. ﻿ Step 2: After log",
+  "tags": [
+    "Women",
+    "Scientist",
+    "Female",
+    "Technology",
+    "Science",
+    "Research",
+    "Fellowship"
+  ],
+  "scheme_category_raw": "Skills & Employment, Social welfare & Empowerment, Science, IT & Communications, Women and Child"
+}

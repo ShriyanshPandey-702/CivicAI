@@ -1,0 +1,45 @@
+﻿[filter] Removed 'Atal Pension Yojana' ù citizen age 45 is outside scheme range of 18û40
+[filter] Removed 'Antyodaya Anna Yojana' ù ration card 'bpl' does not match highly subsidized AAY requirement
+[filter] Removed 'NSP Scholarships' ù occupation 'farmer' is not 'student'
+[filter] Removed 'Sukanya Samriddhi Yojana' ù scheme is for girl children only (gender: male)
+
+==================================================
+Results for: Profile 1 ù Farmer Male
+==================================================
+ - PM-KISAN (Score: 82)
+ - Pradhan Mantri Fasal Bima Yojana (Score: 78)
+ - E-Shram (Score: 77)
+ - PM Awas Yojana (Score: 76)
+ - Ayushman Bharat (Score: 75)
+ - Mudra Yojana (Score: 72)
+
+[filter] Removed 'Atal Pension Yojana' ù Atal Pension Yojana is not applicable for students
+[filter] Removed 'Sukanya Samriddhi Yojana' ù citizen age 20 and no eligible child under 10
+[filter] Removed 'PM-KISAN' ù occupation 'student' is not 'farmer' (required for PM-KISAN)
+[filter] Removed 'Antyodaya Anna Yojana' ù ration card 'bpl' does not match highly subsidized AAY requirement
+
+==================================================
+Results for: Profile 2 ù Student Female OBC
+==================================================
+ - Post Matric Scholarship OBC (Score: 81)
+ - NSP Scholarships (Score: 79)
+ - Ayushman Bharat (Score: 75)
+ - PM Awas Yojana (Score: 75)
+ - E-Shram (Score: 71)
+ - Mudra Yojana (Score: 70)
+
+[filter] Removed 'PM-KISAN' ù occupation 'daily_wage' is not 'farmer' (required for PM-KISAN)
+[filter] Removed 'NSP Scholarships' ù occupation 'daily_wage' is not 'student'
+
+==================================================
+Results for: Profile 3 ù Married Female with girl child age 8
+==================================================
+ - Atal Pension Yojana (Score: 79)
+ - E-Shram (Score: 78)
+ - PM Awas Yojana (Score: 74)
+ - Sukanya Samriddhi Yojana (Score: 71)
+ - PM Ujjwala Yojana (Score: 71)
+ - Ayushman Bharat (Score: 71)
+ - Mudra Yojana (Score: 67)
+ - Antyodaya Anna Yojana (Score: 62)
+

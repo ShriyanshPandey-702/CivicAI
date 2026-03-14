@@ -1,0 +1,38 @@
+{
+  "id": "icar-emeritus-scientist-1360",
+  "name": "ICAR Emeritus Scientist",
+  "slug": "icar-emeritus-scientist",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "a) Emeritus Scientists will be entitled to an honorarium of Rs.50,000/- per month in addition to a pension that he may draw w.e.f. 1.1.2016. The honorarium paid to the Emeritus Scientist shall be subject to the Income Tax Act. b) A contingent grant of Rs. 2,00,000/- per annum per scientist, dependin",
+  "details": "The ICAR Emeritus Scientist Scheme is a structural method of tapping the Brain and skill bank of the outstanding superannuated professionals of NARS by allowing them to complete the work in hand for its fruitful conclusion, utilize their talent in teaching specialized courses and use their experience in addressing nationally important policy issues. Retired scientists may often be in a position to work and teach in economically and ecologically underprivileged regions. Hence their expertise shou",
+  "eligibility_text": "The following criteria will be taken into consideration for the selection of an Emeritus Professor: The applicant should be an outstanding superannuated teacher/Scientist with a good record of published work and teaching/ training experience of a minimum of 5 years. The ICAR Emeritus Professor can work under this scheme up to the age of 70 years or up to three years, whichever is earlier.  The tea",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 70-12 years",
+      "field": "age",
+      "min": 70,
+      "max": 12
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "How to apply The eligible scientist/ faculty who is to retire in the next 12 month time, may send 15 copies of the application in the prescribed Proforma to the Deputy Director General (Education), IC",
+  "tags": [
+    "Emeritus",
+    "Scientist",
+    "Retirement"
+  ],
+  "scheme_category_raw": "Skills & Employment"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "affdf-financial-assistance-for-0099",
+  "name": "AFFDF-Financial Assistance For Treatment Of Serious Diseases To Non Pensioner Ex-Servicemen (All Ranks)/Widows",
+  "slug": "affdf-financial-assistance-for-treatment-of-serious-diseases-to-non-pensioner-ex",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 125000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Financial assistance for treatment of the approved serious diseases  to non-pensioner Ex-Servicemen of all ranks and widows subject to a maximum of Rs 1,25,000/- (One Time) and for treatment of cancer/dialysis subject to a maximum of Rs 75,000/- per annum as follows:- For Non-Pensioner Officers/Wido",
+  "details": "A scheme to provide financial assistance to a non-pensioner Ex-Servicemen of all ranks and widows to meet medical expenses related to treatment of approved serious diseases like cancer, renal failure, knee replacement and heart surgery. ﻿ Expenditure must be incurred at a approved govt hospital at the rates applicable under CGHS / ECHS. ﻿ List of the serious diseases are covered under this scheme ﻿ Angiography & Angioplasty CABG. (l) Dialysis Open heart surgery Valve replacement Pacemaker Implan",
+  "eligibility_text": "The following criteria must be fulfilled:- ﻿ Applicant must be a non-pensioner ESM or his widow. Should not be member of ECHS or availing AFMS facilities. Should be recommended by respective Zila Sainik Board (ZSB). Expenditure must be incurred at a approved govt hospital at the rates applicable under CGHS / ECHS.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Eligible Ex-servicemen / their widows can visit the official website of Kendriya Sainik Board Secretariat (KSBS) https://ksb.gov.in/  Click on “Register” which is available on the homepage of the port",
+  "tags": [
+    "Ex-Servicemen",
+    "Widow Of Ex-Servicemen",
+    "Serious Disease Treatment"
+  ],
+  "scheme_category_raw": "Health & Wellness"
+}

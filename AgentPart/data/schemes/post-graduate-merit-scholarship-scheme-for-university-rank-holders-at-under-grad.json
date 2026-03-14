@@ -1,0 +1,30 @@
+{
+  "id": "post-graduate-merit-scholarshi-2379",
+  "name": "Post Graduate Merit Scholarship Scheme For University Rank Holders At Under-Graduate Level Applicable",
+  "slug": "post-graduate-merit-scholarship-scheme-for-university-rank-holders-at-under-grad",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 2000,
+  "benefit_frequency": "annual",
+  "benefit_description": "FINANCIAL ASSISTANCE UNDER THE SCHEME ﻿ The financial assistance for the scheme will be provided by the UGC to all the eligible universities/institutions which are under Sections 2(f) and 12(B) of the UGC Act. ﻿ Each awardee, under the scheme, will be provided a scholarship of ₹ 2,000/- p.m. for a p",
+  "details": "University Grants Commission (UGC), Department of Higher Education (DoHE) introduced a Post-Graduate Merit Scholarship Scheme for University rank holders both in General and Honours Courses at the Undergraduate level. The scholarship may be tenable for a period of two years to enable the rank holders of each university at the undergraduate level to pursue their Master’s Degree. ﻿ All universities/degree awarding institutions would be required to issue rank certificates to the toppers of the univ",
+  "eligibility_text": "In General Courses the First and Second Rank holders at UG level and admitted in any Postgraduate Course would be awarded the scholarship. In Honours Courses (Main or Major) the scholarship would be awarded only to the First Rank holders. The awardees will have to submit proof of their merit position at the undergraduate level as well as their admission to postgraduate courses. The scholarship wou",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Applications are invited through online mode once a year through advertisements in leading newspapers and Employment News. The same is also uploaded on the UGC Website www.ugc.ac.in The selection is m",
+  "tags": [
+    "Scholarship"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

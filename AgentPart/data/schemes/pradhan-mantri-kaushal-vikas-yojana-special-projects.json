@@ -1,0 +1,48 @@
+{
+  "id": "pradhan-mantri-kaushal-vikas-y-2426",
+  "name": "Pradhan Mantri Kaushal Vikas Yojana - Special Projects",
+  "slug": "pradhan-mantri-kaushal-vikas-yojana-special-projects",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Counselling Online Information / Counselling Platform Through Counselling Helpline Through District-level skill information centre Training Digital Content Training in Soft Skills, Entrepreneurship, Financial and Digital Literacy Additional Support Accidental Insurance One-time incentive to all cert",
+  "details": "The Special Projects component of PMKVY envisages the creation of a platform that will facilitate trainings in special areas and/or premises of Government bodies, corporates or industry bodies, and training in special job roles, not defined under the available Qualification Packs (QPs)/National Occupational Standards (NOS). Special Projects require some deviation from the short-term training guidelines under PMKVY. A proposing stakeholder can be institutions of Central or State Government(s), an",
+  "eligibility_text": "The scheme is for marginalized or vulnerable groups (to mean hereafter such as Scheduled Castes and Tribes, transgender, persons with disabilities, women, economically backward people, any other category which identifies as marginalized/vulnerable and is recognized by the Government of India and State governments) and those of difficult/remote geographies, hard to reach areas (such as LWE, aspirat",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "A manual is available on the Skill India Portal (SIP) website (https://skillindia.nsdcindia.org) for understanding the process. SPIAs shall be responsible for entering details of the candidates on Ski",
+  "tags": [
+    "Marginalized Groups",
+    "Vulnerable Groups",
+    "Kaushal",
+    "Vikas",
+    "Skill",
+    "Scheduled Caste",
+    "Scheduled Tribe",
+    "PVTG",
+    "Women",
+    "Transgender"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Skills & Employment"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "niti-internship-scheme-2098",
+  "name": "NITI Internship Scheme",
+  "slug": "niti-internship-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Experience Certificate/Internship Completion Certificate: A certificate regarding successful completion of Internship shall be issued by the Adviser of the concerned Subject Division Allows young academic talent to be associated with the NITI Aayog's work for mutual benefit. Opportunity to know abou",
+  "details": "An Internship Scheme named \" NITI Internship Scheme \" seeks to engage students pursuing Under Graduate / Graduate / Post Graduate Degrees or are Research Scholars enrolled in recognized University/ Institution within India or abroad, as \" interns \". These 'interns\" shall be given exposure to various Verticals/ Divisions/Units within NITI Aayog and would be expected to supplement the process of analysis within NITI Aayog through empirical collection and collation of in-house and other information",
+  "eligibility_text": "Bonafide students of any recognized University/Institution within India or abroad, fulfilling following conditions are eligible to apply for the internship:- Under-graduate students, having completed/appeared in the term end exams of second year/4 th semester of the bachelor degree course and secured not less than 85% or equivalent marks in 12th class. Graduate students having completed/ appeared",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Visit the official website i.e https://workforindia.niti.gov.in/intern/InternshipEntry/PCInternshipEntry.aspx ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ After reading the instructions to fill the form. Fill all the details of the",
+  "tags": [
+    "Internship",
+    "Student"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

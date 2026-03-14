@@ -1,0 +1,37 @@
+{
+  "id": "conversionmodernisation-of-mec-0043",
+  "name": "\"Conversion/Modernisation of Mechanised Fishing Boats for Deep Sea Fishing\" under \"Financial Assistance for Availing Subsidy Components for the Development of Marine Fisheries\"",
+  "slug": "conversionmodernisation-of-mechanised-fishing-boats-for-deep-sea-fishing-under-f",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "State",
+  "state": "",
+  "benefit_amount": 250000,
+  "benefit_frequency": "annual",
+  "benefit_description": "50% subsidy subject to a maximum of ₹ 2,50,000 per boat linked to bank finance. *The rate of subsidy/maximum limit may be revised by the Government from time to time.",
+  "details": "The scheme \"Conversion/Modernisation of Mechanised Fishing Boats for Deep Sea Fishing\" is a Sub-Component under the Umbrella Scheme \"Financial Assistance for Availing Subsidy Components for the Development of Marine Fisheries\" by the Department of Fisheries and Fishermen Welfare, Government of Puducherry. The scheme is introduced with the objective of increasing marine fish production by extending financial grants for the conversion/modernization of mechanized boats for deep-sea fishing.",
+  "eligibility_text": "The applicant should either belong to the fishermen community or be one of those professionally engaged in fishing/fish trade occupation on a full-time basis/prospective entrepreneurs. The applicant must have resided in the Union territory of Puducherry for a continuous period of not less than five years at the time of applying for extending subsidies/ grants. The applicant must have been enrolled",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 23-60 years",
+      "field": "age",
+      "min": 23,
+      "max": 60
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof",
+    "ration_card",
+    "birth_cert"
+  ],
+  "application_url": "Step 1: The interested applicant should visit the Office/ Sub-Office of the Department of Fisheries and Fishermen Welfare. Step 1: The interested applicant should request the hard copy of the prescrib",
+  "tags": [
+    "Boat",
+    "Subsidy",
+    "Fisherman",
+    "Financial Assistance",
+    "Marine"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

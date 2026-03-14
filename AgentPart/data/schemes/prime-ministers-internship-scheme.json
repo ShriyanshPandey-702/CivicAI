@@ -1,0 +1,46 @@
+{
+  "id": "prime-ministers-internship-sch-2484",
+  "name": "Prime Minister’s Internship Scheme",
+  "slug": "prime-ministers-internship-scheme",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 4500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "12 months real-life experience in India's top companies Monthly assistance of ₹4500/- by Government of India and ₹500/- by Industry One-time Grant of ₹6000 for incidentals Insurance coverage for every intern under Pradhan Mantri Jeevan Jyoti Bima Yojana and Pradhan Mantri Suraksha Bima Yojana by Gov",
+  "details": "The scheme “Prime Minister’s Internship Scheme” was launched by the Ministry of Corporate Affairs, Government of India. The scheme aims to provide internship opportunities to one crore youth in top 500 companies in five years. Through this Scheme, youth will gain exposure for 12 months to real-life business environment, across varied professions and employment opportunities. The purpose of this scheme is envisaged as an arrangement between the intern and the company in which the company provides",
+  "eligibility_text": "The candidate belongs to Indian nationality. The candidate’s age should be between 21 to 24 years (as on the last date for submission of the application). The candidate should not be full-time employed. The candidate should not be engaged in full-time education. The candidate enrolled in online/distance learning programmes are eligible to apply. The candidate should be completed High School, Highe",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 21-24 years",
+      "field": "age",
+      "min": 21,
+      "max": 24
+    },
+    {
+      "criterion": "Annual income below ₹800,000",
+      "field": "income",
+      "max": 800000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Registration Process: Step 1: Visit the official website Prime Minister Internship Scheme. Step 2: Click on “Youth Registration” on the top-right corner or “Register Now” in the PM Internship Offers s",
+  "tags": [
+    "Internship",
+    "Youth",
+    "Employment Opportunities",
+    "Training",
+    "Monthly Assistance",
+    "Skill Development"
+  ],
+  "scheme_category_raw": "Skills & Employment"
+}

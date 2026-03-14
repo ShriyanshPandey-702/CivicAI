@@ -1,0 +1,56 @@
+{
+  "id": "ayushman-bharat-pradhan-mantri-0354",
+  "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana",
+  "slug": "ayushman-bharat-pradhan-mantri-jan-arogya-yojana",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500000,
+  "benefit_frequency": "annual",
+  "benefit_description": "AB PM-JAY provides cashless cover of up to ₹ 5,00,000/- to each eligible family per annum for listed secondary and tertiary care conditions. The cover under the scheme includes all expenses incurred on the following components of the treatment: ﻿ Medical examination, treatment, and consultation Pre-",
+  "details": "Ayushman Bharat, a flagship scheme of the Government of India, was launched as recommended by the National Health Policy 2017, to achieve the vision of Universal Health Coverage (UHC). This initiative has been designed to meet Sustainable Development Goals (SDGs) and its underlining commitment, which is to \"leave no one behind.\" ﻿ Ayushman Bharat is an attempt to move from a sectoral and segmented approach to health service delivery to a comprehensive need-based health care service. This scheme",
+  "eligibility_text": "Rural Beneficiaries Out of the total seven deprivation criteria for rural areas, PM-JAY covered all such families who fall into at least one of the following six deprivation criteria and automatic inclusion(Destitute/ living on alms, manual scavenger households, primitive tribal group, legally released bonded labour) criteria: ﻿ Only one room with kucha walls and kucha roof No adult member between",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 16-59 years",
+      "field": "age",
+      "min": 16,
+      "max": 59
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a registered construction worker",
+      "field": "occupation",
+      "values": [
+        "daily_wage",
+        "self_employed"
+      ]
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "pan_card"
+  ],
+  "application_url": "The Arogya Mitra searches the available list of beneficiaries using details such as name, location, ration card number, mobile number, or the RSBY URN of the beneficiary. After this, the beneficiary i",
+  "tags": [
+    "Health",
+    "Insurance"
+  ],
+  "scheme_category_raw": "Health & Wellness"
+}

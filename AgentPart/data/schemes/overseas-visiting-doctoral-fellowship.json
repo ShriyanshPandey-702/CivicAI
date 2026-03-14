@@ -1,0 +1,33 @@
+{
+  "id": "overseas-visiting-doctoral-fel-2277",
+  "name": "Overseas Visiting Doctoral Fellowship",
+  "slug": "overseas-visiting-doctoral-fellowship",
+  "ministry": "",
+  "category": "science",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 60000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The selected fellows will be paid a monthly fellowship amount equivalent to US $ 2000, one-time Contingency/Preparatory allowances of ₹60,000/- to cover visa fees, airport transfer charges, medical insurance, etc. The selected fellows will also be provided the shortest route economy class airfare fr",
+  "details": "Objectives: To build national capacity in frontier areas of Science and Engineering, which are of interest to India by providing research training to PhD students admitted in Indian institutions in overseas universities/institutions of repute. To provide an opportunity for performing Indian research students to gain exposure and access to top-class research facilities in academia and labs in specific Overseas Universities. To create opportunities to build long-term R&D linkages and collaboration",
+  "eligibility_text": "The scheme is open to Indian nationals only. The applicant should have registered for a full-time Ph.D. Degree in any of the recognized Institutions / Universities in India in Science, Technology, Engineering, and Mathematics (including Medicine, Pharma, Agriculture, and related S&T areas) disciplines. Part-time and sponsored students are not considered under the scheme. The students who have subm",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "bank_passbook"
+  ],
+  "application_url": "Application Procedure: Step 01: Applications are invited from Ph.D. students to work with Overseas Institutions who had signed an Agreement / MoU with SERB for student mobility. Step 02: The applicant",
+  "tags": [
+    "Overseas",
+    "Doctoral",
+    "Fellowship",
+    "Fellow",
+    "Young Scientist"
+  ],
+  "scheme_category_raw": "Science, IT & Communications"
+}

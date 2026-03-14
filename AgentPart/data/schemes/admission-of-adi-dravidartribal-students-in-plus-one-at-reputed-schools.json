@@ -1,0 +1,45 @@
+{
+  "id": "admission-of-adi-dravidartriba-0193",
+  "name": "Admission of Adi Dravidar/Tribal Students in Plus One at Reputed Schools",
+  "slug": "admission-of-adi-dravidartribal-students-in-plus-one-at-reputed-schools",
+  "ministry": "",
+  "category": "education",
+  "level": "State",
+  "state": "Tamil Nadu",
+  "benefit_amount": 28000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Admission Assistance: Free admission into reputed private schools for Plus One. Financial Coverage: ₹28,000/- per year, including boarding charges. ﻿",
+  "details": "The scheme “Admission of Adi Dravidar/Tribal Students in Plus One at Reputed Schools” introduced on 7th May, 2012 by the Adi Dravidar and Tribal Welfare Department, Tamil Nadu, aims to enhance the quality of education for Adi Dravidar and Tribal students. It selects the top 10 students from each district who secure the highest marks in Class X from government, municipal, or welfare schools and admits them to Plus One in reputed private schools. The scheme includes coverage of tuition and boardin",
+  "eligibility_text": "The beneficiary should be a Student. The beneficiary should be currently enrolled in school. The beneficiary should be a resident of Tamil Nadu. The beneficiary should belong to the Adi Dravidar/Tribal community. The beneficiary must have secured the highest marks in Class X from Government/Corporation/Municipal/Adi Dravidar and Tribal Welfare schools. Beneficiary’s annual family income should be",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹100,000",
+      "field": "income",
+      "max": 100000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must be a resident of Tamil Nadu",
+      "field": "state",
+      "value": "Tamil Nadu"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert"
+  ],
+  "application_url": "Step 1: The interested applicant should collect the application form from the District Collector’s office. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized p",
+  "tags": [
+    "Tribal Welfare",
+    "Adi Dravidar",
+    "Admission Assistance",
+    "Schools",
+    "Education"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

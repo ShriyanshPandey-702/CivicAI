@@ -1,0 +1,38 @@
+{
+  "id": "prime-ministers-special-schola-2487",
+  "name": "Prime Minister’s Special Scholarship Scheme For The Students Of Union Territories Of Jammu & Kashmir And Ladakh",
+  "slug": "prime-ministers-special-scholarship-scheme-for-the-students-of-union-territories",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 30000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Rate of Scholarships, Academic Fee & Maintenance Allowance: ﻿ Stream: General Degree Number of Scholarships: 2070 (fixed) Academic Fee (Upper limit): ₹30,000/- Maintenance Charges (Fixed): ₹1,00,000* ﻿ Stream: Professional/Engineering/B.Sc.Nursing / B. Pharmacy/ B. Architecture (subject to NATA)/HMC",
+  "details": "Launch in the year 2011, PMSSS is a scholarship scheme by the All India Council for Technical Education (AICTE) for the students who are domicile of the UTs of J&K and Ladakh who, after passing Class 12th or equivalent examination, secure admission in government colleges/institutions and other select institutions outside the UTs of J&K and Ladakh through AICTE’s counseling process under the supernumerary quota created by the government (except in medical courses). The applicant should have passe",
+  "eligibility_text": "The applicant should be a domicile of Union Territories of J&K and Ladakh. The applicant must have passed the 12th examination from JKBOSE or CBSE-affiliated schools located in UTs of J&K and Ladakh. The family income of the applicant should be less than or equal to ₹8,00,000 per annum. The applicant who wants to take admitted under the Lateral Entry Scheme have to pass a Diploma in Engineering fr",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹800,000",
+      "field": "income",
+      "max": 800000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "address_proof",
+    "disability_cert"
+  ],
+  "application_url": "Step: 1 Visit https://www.aicte-india.org/bureaus/jk/2021-2022 Step: 2 Click on the \"PMSSS 2021-22 Registration\" tab Step: 3 On the left Click on the tab ‘Diploma Registration (2022-23)’ Step: 4 Fill ",
+  "tags": [
+    "Scholarship"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

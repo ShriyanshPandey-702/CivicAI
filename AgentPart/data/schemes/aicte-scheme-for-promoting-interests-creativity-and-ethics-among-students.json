@@ -1,0 +1,37 @@
+{
+  "id": "aicte-scheme-for-promoting-int-0108",
+  "name": "AICTE - Scheme For Promoting Interests, Creativity And Ethics Among Students",
+  "slug": "aicte-scheme-for-promoting-interests-creativity-and-ethics-among-students",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 100000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Duration: One-Year Limit of Funding: ₹ 1,00,000 only (one-time grant to one institute) Disbursement of the Funds: ₹ 1,00,000 as advance ﻿ Programs/ Activities targeted in the Clubs: Evolution of Interests/Hobbies, Creativity/ Imagination/ Innovation, and Ethics/ Value through a range of student acti",
+  "details": "The scheme \"AICTE - Scheme for Promoting Interests, Creativity and Ethics among Students (SPICES)\" is a scheme for the institutions by the All India Council for Technical Education (AICTE), Department of Higher Education (DoHE). This scheme provides financial support to institutions for developing students' clubs for the well-rounded development of students by promoting their interests, creativity, and ethics. This club should serve as a model for other clubs in the institution and also those in",
+  "eligibility_text": "(a) AICTE-approved institutes with a minimum of 5 years of existence. (b) Only one proposal per institute for a club (with a minimum of student members 50) will be admissible. Institute may choose its best performing club for applying under the scheme for the grant. (c) The institute must commit a contribution of a minimum ₹ 1,00,000 to the club. Contributions over and above ₹ 1,00,000 from instit",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 10-5 years",
+      "field": "age",
+      "min": 10,
+      "max": 5
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "(a) Applications are invited every year at the beginning of the academic session (July/ August). (b) Institute must apply through its login ID at aicte-india.org ﻿ ﻿ AICTE Portal Login Step 1: Visit t",
+  "tags": [
+    "Student",
+    "Institution"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

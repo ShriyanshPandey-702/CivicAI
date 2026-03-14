@@ -1,0 +1,37 @@
+{
+  "id": "incentive-for-the-intra-caste--0006",
+  "name": "Incentive For The Intra Caste Marriage within Scheduled Tribe Community",
+  "slug": "incentive-for-the-intra-caste-marriage-within-scheduled-tribe-community",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "State",
+  "state": "Karnataka",
+  "benefit_amount": 200000,
+  "benefit_frequency": "annual",
+  "benefit_description": "An incentive of ₹2,00,000/- is provided to the married couple.",
+  "details": "The scheme \"Incentive for Intra Caste Marriage within the Scheduled Tribe Community\" was launched by the Tribal Welfare Department, Government of Karnataka. The scheme provides an incentive of ₹2,00,000/- to couples who are both from the Scheduled Tribe (ST) community but belong to different sub-castes within the ST community. The marriage should have taken place on or after 1st April 2018. The couple must reside in Karnataka and apply for the scheme within one year of their marriage.",
+  "eligibility_text": "The couple should be residing in Karnataka. Both the partners should be from the Scheduled Tribe (ST) community but from different sub-castes. The combined annual income of the couple must be less than ₹2,00,000/-. The couple must apply to this scheme within one year of their marriage. The marriage should have taken place on or after 1st April 2018.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹200,000",
+      "field": "income",
+      "max": 200000
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "birth_cert"
+  ],
+  "application_url": "Step 1: Visit the official website of the Tribal Welfare Department, Government of Karnataka. Step 2: In the right pane, click on \"Incentives for Marriage\" and select the \"Incentives to Intra-Caste Ma",
+  "tags": [
+    "Intra Caste",
+    "Marriage",
+    "Schedule Tribe",
+    "Incentive",
+    "ST"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

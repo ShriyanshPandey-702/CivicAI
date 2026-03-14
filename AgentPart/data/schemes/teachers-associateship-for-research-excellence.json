@@ -1,0 +1,43 @@
+{
+  "id": "teachers-associateship-for-res-3147",
+  "name": "Teachers Associateship for Research Excellence",
+  "slug": "teachers-associateship-for-research-excellence",
+  "ministry": "",
+  "category": "science",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Research fellowship of ₹60,000/- per year (in addition to the researcher’s own salary) will be provided subject to completion of a minimum of 90 days of research work per year in the host institution. Research grant of ₹5 lakhs per annum (50% each to host and parent institution) and overheads (as pe",
+  "details": "The scheme “Teachers Associateship for Research Excellence (TARE)” was launched by the Science and Engineering Research Board, Department of Science & Technology, Government of India which aims to facilitate the mobility of faculty members working in a regular capacity in State Universities / Colleges and in private Academic Institutions to carry out research work in an established public-funded central institution such as IITs, IISc, IISERS, National Institutions (NITs, CSIR, ICAR, ICMR labs an",
+  "eligibility_text": "Indian citizens residing in India holding a Ph.D. degree in Science/Engineering or MS/MD in Medicine are eligible to apply. The applicant(s) must hold a regular academic/research position in State Universities/ Colleges and private Academic Institutions. Applicant should not hold any ongoing research projects or any fellowship at the time of submission of application. The upper age limit for the a",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "birth_cert"
+  ],
+  "application_url": "Step 01: The call for proposals will be notified through the website www.serbonline.in and www.serb.gov.in ﻿ Step 02: Applicant(s) should first register on the online website. Click here to register ﻿",
+  "tags": [
+    "TARE",
+    "Teacher",
+    "Research",
+    "Faculty",
+    "Fellowship",
+    "SERB"
+  ],
+  "scheme_category_raw": "Science, IT & Communications"
+}

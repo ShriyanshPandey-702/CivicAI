@@ -1,0 +1,31 @@
+{
+  "id": "national-agriculture-market-2114",
+  "name": "National Agriculture Market",
+  "slug": "national-agriculture-market",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Benefits of trading on e-NAM: Transparent Online Trading. Real-Time Price Discovery. Better Price Realization For Farmers. Reduced Transaction Cost For Buyers. Stable Price and Availability to Consumers. Quality Certification, Warehousing and Logistics. More Efficient Supply Chain. Convenient e-Paym",
+  "details": "e-National Agriculture Market (e-NAM) is a pan-India electronic trading portal that networks the existing APMC/Mandis to create a unified national market for agricultural commodities. National Agriculture Market (e-NAM) is a pan-India electronic trading portal which networks the existing APMC/Mandis to create a unified national market for agricultural commodities. e-NAM a pan-India electronic trading portal was launched on 14th April 2016, by the Prime Minister of India, with the aim of networki",
+  "eligibility_text": "Eligibility criteria for availing assistance under the scheme: The scheme is linked to agricultural marketing reforms, the States / Union Territories (UTs) need to undertake mandatory reforms in their Agriculture Produce Market Committee ( APMC) Acts in respect of the following three areas to avail the assistance under it. Single trading license to be valid across the State. Single point levy of m",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "address_proof"
+  ],
+  "application_url": "Registration Guidelines for farmers Users can register by Clicking  http://enam.gov.in/NAMV2/home/other_register.html Select “Registration Type” as “Farmer” and select the desired “APMC”. Provide your",
+  "tags": [
+    "National",
+    "Agriculture",
+    "Market"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

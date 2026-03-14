@@ -1,0 +1,41 @@
+{
+  "id": "pradhan-mantri-formalisation-o-2417",
+  "name": "Pradhan Mantri Formalisation Of Micro Food Processing Enterprises",
+  "slug": "pradhan-mantri-formalisation-of-micro-food-processing-enterprises",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "The program has four broad components addressing the needs of the sector: 1.  Support to individuals and groups of micro-enterprises. 2.  Branding and Marketing support. 3.  Support for strengthening of institutions. 4.  Setting up a robust project management framework. ﻿ Support to Individual Micro",
+  "details": "Launched on 29th June 2020, PMFMPE is a Centrally Sponsored Scheme by the Ministry of Food Processing Industries, designed to address the challenges faced by the micro-enterprises and to tap the potential of groups and cooperatives in supporting the upgradation and formalization of these enterprises. ﻿ Aims: 1.  Enhance the competitiveness of existing individual micro-enterprises in the unorganized segment of the food processing industry and promote formalization of the sector; and 2.  Support F",
+  "eligibility_text": "The Eligible Borrowers for PMFMPE can be: 1.  Farmer Producer Organization (FPO) 2. Self-Help Groups 3.  Co-operatives 4.  Existing Micro Food Processing Entrepreneurs 5.  New Units, whether for individuals or groups would only be supported for One District One Product (ODOP) ﻿ Eligibility criteria for individual micro-enterprises: 1.  Existing micro food processing units in operations. 2.  Existi",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 8-9 years",
+      "field": "age",
+      "min": 8,
+      "max": 9
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "address_proof",
+    "ration_card",
+    "pan_card"
+  ],
+  "application_url": "Step 1: Visit https://pmfme.mofpi.gov.in/pmfme/#/Home-Page Click on \"Login\", then click \"Applicant Login\". You will be redirected to the login screen of the application. If you are an existing user, s",
+  "tags": [
+    "Loan",
+    "Credit Linked Subsidy",
+    "Entrepreneurship"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

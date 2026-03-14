@@ -1,0 +1,34 @@
+{
+  "id": "pradhan-mantri-awas-yojana-urb-2413",
+  "name": "Pradhan Mantri Awas Yojana - Urban",
+  "slug": "pradhan-mantri-awas-yojana-urban",
+  "ministry": "",
+  "category": "housing",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 300000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Slum rehabilitation of eligible Slum Dwellers with participation of private developers using land as a resource. Promotion of Affordable Housing through Credit Linked Subsidy Scheme (CLSS). EWS: Annual Household Income up to Rs.3,00,000; house sizes upto 30 sq.m;   LIG: Annual Household Income from",
+  "details": "A flagship mission implemented by MoHUA, addressing urban housing shortage. The beneficiaries include Economically Weaker Section (EWS) / Low Income Group (LIG) and Middle Income Group (MIG) categories, including slum dwellers, by ensuring a pucca house to all eligible urban households by 2022. All eligible beneficiaries under all components of the scheme should have an Aadhaar/ Aadhaar Virtual ID. The Mission, as per Census 2011, covers the entire urban area consisting of Statutory Towns, Notif",
+  "eligibility_text": "1. The family identifies as one of the following - a)    Economically Weaker Section (EWS): households with annual income up to ₹ 3,00,000. b)    Low Income Group (LIG): households with annual income between ₹ 3,00,001 and ₹ 6,00,000. c)    Middle Income Group-1 (MIG-1): households with annual income between ₹ 6,00,001 and ₹ 12,00,000. d)    Middle Income Group-2 (MIG-2): households with annual in",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹300,000",
+      "field": "income",
+      "max": 300000
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "pan_card"
+  ],
+  "application_url": "Step 1: Visit the Official Website of PMAY-Urban . Step 2: Select the ‘Citizen Assessment’ option and click on the applicable choice: “For Slum Dwellers” or “Benefits under other three components”. St",
+  "tags": [
+    "Housing",
+    "Urban",
+    "Rehabilitation",
+    "Loan",
+    "Sanitation"
+  ],
+  "scheme_category_raw": "Housing & Shelter, Utility & Sanitation"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "igstc-industrial-fellowship-ph-1367",
+  "name": "IGSTC Industrial Fellowship- PhD Industrial Exposure Fellowship",
+  "slug": "igstc-industrial-fellowship-phd-industrial-exposure-fellowship",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The financial support will be limited to: The Fellowship amount is €1500 per month. Single round trip economy class airfare including visa fees and travel insurance: up to €1000. Health Insurance: As per actuals with a maximum limit of €100 per month.",
+  "details": "The Indo-German Science & Technology Centre (IGSTC) Industrial Fellowship Programme was launched by the Secretary, Department of Science and Technology, Govt. of India on the occasion of IGSTC’s 11th Foundation Day on 14th June 2021 to support young Indian researchers for industrial exposure at German industries and industrial R&D institutions. Indo-German Science & Technology Centre (IGSTC), established by the Department of Science and Technology (DST), Government of India, and the Federal Mini",
+  "eligibility_text": "The applicant should be an Indian citizen. The maximum age limit of the applicant should be 30 years. PhD students (science/engineering) enrolled in any research institutions/universities in India and completed at least one year of their PhD curriculum can apply for the fellowship. Young researchers who have completed one year of their PhD course in Science/Engineering from India are eligible. You",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 30-01 years",
+      "field": "age",
+      "min": 30,
+      "max": 1
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Application Process: Step 01: IGSTC will advertise the Fellowship call once in a year through the IGSTC website ( www.igstc.org ) and other means. Step 02: The prospective candidates need to apply onl",
+  "tags": [
+    "IGSTC",
+    "Fellowship",
+    "PhD",
+    "Industrial Exposure",
+    "Research",
+    "Indo-German",
+    "Germany"
+  ],
+  "scheme_category_raw": "Education & Learning, Science, IT & Communications"
+}

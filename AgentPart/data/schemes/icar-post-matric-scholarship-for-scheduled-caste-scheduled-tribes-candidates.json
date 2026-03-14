@@ -1,0 +1,45 @@
+{
+  "id": "icar-post-matric-scholarship-f-1358",
+  "name": "ICAR - Post Matric Scholarship For Scheduled Caste / Scheduled Tribes Candidates",
+  "slug": "icar-post-matric-scholarship-for-scheduled-caste-scheduled-tribes-candidates",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "VALUE OF SCHOLARSHIP The value of the scholarship will be ₹ 1,000/- per month along with a contingent grant of ₹ 750/- per annum for the payment of tuition fees, purchase of books, cost of uniforms, etc. ﻿ DURATION OF SCHOLARSHIP The duration of the scholarship will cover the whole of the normal per",
+  "details": "The scheme \"Post-Matric Scholarship to Scheduled Castes / Scheduled Tribes Candidates\" was introduced by the Indian Council of Agricultural Research (ICAR), Department of Agricultural Research and Education (DARE), to enable the students belonging to the weaker sections of society to complete undergraduate courses. The scholarship is provided for studying at the Bachelor's Degree program in various branches of Agriculture viz. B.Sc.(Agri.), B.V.Sc., B.Sc.(Agril. Engg.), B.Sc.(Home Science), B.F.",
+  "eligibility_text": "The applicant must be a citizen of India. The applicant must belong to Scheduled Castes / Scheduled Tribes communities as defined by the Government of India. The applicant must have been admitted to Agricultural Universities in any of the Agriculture & Allied Sciences undergraduate degree programs, viz. B.Sc.(Agri.), B.V.Sc., B.Sc.(Agril. Engg.), B.Sc.(Home Science), B.F.Sc., B.Sc.(Forestry) etc.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Step 01: The scholarship amount as well as the contingent grant will be remitted to the respective institutions by the Council based on the demand received from each institution through the Registrar ",
+  "tags": [
+    "Post Matric",
+    "Scholarship",
+    "Agriculture",
+    "Scheduled Caste",
+    "Scheduled Tribe"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

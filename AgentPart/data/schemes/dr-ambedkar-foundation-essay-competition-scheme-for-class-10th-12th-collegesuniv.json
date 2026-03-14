@@ -1,0 +1,38 @@
+{
+  "id": "dr-ambedkar-foundation-essay-c-0790",
+  "name": "Dr. Ambedkar Foundation Essay Competition Scheme for Class 10th-12th & Colleges/Universities/Institutions Students in 22 Indian Languages and English",
+  "slug": "dr-ambedkar-foundation-essay-competition-scheme-for-class-10th-12th-collegesuniv",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "The winning students of the recognized colleges/universities/institutions will be given the following prizes: Language 1st prize (₹) 2nd prize (₹) 3rd prize (₹) Hindi 1,00,000/- 50,000/- 25,000/- English 1,00,000/- 50,000/- 25,000/- Indian Languages 1,00,000/- 50,000/- 25,000/- The winning students",
+  "details": "The \"Dr. Ambedkar Foundation Essay Competition Scheme for Class 10th–12th and College/University/Institution Students in 22 Indian Languages and English\" is implemented by the Dr. Ambedkar Foundation under the Ministry of Social Justice and Empowerment, Government of India. Under this scheme, cash prizes and recognition are awarded to school and college/university students who write insightful essays on Babasaheb Ambedkar’s thoughts on social justice, empowerment, and national integration. Objec",
+  "eligibility_text": "Bonafide students from Secondary and Higher Secondary schools (10th and 12th Standard) registered under a state board or any of the central boards are eligible to participate. Bonafide students from colleges and universities recognized by the University Grants Commission (UGC) in India are also eligible to participate. Terms & Conditions of the Competition: There is no entry fee. The word limit of",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 20-50 years",
+      "field": "age",
+      "min": 20,
+      "max": 50
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "bank_passbook"
+  ],
+  "application_url": "Interested students may contact their respective school, college, or institution to apply under this scheme. Notes: The Dr. Ambedkar Foundation Essay Competition for students of recognized schools, co",
+  "tags": [
+    "Cash Prize",
+    "Student",
+    "Ambedkar Foundation",
+    "Essay Competition"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

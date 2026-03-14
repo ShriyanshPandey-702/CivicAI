@@ -1,0 +1,32 @@
+{
+  "id": "student-internship-programme-3058",
+  "name": "Student Internship Programme",
+  "slug": "student-internship-programme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 12000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Remuneration Token remuneration is ₹12,000/-(all inclusive) per month, per intern which will be paid on satisfactory completion of their internship and on submission of their Report/Paper. Logistics support Interns will be provided with the necessary logistics support, i.e. office space and computer",
+  "details": "The Student Internship Program, a unique learning opportunity aims to provide the Interns exposure to the functioning of the CAG of India. The office of the Comptroller and Auditor General of India (CAG) invites applications for engaging Student Interns (SIs) on contract basis for a duration of 3 to 6 months to work in the Regional Capacity Building and Knowledge Institutes. Candidates pursuing under graduation/ post-graduation / research in any discipline from recognized, reputed institutions,",
+  "eligibility_text": "Minimum Attributes The applicant should not be more than 25 years of age. Candidates pursuing under graduation/ post-graduation / research in any discipline from recognized, reputed institutions, with stellar academic record are eligible to apply. Preferred Attributes It includes skills in Information Technology (IT) & Information Communication Technology (ICT) with good communication and interper",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "After reading the instructions carefully, the applicant may visit the link: https://docs.google.com/forms/d/e/1FAIpQLSc2YalGsTbVe-QcpxPotewRiqrVi-GZQKWg40DWhP_Q-mDqBQ/viewform to apply for this progra",
+  "tags": [
+    "Internship",
+    "Student",
+    "Information Technology"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

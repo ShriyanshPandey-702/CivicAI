@@ -1,0 +1,29 @@
+{
+  "id": "raw-material-assistance-scheme-2562",
+  "name": "Raw Material Assistance Scheme",
+  "slug": "raw-material-assistance-scheme",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "1. Facilitating procurement of Raw Materials with credit support for up to 180 days. 2. MSMEs helped to avail Economics of Purchases like bulk purchases, cash discounts, etc. 3. Assistance against the security of Bank Guarantee-Rate of interest in respect of assistance availed on or after 01.02.2023",
+  "details": "The scheme “Raw Material Assistance Scheme” was started by the National Small Industries Corporation (NSIC), Government of India Enterprise under the Ministry of Micro, Small and Medium Enterprises (MSME) to assist the Micro, Small and Medium Enterprises (MSMEs) in procuring the raw material(s). The Scheme aims to help MSMEs by way of financing the purchase of Raw Materials (Both indigenous & imported). This allows MSMEs to focus better on manufacturing quality products.",
+  "eligibility_text": "Any Manufacturing/Service MSME having a Udyam Registration Certificate can apply for assistance under the Scheme. Note: No trading activity is allowed under the scheme.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "address_proof",
+    "pan_card"
+  ],
+  "application_url": "Application Process: Step 01: The Entrepreneurs are required to apply for Raw Material Assistance only on the prescribed application forms. Step 02: The applicants may download the application forms f",
+  "tags": [
+    "NSIC",
+    "MSME",
+    "Raw Material",
+    "Credit Support"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance"
+}

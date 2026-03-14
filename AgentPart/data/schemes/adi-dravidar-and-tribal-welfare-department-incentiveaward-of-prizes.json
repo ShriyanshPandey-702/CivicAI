@@ -1,0 +1,39 @@
+{
+  "id": "adi-dravidar-and-tribal-welfar-0186",
+  "name": "Adi Dravidar and Tribal Welfare Department-Incentive/Award of Prizes",
+  "slug": "adi-dravidar-and-tribal-welfare-department-incentiveaward-of-prizes",
+  "ministry": "",
+  "category": "education",
+  "level": "State",
+  "state": "Tamil Nadu",
+  "benefit_amount": 3000,
+  "benefit_frequency": "annual",
+  "benefit_description": "10+2 Examination: ₹3,000/-. 10th Std. First Prize: ₹1,000/-. 10th Std. Second Prize: ₹5,00/-. 10th Std. Third Prize: ₹3,00/-. ﻿",
+  "details": "The scheme “Adi Dravidar and Tribal Welfare Department-Incentive/Award of Prizes” by the Adi Dravidar and Tribal Welfare Department, Tamil Nadu, provides district-level prizes to students based on their performance in the 10th and 12th standard examinations. The incentives are given to one Boy and one Girl each from Adi Dravidar/ Tribal/ Adi Dravidar Converted to Christianity who have secured the highest mark.",
+  "eligibility_text": "The beneficiary should be a Student. The beneficiary should be a resident of Tamil Nadu. The beneficiary should belong to the Adi Dravidar/ Tribal/ Adi Dravidar (converted to Christianity) community. The beneficiary should have secured the highest marks in 10th or 12th standard exams within the district.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must be a resident of Tamil Nadu",
+      "field": "state",
+      "value": "Tamil Nadu"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Step 1: The interested applicant should collect the application form from the office of the District Adi Dravidar and Tribal Welfare Officer. Step 2: In the application form, fill in all the mandatory",
+  "tags": [
+    "Tribal Welfare",
+    "Adi Dravidar",
+    "Students",
+    "Financial Assistance",
+    "Education"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

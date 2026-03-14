@@ -1,0 +1,37 @@
+{
+  "id": "back-ended-investment-subsidy--0036",
+  "name": "\"Back Ended Investment Subsidy to Paddy Growers\" component of the \"Crop Production Technology\" scheme",
+  "slug": "back-ended-investment-subsidy-to-paddy-growers-component-of-the-crop-production-",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "State",
+  "state": "",
+  "benefit_amount": 4000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Back-ended investment subsidy to paddy growers @ ₹4,000/- per hectare.",
+  "details": "The \"Back Ended Investment Subsidy to Paddy Growers\" component of the \"Crop Production Technology\" scheme was introduced by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, the paddy farmers residing in the Yanam region are provided a back-ended investment subsidy at ₹4,000/- per hectare.",
+  "eligibility_text": "The applicant should be a resident/native of Puducherry. The applicant should be residing in the Yanam region. The applicant should be a Farmer. The applicant should possess land holdings.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "land_record",
+    "bank_passbook",
+    "address_proof",
+    "ration_card"
+  ],
+  "application_url": "Step 1: The interested applicant should visit (during office hours) one of the offices given below, and request the hard copy of the prescribed format of the application form from the concerned author",
+  "tags": [
+    "Paddy",
+    "Subsidy",
+    "Financial Assistance",
+    "Farmer",
+    "Agriculture"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "pre-matric-scholarship-for-min-2449",
+  "name": "Pre Matric Scholarship For Minorities",
+  "slug": "pre-matric-scholarship-for-minorities",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Admission Fee (Class 6th to Class 10th): Rs. 500/- per annum subject to actuals (both Hosteller & Day Scholar) Tuition Fee (Class 6th to Class 10th): Rs. 350/- per month subject to actuals (both Hosteller & Day Scholar) Maintenance Allowance (Class 1st to Class 5th*): Rs. 100/- per month for Day Sch",
+  "details": "A scholarship scheme by Ministry of Minority Affairs for students from minority communities studying in Class 1st to Class 10th in India in a government or private school, including such residential Government institutes and eligible private institutes selected and notified in a transparent manner by the State Government and Union Territory Administration concerned. A total of thirty (30) lakh scholarships are targeted to be distributed as ‘Fresh’ Scholarships, besides, Renewal scholarships. ﻿ S",
+  "eligibility_text": "The applicant must be a student in a class between Class 1st to 10th. The applicant must be from a Minority Community. The Annual income of parents/guardians of the applicant (from all sources) should be less than or equal to ₹ 1,00,000/- per Annum. The applicant should have secured not less than 50% marks in the previous final examination. The applicant must not be availing any other scholarship",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹100,000",
+      "field": "income",
+      "max": 100000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "New Registration : Step 1: Visit the New Registration page of the National Scholarships Portal. Step 2: Guidelines for Registration will appear. Scroll to the bottom. Read the undertaking carefully an",
+  "tags": [
+    "Scholarship",
+    "Minority",
+    "Student",
+    "Social Welfare",
+    "Pre-matric",
+    "School",
+    "Education",
+    "Admission Fee",
+    "Tuition Fee"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "top-class-education-for-studen-3206",
+  "name": "Top Class Education For Students With Disabilities",
+  "slug": "top-class-education-for-students-with-disabilities",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Payment of Full tuition fee and non-refundable charges (Ceiling of Rs. 2.00 LPA per student for private sector institutions) Living expenses : ₹ 3000/- per month per student. Books and stationery : ₹ 5000/- per annum per student. A computer/laptop with accessories (UPS and printer) is limited to ₹ 3",
+  "details": "A scholarship scheme by DoEPwDs for Students with Disabilities (SwDs) pursuing studies beyond class 12th admitted in a full-time course in one of the 'notified institutions'. The students with the specified disabilities defined in Schedule of the \"Rights of Persons with Disabilities Act, 2016\" will be eligible under this scheme. This includes persons with visual, hearing, speech, loco-motor, mental retardation, and other disabilities. ﻿ At times SwDs are deprived of harnessing their latent skill",
+  "eligibility_text": "The applicant should be a Student admitted in a full-time course in one of the \"notified institutions\". The Percentage of Disability should be 40% or above. The applicant should be Pursuing a Graduate or Post Graduate Degree or Diploma. The Total Annual Income of the Parent / Guardian should be less than or equal to ₹ 6.00 Lakh per Annum. The applicant MUST NOT be the third sibling in his/her fami",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 40-6 years",
+      "field": "age",
+      "min": 40,
+      "max": 6
+    },
+    {
+      "criterion": "Annual income below ₹600,000",
+      "field": "income",
+      "max": 600000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "address_proof"
+  ],
+  "application_url": "﻿ Step 1: Keep ready the soft copies of the required documents. Go to http://www.scholarships.gov.in/. and click “New Registration”. Guidelines for Registration will appear. Scroll to the bottom. Read",
+  "tags": [
+    "Student",
+    "Scholarship",
+    "Person With Disability",
+    "Empowerment",
+    "Tuition Fee",
+    "Books And Stationery"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

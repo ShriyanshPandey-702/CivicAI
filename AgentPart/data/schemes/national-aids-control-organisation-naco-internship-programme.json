@@ -1,0 +1,34 @@
+{
+  "id": "national-aids-control-organisa-2111",
+  "name": "National AIDS Control Organisation (NACO) Internship Programme",
+  "slug": "national-aids-control-organisation-naco-internship-programme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 8000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Remuneration Interns will be entitled to a stipend at the rate of ₹ 8,000 per month payable on successful completion of the Internship and submission and acceptance of their Internship reports by the Reporting Officer, and satisfactory performance certified by the HoD. NOTE: Students who discontinue",
+  "details": "NACO initiated the Internship Programme in 2018 for young students who wish to engage with the Government. The internship programme envisages an opportunity for young students to get familiar with and understand the various dimensions of policy-making & implementation of the National AIDS Control Programme. It will serve as an exposure for the interns regarding the functioning of the Government of India. It will be mutually beneficial for the organization as well as students to have a structured",
+  "eligibility_text": "The scheme is open to students pursuing undergraduate, postgraduate, M.Phil and PhD courses in various disciplines e.g. Preventive & Social Medicine, Public Health, Health Management, Statistics, Social Sciences etc (the list is only illustrative and not exhaustive) pursuing graduation or post-graduation courses from a recognized and reputed University, who may apply for the internship programme.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "pan_card"
+  ],
+  "application_url": "At NACO Headquarters, the applications in the prescribed format (Annexure-IV of the Scheme Guidelines) may be sent to the office of the Joint Secretary by registered/speed post or email communication,",
+  "tags": [
+    "Student",
+    "Internship",
+    "Health",
+    "AIDS",
+    "NACO"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "rashtriya-gram-swaraj-abhiyan--2558",
+  "name": "Rashtriya Gram Swaraj Abhiyan - Internship Program",
+  "slug": "rashtriya-gram-swaraj-abhiyan-internship-program",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 7000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The selected candidates will receive a certificate of completion. The Internship Program, MoPR shall provide a flat rate/amount of Rs.7,000/- per month as ‘stipend’ to the ‘Intern’, depending on the best applicants.",
+  "details": "For Implementation of Centrally Sponsored Scheme of \" Revamped Rashtriya Gram Swaraj Abhiyan\" (RGSA) (2022-23 to 2025-26), the Ministry of Panchayati Raj (MoPR), seeks to engage Students enrolled/pursuing undergraduate, graduate, or postgraduate degree programs and 'Young Research Scholars' enrolled/pursuing Doctoral (Ph.D.) or post-doctoral degrees in given academic disciplines below from recognized/reputed University(s)/Institution(s) within India or abroad for short-term (maximum of 3 months",
+  "eligibility_text": "The applicants i.e., ‘Students’ are enrolled/pursuing Undergraduate/Graduate/Postgraduate degree programme or ‘Research Scholars’ enrolled/pursuing Doctoral (Ph.D.)/Post-Doctoral degree in recognised/reputed University(s)/Institution(s) or completed any of the mentioned course , within last 2 years from India or Abroad are eligible to apply for the Internship Program. The preferred academic discip",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "The candidates needs to register himself on ServicePlus website if not already registered. Once registered, the applicant visit the website of the ministry to apply for the scheme. Under \"RGSA\" sectio",
+  "tags": [
+    "Internship",
+    "Research Scolars",
+    "Students"
+  ],
+  "scheme_category_raw": "Education & Learning, Skills & Employment"
+}

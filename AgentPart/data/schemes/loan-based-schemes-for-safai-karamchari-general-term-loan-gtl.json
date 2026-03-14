@@ -1,0 +1,42 @@
+{
+  "id": "loan-based-schemes-for-safai-k-1733",
+  "name": "Loan Based Schemes For Safai Karamchari - General Term Loan (GTL)",
+  "slug": "loan-based-schemes-for-safai-karamchari-general-term-loan-gtl",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 15,
+  "benefit_frequency": "annual",
+  "benefit_description": "Term loan: Up to 90% of the unit cost with a maximum unit cost of Rs.15.00 lacs at an interest rate of 6%, for any viable income generating schemes including sanitation-related activities. Repayment period: Up to 10 years after an implementation period of 4 months and a moratorium of 6 months and fr",
+  "details": "A general term loan scheme by the Ministry of Social justice and Empowerment for Safai Karamchari, Manual Scavengers, and their dependents aged 18 years and above. ﻿ Term loan: Up to 90% of the unit cost with a maximum unit cost of Rs.15.00 lacs at an interest rate of 6%, for any viable income generating schemes including sanitation-related activities. ﻿ Note: Under this scheme, term loans are extended through State Channelising Agencies (SCA), Regional Rural Banks(RRBs), and Nationalised Banks",
+  "eligibility_text": "The following person(s)/entities shall be considered eligible for availing of financial assistance under the various schemes of NSKFDC:- Safai Karamcharis (including Wastepickers), identified Manual Scavengers and their dependents. Registered co-operative societies of the target group. Legally constituted association/firm promoted by the target group, and Persons, who produce a certificate from lo",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 2013-2018 years",
+      "field": "age",
+      "min": 2013,
+      "max": 2018
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Interested eligible person shall contact nearest Channeling Agency (https://nskfdc.nic.in/en/content/home/list-channelizing-agencies)",
+  "tags": [
+    "Safai Karamcharis",
+    "Entrepreneurship",
+    "Loan",
+    "Financial Assistance",
+    "Credit",
+    "Sanitation",
+    "Manual Scavengers",
+    "Waste Pickers"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Banking,Financial Services and Insurance, Social welfare & Empowerment,"
+}

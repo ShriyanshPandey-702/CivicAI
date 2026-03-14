@@ -1,0 +1,33 @@
+{
+  "id": "capacity-building-for-service--0479",
+  "name": "Capacity Building For Service Providers - Entrepreneurship Programme",
+  "slug": "capacity-building-for-service-providers-entrepreneurship-programme",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Benefits for the Trainees - ﻿ COURSES The following 150 Hours courses will be offered in the following five trades - i) Cook – Tandoor, ii) Barman, iii) Baker, iv) Homestay (Multi-Skilled Caretaker), v) Halwai – Indian Sweets Each course will also have a built-in emphasis on improving the trainees i",
+  "details": "The scheme \"Entrepreneurship Programme\" is a Suo-Moto Sub-Scheme of the Ministry of Tourism under the Umbrella Scheme of \"Capacity Building for Service Providers (CBSP)\". In this scheme, financial assistance is provided to the institutes (given below) to conduct entrepreneurship development programmes - 1.  Government-Sponsored Tourism & Hospitality Institutes 2.  Kerala Institute of Tourism & Travel Studies (KITTS) 3.  India Tourism Development Corporation (ITDC) ﻿ The target group are the citi",
+  "eligibility_text": "1.  The applicant should have passed Class 8th. 2.  The applicant should be above the age of 18 years. ﻿ Note 1: A class will have a minimum of 10 trainees and a maximum of 30. ﻿ Note 2: In case the number of eligible candidates exceeds the requirement of a batch and there is a requirement of additional batches, the Implementing Agency will concurrently or in phases run more batches depending on i",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-30 years",
+      "field": "age",
+      "min": 18,
+      "max": 30
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 1: Eligible candidates can obtain application forms from the Institute office or from Institute's Website. Step 2: The applicant should submit the duly filled application form along with all the ",
+  "tags": [
+    "Entrepreneurship",
+    "Training",
+    "Skill"
+  ],
+  "scheme_category_raw": "Skills & Employment"
+}

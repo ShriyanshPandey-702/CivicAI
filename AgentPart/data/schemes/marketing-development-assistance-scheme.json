@@ -1,0 +1,35 @@
+{
+  "id": "marketing-development-assistan-1804",
+  "name": "Marketing Development Assistance Scheme",
+  "slug": "marketing-development-assistance-scheme",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 350000,
+  "benefit_frequency": "annual",
+  "benefit_description": "For Tourism Service Providers Financial support for study tours, and participation in travel shows/exhibitions/road shows in overseas markets (organized by the Ministry of Tourism) will be provided up to a maximum of ₹3,50,000/- per case/tour.  Sr. No.  Particulars  Extent of Support 1 Economy class",
+  "details": "The Ministry of Tourism launched the Marketing Development Assistance (MDA) Scheme under the Overseas Promotion & Publicity (OPP) Scheme. The scheme aims to provide financial support to tourism service providers approved by the Ministry of Tourism, Govt. of India or the respective State Government / Union Territory (UT) Administration for undertaking promotion and marketing of India in the overseas markets. ﻿ Objectives : To motivate stakeholders to promote tourism to the country from the overse",
+  "eligibility_text": "The tourism service providers should be travel agents, inbound tour operators, tourist transport operators, classified hotels, classified bed & breakfast units, classified home stays, classified motels, guest houses & tented accommodation units, standalone restaurants, convention centers, and online aggregators, sales tours, participation in travel fairs/exhibitions and road shows (organized by Mi",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1-19 years",
+      "field": "age",
+      "min": 1,
+      "max": 19
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Prior Approval: Step 01: The TSP/SG/UT shall obtain Prior Approval from the Ministry of Tourism, Government of India, before undertaking a tour overseas. Step 02: The applicants download the prior app",
+  "tags": [
+    "Tourism",
+    "Financial Assistance",
+    "Promotion",
+    "Operators",
+    "International"
+  ],
+  "scheme_category_raw": "Travel & Tourism, Business & Entrepreneurship"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ishan-uday-special-scholarship-3396",
+  "name": "“Ishan Uday” Special Scholarship Scheme For North Eastern Region",
+  "slug": "ishan-uday-special-scholarship-scheme-for-north-eastern-region",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 5400,
+  "benefit_frequency": "monthly",
+  "benefit_description": "1)  UGC will award 10,000 (ten thousand) fresh scholarships per year. 2)  ₹5,400/- per month for general degree courses and ₹7,800/- per month for technical/medical/professional/paramedical courses. 3)  The scholar would be awarded from the date of joining the course as certified by the University/I",
+  "details": "A scholarship scheme by the Ministry of Education and the University Grants Commission. Taking special interest with regard to the promotion of higher education in the NER, i.e. for improving the GER, promoting higher education, and encouraging children belonging to the economically weaker sections of the NE region, the UGC has decided to launch “Ishan Uday” Special Scholarship Scheme for North Eastern Region from the academic session 2014-15. Before launching the scheme the UGC undertook wide-r",
+  "eligibility_text": "The applicant must be a domicile of NER. The parental annual income of the applicant should not exceed ₹4,50,000 per annum from all sources. The applicant should have passed Class 12th or equivalent in the preceding year of study for applications called for the present year. The applicant should have secured admission in the first year of any degree course, either a general degree course of The sc",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹450,000",
+      "field": "income",
+      "max": 450000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "address_proof"
+  ],
+  "application_url": "New Registration : Step 1: Visit the Registration page of the National Scholarships Portal. Step 2: Guidelines for Registration will appear. Scroll to the bottom. Read carefully the undertaking. Accep",
+  "tags": [
+    "Scholarship",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

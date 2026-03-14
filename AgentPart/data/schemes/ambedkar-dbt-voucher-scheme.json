@@ -1,0 +1,60 @@
+{
+  "id": "ambedkar-dbt-voucher-scheme-0224",
+  "name": "Ambedkar DBT Voucher Scheme",
+  "slug": "ambedkar-dbt-voucher-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "State",
+  "state": "Rajasthan",
+  "benefit_amount": 2000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Financial Assistance:  ₹2,000/- per month for a maximum of 10 months per academic year. Note: Students will be paid on monthly/monthly basis. Duration of Benefit:  Maximum 5 years per student. Total Number of Beneficiaries: 5,000 students annually.",
+  "details": "The \"Ambedkar DBT Voucher Scheme\" was launched by the Social Justice and Empowerment Department, Government of Rajasthan, during the financial year 2021–22. It aims to provide financial assistance for accommodation to students from SC, ST, OBC, MBC, and EWS categories who are regularly studying in undergraduate or postgraduate courses at government colleges located at the district level in Rajasthan. Under this scheme, eligible students residing in rented accommodations receive ₹2,000 per month",
+  "eligibility_text": "The applicant should be a resident of Rajasthan. The applicant should belong to Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), Most Backward Class (MBC) or Economically Weaker Section (EWS) category. The applicant should be studying in a government college at the district level for the academic course. The student should be regularly enrolled in an undergraduate or postgra",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹250,000",
+      "field": "income",
+      "max": 250000
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must be a resident of Rajasthan",
+      "field": "state",
+      "value": "Rajasthan"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Step 1: The applicant should gather copies of the necessary documents needed to apply for the concerned scheme. Step 2: The applicant should visit the nearest E-Mitra Center and complete the Biometric",
+  "tags": [
+    "Financial Assistance",
+    "Residential Facility",
+    "Scheduled Caste",
+    "Scheduled Tribe",
+    "Other Backward Class",
+    "Economically Weaker Section",
+    "Most Backward Class",
+    "Student",
+    "Hostel"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment, Education & Learning"
+}

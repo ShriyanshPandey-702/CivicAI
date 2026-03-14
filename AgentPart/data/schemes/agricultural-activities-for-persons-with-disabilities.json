@@ -1,0 +1,46 @@
+{
+  "id": "agricultural-activities-for-pe-0202",
+  "name": "Agricultural Activities for Persons with Disabilities",
+  "slug": "agricultural-activities-for-persons-with-disabilities",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "State",
+  "state": "Haryana",
+  "benefit_amount": 1000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Under this scheme, loans up to ₹10,00,000/- are provided to persons with disabilities for agricultural production, irrigation, horticulture, sericulture, purchasing agricultural machinery/equipment for agricultural services, marketing agricultural products, etc.",
+  "details": "The scheme \"Agricultural Activities for Persons with Disabilities\" is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans up to ₹10,00,000/- are provided to individuals identified as persons with disabilities for agricultural production, irrigation, horticulture, sericulture, the purchase of agricultural machinery and equipment for agricultural services, and the marketing of agricultural products etc. Permanen",
+  "eligibility_text": "The applicant should be a permanent resident of Haryana. The applicant should have a disability of at least 40%. The applicant should be above 18 years old. For persons with mental retardation, the age requirement is relaxed to 14 years instead of the usual 18 years.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be 18 years or older",
+      "field": "age",
+      "min": 18
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    },
+    {
+      "criterion": "Must be a resident of Haryana",
+      "field": "state",
+      "value": "Haryana"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "address_proof",
+    "ration_card",
+    "disability_cert"
+  ],
+  "application_url": "Registration Process on Antyodaya-SARAL Portal: Step 01: The eligible applicant may apply online through the Official Portal- Antyodaya-SARAL Portal . Step 02 : If the applicant is not registered on t",
+  "tags": [
+    "Agricultural Activities",
+    "PwD",
+    "Loan",
+    "Disabled Person"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment, Business & Entrepreneurship"
+}

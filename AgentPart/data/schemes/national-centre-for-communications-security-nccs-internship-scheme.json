@@ -1,0 +1,34 @@
+{
+  "id": "national-centre-for-communicat-2144",
+  "name": "National Centre For Communications Security (NCCS) Internship Scheme",
+  "slug": "national-centre-for-communications-security-nccs-internship-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 7500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Token Remuneration Interns selected under Category 1 will be paid a token remuneration @ ₹ 7,500/- per month on prorate basis. Interns selected under Category 2 will be paid a token remuneration @ ₹ 15,000/- per month on prorate basis. The remuneration shall be paid after the completion of the month",
+  "details": "The National Centre for Communications Security (NCCS) Internship Scheme allows young talent to be associated with the NCCS work for mutual benefit. It will enable NCCS to interact with young scholars and to get fresh ideas and study/ research support from the field of academics. At the same time, it will provide an opportunity for young scholars to contribute to the NCCS work and have an insight into the related technical work. The opportunity enables the young population to acquire knowledge i",
+  "eligibility_text": "Category 1 Indian students from recognized universities in India or abroad, studying in 3rd/ 4th year (Final or pre-final year) in Bachelor's Degree course in Electronics/ Communications/ Telecommunication /Radio/ Information Technology/ Computers / Electrical (with majors in electronics/communications/computers) Engineering or related discipline and secured minimum 60% marks. Category 2 Indian st",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Application The interested and eligible candidates must submit their applications along with their CVs, and areas of work interest in the prescribed application form ( Annexure-II of the Scheme Guidel",
+  "tags": [
+    "Internship",
+    "Education",
+    "Training",
+    "Student",
+    "Graduation"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

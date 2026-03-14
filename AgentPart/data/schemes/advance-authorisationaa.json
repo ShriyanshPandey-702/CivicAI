@@ -1,0 +1,24 @@
+{
+  "id": "advance-authorisationaa-0194",
+  "name": "Advance Authorisation(AA)",
+  "slug": "advance-authorisationaa",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Input for exports exempted from payment of Basic Customs Duty, Additional Customs Duty, Education Cess, Anti-dumping Duty, Safeguard Duty and Transition Product Specific Safeguard Duty, wherever applicable. Exempted from IGST and Compensation cess. ﻿",
+  "details": "Advance Authorisation Scheme : Advance Authorisation is issued to allow duty free import of input, which is physically incorporated in export product (making normal allowance for wastage). In addition, fuel, oil, catalyst which is consumed / utilized in the process of production of export product, may also be allowed. Authorisation shall be issued in accordance with the Policy and Procedures in force on the date of issue of the Authorisation. ﻿ Advance Authorisation is issued for inputs in relat",
+  "eligibility_text": "Advance Authorisation can be issued either to a manufacturer exporter or merchant exporter tied to supporting manufacturer,. Advance Authorisation for pharmaceutical products manufactured through Non-Infringing (NI) process (as indicated in paragraph 4.18 of Handbook of Procedures) shall be issued to manufacturer exporter only. ﻿ Advance Authorisation shall be issued for: Physical export (includin",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "i)  Application Link:  1. www.dgft.gov.in  2. Then follow the steps: For AA under Services > Advance Authorisation /DFIA > Apply for Advance Authorisation (ANF 4A). ﻿ ii) Steps Of Application Process:",
+  "tags": [
+    "Enterpreneurship"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "aaloo-ke-kufri-chipsona-1-prab-0132",
+  "name": "Aaloo Ke Kufri Chipsona-1 Prabhed Ke Kshetra Vistaar Yojana",
+  "slug": "aaloo-ke-kufri-chipsona-1-prabhed-ke-kshetra-vistaar-yojana",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "State",
+  "state": "Bihar",
+  "benefit_amount": 4000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Affordable High-Quality Seeds: Farmers will receive Kufri Chipsona-I potato seeds at an estimated price of ₹4,000/- per quintal or the actual seed price, whichever is lower. Financial Assistance: Total ₹93,863/- per hectare (First year: ₹70,397/- and Second year: ₹23,466/-). ﻿",
+  "details": "“Aaloo Ke Kufri Chipsona-1 Prabed Ke Kshetra Vistaar Yojana” launched by the Department of Agriculture, Bihar, aims to increase the production of Kufri Chipsona variety suitable for potato processing in Bihar by expanding its area and to increase the income of farmers by promoting processing. Under this scheme, certified quality seeds of Kufri Chipsona variety suitable for potato processing will be made available to farmers. ﻿",
+  "eligibility_text": "The applicant should be a resident of Bihar. The applicant should be a farmer. The applicant must have agricultural land a minimum of 0.25 acres (0.1 ha) and a maximum of 5 acres (2 ha). The applicant must be registered on the DBT portal. ﻿ Note 1:  Beneficiary allocation: General Category: 78.56%. Scheduled Castes: 20%. Scheduled Tribes: 1.44%. Women Participation: 30%. Note 2: The benefits of th",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    },
+    {
+      "criterion": "Must be a resident of Bihar",
+      "field": "state",
+      "value": "Bihar"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "DBT Registration Process: Step 1: Visit the registration page of the DBT portal. Step 2: Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS. Step 3: Enter your Aadhaar number and Name as per Aadhaa",
+  "tags": [
+    "Agriculture",
+    "Subsidy",
+    "Plant Supply",
+    "Financial Assistance",
+    "Potato",
+    "Kufri Chipsona Varient"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

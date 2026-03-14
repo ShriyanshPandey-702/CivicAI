@@ -1,0 +1,36 @@
+{
+  "id": "national-award-for-senior-citi-2120",
+  "name": "National Award For Senior Citizens (Vayoshreshtha Samman): Centenarian",
+  "slug": "national-award-for-senior-citizens-vayoshreshtha-samman-centenarian",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 250000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Decoration The Awardee is given a Citation, Memento, and a Cash award of ₹ 2,50,000/-. ﻿ No. of Awardees The total number of Awardees is 15 (Fifteen). ﻿ Presentation of Award (Ceremony Details) The Award shall be presented in New Delhi at a special ceremony/function to be held on the occasion of the",
+  "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the \"National Award for Senior Citizens (Vayoshreshtha Samman)\" to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon’ble President of India at Vigyan Bhawan, New Delhi. The \"Centenarian Award\" is conferred to",
+  "eligibility_text": "For the Nominee A.  The award shall be given to renowned individuals who are above ninety years of age and are still physically active, independent and contributing to society. B.  To daim the award the following conditions shall be fulfilled, namely: The individual should be above the age of ninety years. Should have rendered exemplary services for the betterment of the community and society at l",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1-2 years",
+      "field": "age",
+      "min": 1,
+      "max": 2
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof",
+    "birth_cert"
+  ],
+  "application_url": "Registration Step 1: The agencies or persons, authorized to nominate and recommend eligible institutions or individuals, should visit the National Awards Portal . On the top right of the homepage, cli",
+  "tags": [
+    "Award",
+    "Financial Assistance",
+    "Senior Citizen",
+    "Social Welfare",
+    "Centenarian"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

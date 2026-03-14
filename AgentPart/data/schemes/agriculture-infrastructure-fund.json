@@ -1,0 +1,48 @@
+{
+  "id": "agriculture-infrastructure-fun-0210",
+  "name": "Agriculture Infrastructure Fund",
+  "slug": "agriculture-infrastructure-fund",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 2,
+  "benefit_frequency": "annual",
+  "benefit_description": "The scheme targets to provide following benefits: 1)\tImproved marketing infrastructure to allow farmers to sell directly to a larger base of consumers and hence, increase value realization for the farmers. This will improve the overall income of farmers. 2)\tWith investments in logistics infrastructu",
+  "details": "The financing facility will be provided for funding Agriculture Infrastructure Projects at farm-gate & aggregation points to agri entrepreneurs, farmers, Primary Agricultural Cooperative Societies, Farmers Producer Organizations, Start-ups, state agencies, state sponsored Public Private partnerships, etc. ﻿ All scheduled commercial banks, scheduled cooperative banks, Regional Rural Banks (RRBs), Small Finance Banks, Non-Banking Financial Companies (NBFCs) and National Cooperative Development Cor",
+  "eligibility_text": "1)\tParticipating lending institutions will decide criteria for selection of eligible borrower as per their own policy, keeping in mind the viability of the projects. 2)\t24% of total grants – in – aid under the scheme should be utilized for SC/ST entrepreneurs (16% for SC and 8% for ST). Besides this, lending institutions would ensure adequate coverage of entrepreneurs belonging to women and other",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof",
+    "pan_card"
+  ],
+  "application_url": "Step 01: Apply as a beneficiary on https://agriinfra.dac.gov.in/Home/BeneficiaryRegistration and complete registration to generate a Beneficiary ID. ﻿ Step 02: Download DPR template from the website. ",
+  "tags": [
+    "Infrastructure",
+    "Interest Subvention",
+    "Credit Guarantee",
+    "Financing Facility"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment, Business & Entrepreneurship"
+}

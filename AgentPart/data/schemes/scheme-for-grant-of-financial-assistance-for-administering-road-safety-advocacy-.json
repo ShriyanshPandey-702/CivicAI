@@ -1,0 +1,36 @@
+{
+  "id": "scheme-for-grant-of-financial--2771",
+  "name": "Scheme for Grant of Financial Assistance for Administering Road Safety Advocacy and Awards for the Outstanding Work Done in the Field of Road Safety",
+  "slug": "scheme-for-grant-of-financial-assistance-for-administering-road-safety-advocacy-",
+  "ministry": "",
+  "category": "sports",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "one_time",
+  "benefit_description": "The financial assistance to the Applicant Agency shall be provided in Milestone wise or Single Stage as under: Milestone-wise Payment Structure: Program Duration-120 days and above Sl. No. Milestone Percentage of approved Grant Payment 1 Mobilization Advance Up to 15% Upon signing the grant agreemen",
+  "details": "The scheme “Scheme for Grant of Financial Assistance for Administering Road Safety Advocacy and Awards for the Outstanding Work Done in the Field of Road Safety” was launched by the Ministry of Road Transport and Highways, Government of India. The objective of the Scheme is to stimulate and encourage opportunities for various agencies through participation, in order to create awareness on road safety. The Scheme will work in alignment with the following objectives of the National Road Safety Pol",
+  "eligibility_text": "The Applicant Agency shall be an NGO/Trust under the Indian Trusts Act/Cooperative Society under the Societies Registration Act/Firm registered under the Companies Act, 1956/2013 or an Academic Institution accredited/affiliated to or recognized as a University or Deemed University by UGC Act. In case, the Applicant Agency is an NGO, then the Applicant Agency shall be registered on the DARPAN Platf",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1956-2 years",
+      "field": "age",
+      "min": 1956,
+      "max": 2
+    }
+  ],
+  "documents_required": [
+    "pan_card"
+  ],
+  "application_url": "Register of NGO/Trust/Cooperative Society/Firm: Step 01: The Applicant Agency desirous of implementing the road safety programme shall submit the proposal online. Step 02: All Applicant Agency who wis",
+  "tags": [
+    "Financial Assistance",
+    "Road Safety",
+    "Advocacy",
+    "Award",
+    "NGO",
+    "Trust",
+    "Cooperative Society"
+  ],
+  "scheme_category_raw": "Transport & Infrastructure"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "assistance-to-voluntary-organi-0315",
+  "name": "Assistance to Voluntary Organizations Working for Welfare of OBCs",
+  "slug": "assistance-to-voluntary-organizations-working-for-welfare-of-obcs",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Financial support for skill development projects aimed at improving socio-economic conditions of OBCs. Simplified and transparent application and approval process. Regular monitoring and evaluation to ensure effective utilization of funds. Support for NGOs to enhance their capacity and expand their",
+  "details": "The central sector scheme \"Assistance to Voluntary Organizations Working for Welfare of OBCs\" was launched by the Ministry of Social Justice and Empowerment, Government of India. The scheme aims to involve the voluntary sector to improve the educational and socio-economic conditions of the target group i.e. OBCs, to upgrade skills to enable them to start income-generating activities on their own or get gainfully employed in some sector or the other. The projects can be implemented in villages un",
+  "eligibility_text": "For the Organization: Registered under the Societies Registration Act, 1860 (XXI of 1860) or any relevant Act of the State/Union Territory/Public trust. The organization should have an appropriate administrative structure and managing/executive committee. The organization should be democratically governed without external control. The organization must be registered for at least three years (waiva",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹100,000",
+      "field": "income",
+      "max": 100000
+    },
+    {
+      "criterion": "Must belong to OBC category",
+      "field": "caste",
+      "values": [
+        "obc",
+        "sc",
+        "st"
+      ]
+    }
+  ],
+  "documents_required": [
+    "bank_passbook",
+    "pan_card"
+  ],
+  "application_url": "Firstly, NGOs Generate Unique ID Step-01: The applicant visits the NGO-DARPAN Portal to register yourself Step-02: Go to the tab \"Register your NGO\". Step-03: Fill up the registration form \"Sign UP\". ",
+  "tags": [
+    "Empowerment",
+    "Other Backward Class",
+    "NGO",
+    "Empolyment"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment, Skills & Employment"
+}

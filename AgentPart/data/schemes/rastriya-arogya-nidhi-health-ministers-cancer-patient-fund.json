@@ -1,0 +1,33 @@
+{
+  "id": "rastriya-arogya-nidhi-health-m-2561",
+  "name": "Rastriya Arogya Nidhi - Health Minister’s Cancer Patient Fund",
+  "slug": "rastriya-arogya-nidhi-health-ministers-cancer-patient-fund",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Financial assistance of  ₹5,00,000/- (Rs. Five lakh only) is provided towards treatment. ﻿ Note: Individual cases, which require assistance of more than ₹5,00,000/- will be sent to the Ministry for processing. The maximum financial assistance admissible under the Scheme will be ₹15,00,000/- ﻿ List o",
+  "details": "The “Health Minister’s Cancer Patient Fund (HMCPF) within the Rashtriya Arogya Nidhi (RAN)” was set up in 2009. ﻿ It is a scheme to provide financial assistance to poor patients living below poverty line and suffering from cancer, for their treatment at 27 Regional cancer centers (RCCs). Revolving Funds have been created in all the 27 Regional Cancer Centres (RCCs) and funds up to Rs. 50 lakhs will be placed at their disposal. ﻿",
+  "eligibility_text": "Eligibility for Health Minister’s Cancer Patient Fund (HMCPF) within RAN : ﻿ The fund will provide financial assistance to patients, living below poverty line who is suffering from Cancer. Assistance is admissible for treatment in 27 Regional Cancer Centre(s) (RCC) only. Central Govt./State Govt. /PSU employees are not eligible for financial assistance from HMCPF. Grant from HMCPF would not be use",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "ration_card"
+  ],
+  "application_url": "Step 1: Download the prescribed application form (Refer Page No: 10, 11 and 12). Step 2: Complete the form in the prescribed format, ensuring all required sections are accurately filled. Step 3: Get t",
+  "tags": [
+    "BPL",
+    "Cancer Treatment"
+  ],
+  "scheme_category_raw": "Health & Wellness, Social welfare & Empowerment"
+}

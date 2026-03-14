@@ -1,0 +1,49 @@
+{
+  "id": "additional-pension-to-100-disa-0181",
+  "name": "Additional Pension to 100% Disabled Ex-Serviceman having Children",
+  "slug": "additional-pension-to-100-disabled-ex-serviceman-having-children",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "State",
+  "state": "Uttar Pradesh",
+  "benefit_amount": 100,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The rates of additional pension admissible under the scheme are as follows: Sl. No. Category Additional Pension Amount 1 Other Ranks ₹100/- per child per month subject to a maximum of ₹300/- 2 JCO’s ₹150/- per child per month subject to a maximum of ₹450/- 3 Officers ₹200/- per child per month subje",
+  "details": "The scheme \"Additional Pension to 100% Disabled Ex-Serviceman having Children\" is implemented by the Sainik and Ardh Sainik Welfare Department, Government of Haryana. Under the scheme, an additional pension is provided to 100% disabled ex-servicemen who were members of the Armed Forces and have been released from service due to 100% disability or permanent incapacity to work, provided the disability or incapacity is attributable to service. The additional pension amount is given only for up to t",
+  "eligibility_text": "The applicant should be a permanent resident of Haryana. The applicant should be an Ex-serviceman. An ex-serviceman means a member of the Armed Forces who is released from service due to 100% disability or permanent incapacity to work and the disability or incapacity is attributable to service. The applicant should have 100% disability. The benefit is provided for up to three children. The benefit",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 20-2 years",
+      "field": "age",
+      "min": 20,
+      "max": 2
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    },
+    {
+      "criterion": "Must be a resident of Haryana",
+      "field": "state",
+      "value": "Haryana"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "address_proof",
+    "ration_card",
+    "disability_cert",
+    "pan_card"
+  ],
+  "application_url": "Registration Process on Antyodaya-SARAL Portal: Step 01: The eligible applicant may apply online through the Official Portal- Antyodaya-SARAL Portal . Step 02: If the applicant is not registered on th",
+  "tags": [
+    "Pension",
+    "Ex-Serviceman",
+    "PwD",
+    "Disability",
+    "Sainik"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

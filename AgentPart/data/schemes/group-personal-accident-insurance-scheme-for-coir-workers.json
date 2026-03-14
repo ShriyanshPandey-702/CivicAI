@@ -1,0 +1,31 @@
+{
+  "id": "group-personal-accident-insura-1286",
+  "name": "Group Personal Accident Insurance Scheme For Coir Workers",
+  "slug": "group-personal-accident-insurance-scheme-for-coir-workers",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50000,
+  "benefit_frequency": "annual",
+  "benefit_description": "For death due to accident – Rs.50,000. For permanent total disability (loss of two eyes or two limbs, loss of one eye and one limb) – Rs.50,000. For permanent partial disability (loss of one eye or one limb) – Rs.25,000.",
+  "details": "A group insurance scheme by MoMSME for coir workers. The scheme provides insurance cover against accidental death and permanent disability of the insured member. ﻿ The coir processing activities such as extraction of fibre, spinning of coir yarn and manufacture of coir rope, finished products involve drudgery, strain and hardships. ﻿ The workers engaged in processing of coir with the aid of machineries and equipments are prone to minor or major accidents at work site and elsewhere. The Scheme wi",
+  "eligibility_text": "The applicant must be EITHER a disabled coir worker OR nominee of the disabled/deceased coir worker. If the applicant is a disabled coir worker, he/she should be at least 14 years in age. If the applicant is a disabled coir worker, the percentage of disability should be at least 40%.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "disability_cert"
+  ],
+  "application_url": "Submission of Claim - To apply for a claim under the insurance scheme, follow the procedure specified below: Immediate written notice of claim should be given to the Insurance company through Coir Boa",
+  "tags": [
+    "Insurance",
+    "Financial Assistance",
+    "Person With Disability"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance, Social welfare & Empowerment"
+}

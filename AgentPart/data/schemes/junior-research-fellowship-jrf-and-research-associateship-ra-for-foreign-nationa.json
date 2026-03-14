@@ -1,0 +1,43 @@
+{
+  "id": "junior-research-fellowship-jrf-1606",
+  "name": "Junior Research Fellowship (JRF) And Research Associateship (RA) For Foreign Nationals",
+  "slug": "junior-research-fellowship-jrf-and-research-associateship-ra-for-foreign-nationa",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 12000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "NATURE OF ASSISTANCE The number of slots available under the scheme is 20 for Junior Research Fellowship (JRF) and 7 for Research Associateship (RA). The tenure of these awards is four years (Non-extendable) for both JRF and RA. ﻿ Financial Assistance for JRF - Fellowship @ Rs. 12,000/-p.m. for an i",
+  "details": "INTRODUCTION The scheme was initiated keeping in view the political and cultural bilateral relations of India with other developing countries of Asia, Africa, and Latin America. The scheme has opened new vistas for foreign students and teachers, enabling them to come to India and undertake advanced studies and research in sciences, humanities, and social sciences in Indian Universities. ﻿ OBJECTIVE The objective of the scheme is to provide an opportunity for foreign students and teachers from de",
+  "eligibility_text": "Target Group: Students and teachers from developing countries of Asia/Africa and Latin America. ﻿ For Junior Research Fellowship (JRF): 35 years for male candidates as of 1st July of the year of application and 40 years for female candidates. The candidates must have at least a high-class master’s degree with a second-class bachelor’s degree or a second-class master’s degree with a first-class bac",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 40-45 years",
+      "field": "age",
+      "min": 40,
+      "max": 45
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "address_proof",
+    "birth_cert"
+  ],
+  "application_url": "PROCEDURE FOR APPLYING FOR THE SCHEME: The applications are invited through the circulation to Indian embassies/Indian missions abroad. They will receive applications from eligible candidates and afte",
+  "tags": [
+    "Fellowship",
+    "Research",
+    "Foreign"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "deen-dayal-upadhyay-grameen-ka-0671",
+  "name": "Deen Dayal Upadhyay Grameen Kaushalya Yojana",
+  "slug": "deen-dayal-upadhyay-grameen-kaushalya-yojana",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Skill Training: The program provides skill training to beneficiaries in a variety of sectors, including agriculture, construction, retail, and hospitality. The training is designed to be industry-relevant and to equip beneficiaries with the skills they need to secure employment. Placement Assistance",
+  "details": "The scheme \"Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)\" is a skill training and placement program of the Ministry of Rural Development (MoRD). The program focuses on the rural poor youth and its emphasis on sustainable employment through the prominence and incentives given to post-placement tracking, retention, and career progression. DDU-GKY is designed to provide high-quality skill training opportunities to the rural poor, and also to establish a larger ecosystem that supports tra",
+  "eligibility_text": "The target group for DDU-GKY is poor rural youth in the age group 15-35. The upper age limit for women candidates, and candidates belonging to Particularly Vulnerable Tribal Groups (PVTGs), Persons with Disabilities (PwDs), Transgender and other Special Groups like rehabilitated bonded labor, victims of trafficking, manual scavengers, trans-genders, HIV-positive persons, etc shall be 45 years. ﻿ T",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 15-35 years",
+      "field": "age",
+      "min": 15,
+      "max": 35
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "disability_cert"
+  ],
+  "application_url": "Step 1: Visit the Official Website of Kaushal Panjee. Step 2: In the Left Pane, click \"Candidate Registration\". You will be taken to the Online Registration Form . Step 3: In the \"Registration Type\" s",
+  "tags": [
+    "Skill",
+    "Training",
+    "Education",
+    "Placement",
+    "Youth",
+    "Employment"
+  ],
+  "scheme_category_raw": "Skills & Employment"
+}

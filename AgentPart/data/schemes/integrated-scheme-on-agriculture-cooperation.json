@@ -1,0 +1,41 @@
+{
+  "id": "integrated-scheme-on-agricultu-1487",
+  "name": "Integrated Scheme on Agriculture Cooperation",
+  "slug": "integrated-scheme-on-agriculture-cooperation",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Grant-in-aid under the ISAC scheme for projects related to weaker sections/women cooperatives and labour cooperatives: ﻿ Cooperatively least developed states {Arunachal Pradesh, Assam, Bihar, Jharkhand, Jammu & Kashmir, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, and Tripura} : 25% Cooperatively",
+  "details": "﻿ The Integrated Scheme on Agriculture Cooperation (ISAC) is a Central Sector Scheme of the Ministry of Agriculture and Farmers Welfare, Government of India. The scheme is being implemented through the National Cooperative Development Corporation (NCDC). ﻿ The main objectives of the scheme are Provide financial assistance to cooperatives to improve their economic conditions. Remove regional imbalances and speed up cooperative development in agricultural and allied sectors. Help cotton growers to",
+  "eligibility_text": "Eligible Sectors for NCDC’s assistance. Agricultural Marketing, Processing, Storage, Computerization and weaker sections’ Programmes, and input supply, Plantation/ horticultural crops, SC & ST cooperatives, tribal cooperatives, hill area cooperatives, dairy, poultry, livestock, fisheries, handloom coir, jute, cash crops, sericulture, computerization of cooperatives including PACS, DCCB and State C",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Cooperative societies intending to avail NCDC’s assistance may contact the Office of Registrar of Cooperative Societies(RCS)/ Commissioner in charge of the specific programme / Agriculture & Cooperati",
+  "tags": [
+    "Financial Assistance",
+    "Improve Economic Conditions",
+    "Loan"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

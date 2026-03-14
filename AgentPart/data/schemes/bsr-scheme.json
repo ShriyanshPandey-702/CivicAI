@@ -1,0 +1,34 @@
+{
+  "id": "bsr-scheme-0358",
+  "name": "BSR Scheme",
+  "slug": "bsr-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 27900,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Financial Assistance Fellowship For GATE/NET Qualified candidates: JRF @ 24,800/-pm for 2 years; SRF@ Rs. 27,900 pm for the remaining period For others: JRF @ Rs. 21,700/- for 2 years; SRF @ Rs. 24,800/- pm for the remaining period Contingency Contingency @ Rs. 12,000/- pa for JRF; @ Rs. 25,000/- pa",
+  "details": "Introduction The Research Fellowship in Sciences for meritorious students BSR scheme of the UGC is open to candidates who are selected for registering for the Ph.D. program of the university through a procedure outlined already in the UGC notification by a regular admission procedure. The registration for Ph.D. may follow after the admissions. Objectives The objective of the BSR scheme is to provide opportunities to meritorious candidates to undertake advanced studies and research leading to Ph.",
+  "eligibility_text": "Faculty members at the level of Professor or Associate Professor in science and technology departments. Applicants must have successfully supervised the Ph.D. dissertations of at least 15 full-time candidates in basic sciences or 10 in engineering and technology, with at least 5 having graduated in the last 10 years. A cumulative impact factor of published papers should be a minimum of 50. The app",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 10-2 years",
+      "field": "age",
+      "min": 10,
+      "max": 2
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Only those candidates who are selected for registering for the Ph.D. program of the university through a procedure outlined already in the UGC notification by a regular admission procedure in Universi",
+  "tags": [
+    "Research",
+    "Fellowship",
+    "Science",
+    "PhD"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

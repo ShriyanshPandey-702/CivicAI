@@ -1,0 +1,43 @@
+{
+  "id": "pradhan-mantri-ujjwala-yojana--2437",
+  "name": "Pradhan Mantri Ujjwala Yojana 2.0",
+  "slug": "pradhan-mantri-ujjwala-yojana-20",
+  "ministry": "",
+  "category": "women",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1600,
+  "benefit_frequency": "annual",
+  "benefit_description": "Cash assistance for PMUY connections is provided by the Government of India - Rs. 1600 (for a connection 14.2kg cylinder/ Rs. 1150 for a 5 kg cylinder). The cash assistance covers: Security Deposit of Cylinder – Rs. 1250 for 14.2 kg cylinder/ Rs. 800 for 5 kg cylinder. Pressure Regulator – Rs. 150.",
+  "details": "In May 2016, the Ministry of Petroleum and Natural Gas (MOPNG), introduced the \"Pradhan Mantri Ujjawala Yojana 2.0\" in India. The Pradhan Mantri Ujjawala Yojana (PMUY) is a scheme launched by the Government of India in 2016 to provide free LPG (liquefied petroleum gas) connections to women from below-poverty-line households. The objective was to make clean cooking fuel such as LPG available to the rural and deprived households which were otherwise using traditional cooking fuels such as firewood",
+  "eligibility_text": "1. Adult women belong to any of the following categories. SC Households ST Households Pradhan Mantri Awas Yojana (Gramin) Most Backward Classes Antyodaya Anna Yojana (AAY) Tea and Ex-Tea Garden tribes Forest Dwellers People residing on Islands and River Islands SECC Households (AHL TIN) Poor Household as per 14-point declaration 2. Applicant must have attained 18 years of age. 3. There should not",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be 18 years or older",
+      "field": "age",
+      "min": 18
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "ration_card"
+  ],
+  "application_url": "Step 1: You can download Forms from the official website (given below) or get them from the nearest LPG distributor. ﻿ ﻿ KYC Form ﻿ ﻿ ﻿ Supplementary KYC Document & Undertaking ﻿ ANNEXURE - I Self-dec",
+  "tags": [
+    "LPG",
+    "Cooking Fuel",
+    "Household",
+    "Women"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment, Women and Child"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "national-renewable-energy-fell-2179",
+  "name": "National Renewable Energy Fellowship Scheme of the Human Resource Development Programme in New and Renewable Energy",
+  "slug": "national-renewable-energy-fellowship-scheme-of-the-human-resource-development-pr",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 31000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Funding Pattern ﻿ JRF (Junior Research Fellow) Fellowship: ₹31,000 per month HRA (House Rent Allowance): As per Central Government Norms Contingency: ₹20,000 per annum Duration: 2 Years ﻿ SRF (Senior Research Fellow) Fellowship: ₹35,000 per month HRA: As per Central Government Norms Contingency: As",
+  "details": "The objective of the \"National Renewable Energy Fellowship Scheme\" Component of the Human Resource Development Programme in New and Renewable Energy, Human Resources Development Division, Ministry of New and Renewable Energy, is to institutionalize renewable energy education and training to meet the requirement of qualified and trained manpower in the country. The HRD Programme has been with a total financial outlay of Rs. 200 crore for the period of FY 2021-22 to 2025-26. ﻿ The \"National Renewa",
+  "eligibility_text": "Eligibility Criteria for the Applicant The applicant should be pursuing higher studies in renewable energy viz. M.Sc, M. Tech, PhD in Renewable Energy technologies OR The applicant should be a Research Associate or post-doctoral Fellow pursuing advanced research in MNRE institutions and other key institutions. These Fellowships will exclusively be awarded for Courses on Renewable Energy related su",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert"
+  ],
+  "application_url": "Call for Applications MNRE will publish advertisements on an annual basis inviting applications from interested universities/institutes for fellowships for higher education and research in renewable e",
+  "tags": [
+    "Renewable Energy",
+    "Fellowship",
+    "MNRE",
+    "Research"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

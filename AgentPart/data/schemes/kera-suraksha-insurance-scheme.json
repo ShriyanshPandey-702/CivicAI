@@ -1,0 +1,35 @@
+{
+  "id": "kera-suraksha-insurance-scheme-1653",
+  "name": "Kera Suraksha Insurance Scheme",
+  "slug": "kera-suraksha-insurance-scheme",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 700000,
+  "benefit_frequency": "annual",
+  "benefit_description": "1. Components under the scheme and present compensation : Sl. No. Benefits available - due to accidents only Sum insured 1 Death/Permanent Total disability ₹7,00,000/- 2 Permanent Partial Disablement ₹3,50,000/- 3 Hospital expenses reimbursement (minimum 24 hours hospitalization) ₹2,00,000/- 4 Ambul",
+  "details": "The \"Kera Suraksha Insurance Scheme,\" under the Ministry of Agriculture and Farmers Welfare and implemented by the Coconut Development Board, provides coverage for Coconut Tree Climbers (CTC), Neera Technicians, and Coconut Harvesters in all coconut-growing states. The scheme offers a sum assured of ₹7.00 lakhs for 24-hour accident-related risks, including death. The annual premium is ₹956, with ₹717 covered by the Board and ₹239 paid by the beneficiary via DD or online mode. Objective: The aim",
+  "eligibility_text": "The applicant should be a Coconut Tree Climber/Neera Technician/Coconut Harvester/Trainee. The age of the applicant should be between 18 to 65 years. Responsibilities of Climbers /Harvesters/Neera Technicians/Trainees(Beneficiaries): Submit applications for insurance under the insurance scheme in the prescribed format with all mandatory documents. Payment of his/her/their share of premium prescrib",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-65 years",
+      "field": "age",
+      "min": 18,
+      "max": 65
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "disability_cert"
+  ],
+  "application_url": "Applying for Insurance: ﻿ Application form duly filled in and countersigned by Agriculture officer/Panchayath President/CPF office bearers/CPC Directors along with premium share and age proof needs to",
+  "tags": [
+    "Coconut Tree Climber",
+    "Insurance",
+    "Neera Technician",
+    "Coconut Harvester"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance, Agriculture,Rural & Environment"
+}

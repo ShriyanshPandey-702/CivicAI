@@ -1,0 +1,34 @@
+{
+  "id": "national-youth-award-2194",
+  "name": "National Youth Award",
+  "slug": "national-youth-award",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 100000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Individual Awards: Receive a medal, certificate, and ₹1,00,000/-. ﻿ Voluntary Youth Organization Awards: Receive a medal, certificate, and ₹3,00,000/-",
+  "details": "The National Youth Award was sponsored by The  Ministry of Youth Affairs for the Indian youth for their tremendous and outstanding work in social service. This award is to motivate young persons to achieve excellence in the field of national development or social service and to develop in them a sense of responsibility to the community and thus to improve their own personal potential as good citizens. The award shall be given for identifiable excellent work for youth in different fields of devel",
+  "eligibility_text": "For Individuals: The applicant should be a citizen of India. The applicant should be Between the age of 15- 29 years as of the first January of the nominated year. The applicant should have done extraordinarily identifiable social work. The applicant who Persons employed in any government service i.e. with the Central/State Governments, PSUs/Universities, Colleges/schools, etc. is not eligible for",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 15-29 years",
+      "field": "age",
+      "min": 15,
+      "max": 29
+    }
+  ],
+  "documents_required": [
+    "birth_cert"
+  ],
+  "application_url": "Registration: Step-1: Visit the official website . Step-2: Click on the Registration button. Step-3: Choose type Individual or  Organization. Step-4.1: Under Individual category provide the following ",
+  "tags": [
+    "Youth",
+    "Purashkar",
+    "National",
+    "Social Service",
+    "Good Citizens"
+  ],
+  "scheme_category_raw": "Health & Wellness, Public Safety,Law & Justice, Social welfare & Empowerment, Travel & Tourism"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "arka-vertical-garden-0248",
+  "name": "Arka Vertical Garden",
+  "slug": "arka-vertical-garden",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "State",
+  "state": "Kerala",
+  "benefit_amount": 22100,
+  "benefit_frequency": "annual",
+  "benefit_description": "Total Cost of One Unit of Arka Vertical Garden: ₹22,100/-. Subsidy Amount per Unit: ₹15,525/-. Beneficiary Contribution: ₹6,575/- per unit. The beneficiaries are also provided with the following - One unit of Arka Vertical Garden structure of one square meter area that can be installed. The structur",
+  "details": "The scheme \"Arka Vertical Garden\" by the State Horticulture Mission-Kerala aims to popularize user-friendly vertical garden structures designed and developed by the Indian Council of Agricultural Research (ICAR) - Indian Institute of Horticultural Research, Bengalaru under Rashtriya Krishi Vikas Yojana (RKVY). The scheme helps in attaining self-sufficiency in the production of safe-to-eat vegetables ensuring food and nutritional security for families. It is open to residents of Kerala State who",
+  "eligibility_text": "The applicant must be a resident of Kerala. The applicant must not have availed Arka Vertical Garden structure during the previous year.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a resident of Kerala",
+      "field": "state",
+      "value": "Kerala"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Registration Process Step 1: Visit the Official Website of ServicePlus. In the top right corner of the homepage, click \" Register \". Step 2: In the Registration Form, the following fields are mandator",
+  "tags": [
+    "Garden",
+    "Environment",
+    "Plant",
+    "Irrigation",
+    "Subsidy"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "vocational-training-in-tribal--3312",
+  "name": "Vocational Training in Tribal Areas",
+  "slug": "vocational-training-in-tribal-areas",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Under the scheme, grants will be available for organizing vocational training in recognized institutes or in Vocational Training Centres (VTCs) subject to terms and conditions revised from time to time of the scheme. The training for trades including modern trades having employment potential in the",
+  "details": "Scheduled Tribes are the most marginalized section of the society, therefore to assist their socio-economic development; there is an imperative need to provide more employment avenues and income generation opportunities. It is aimed at upgrading the skills of the tribal youths in various traditional/modern vocations depending upon their educational qualification, present economic trends and the market potential, which would enable them to gain suitable employment or enable them to become self-em",
+  "eligibility_text": "The agencies eligible for such grants are: State Governments and UT Administrations; Institutions or Organisations set up by the Government as autonomous bodies, either under a statute or as a society registered under the Societies Registration Act, of 1860; Educational and other institutions of the likes of local bodies and cooperative bodies. A Public Trust registered under any law for the time",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 01: State/UT Governments and State-owned autonomous institutions shall apply in prescribed application Format-I , whereas VOs/NGOs/private institutions shall apply in Format-II . Step 02: The Sta",
+  "tags": [
+    "Vocational Training",
+    "Tribal Areas",
+    "Scheduled Tribe",
+    "VTC",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Skills & Employment, Social welfare & Empowerment"
+}

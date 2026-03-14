@@ -1,0 +1,44 @@
+{
+  "id": "agr-3-farm-mechanization-schem-0101",
+  "name": "AGR 3 (Farm Mechanization) Scheme For ST Farmers",
+  "slug": "agr-3-farm-mechanization-scheme-for-st-farmers",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "State",
+  "state": "Gujarat",
+  "benefit_amount": 100,
+  "benefit_frequency": "annual",
+  "benefit_description": "The beneficiary will get financial assistance for the purchase of agricultural equipment/components such as Plant protection equipment, Tarpaulin, Field Demonstration, Micronutrients, Water carrying pipeline, Agriculture fair, Organic Fertilizer, Pump set, the premium for Farmers 100% Water Soluble",
+  "details": "The scheme “AGR 3 (Farm Mechanization) Scheme for ST Farmers” was started by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat. Under the scheme, seeds of more production varieties/Hybrids varieties and fertilizer at subsidies, etc. will be distributed to Adivasi farmers in Tribal Areas (TASP). The Government is trying to get the higher production of the agricultural crops of the farmers belonging to scheduled tribe and the tribal cultivator residing outside tr",
+  "eligibility_text": "The beneficiary should be a permanent resident of Gujarat State. Any farmer of Gujarat State who belongs to the Scheduled Tribe category (in 208 talukas where the SMAM scheme is not implemented) is eligible under this scheme. In the areas of Talukas (Blocks) and Districts which are benefited/added under the Agriculture Support Program in Tribal Area Sub Plan & Dispersed Tribes (TASP) can get the b",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    },
+    {
+      "criterion": "Must be a resident of Gujarat State",
+      "field": "state",
+      "value": "Gujarat State"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "bank_passbook",
+    "ration_card",
+    "disability_cert"
+  ],
+  "application_url": "Step 01: To avail the benefits of the scheme, the beneficiary has to apply online at I-Khedut Portal. https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx ﻿ Step 02:",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Scheduled Tribe",
+    "Adivasi",
+    "Mechanization",
+    "Equipment",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

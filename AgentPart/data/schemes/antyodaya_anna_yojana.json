@@ -1,0 +1,34 @@
+{
+  "name": "Antyodaya Anna Yojana",
+  "category": "social_welfare",
+  "description": "Highly subsidized food grains for the poorest of the poor families",
+  "eligibility_rules": {
+    "max_income": 30000,
+    "min_age": 18,
+    "max_age": null,
+    "caste": ["general", "obc", "sc", "st", "ews"],
+    "states": ["all"],
+    "occupation": ["daily_wage", "unemployed", "farmer", "other"],
+    "requires_land": false,
+    "min_land_acres": 0,
+    "additional_rules": [
+      "Must be identified as poorest among BPL families by State Govt",
+      "Terminally ill, widows, or disabled persons without subsistence"
+    ]
+  },
+  "required_docs": [
+    "aadhaar",
+    "ration_card",
+    "income_cert"
+  ],
+  "benefit_amount": 10000,
+  "benefit_description": "35 kg of food grains per family per month at ₹1-3/kg",
+  "portal_url": "https://nfsa.gov.in",
+  "deep_eligibility_questions": [
+    {
+      "field": "is_identified_aay",
+      "question": "Has your family been identified by the Gram Panchayat / local authority for the Antyodaya ration card?",
+      "type": "yes_no"
+    }
+  ]
+}

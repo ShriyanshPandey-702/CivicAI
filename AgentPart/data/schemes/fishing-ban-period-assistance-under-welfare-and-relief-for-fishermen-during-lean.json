@@ -1,0 +1,38 @@
+{
+  "id": "fishing-ban-period-assistance--0051",
+  "name": "\"Fishing Ban Period Assistance\" under \"Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme\"",
+  "slug": "fishing-ban-period-assistance-under-welfare-and-relief-for-fishermen-during-lean",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "State",
+  "state": "Uttar Pradesh",
+  "benefit_amount": 750,
+  "benefit_frequency": "annual",
+  "benefit_description": "100 kgs. of rice and a cash dole at ₹ 750/- per fishermen's family during the period of ban on fishing during the year.",
+  "details": "The scheme \"Fishing Ban Period Assistance\" is a Sub-Component under the scheme \"Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme\". The scheme is extended to all the regions of the Union territory of Puducherry. The scheme is introduced with the objective to assist fishermen families who are deprived of income during natural calamities and fishing ban periods, and to conserve the fishery wealth in sea during breeding season.",
+  "eligibility_text": "The applicant should be an ordinarily resident of the Union territory of Puducherry. The applicant should be a fisherman. The applicant should belong to a group designated to be \"Below Poverty Line\". *Beneficiary shall also be considered based on the decisions taken periodically by the Governing Body of the Pondicherry Fishermen Welfare and Distress Relief Society. The applicant should not be ordi",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "ration_card"
+  ],
+  "application_url": "Step 1: The interested applicant should visit the office of the concerned authority i.e. Pondicherry State Fishermen Co-operative Federation Limited, Puducherry/The Karaikal Fishermen Co-operative Mar",
+  "tags": [
+    "Welfare",
+    "Relief",
+    "Clothes",
+    "Fisheries",
+    "Fisherman"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment, Social welfare & Empowerment"
+}

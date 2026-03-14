@@ -1,0 +1,44 @@
+{
+  "id": "prism-promoting-innovations-in-2283",
+  "name": "PRISM (Promoting Innovations in Individuals, Start-ups and MSMEs): Category-1: Proof of Concept/ Prototypes/ Models",
+  "slug": "prism-promoting-innovations-in-individuals-start-ups-and-msmes-category-1-proof-",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Project cost up to ₹5,00,000 to help Innovators convert their ideas into demonstrable models/prototypes. Maximum support under this category is ₹2,00,000 or 90% of the approved project cost , whichever is lower. ﻿ NOTE 1: The financial support is not an award or a prize or a research fellowship. The",
+  "details": "The scheme \"PRISM (Promoting Innovations in Individuals, Start-ups and MSMEs)\" by the Department of Scientific and Industrial Research, Ministry of Science and Technology, aims to support individual innovators which will enable them to achieve the agenda of inclusive development - one of the thrust areas of XIIth five year plan (2012-2017). It would also provide support to institutions or organizations set up as Autonomous Organizations under a specific statute or as a society registered under t",
+  "eligibility_text": "Any Indian citizen including student innovator can avail support to develop their novel idea into demonstrable models/prototypes. The proposals shall preferably be in the following focus sectors: Green Technology, Clean Energy, Industrially utilizable smart materials, Waste to wealth, Affordable healthcare, water & sewage management, and any other technology or knowledge-intensive area. ﻿ NOTE 1:",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1-2 years",
+      "field": "age",
+      "min": 1,
+      "max": 2
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof",
+    "ration_card",
+    "pan_card"
+  ],
+  "application_url": "The eligible applicants are requested to submit their applications complete in all respects to the nearest TOCIC. ﻿ Step 1: Proposal Submission Submit your project proposal in the prescribed format to",
+  "tags": [
+    "MSME",
+    "Prototype",
+    "Innovation",
+    "Entrepreneurship",
+    "Research",
+    "Startup",
+    "Proposal"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

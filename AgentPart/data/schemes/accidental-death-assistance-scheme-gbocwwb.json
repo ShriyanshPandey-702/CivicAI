@@ -1,0 +1,43 @@
+{
+  "id": "accidental-death-assistance-sc-0175",
+  "name": "Accidental Death Assistance Scheme (GBOCWWB)",
+  "slug": "accidental-death-assistance-scheme-gbocwwb",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "State",
+  "state": "Gujarat",
+  "benefit_amount": 300000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Under the scheme, financial assistance of ₹3,00,000/- shall be given to the legal heirs of the deceased construction workers.",
+  "details": "The “Accidental Death Assistance Scheme” is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB), Labour, Skill Development & Employment Department, Government of Gujarat. Under this scheme, financial assistance shall be provided to the legal heirs of the deceased construction workers, registered or unregistered with the Board, in case of accidental death or permanent disability during ongoing work at the construction site.",
+  "eligibility_text": "The applicant should be a legal heir of the deceased worker. The deceased worker should have been engaged in any building or other construction work. The financial assistance shall be provided to the legal heirs of construction workers, whether registered or unregistered with the Board, in the event of accidental death or permanent disability occurring during ongoing work at the construction site.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a registered construction worker",
+      "field": "occupation",
+      "values": [
+        "daily_wage",
+        "self_employed"
+      ]
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Application Process for Scheme Benefit: Step 01: The applicant may visit the Sanman Portal: https://sanman.gujarat.gov.in/ ﻿ Step 02: On the home page, under the tab ‘Citizen Login’, click on ‘ Please",
+  "tags": [
+    "Accidental Death",
+    "Permanent Disability",
+    "Construction Worker",
+    "Building Worker",
+    "Heir",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

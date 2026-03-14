@@ -1,0 +1,35 @@
+{
+  "id": "pravasi-bharatiya-bima-yojana-2447",
+  "name": "Pravasi Bharatiya Bima Yojana",
+  "slug": "pravasi-bharatiya-bima-yojana",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "﻿ The Insured person shall be covered for a sum of ₹10 Lakh in the event of accidental death or permanent disability leading to loss of employment while in employment abroad, irrespective of change of employer/location of insured person. Certification of accidental death or permanent disability by I",
+  "details": "A mandatory insurance scheme by Ministry of External Affairs (MEA) for safeguarding the interests of Indian emigrant workers falling under Emigration Check Required (ECR) category going for overseas employment to ECR countries. PBBY also includes global insurance coverage irrespective of employer and location, has facility for online renewal and a simplified process for certification of accidental death / permanent disability. The scheme is now more beneficial for emigrant workers and is aimed a",
+  "eligibility_text": "The applicant must be an Overseas Indian (cleared emigration) The age of the applicant must be between 18 - 65 Years (Maximum entry age is subject to emigration clearance).",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-65 years",
+      "field": "age",
+      "min": 18,
+      "max": 65
+    }
+  ],
+  "documents_required": [
+    "disability_cert"
+  ],
+  "application_url": "(The purchase of PBBY can be done online. Entities such as IFFCO-TOKIO General Insurance and Oriental Insurance offer multiple online channels from where you can buy the PBBY policy.) ﻿ Before startin",
+  "tags": [
+    "Insurance",
+    "Non Resident Indian",
+    "Employment",
+    "Medical Insurance",
+    "Person With Disability",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance"
+}

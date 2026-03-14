@@ -1,0 +1,41 @@
+{
+  "id": "biotechnology-ignition-grant-s-0446",
+  "name": "Biotechnology Ignition Grant Scheme",
+  "slug": "biotechnology-ignition-grant-scheme",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Support provided to grantees under the scheme: 1. Under the BIG scheme, BIRAC provides a grant-in-aid of up to INR 50 lakhs (approx. USD 75,000) for a period of 18 months. 2. BIG Partners and BIRAC provide continuous mentoring support to the grantees, including but not limited to the following: • Te",
+  "details": "The “Biotechnology Ignition Grant Scheme (BIG)” is a flagship scheme of the Biotechnology Industry Research Assistance Council (BIRAC), (a not-for-profit Section 8, Schedule B, Public Sector Enterprise, set up by the Department of Biotechnology (DBT), Government of India), which recognizes and invests in innovative ideas in the biotech sector. The ideas should have clear potential to translate into commercial products/technologies. BIG supports individual entrepreneurs/ start-ups from ideation t",
+  "eligibility_text": "Eligibility criteria for an Individual: 1.\tThe individual applicant should be an Indian citizen. 2.\tThe primary applicant should be the Project Leader. 3.\tThe applicant has to be incubated in an incubator (Incubator could be located anywhere in the country and may/may not be supported by BIRAC). At the time of application, the applicant is expected to have identified a preferred incubator. LoI/MoU",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 5-6 years",
+      "field": "age",
+      "min": 5,
+      "max": 6
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Application process: Step 01: BIRAC issues a national call inviting applications under BIG at least twice a year (1st of January & 1st of July). The Call for Proposals is advertised through one or mor",
+  "tags": [
+    "Biotechnology",
+    "Ignition Grant",
+    "BIRAC",
+    "BIG",
+    "Entrepreneur",
+    "Start-up"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

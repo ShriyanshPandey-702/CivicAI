@@ -1,0 +1,48 @@
+{
+  "id": "pradhan-mantri-awaas-yojana-gr-2412",
+  "name": "Pradhan Mantri Awaas Yojana - Gramin",
+  "slug": "pradhan-mantri-awaas-yojana-gramin",
+  "ministry": "",
+  "category": "housing",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 120000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Financial Assistance of ₹ 1,20,000 per unit for plain areas; and ₹ 1,30,000 per unit for hilly areas, difficult areas, and IAP districts (Himalayan states, North-Eastern states, and Union Territories of Jammu & Kashmir). A willing beneficiary can avail of institutional finance (loan) of up to ₹ 70,0",
+  "details": "Launch on 1st April 2016, Pradhan Mantri Awaas Yojana Gramin (PMAY-G) is centre's flagship mission by the Ministry of Rural Development (MoRD), implemented by the Ministry of Housing and Urban Affairs (MoHUA). PMAY-G aims at providing a pucca house, with basic amenities, to all houseless households and those households living in kutcha and dilapidated house. PMAY-G addresses the rural housing shortage and bridges the housing deficit in rural areas of India, contributing significantly to the miss",
+  "eligibility_text": "The universe of eligible beneficiaries under PMAY-G will include all the houseless households living in zero, one, or two-room houses with kutcha walls and kutcha roofs (as per SECC data, and subject to the exclusion process). Criteria for Automatic/Compulsory Inclusion -  1.\tHouseholds without shelter 2.\tDestitute/ living on alms 3.\tManual scavengers 4.\tPrimitive Tribal Groups 5.\tLegally released",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 16-59 years",
+      "field": "age",
+      "min": 16,
+      "max": 59
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Beneficiary Registration Manual - https://pmayg.nic.in/netiayHome/Document/Document-PMAYG-Registratio-Manual.pdf ﻿ There are four sections to the beneficiary registration process: Personal details, Ba",
+  "tags": [
+    "Rural Development",
+    "Housing",
+    "Loan",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Housing & Shelter"
+}

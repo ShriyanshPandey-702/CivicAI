@@ -1,0 +1,48 @@
+{
+  "id": "indian-agricultural-research-i-1421",
+  "name": "Indian Agricultural Research Institute - Scholarship",
+  "slug": "indian-agricultural-research-institute-scholarship",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 7560,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Benefits The value of the M.Sc. and Ph.D. scholarship will be ₹ 7,560/- and ₹ 10,500/- per month, respectively. The scholarship shall be drawn in the extension period also where such extension beyond two/three years, respectively, has been granted. The scholarship will be inclusive of all fees and o",
+  "details": "The Awards shall be made by the Dean and Joint Director (Education) of the Institute on the advice of the “Standing Committee on Scholarships Financial Assistance and Academic Progress”, which shall take into consideration the merit of each applicant based initially on his admission and subsequently on his performance at the Post Graduate School. ﻿ Duration The normal duration of junior scholarships for M.Sc. course will be two years and that of senior scholarships for Ph.D. course will be three",
+  "eligibility_text": "For the M.Sc./M.Tech. (Agricultural Engineering only) Courses: Only those candidates who had their Bachelor’s Degree Programmes under 10+2+4 OR 10+2+3 OR 10+1+4 system (OR awarded B.Sc. degree under 10+2+2 system prior to 1985) and fulfill the qualifications as prescribed in the Information Bulletin are eligible to apply for admission. For the Ph.D. Courses: Candidates must have obtained at least",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 7-55 years",
+      "field": "age",
+      "min": 7,
+      "max": 55
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "caste_cert",
+    "address_proof"
+  ],
+  "application_url": "To request an application form and the Information Bulletin, send a crossed Demand Draft for ₹ 575/- drawn in favour of the Registrar, Post Graduate School, Indian Agricultural Research Institute, New",
+  "tags": [
+    "IARI",
+    "Scholarship",
+    "Education",
+    "PhD"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment, Education & Learning"
+}

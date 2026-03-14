@@ -1,0 +1,33 @@
+{
+  "id": "skill-loan-scheme-2970",
+  "name": "Skill Loan Scheme",
+  "slug": "skill-loan-scheme",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1,
+  "benefit_frequency": "annual",
+  "benefit_description": "Courses Aligned to NSQF ﻿ Quantum of Finance Rs 5000-1,50,000 ﻿ Duration of Course No minimum duration ﻿ Rate of Interest Base rate (MCLR) + an add on typically up to 1.5% ﻿ Moratorium Duration of the course ﻿ Repayment Period Between 3 to 7 years basis the amount of loan ﻿ Loan Loans upto ₹ 50,000",
+  "details": "The Skill Loan Scheme was launched in July 2015 to provide institutional credit to individuals for skill development courses aligned to National Occupations Standards and Qualification Packs and leading to a certificate/diploma/degree by training institutes as per National Skill Qualification Framework (NSQF). ﻿ This scheme is applicable to all member banks of the Indian Banks’ Association (IBA) and any other banks and financial institutions as may be advised by the RBI. The scheme provides broa",
+  "eligibility_text": "A student who has secured admission in a course run by Industrial Training Institutes (ITIs), Polytechnics or in a school recognized by Central or State education Boards or in a college affiliated to a recognized university, training partners affiliated to National Skill Development Corporation (NSDC) / Sector Skill Councils, State Skill Mission, State Skill Corporation",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Interested candidates need to register on the Vidya Kaushal portal ﻿ Documents required– including, but not limited to proof of identity, proof of address, proof of income (of self or guardian, if ava",
+  "tags": [
+    "Skill Development",
+    "Student",
+    "Industrial Training Institutes (ITIs)",
+    "Polytechnics"
+  ],
+  "scheme_category_raw": "Skills & Employment, Banking,Financial Services and Insurance"
+}

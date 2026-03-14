@@ -1,0 +1,44 @@
+{
+  "id": "aamar-dukan-on-wheels-0135",
+  "name": "Aamar Dukan On Wheels",
+  "slug": "aamar-dukan-on-wheels",
+  "ministry": "",
+  "category": "business",
+  "level": "State",
+  "state": "Assam",
+  "benefit_amount": 2,
+  "benefit_frequency": "annual",
+  "benefit_description": "Benefits The beneficiary will keep the commodities allotted by the Department in case of AAMAR DUKAN on wheels in addition to other commodities. The selected beneficiaries of AAMAR DUKAN on wheels is allowed to take a profit margin of Rs. 2.00 to Rs. 3.00 per Kg./Per litre from consumers. The select",
+  "details": "Details The Government proposes to introduce a new module of “Aamar Dukan” namely “AAMAR DUKAN ON WHEELS” in the same line as the existing ‘Aamar Dukan’. Under the new module, 22 Non-PDS items (which may increase to 36) will be delivered to the doorstep of the consumer at below MRP with a minimum profit margin. Eco-friendly E-rickshaws will be used as the transportation mode under the Scheme. Through this scheme, Government plans to promote cashless transactions as the E-Rickshaws will have a GP",
+  "eligibility_text": "Eligibility The applicant should be educated unemployed youth. The applicant should be a permanent resident of Assam. He should attain the age of 18 years and above. His name should be registered in the Employment Exchange. The minimum educational qualification will be HSLC or equivalent.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be 18 years or older",
+      "field": "age",
+      "min": 18
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must be a resident of Assam",
+      "field": "state",
+      "value": "Assam"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof",
+    "birth_cert"
+  ],
+  "application_url": "Application Process Deputy Commissioners/Sub-Divisional Officers/Principal Secretaries of all Autonomous Councils will invite applications and selection will be made on merit which includes Educationa",
+  "tags": [
+    "Aamar Dukan",
+    "Wheels",
+    "Business",
+    "Startup"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

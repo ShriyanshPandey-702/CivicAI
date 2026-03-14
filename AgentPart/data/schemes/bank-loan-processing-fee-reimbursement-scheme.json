@@ -1,0 +1,37 @@
+{
+  "id": "bank-loan-processing-fee-reimb-0382",
+  "name": "Bank Loan Processing Fee Reimbursement Scheme",
+  "slug": "bank-loan-processing-fee-reimbursement-scheme",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 100000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Reimbursement of Bank Loan Processing Fee is limited to 80% of the fee or ₹ 1,00,000/- (excluding GST and other applicable taxes).",
+  "details": "The Ministry of Micro, Small & Medium Enterprises (MSME) has established the Bank Loan Processing Fee Reimbursement Scheme. This scheme functions as a sub-component of the broader National Scheduled Caste and Scheduled Tribe Hub (NSSH) program. ﻿ The Bank Loan Processing Fee Reimbursement Scheme provides crucial financial assistance by reimbursing a substantial portion of the processing fees charged by financial institutions (FIs) when SC/ST MSEs secure business loans. This includes loans suppor",
+  "eligibility_text": "Applicant should belong to the Scheduled Caste / Scheduled Tribe category. He/she should represent/own any MSEs unit. MSEs availing loans from any Scheduled Commercial Banks, Non-Banking Finance Companies (NBFCs), and State Finance Corporations will be considered under the scheme ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "caste_cert",
+    "pan_card"
+  ],
+  "application_url": "Applicant need to visit the official website https://www.scsthub.in . For registration click on sign-up and provide the following details Full Name Valid Email ID Mobile Number Password and confirm pa",
+  "tags": [
+    "Financial Assistance",
+    "Entrepreneurship",
+    "MSME",
+    "Reimbursement"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

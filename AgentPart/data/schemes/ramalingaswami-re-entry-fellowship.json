@@ -1,0 +1,33 @@
+{
+  "id": "ramalingaswami-re-entry-fellow-2552",
+  "name": "Ramalingaswami Re-Entry Fellowship",
+  "slug": "ramalingaswami-re-entry-fellowship",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 130000000000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The amount of the fellowship will be ₹ 1,00,000/- per month. HRA will be ₹ 18,500 per month. Each awardee will, in addition, receive a Research Support grant of ₹ 13,00,000 lakh/year for the purchase of consumables, minor equipment, domestic travel, engaging project staff and other contingent expend",
+  "details": "The Department of Biotechnology has instituted a scheme known as the “Ramalingaswami Re-Entry Fellowship”. The scheme is aimed at Indian Nationals who are working overseas in various fields of biotechnology and life sciences and are interested in taking up scientific research positions in India. The Ramalingaswami Re-entry Fellows would be able to work in any of the scientific Institutions/Universities in the country. The applicant should have a proven/outstanding track record as evidenced by re",
+  "eligibility_text": "The Indian working in any area of life sciences & biotechnology, bio-engineering, healthcare (human and animal), agriculture and veterinary biotechnology, bio-energy, and allied areas will be eligible to apply. The applicant should possess a Ph.D/MD degree or equivalent in life sciences/ agriculture, bioinformatics, and allied areas or an M.Tech in engineering or technology/ medicine, etc. with at",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 1: DBT will periodically advertise the Fellowship on the website of DBT India and on the website of the Regional Centre for Biotechnology and also in National Newspapers and Scientific Journals. ",
+  "tags": [
+    "Fellowship",
+    "Grant",
+    "Research",
+    "PhD"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "scheme-of-grant-in-aid-to-volu-2834",
+  "name": "Scheme of Grant-in-Aid to Voluntary Organisations Working for the Welfare of Scheduled Tribes",
+  "slug": "scheme-of-grant-in-aid-to-voluntary-organisations-working-for-the-welfare-of-sch",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "1.\tBroad Sector-wise indicative categories of projects for which grant-in-aid will be considered are as follows: Sectors Category of Projects Education 1. Running and maintenance of Non-Residential Schools/ Residential Schools /Hostels. Education 2. Sponsoring tribal girls from the North Eastern Sta",
+  "details": "The Central Sector Scheme “Scheme of Grant-in-Aid to Voluntary Organisations Working for the Welfare of Scheduled Tribes” was launched by the Ministry of Tribal Affairs, Government of India. The prime objective of the scheme is to enhance the reach of welfare schemes of the Government and fill the gaps in service-deficient tribal areas, in sectors such as education, health, drinking water, agro-horticultural productivity, social security, etc. through the efforts of voluntary organizations, and",
+  "eligibility_text": "The applicant organization should be a registered voluntary organization (VO) /non-governmental organization (NGO) engaged in the conduct and promotion of social welfare of STs. The applicant organization (NGO) should be registered under the Societies Registration Act, 1860/State Society Registration/Public Trust or Institutions either under a statute or as a society registered under the Societies",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1860-2 years",
+      "field": "age",
+      "min": 1860,
+      "max": 2
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "pan_card"
+  ],
+  "application_url": "Application Processes: Step 01: All grant proposals from new as well as ongoing NGOs shall have to be submitted through the NGO portal of the Ministry. Physical proposals will not be entertained. Step",
+  "tags": [
+    "Voluntary Organisation",
+    "NGO",
+    "Scheduled Tribe",
+    "PVTG",
+    "Grant"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

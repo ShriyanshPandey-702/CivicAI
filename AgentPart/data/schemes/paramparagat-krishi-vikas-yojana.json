@@ -1,0 +1,33 @@
+{
+  "id": "paramparagat-krishi-vikas-yoja-2298",
+  "name": "Paramparagat Krishi Vikas Yojana",
+  "slug": "paramparagat-krishi-vikas-yojana",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "•\tPromotion of organic farming, in turn resulting in improvement of soil health •\tSustainable production of chemical free and nutritious agriculture produce •\tDirect linkages with local and national markets •\tTo empower farmers through their own institutional development in the form of clusters and",
+  "details": "PKVY aims at supporting and promoting organic farming, in turn resulting in improvement of soil health. The scheme promotes Participatory Guarantee System (PGS) For India (PGS- India)2 form of organic certification that is built on mutual trust, locally relevant and mandates the involvement of producers and consumers in the process of certification. PGS – India operates outside the framework of “Third Party Certification. Funding pattern under the scheme is in the ratio of 60:40 by the Central a",
+  "eligibility_text": "All farmers/institutions are eligible to apply. However, maximum land holding is 2 hectare",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "land_record"
+  ],
+  "application_url": "Step 01: Interested applicant should connect and communicate with the regional councils of their respective states. ﻿ Step 02: Regional councils consolidates all the applications and develop Annual Ac",
+  "tags": [
+    "Organic Farming",
+    "Soil Health",
+    "Pesticide-free Agriculture"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

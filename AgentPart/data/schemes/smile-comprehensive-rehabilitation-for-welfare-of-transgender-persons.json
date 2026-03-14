@@ -1,0 +1,34 @@
+{
+  "id": "smile-comprehensive-rehabilita-2625",
+  "name": "SMILE - Comprehensive Rehabilitation For Welfare Of Transgender Persons",
+  "slug": "smile-comprehensive-rehabilitation-for-welfare-of-transgender-persons",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 13500,
+  "benefit_frequency": "one_time",
+  "benefit_description": "A sum of ₹13,500/- shall be given as post-matric / pre-matric scholarships to eligible transgender students once every year.",
+  "details": "Financial assistance in the form of scholarships is provided to Transgender students studying in secondary school (IX & X)  & senior secondary school (XI & XII) to reduce the incidence of dropout and support their educational aspirations. Objectives: The objective is to provide financial assistance to Transgender students studying in IX and above to enable them to complete their education. To support Transgender students to study further in order to prepare themselves to earn their livelihood an",
+  "eligibility_text": "The student should have a Transgender Certificate issued through the National Portal for Transgender person of the Ministry of Social Justice & Empowerment The scholarships are open to Indian Nationals only. The candidate should not be receiving any other central or state government-funded Pre-Matric/Post-Matric Scholarship. No scholarship will be paid to the students under this scheme from the da",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Step 01: One can visit the official website. Link: http://transgender.dosje.gov.in ﻿ Step 02: On the Home page click on “Registration” and after registration, one will receive a login password for acc",
+  "tags": [
+    "Transgender",
+    "Scholarship",
+    "Secondary Education",
+    "Senior Secondary Education",
+    "Rehabilitation"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "scheme-for-campus-accommodatio-2703",
+  "name": "Scheme For Campus Accommodation & Facilities Enhancing Social Experience",
+  "slug": "scheme-for-campus-accommodation-facilities-enhancing-social-experience",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 32500000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Limit of Funding from AICTE: ₹ 3.25 crore Construction of Hostel: ₹ 3,00,00,000/-. Establishment of Gym equipment: ₹ 5,00,000/-. Establishment of Indoor sports club: ₹ 10,00,000/-. Establishment of the library  for preparation of tests for competitive examination/higher education : ₹ 10,00,000/-. Di",
+  "details": "\"Scheme for Campus Accommodation & Facilities Enhancing Social Experience (CAFES)\" introduced by the All India Council for Technical Education (AICTE), Department of Higher Education (DoHE), aims to support the construction or extension of hostels to ensure that students have a suitable living space that promotes academic growth and personal development. It caters to SC/ST, differently-abled, and NER students, enabling them to pursue education without the burden of domestic responsibilities. Fin",
+  "eligibility_text": "The Institutes must be AICTE-approved Government/Government-aided engineering colleges, university departments, or polytechnics. The Institutes must have been in existence for at least five years. The Institute must have more than: For CAFES SC/ST students: At least 200 SC/ST students on roll. For CAFES NER: At least 60 students from NER per year. For CAFES Differently Abled: At least 150 differen",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 1: Kindly visit the AICTE Web Portal and log in through the Institute's Login Credential (Username & Password). Step 2: Select the Scheme to apply i.e. CAFES scheme application. Step 3: To fill o",
+  "tags": [
+    "Accomodation",
+    "Institution",
+    "Hostel"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

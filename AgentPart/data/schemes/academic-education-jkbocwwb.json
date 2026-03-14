@@ -1,0 +1,48 @@
+{
+  "id": "academic-education-jkbocwwb-0169",
+  "name": "Academic Education (JKBOCWWB)",
+  "slug": "academic-education-jkbocwwb",
+  "ministry": "",
+  "category": "education",
+  "level": "State",
+  "state": "Jammu and Kashmir",
+  "benefit_amount": 4500,
+  "benefit_frequency": "annual",
+  "benefit_description": "Financial Assistance based on the Educational Qualification - Class 9th to 10th: ₹4,500/-. Class 11th to 12th: ₹ 6,000/-. Undergraduate: ₹10,000/-. Postgraduate: ₹15,000/-.",
+  "details": "The \"Academic Education\" scheme by the Building and Other Construction Workers Welfare Board, Labour Department, Jammu & Kashmir, provides financial assistance to the children of the registered workers. Under this scheme, regular students in Class 9th to 10th receive ₹4,500/-, Class 11th to 12th receive ₹6,000/-, undergraduate students receive ₹10,000/-, and postgraduate students receive ₹15,000/-. ﻿",
+  "eligibility_text": "For Registration as a Building/ Construction Worker - The applicant should be a resident of Jammu & Kashmir. The applicant should be a Building/ Construction Worker. The applicant should be between 18 and 60 years. The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months. The registration of the applicant should be renewed ann",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age 60 years or above",
+      "field": "age",
+      "min": 60
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must be a resident of Jammu",
+      "field": "state",
+      "value": "Jammu"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "bank_passbook",
+    "address_proof",
+    "ration_card",
+    "birth_cert"
+  ],
+  "application_url": "Registration - Step 1: Go to the J&K Building and Other Construction Workers Welfare Board (JKBOCWWB) official website. ﻿ Step 2: On the homepage, find and click the \" Labour Registration\" link. Step ",
+  "tags": [
+    "Worker",
+    "Construction",
+    "Labour",
+    "Student",
+    "Education"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

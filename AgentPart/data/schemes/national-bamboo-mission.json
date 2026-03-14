@@ -1,0 +1,33 @@
+{
+  "id": "national-bamboo-mission-2142",
+  "name": "National Bamboo Mission",
+  "slug": "national-bamboo-mission",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "The scheme targets to provide following benefits: 1)\tIt would assist farmers, government agencies, artisans, entrepreneurs, private agencies, Federated SHGs, FPOs, and other persons involved in bamboo industry 2)\tIt will help in establishing bamboo nursery, bamboo cultivation, post-harvest processin",
+  "details": "Resultant to this historic amendment, bamboo grown in the non-forest area is out of the scope of regulations on the forest produces. During the year 2022-23, the NBM has been merged with Mission for Integrated Development of Horticulture (MIDH) scheme. ﻿ The restructured National Bamboo Mission primarily focuses on the development of complete value chain of bamboo sector to link growers with consumers starting from planting material, plantation, creation of facilities, skilled manpower and brand",
+  "eligibility_text": "The scheme is applicable to all farmers in India",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert"
+  ],
+  "application_url": "Refer to respective State's Bamboo Mission Portal for online link ﻿ Step 01: Application to State Bamboo Mission through their respective portals/offline Step 02: Scrutiny and approval of the SBM Step",
+  "tags": [
+    "Bamboo Marketing",
+    "Quality Planting Material",
+    "Bamboo Plantation",
+    "Product Development"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "aicte-saksham-scholarship-sche-0112",
+  "name": "AICTE – Saksham Scholarship Scheme For Specially-Abled Student (Degree)",
+  "slug": "aicte-saksham-scholarship-scheme-for-specially-abled-student-degree",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "₹50,000/- per annum for every year of study i.e. maximum 4 years for the first year admitted students and maximum 3 years for the second year admitted students through lateral entry as lump sum amount towards payment of college fee, purchase of computer, stationeries, books, equipment, software, etc",
+  "details": "Saksham is a Scholarship Scheme by the Ministry of Education, implemented by AICTE, aimed at providing encouragement and support to specially-abled children to pursue technical education. This is an attempt to give every young student, who is otherwise specially abled, the opportunity to study further and prepare for a successful future through technical education/ knowledge. ₹50,000/- per annum for every year of study i.e. maximum 4 years for the first year admitted students and maximum 3 years",
+  "eligibility_text": "The candidate should be admitted to the First year of the Degree level course OR the Second year of the Degree level course through lateral entry in any of the AICTE-approved institutions of the respective year. Specially-abled students have a disability of not less than 40%. Family income from all sources should not be more than Rs. 8 lakh per annum during the current financial year. A valid inco",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert"
+  ],
+  "application_url": "Step 1: Keep ready the soft copies of the required documents. Go to http://www.scholarships.gov.in/. and click “New Registration”. Guidelines for Registration will appear. Scroll to the bottom. Read c",
+  "tags": [
+    "Scholarship",
+    "PwD"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

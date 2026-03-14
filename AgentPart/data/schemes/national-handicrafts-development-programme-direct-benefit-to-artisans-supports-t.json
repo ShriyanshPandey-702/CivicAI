@@ -1,0 +1,40 @@
+{
+  "id": "national-handicrafts-developme-2160",
+  "name": "National Handicrafts Development Programme: Direct Benefit to Artisans - Supports to Artisans in Indigent Circumstances",
+  "slug": "national-handicrafts-development-programme-direct-benefit-to-artisans-supports-t",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 8000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Assistance of upto ₹8,000/- per month is granted in the form of a monthly allowance or lump sum grant or both, disbursed via the Public Financial Management System (PFMS)/ Direct Benefit Transfer (DBT).",
+  "details": "The scheme \"Direct Benefit to Artisans - Supports to Artisans in Indigent Circumstances\" is a component of the Umbrella Scheme \"National Handicrafts Development Programme (NHDP)\" by the Ministry of Textiles, Govt. of India. The scheme is introduced to support the artisans during their old age. The scheme is designed to give a boost to the handicraft sector in India. Assistance of upto ₹8,000/- per month is granted to the Artisans in Indigent Circumstances in the form of monthly allowance or lump",
+  "eligibility_text": "The applicant should be a master craftsperson who is the recipient of the Shilp Guru Award/ National Award/ Merit Certificate/ State Award/ any other bigger award. The annual income of the artisan should not exceed ₹1,00,000/- in the preceding financial year. The applicant should not be a recipient of similar financial assistance from any other source. The artisan should not be less than 60 years",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age 60 years or above",
+      "field": "age",
+      "min": 60
+    },
+    {
+      "criterion": "Annual income below ₹100,000",
+      "field": "income",
+      "max": 100000
+    }
+  ],
+  "documents_required": [
+    "income_cert",
+    "disability_cert"
+  ],
+  "application_url": "The applications from the eligible master craftsperson would be invited every year by making wide publicity through advertisement. Step 1: The eligible artisan should take print of the prescribed form",
+  "tags": [
+    "Pension",
+    "Artisan",
+    "Handicraft",
+    "Senior Citizen",
+    "Financial Assistance",
+    "Social Welfare"
+  ],
+  "scheme_category_raw": "Sports & Culture, Social welfare & Empowerment"
+}

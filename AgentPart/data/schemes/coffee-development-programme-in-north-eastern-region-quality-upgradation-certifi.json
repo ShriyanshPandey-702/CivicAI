@@ -1,0 +1,33 @@
+{
+  "id": "coffee-development-programme-i-0602",
+  "name": "Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Support for Eco-Certification / Organic Certification",
+  "slug": "coffee-development-programme-in-north-eastern-region-quality-upgradation-certifi",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Scale of Subsidy For Organic Certification: 75% of the certification cost spread over 3 years or the Conversion period, whichever is less during the MTF period. For Other Eco-Certifications: 75% of the certification cost for one year during the MTF period. NOTE: This incentive is provided only as ba",
+  "details": "The scheme \"Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Support for Eco-Certification / Organic Certification\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to encourage coffee growers to improve quality for higher returns and improve access to h",
+  "eligibility_text": "The applicants should be SHGs/collectives of tribal growers who obtain certification of their plantations for various sustainability and quality standards. The applicant can access support only for certification of estates as per Organic, Fair Trade, Rainforest Alliance, UTZ Certified, Bird friendly/Shade grown coffee standards, or any other certification programs equivalent to the above programs.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Procedure for Claiming Subsidy Step 1: Certification Completion and Documentation After obtaining certification by the accredited certification body/agency, the SHG/growers' group of tribal growers sh",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Subsidy",
+    "DBT"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

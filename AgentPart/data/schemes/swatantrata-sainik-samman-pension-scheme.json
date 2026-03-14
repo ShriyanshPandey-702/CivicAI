@@ -1,0 +1,36 @@
+{
+  "id": "swatantrata-sainik-samman-pens-3132",
+  "name": "Swatantrata Sainik Samman Pension Scheme",
+  "slug": "swatantrata-sainik-samman-pension-scheme",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Category of Freedom Fighters: Ex-Andaman Political/ Prisoners/ Spouses Basic Pension w.e.f. 15.08.2016 in Rupees (Per Month): 30,000/- Total Amount of Pension Including 3% DR in Rupees (Per Month): 30,900/- ﻿ Category of Freedom Fighters: Freedom Fighters Who Suffered Outside British India/Spouses B",
+  "details": "Launched on 15th August 1972, \"Swatantrata Sainik Samman Pension Scheme\" is a Pension Scheme by the Ministry of Home Affairs. The scheme provides the grant of pension to living freedom fighters and their families; if they are no more alive, and to the families or martyrs. The benefits of the pension scheme are extended to all freedom fighters as a token of SAMMAN to them. ﻿ Duration Except in the case of unmarried daughters, the pension is for the lifetime of the recipient. In the case of unmarr",
+  "eligibility_text": "For the purpose of granting a pension under the scheme, a freedom fighter is: (a) A person who had suffered a minimum imprisonment of six months in the mainland jails before Independence. However, ex-INA personnel will be eligible for pension if the imprisonment/detention suffered by them was outside India. The minimum period of actual imprisonment for pension eligibility has been reduced to three",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 1: The interested applicant should request a free copy of the prescribed application form from either of two officers, i.e., the State Government/UT concerned or Freedom Fighters’ Division, Minis",
+  "tags": [
+    "Pension",
+    "Freedom Fighter",
+    "Prisoner"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance, Social welfare & Empowerment"
+}

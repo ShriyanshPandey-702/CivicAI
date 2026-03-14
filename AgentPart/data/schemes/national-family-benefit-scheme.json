@@ -1,0 +1,43 @@
+{
+  "id": "national-family-benefit-scheme-2148",
+  "name": "National Family Benefit Scheme",
+  "slug": "national-family-benefit-scheme",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 20000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "₹ 20000/ - will be given as a lump sum assistance to such surviving member of the household of the deceased poor, who after local inquiry, is found to be the head of the household. The assistance would be given to every case of death of breadwinner in a family.",
+  "details": "A family welfare scheme under the umbrella scheme ‘National Social Assistance Programme’ (NSAP) by MoRD. In this scheme, financial assistance is provided to the bereaved households in case of the death of the primary breadwinner irrespective of the cause of death. The family benefit will be paid to such surviving member of the household of the deceased poor , who after local inquiry, is found to be the head of the household. The death of such a breadwinner should have occurred whilst he/ she is",
+  "eligibility_text": "The applicant must be a citizen of India. The family of the applicant must be living Below Poverty Line (BPL). The primary breadwinner of the applicant's family must have been deceased. The age of the deceased breadwinner must have been more than 18 years and less than 60 years. The applicant must be the succeeding primary breadwinner of the family.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-60 years",
+      "field": "age",
+      "min": 18,
+      "max": 60
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "ration_card"
+  ],
+  "application_url": "Step 1: Take a print of the application form given in Annexure-III (page no. 47) of the scheme guidelines - ﻿ https://nsap.nic.in/Guidelines/nsap_guidelines_oct2014.pdf  (The application forms are ava",
+  "tags": [
+    "Household",
+    "Family",
+    "Below Poverty Line",
+    "BPL"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

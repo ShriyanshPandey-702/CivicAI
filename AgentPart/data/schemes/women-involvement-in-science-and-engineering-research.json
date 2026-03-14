@@ -1,0 +1,35 @@
+{
+  "id": "women-involvement-in-science-a-3364",
+  "name": "Women Involvement in Science and Engineering Research",
+  "slug": "women-involvement-in-science-and-engineering-research",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 100000,
+  "benefit_frequency": "annual",
+  "benefit_description": "The grant will cover basic project assistance (including research staff for the Indian awardee, consumables, and contingency) for the awardee in the parent country and a one-month research stay in the host country (single round-trip airfare, visa fee, medical insurance, per diem for the stay). India",
+  "details": "The scheme “Women Involvement in Science and Engineering Research (WISER)” aims to build scientific capacity, retain and promote women researchers in India & Germany by utilising complementary expertise in science, technology, innovation and research partnerships. This scheme is designed for women researchers holding a regular/long-term research position in academia/research institute/industry in India or Germany. Indo-German Science & Technology Centre (IGSTC), established by the Department of",
+  "eligibility_text": "The applicant must be working either in India or Germany. Through this scheme, women researchers/entrepreneurs holding regular positions in academic/research institutions/industrial research organizations in India/Germany may apply to be a part of an ongoing R&D project of interest with acceptance from the host team. The programme is open to all areas of STEM. The programme has no age-limit (Prefe",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 01-02 years",
+      "field": "age",
+      "min": 1,
+      "max": 2
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Application Process: Step 01: Applications are accepted throughout the year and eligible candidates can apply online . Step 02: If you are a new user, click on the ‘Create an Account” link at the port",
+  "tags": [
+    "Woman",
+    "WISER",
+    "Germany",
+    "IGSTC",
+    "STEM"
+  ],
+  "scheme_category_raw": "Women and Child, Education & Learning"
+}

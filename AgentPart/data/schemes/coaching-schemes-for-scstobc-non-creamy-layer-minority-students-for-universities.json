@@ -1,0 +1,51 @@
+{
+  "id": "coaching-schemes-for-scstobc-n-0594",
+  "name": "Coaching Schemes For Sc/st/obc (non-creamy Layer) & Minority Students For Universities",
+  "slug": "coaching-schemes-for-scstobc-non-creamy-layer-minority-students-for-universities",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The institutions can apply for one or more components of the scheme according to the number of enrolment of Scheduled Castes, Scheduled Tribes, OBC (Non-Creamy Layer), and Minorities Communities Students. If, the number of students in a particular class is more, additional section(s) may be included",
+  "details": "Coaching schemes for students belonging to SC (Scheduled Caste), ST (Scheduled Tribe), OBC (Other Backward Classes) (non-creamy layer), and minority communities are implemented to provide them with equal opportunities and support in pursuing higher education. These schemes aim to bridge the educational gap and enhance the competitiveness of these students. The Commission has been providing separate assistance to the universities For remedial coaching at UG and PG levels. Coaching for entry into",
+  "eligibility_text": "Financial assistance under the scheme is available to such universities and colleges which come within the purview of Section 2(f) and are fit to receive central assistance under Section 12(B) of the UGC Act, 1956. Institutions having a sufficient number of Scheduled Castes, Scheduled Tribes, and Minority Communities students will be considered for financial assistance. General candidates holding",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Step 01: The applicant needs to contact the Registrar/Principal. Step 02: Applications in the prescribed format are received from the concerned department. Step 03: The applicant must ensure that the ",
+  "tags": [
+    "Coaching",
+    "Scheduled Caste",
+    "Scheduled Tribe",
+    "Other Backward Classes",
+    "Students"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "nbcfdc-general-loan-scheme-2092",
+  "name": "NBCFDC General Loan Scheme",
+  "slug": "nbcfdc-general-loan-scheme",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1500000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Loan up to ₹15 Lakh per beneficiary for pursuing income generating activities such as Agriculture and Allied Activities, Small Business/Artisan & Traditional Occupation, Transport Sector & Service Sector, and Technical & Professional Trades/Courses. The rate of interest would be as follows - Loan up",
+  "details": "A general loan scheme by the Ministry of Social Justice for Indian citizens from backward classes for various income-generating activities. Loan up to ₹15 Lakh per beneficiary for pursuing income-generating activities such as Agriculture and Allied Activities, Small Business/Artisan & Traditional Occupation, Transport Sector & Service Sector, and Technical & Professional Trades/Courses.",
+  "eligibility_text": "The applicant must be an Entrepreneur The applicant must be from a Backward Class (OBC). The Total Annual Family Income of the applicant must be Less than ₹ 3 Lakh per Annum.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹300,000",
+      "field": "income",
+      "max": 300000
+    },
+    {
+      "criterion": "Must belong to OBC category",
+      "field": "caste",
+      "values": [
+        "obc",
+        "sc",
+        "st"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "land_record",
+    "address_proof"
+  ],
+  "application_url": "Eligible persons desirous of obtaining TERM LOAN under NBCFDC scheme should  should apply on prescribed form (available with the Channel Partners) to District Office of Channel Partners where he/she n",
+  "tags": [
+    "Loan",
+    "Empowerment",
+    "Backward Class",
+    "OBC",
+    "Entrepreneur"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance, Social welfare & Empowerment"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "aicte-short-term-training-prog-0125",
+  "name": "AICTE-SHORT TERM TRAINING PROGRAMME (STTP) (UT-J&K,LADAKH AND NER)",
+  "slug": "aicte-short-term-training-programme-sttp-ut-jkladakh-and-ner",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Funding to Institutions: ₹5,00,000/- to the host University/Institution for conducting the training for the academic year. Disbursement of the Funds: The full amount of the grant sanctioned shall be released as advance to the University/Institution. The amount spent by the institute on the conduct o",
+  "details": "Short Term Training Program (STTP) in North-Eastern Region (NER) and UTs of J&K and Ladakh intends to conduct faculty trainings through financial assistance from AICTE to enable faculty members in the field of technical education introspect learn techniques that can help prepare students for active and successful participants in a knowledge society. ﻿ Duration of Programme: It is a residential programme of six days. The approved STTP shall be conducted within six months from the date of release",
+  "eligibility_text": "For Institution: AICTE approved institutions. For Faculty: All teachers, supporting technical and administrative staff in areas of technical education. ﻿ Note: Maximum 5 proposals per institute per year including sanctioned, earlier but not completed, would be considered. However, maximum 3 proposals per institute shall be approved.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Registration of New Institute: Step 01: Visit http://portal.aicte-india.org/partnerportal_enu/start.swe and click on New Institute button . Step 02: After the redirected to another website, now hover ",
+  "tags": [
+    "Financial Assistance",
+    "Technical Education",
+    "Faculty Training"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

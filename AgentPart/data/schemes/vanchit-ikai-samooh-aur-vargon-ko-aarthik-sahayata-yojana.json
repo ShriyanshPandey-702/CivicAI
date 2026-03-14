@@ -1,0 +1,50 @@
+{
+  "id": "vanchit-ikai-samooh-aur-vargon-3274",
+  "name": "Vanchit Ikai Samooh Aur Vargon Ko Aarthik Sahayata Yojana",
+  "slug": "vanchit-ikai-samooh-aur-vargon-ko-aarthik-sahayata-yojana",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 400000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Salient Features Maximum loan limit (for SHG): ₹ 4,00,000 Maximum loan limit (for individual): ₹ 2,00,000 Maximum Subvention Amount: @5% per annum ﻿ Mode of payment of Subvention Through Direct Transfer of Subvention Amount into operating account of SHG or Individual",
+  "details": "The VISVAS (Vanchit Ikai Samooh aur Vargon ko Aarthik Sahayata) Scheme aims to provide interest subvention to OBC/SC Self Help Groups (SHGs) or individuals. It is being implemented by the Ministry of Social Justice and Empowerment. ﻿ The objective of the scheme is to provide the direct benefit of a lower rate of interest to the eligible beneficiaries who have availed loans through Public Sector Banks (PSBs), Regional Rural Banks (RRBs) and similar financial institutions hereinafter referred to a",
+  "eligibility_text": "Eligibility Criteria for Other Backward Classes (OBCs) 1. Members of Backward Classes, as notified by Central Government/State Governments 2. All OBC Antyodaya Anna Yojana (AAY) cardholders, and OBC individuals facing three or more Deprivations in terms of SECC-2011, as per records available at the relevant BDO Office shall be eligible for Interest Subvention 3. All OBC beneficiaries involved in A",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 4-1 years",
+      "field": "age",
+      "min": 4,
+      "max": 1
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "ration_card"
+  ],
+  "application_url": "Step 1: Eligible applicant needs to visit the nearest SCA office, and apply on the prescribed form for VISVAS Scheme. You can find your nearest SCA office at this link - https://nsfdc.nic.in/channel-p",
+  "tags": [
+    "Loan",
+    "SHG",
+    "OBC",
+    "Social Welfare"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

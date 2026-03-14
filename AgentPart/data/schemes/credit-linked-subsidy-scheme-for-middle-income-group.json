@@ -1,0 +1,51 @@
+{
+  "id": "credit-linked-subsidy-scheme-f-0639",
+  "name": "Credit Linked Subsidy Scheme for Middle Income Group",
+  "slug": "credit-linked-subsidy-scheme-for-middle-income-group",
+  "ministry": "",
+  "category": "housing",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Scheme will support the acquisition/construction of houses (including repurchase) of 160 sq. mts. (For MIG I) and 200 sq. mts. (For MIG II) carpet area as per income eligibility with basic civic infrastructure like water, toilet, sanitation, sewerage, road, electricity, etc. Beneficiaries of MIG wil",
+  "details": "The Ministry of Housing and Urban Affairs (MoHUA) has introduced an interest subsidy scheme for acquisition/construction of houses (including repurchase) to cater to the Middle Income Group (MIG) called “Credit Linked Subsidy Scheme for Middle Income Group (CLSS for MIG)” given the projected growth of urbanization in India and the consequent housing demands. CLSS for MIG will be implemented initially in 2017 for a period of one-year w.e.f. 01 January 2017. This will also be implemented as a Cent",
+  "eligibility_text": "The beneficiary family should not own a pucca house (an all-weather dwelling unit) either in his/her name or in the name of any member of his/her family in any part of India. In in case of a married couple, either of the spouses or both together in joint ownership will be eligible for a single house, subject to the income eligibility of the household under the Scheme. A beneficiary family should n",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹1,200,000",
+      "field": "income",
+      "max": 1200000
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "address_proof",
+    "pan_card"
+  ],
+  "application_url": "Application Processes: Step 01: The eligible applicant can apply through the financial institutions or banks that participate in the PMAY initiative. Step 02: Collect the application form through inst",
+  "tags": [
+    "Credit Linked",
+    "Subsidy",
+    "Loan",
+    "House",
+    "MIG",
+    "CLSS"
+  ],
+  "scheme_category_raw": "Housing & Shelter"
+}

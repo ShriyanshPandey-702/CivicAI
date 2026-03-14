@@ -1,0 +1,47 @@
+{
+  "id": "iasri-scholarship-for-msc-and--1357",
+  "name": "IASRI Scholarship For M.Sc And Ph.D",
+  "slug": "iasri-scholarship-for-msc-and-phd",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 7500,
+  "benefit_frequency": "annual",
+  "benefit_description": "Institute Scholarships / Fellowships Scholarships are offered to all admitted students. An M.Sc. student is granted a scholarship/fellowship of value Rs.7,500/- p.m. In addition to this, M.Sc. students have a contingent grant of Rs.6,000/- per annum, for meeting out the expenditure on study tours, e",
+  "details": "The Indian Agricultural Statistics Research Institute is a premier Institute under Indian Council of Agricultural Research for conducting research and education in the field of agricultural statistics and computer application in agriculture. The Institute has functioned as the Centre of Advanced Studies in Agricultural Statistics and Computer Application from October 12,1983 to March 31,1992 under the aegis of United Nations Development Programme. Subsequently, ICAR established the Centre of Adv",
+  "eligibility_text": "Eligibility requirements for M.Sc. (Agricultural Statistics) Bachelor of Science degree in Agriculture / Horticulture / Forestry / Agroforestry / Sericulture / Agricultural Marketing/ B.Sc.(10+2+3 System) with 60% marks or its equivalent Overall grade point average (OGPA) for the general category, and 55% marks or its equivalent OGPA for SC/ST/PH candidates. ﻿ The minimum residential requirement f",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 55-2 years",
+      "field": "age",
+      "min": 55,
+      "max": 2
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "STEP 1: Type \"http://pgs.iasri.res.in\" on your browser and hit enter (Best viewed on Google Chrome) and click on \"Filling up of Application Form and Uploading of Required Documents Online for M.Sc./M.",
+  "tags": [
+    "IASRI",
+    "Scholarship",
+    "Agricultural"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

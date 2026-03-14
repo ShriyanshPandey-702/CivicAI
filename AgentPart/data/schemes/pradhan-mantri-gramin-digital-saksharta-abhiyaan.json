@@ -1,0 +1,52 @@
+{
+  "id": "pradhan-mantri-gramin-digital--2421",
+  "name": "Pradhan Mantri Gramin Digital Saksharta Abhiyaan",
+  "slug": "pradhan-mantri-gramin-digital-saksharta-abhiyaan",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "The Scheme is aimed at empowering the citizens in rural areas by training them to operate computers or digital access devices (like tablets, smartphones, etc.), send and receive e-mails, browse the Internet, access government services, search for information, and undertake digital payment, etc. and",
+  "details": "Pradhan Mantri Gramin Digital Saksharta Abhiyaan (PMGDISHA) is a Digital Literacy Scheme by the Ministry of Electronics and Information Technology (MeitY), to make six crore persons in rural areas, across States/UTs, are digitally literate, reaching around 40% of rural households by covering one member from every eligible household. ﻿ The Scheme is applicable only to rural areas of the country. Only one person (14 - 60 years of age) per eligible household would be considered for training. Priori",
+  "eligibility_text": "Target Beneficiaries: The beneficiary should be Digitally Illiterate Only one person in a household where none of the family members is digitally literate will be considered. The age of the beneficiary should be between 14 years and 60 years. ﻿ Priority would be given to: Non-smartphone users, Antyodaya households, college drop-outs, and Participants of the adult literacy mission. Digitally illite",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 14-60 years",
+      "field": "age",
+      "min": 14,
+      "max": 60
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "birth_cert"
+  ],
+  "application_url": "The identification of the beneficiaries would be carried out by CSC e-Governance Services India Limited, a Special Purpose Vehicle (CSC-SPV) incorporated under the Companies Act 1956, in active collab",
+  "tags": [
+    "Digital",
+    "Education",
+    "Skill",
+    "Rural Development"
+  ],
+  "scheme_category_raw": "Skills & Employment, Education & Learning"
+}

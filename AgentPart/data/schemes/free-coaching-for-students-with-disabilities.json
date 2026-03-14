@@ -1,0 +1,38 @@
+{
+  "id": "free-coaching-for-students-wit-1112",
+  "name": "Free Coaching for Students with Disabilities",
+  "slug": "free-coaching-for-students-with-disabilities",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 2500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "It provides free coaching to students with disabilities for competitive examinations. It helps students with disabilities to improve their academic performance and to compete effectively in competitive examinations. It increases the chances of students with disabilities getting admission in higher e",
+  "details": "The Free Coaching for Students with Disabilities scheme under the Department of Empowerment of Persons with Disabilities (DEPwD) is a centrally sponsored scheme that provides financial assistance to voluntary organizations for providing free coaching to students with disabilities for competitive examinations. ﻿ The scheme is open to students with disabilities who have at least 40% disability and are preparing for competitive examinations conducted by the Union Public Service Commission (UPSC), S",
+  "eligibility_text": "Students : The student must have a minimum of 40% disability. The student must be preparing for competitive examinations conducted by the Union Public Service Commission (UPSC), Staff Selection Commission (SSC), various Railway Recruitment Boards (RRBs) for Group 'A' and 'B' posts, State Public Service Commissions for Group 'A' and 'B' posts, and other competitive examinations for admission in hig",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "disability_cert"
+  ],
+  "application_url": "Visit the website of the Department of Empowerment of Persons with Disabilities (DEPwD). Go to the \"Schemes\" section and click on \"Free Coaching for Students with Disabilities\". Download the applicati",
+  "tags": [
+    "Education",
+    "Learning",
+    "Exam Preparation"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

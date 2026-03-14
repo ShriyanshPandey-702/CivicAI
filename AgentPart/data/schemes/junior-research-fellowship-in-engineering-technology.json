@@ -1,0 +1,44 @@
+{
+  "id": "junior-research-fellowship-in--1607",
+  "name": "Junior Research Fellowship In Engineering & Technology",
+  "slug": "junior-research-fellowship-in-engineering-technology",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "one_time",
+  "benefit_description": "NATURE OF ASSISTANCE The tenure of the fellowship is initially for a period of two years as a Junior Research Fellowship (JRF). After the expiry of two years the work of the fellow will be evaluated by experts and if found satisfactory, his/her tenure will be extended for a further period of three y",
+  "details": "INTRODUCTION The scheme \"Junior Research Fellowship in Engineering & Technology\" by the University Grants Commission (UGC), Department of Higher Education is meant for candidates who wish to pursue research leading to a Ph.D. degree in engineering and technology. As of date, the University Grants Commission (UGC) or the Council of Scientific and Industrial Research (CSIR) are not conducting National Education Testing (NET) examinations in these fields. Therefore, M.Pharma and M.E., M.Tech. stude",
+  "eligibility_text": "All Minimum qualifications are a master's degree in engineering/technology/pharmacy, with 55 percent marks. GATE is not a mandatory condition for getting a research fellowship to pursue Ph.D. Candidates need to hold an M.E./M.Tech. degree. The age limit is 40 years as on 1 July of the year of the award, extendable by five years for women and SC/ST candidates. A total of 22.5 percent of the fellows",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 40-22 years",
+      "field": "age",
+      "min": 40,
+      "max": 22
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "address_proof",
+    "birth_cert",
+    "disability_cert"
+  ],
+  "application_url": "PROCEDURE FOR APPLYING FOR THE SCHEME Applications are invited in the prescribed format (Annexure II) once in a year through advertisements in leading newspapers and the AIU Newsletter for the award o",
+  "tags": [
+    "Fellowship",
+    "Science"
+  ],
+  "scheme_category_raw": "Education & Learning, Science, IT & Communications"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "annual-medical-assistance-sche-0237",
+  "name": "Annual Medical Assistance Scheme (BBOCWWB)",
+  "slug": "annual-medical-assistance-scheme-bbocwwb",
+  "ministry": "",
+  "category": "health",
+  "level": "State",
+  "state": "Bihar",
+  "benefit_amount": 3000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Financial Assistance of ₹3,000/- per annum.",
+  "details": "The \"Annual Medical Assistance Scheme\" by the Bihar Building & Other Construction Workers Welfare Board, Labour Resources Department, Government of Bihar, provides a yearly financial assistance of ₹3,000/- to the construction workers who are registered with the Board.",
+  "eligibility_text": "The applicant should be a worker. The worker should be engaged in building or construction work. The worker should be registered with the \"Bihar Building & Other Construction Workers Welfare Board\". The worker's membership with the Welfare Board must be active at the time of application. The worker should have at least one year of membership with the Board.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a registered construction worker",
+      "field": "occupation",
+      "values": [
+        "daily_wage",
+        "self_employed"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Registration Step 1: Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board, and click \" Apply for New Registration \". Step 4: On the next page, provide your det",
+  "tags": [
+    "Construction",
+    "Labour",
+    "Medical",
+    "Worker",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Skills & Employment, Health & Wellness"
+}

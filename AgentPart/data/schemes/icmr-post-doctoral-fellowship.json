@@ -1,0 +1,48 @@
+{
+  "id": "icmr-post-doctoral-fellowship-1364",
+  "name": "ICMR- Post Doctoral Fellowship",
+  "slug": "icmr-post-doctoral-fellowship",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 65000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "ICMR-PDFs will be paid a consolidated fellowship of ₹65,000/- per month plus House Rent Allowance (HRA) as per Govt. of India rule and Non-Practicing allowance (NPA) as admissible. There is a contingency grant of ₹3,00,000/- per annum. 25% of the contingency grant can be used for travel including pe",
+  "details": "ICMR- Post Doctoral Fellowship (ICMR-PDF) Scheme is being instituted to foster high-quality research opportunities for promising fresh Ph.D./MD/MS holders in the cutting-edge areas of basic science, communicable and non-communicable diseases, and reproductive health including nutrition at ICMR Institutes /Centers. Special focus will be on fundamental research in areas of science and other priority areas identified by ICMR from time to time. ICMR intends to offer fifty (50) such fellowships every",
+  "eligibility_text": "ICMR-PDF is open to Indian nationals only. Fresh PhDs/MD/MS within three years of completing their Ph.D./MD/MS degree (awarded) as on the last date of the application and also those who have received their provisional Ph.D./MD/MS degree can apply. The Post-Doctoral proposed research work should be the continuation of the Ph.D. or MD/MS research work. If not, then the application will not be consid",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 32-5 years",
+      "field": "age",
+      "min": 32,
+      "max": 5
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "caste_cert"
+  ],
+  "application_url": "Last Date of Application (30th June and 31st December Every Year) Step 01: Eligible candidates can visit the official website of ICMR and download the application form. Step 02: Fill out the applicati",
+  "tags": [
+    "ICMR",
+    "Fellowship",
+    "Post Doctoral",
+    "Research",
+    "PDF"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Ayushman Bharat",
+  "category": "health",
+  "description": "Health insurance coverage up to ₹5 lakh per family per year",
+  "eligibility_rules": {
+    "max_income": 120000,
+    "min_age": 0,
+    "max_age": null,
+    "caste": ["general", "obc", "sc", "st", "ews"],
+    "states": ["all"],
+    "occupation": ["all"],
+    "requires_land": false,
+    "min_land_acres": 0,
+    "additional_rules": [
+      "Must belong to SECC 2011 vulnerable categories"
+    ]
+  },
+  "required_docs": [
+    "aadhaar",
+    "income_cert"
+  ],
+  "benefit_amount": 500000,
+  "benefit_description": "₹5,00,000 annual health insurance cover per family for hospitalization",
+  "portal_url": "https://pmjay.gov.in",
+  "deep_eligibility_questions": [
+    {
+      "field": "is_secc_listed",
+      "question": "Is your family listed in the SECC 2011 data?",
+      "type": "yes_no"
+    }
+  ]
+}

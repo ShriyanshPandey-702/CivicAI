@@ -1,0 +1,31 @@
+{
+  "id": "research-fellowship-in-science-2598",
+  "name": "Research Fellowship In Sciences For Meritorious Students",
+  "slug": "research-fellowship-in-sciences-for-meritorious-students",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Nature of Assistance Available Under the Scheme (i)  The tenure of the fellowship is initially for two years under the RFSMS scheme. Upon the expiry of this period, the work of the Fellow will be evaluated by Experts Committee to be set up by the university. (ii)  If the research work is found satis",
+  "details": "Introduction The Research Fellowship in Sciences for meritorious students (RFSMS) scheme of the UGC is open to candidates who have registered for Ph.D. in Science in Universities with Potential for Excellence/Centres with Potential for Excellence/Centres of Advance Studies and Department of Special Assistance identified by UGC. ﻿ Objectives The objective of the RFSMS scheme is to provide opportunities to meritorious candidates to undertake advanced studies and research leading to Ph.D. degrees i",
+  "eligibility_text": "Only those candidates who have been registered for Ph.D. in science subjects in Universities with Potential for Excellence/Centres with Potential for Excellence/Centres of Advance Studies and Department of Special Assistance identified by UGC are eligible to apply for fellowship under the scheme.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "address_proof"
+  ],
+  "application_url": "Application Process - Step 1: Download and take print the application form given in the scheme guidelines. Step 2: Fill in the required details and attach the supporting documents. Step 3: Submit the ",
+  "tags": [
+    "Research",
+    "Fellowship",
+    "Student"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

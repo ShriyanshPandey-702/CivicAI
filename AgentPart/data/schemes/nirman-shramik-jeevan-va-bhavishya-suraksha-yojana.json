@@ -1,0 +1,39 @@
+{
+  "id": "nirman-shramik-jeevan-va-bhavi-0010",
+  "name": "Nirman Shramik Jeevan va Bhavishya Suraksha Yojana",
+  "slug": "nirman-shramik-jeevan-va-bhavishya-suraksha-yojana",
+  "ministry": "",
+  "category": "health",
+  "level": "State",
+  "state": "",
+  "benefit_amount": 12,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Pradhan Mantri Suraksha Bima Yojana (PMSBY) 100% reimbursement of annual premium amount (₹12) Premium amount is fully reimbursed through electronic transfer No partial reimbursement option is available Beneficiary must show proof of premium deduction in bank passbook Pradhan Mantri Jeevan Jyoti Bima",
+  "details": "Launched in 2016, the scheme \"Nirman Shramik Jeevan va Bhavishya Suraksha Yojana\" (Construction Workers Life and Future Security Scheme) by the Building and Other Construction Workers Welfare Board, Government of Rajasthan aims to provide financial security and social protection through insurance and pension benefits to the registered construction workers and their families. Through this scheme, benefits under the Pradhan Mantri Suraksha Bima Yojana, Pradhan Mantri Jeevan Jyoti Bima Yojana, and",
+  "eligibility_text": "1.  The applicant must be registered as a beneficiary with the Building and Other Construction Workers Welfare Board. 2.  The applicant must have a savings bank account in their name. 3.  The applicant must be eligible for membership under the following schemes: Pradhan Mantri Suraksha Bima Yojana (PMSBY) Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) Atal Pension Yojana (APY) 4.  The applicant",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a registered construction worker",
+      "field": "occupation",
+      "values": [
+        "daily_wage",
+        "self_employed"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "REGISTRATION Step 1: Visit the Official Portal of Rajasthan Single Signon, and click \" Register Here \". Step 2: In the online registration form, fill in all the mandatory fields, verify your Mobile Nu",
+  "tags": [
+    "Medical",
+    "Insurance",
+    "Health",
+    "Labor",
+    "Premium",
+    "Construction",
+    "Pension"
+  ],
+  "scheme_category_raw": "Health & Wellness"
+}

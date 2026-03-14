@@ -1,0 +1,41 @@
+{
+  "id": "e-yuva-scheme-biracs-e-yuva-fe-0840",
+  "name": "E-YUVA Scheme: BIRAC’s E-YUVA Fellows (for under graduate students)",
+  "slug": "e-yuva-scheme-biracs-e-yuva-fellows-for-under-graduate-students",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "quarterly",
+  "benefit_description": "BIRAC’s E-YUVA Fellows will receive a quarterly stipend and annual research grant as mentioned below: Quarterly Stipend: INR 7,500/- per quarter per student of the team Annual research grant: INR 2,50,000/- per team EYCs, EYC knowledge partners, and BIRAC provide continuous mentoring support to fell",
+  "details": "The scheme “Empowering Youth for Undertaking Value Added Innovative Translational Research (E-YUVA)” is started by the Biotechnology Industry Research Assistance Council (BIRAC) to promote a culture of applied research and need-oriented (societal or industry) entrepreneurial innovation among young students and researchers. The scheme provides funding support (through fellowship and research grant), technical and business mentoring, exposure to bio incubation model, orientation to an entrepreneur",
+  "eligibility_text": "Indian students from Indian Institutes/colleges who are pursuing under graduation in any domain should apply as a team. A team should comprise a minimum of 3 and a maximum of 5 Indian students from Indian Institutes/colleges pursuing under graduation in any domain. Teams with students from different disciplines are encouraged. One team can have students from the same/different colleges/institutes.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 01-02 years",
+      "field": "age",
+      "min": 1,
+      "max": 2
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "pan_card"
+  ],
+  "application_url": "Application Process: Step 01: The applications for fellowships will be invited at the national level through advertisements in national dailies/website/ suitable magazines. Step 02: Online application",
+  "tags": [
+    "E-YUVA",
+    "Fellow",
+    "Under Graduate",
+    "Student",
+    "Stipend",
+    "Research"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

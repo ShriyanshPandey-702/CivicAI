@@ -1,0 +1,32 @@
+{
+  "id": "national-mission-on-natural-fa-2173",
+  "name": "National Mission on Natural Farming",
+  "slug": "national-mission-on-natural-farming",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "•\tFarmers practicing Natural Farming reported similar yields to those following conventional farming. In several cases, higher yields per harvest were also reported. •\tAs Natural Farming does not use any synthetic chemicals, health risks and hazards are eliminated. The food has higher nutrition dens",
+  "details": "National Mission on Natural farming aims at creating institutional capacities for documentation and dissemination of best practices, make practicing farmers as partners in promotion strategy, ensure capacity building and continuous handholding and finally attracting farmers to the natural farming willingly on the merit of the system. ﻿ The main objectives of the scheme are: •\tTo promote alternative system of farming for freedom from external purchased inputs, cost reduction and thereby increasin",
+  "eligibility_text": "The scheme is applicable to all farmers in India",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert"
+  ],
+  "application_url": "Step 01: Interested beneficiary can get in touch with Zila Parishad to apply for the scheme. ﻿ Step 02: Zila Parishad Officer will submit applicant’s details and project plan to State Agriiculture Dep",
+  "tags": [
+    "Natural Farming",
+    "Agro Ecology",
+    "Chemical-free Farming"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

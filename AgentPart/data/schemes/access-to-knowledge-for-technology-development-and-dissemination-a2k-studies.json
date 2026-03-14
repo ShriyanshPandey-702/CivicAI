@@ -1,0 +1,40 @@
+{
+  "id": "access-to-knowledge-for-techno-0170",
+  "name": "Access To Knowledge For Technology Development And Dissemination (A2K+) - Studies",
+  "slug": "access-to-knowledge-for-technology-development-and-dissemination-a2k-studies",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "The support shall be towards the following items of expenditure: Manpower. Travel for networking, survey, stakeholder meetings, experts, resource persons, etc; (International travel is not permissible under a project). Consultation fees for experts and resource persons. Contingencies and consumables",
+  "details": "Access to Knowledge for Technology Development and Dissemination (A2K+) is a scheme targeted towards developing mechanisms to disseminate science, technology and innovation-related information to industries, research and academic institutions, In-house R&D units of industry, Scientific & Industrial Research Organizations (SIROs), consultants, industry associations, techno-entrepreneurs, government departments and others. ﻿ Supported Programmes 1: Supporting industrial technology-related studies",
+  "eligibility_text": "For Agencies Industry Associations including Sectoral Industry Associations, Export Promotion Councils and Chambers of Commerce and Industry. Central and State Government Departments and their associated bodies including Technical Consultancy Organizations (established by State Government, Financial Institutions & Banks). National R&D Institutions and Organizations including SIROs recognized by DS",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 228-2023 years",
+      "field": "age",
+      "min": 228,
+      "max": 2023
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "The prescribed application format can be downloaded from the website: http://dsir.gov.in/#files/12plan/a2k/a2ks.html. ﻿ The Applicants should submit five hard copies of the proposal duly signed + one ",
+  "tags": [
+    "Research",
+    "Technology",
+    "Proposal",
+    "Industry",
+    "Institution"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

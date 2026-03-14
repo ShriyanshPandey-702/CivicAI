@@ -1,0 +1,31 @@
+{
+  "id": "rmewf-financial-assistance-to--2533",
+  "name": "RMEWF-Financial Assistance To 100% Disabled Child Of Ex-Servicemen",
+  "slug": "rmewf-financial-assistance-to-100-disabled-child-of-ex-servicemen",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "A financial assistance of Rs.3000/- per month (paid annually) per child is provided to eligible Ex-Servicemen or their widows. The financial assistance is non-transferable and will cease automatically upon death of the child. ﻿",
+  "details": "A scheme to provide financial assistance to Ex-Servicemen or their widows for their 100% disabled child. ﻿ Ex-Servicemen or their widows, up to the ranks of Junior Commissioned Officer(JCO)/equivalent of the Navy/Air Force and below, who are not in receipt of such benefit from  any official agency can apply under this scheme. ﻿",
+  "eligibility_text": "The following criteria must be fulfilled:- ﻿ Child must be a legitimate offspring of ESM/Widow. ESM should be of the rank of JCO/equivalent of the Navy/Air Force and below. The child should be 100% disabled. Should not be in receipt of any disability benefit from any official agency. Should be recommended by respective Zila Sainik Board (ZSB).",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "disability_cert"
+  ],
+  "application_url": "Eligible Ex-servicemen / their widows can visit the official website of Kendriya Sainik Board Secretariat (KSBS) https://ksb.gov.in/ ﻿ Click on “Register” which is available on the homepage of the por",
+  "tags": [
+    "Ex-Servicemen",
+    "Widow Of Ex-Servicemen",
+    "Differently Abled"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

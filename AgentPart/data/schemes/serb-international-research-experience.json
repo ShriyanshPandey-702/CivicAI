@@ -1,0 +1,37 @@
+{
+  "id": "serb-international-research-ex-2619",
+  "name": "SERB International Research Experience",
+  "slug": "serb-international-research-experience",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 75000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The selected fellows will be paid a monthly fellowship amount equivalent to US $ 3000. One-time Contingency/Preparatory allowances of ₹75,000/- to cover visa fees, airport transfer charges, insurance, etc., Overseas Medical Insurance in India and abroad of ₹20,000/-. The selected fellows will also b",
+  "details": "The Science and Engineering Research Board (SERB), a statutory body under the Department of Science and Technology, Government of India has launched \"SERB International Research Experience (SIRE)\". This Program aims to impart high-end research training in frontier areas of Science and Technology, which are of interest to India by providing an opportunity to visit leading institutions/universities across the globe for a period of 02-06 months. The SERB under this program selects candidates in fro",
+  "eligibility_text": "The scheme is open to Indian nationals only. Applicant should have a Ph.D. degree in the area of Science and Engineering from recognized institutions in India. The applicant must hold a permanent position in any Indian research and academic institution. Applicants having MBBS/MD degrees and Veterinary doctors are also eligible to apply. Applicants having a Teachers Associateship for Research Excel",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "birth_cert"
+  ],
+  "application_url": "Application Procedure: Step 01: The application for consideration can be submitted through the SERB online portal www.serbonline.in only when the call for proposal is made. Step 02: Applicant should f",
+  "tags": [
+    "SERB",
+    "International Research",
+    "SIRE",
+    "Fellowship",
+    "Fellow"
+  ],
+  "scheme_category_raw": "Science, IT & Communications, Education & Learning"
+}

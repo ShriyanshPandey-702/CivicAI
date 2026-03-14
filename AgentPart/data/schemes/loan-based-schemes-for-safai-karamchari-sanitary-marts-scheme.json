@@ -1,0 +1,42 @@
+{
+  "id": "loan-based-schemes-for-safai-k-1734",
+  "name": "Loan Based Schemes For Safai Karamchari - Sanitary Marts Scheme",
+  "slug": "loan-based-schemes-for-safai-karamchari-sanitary-marts-scheme",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 15,
+  "benefit_frequency": "quarterly",
+  "benefit_description": "Loan Loan of Upto 90% of total cost for starting a Sanitary Mart with a maximum of Rs.15.00 lacs ﻿ Interest rate Interest payable by the beneficiaries shall not exceed 4% p.a. (1% p.a. rebate for women beneficiaries and 0.50% rebate for timely repayments.) ﻿ Promoter Contribution 10% of the total co",
+  "details": "A contributory Loan scheme by Ministry of Social justice and Empowerment for individual beneficiaries/self help groups of Liberated Safai Karamchari, Manual Scavengers and their dependants aged 18 years and above, for setting up A Sanitary Marts (SM) is a one-stop-shop for all things for sanitation and hygiene. ﻿ Under this scheme, term loans are extended through State Channelising Agencies (SCA), Regional Rural Banks(RRBs), and Nationalised Banks to the target group. ﻿ Loan of Upto 90% of total",
+  "eligibility_text": "The following person(s)/entities shall be considered eligible for availing of financial assistance under the various schemes of NSKFDC:- • Safai Karamcharis (including Wastepickers), identified Manual Scavengers and their dependents. ﻿ Registered co-operative societies of the target group. Legally constituted association/firm promoted by the target group, and Persons, who produce a certificate fro",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 2013-2018 years",
+      "field": "age",
+      "min": 2013,
+      "max": 2018
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Loan applications are submitted by the applicants to the district offices of SCAs of NSKFDC of RRBs and Nationalised Banks. These applications are then sent to the head offices where the project propo",
+  "tags": [
+    "Sanitary Mart",
+    "Loan",
+    "Financial Assistance",
+    "Credit",
+    "Sanitation",
+    "Manual Scavengers",
+    "Waste Pickers",
+    "Safai Karamcharis"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Banking,Financial Services and Insurance, Social welfare & Empowerment,"
+}

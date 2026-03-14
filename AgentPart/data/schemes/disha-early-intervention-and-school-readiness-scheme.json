@@ -1,0 +1,36 @@
+{
+  "id": "disha-early-intervention-and-s-0740",
+  "name": "Disha - Early Intervention and School Readiness Scheme",
+  "slug": "disha-early-intervention-and-school-readiness-scheme",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Day Care: Day-care facilities to PwD for at least 4 hours in a day. Staffing: Provision of Therapies, trainings and providing support to family members. Counselling: Counselling and guidance especially for Activities for Daily Living (ADL) must be provided to parents or guardians of PwD with regular",
+  "details": "Disha-Early Intervention and School Readiness Scheme was launched by the Department of Empowerment of Persons with Disabilities , Ministry of Social Justice and Empowerment. Govt. of India.This scheme aims at setting up Disha Centres for early intervention for Person with Disability (PwD) in 0-10 years of age covered under the National Trust Act, through therapies, trainings and providing support to family members.",
+  "eligibility_text": "Following are the eligibility criteria that a PwD should have to be enrolled under Disha Centre: PwD should be in the age group of 0-10 years. PwD should have one of the disabilities covered under the National Trust Act, 1999, which are Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities. ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 0-10 years",
+      "field": "age",
+      "min": 0,
+      "max": 10
+    }
+  ],
+  "documents_required": [
+    "income_cert",
+    "address_proof",
+    "birth_cert",
+    "disability_cert"
+  ],
+  "application_url": "Enrolment of PwD at the Disha Centre/Registered Organization: Applicant PwD visits Disha Centre with parents/guardian and required documents Disha Centre conducts PwD Assessment Test: Fit for school: ",
+  "tags": [
+    "Person With Disability",
+    "Counselling",
+    "Special Care",
+    "Child"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

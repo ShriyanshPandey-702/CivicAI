@@ -1,0 +1,32 @@
+{
+  "id": "national-awards-to-teachers-hi-2140",
+  "name": "National Awards To Teachers (Higher Education)",
+  "slug": "national-awards-to-teachers-higher-education",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50000,
+  "benefit_frequency": "annual",
+  "benefit_description": "A medal. A certificate. Cash Prize of ₹ 50,000/-",
+  "details": "The purpose of the National Award to Teachers under the Department of Higher Educational Institutions is to recognize the distinctive contributions of some of the finest faculty members in the country and honor them for their dedication and hard work, which have not only improved the quality of higher education but also enriched the lives of their students. The Award seeks to recognize and honor faculty members' unique and path-breaking achievements in teaching, research, institutional service,",
+  "eligibility_text": "The award is open to all the faculty members of colleges/universities/higher educational institutions in India, satisfying the following conditions: Should be a regular faculty member. Should have at least five years of full-time teaching experience at the Undergraduate and/or Post-graduate level. Should not be above 55 years of age as of the last date of receiving an application for the awards. V",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Registration: Step-1: Visit the official website . Step-2: Click on the Registration button. Step-3: Choose type Individual or  Organization. Step-4.1: Under Individual category provide the following ",
+  "tags": [
+    "Teacher",
+    "Educational",
+    "Awards",
+    "National"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

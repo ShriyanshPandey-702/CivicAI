@@ -1,0 +1,41 @@
+{
+  "id": "surakshit-matritva-aashwasan-y-3113",
+  "name": "Surakshit Matritva Aashwasan Yojana",
+  "slug": "surakshit-matritva-aashwasan-yojana",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "The scheme allows zero expense delivery and C-section facilities at public health facilities. Beneficiaries will get four antenatal check-ups, one check-up during the 1st trimester, and one check-up under Pradhan Mantri Surakshit Matritva Abhiyan. The scheme also covers Tetanus-Diphtheria injection",
+  "details": "SUMAN Yojana or Surakshit Matritva Aashwasan Yojana is a maternity benefit initiative launched by the Ministry of Union Health and Family Welfare. This program provides affordable and quality healthcare solutions to pregnant women and newborns. Under this scheme, pregnant women, sick newborns, and mothers receive zero expense access up to six months after delivery. They receive treatment from quality hospitals and professionals. The PMSMA programme allows four antenatal check-ups during the 1st",
+  "eligibility_text": "All pregnant women and newborns are eligible to avail of the benefits under the PM SUMAN Yojana. Following are the general requirements - Pregnant women from all categories, including APL and BPL, are eligible to get the benefits Newborns aged 0 to 6 months old will be able to avail the benefits of this scheme After delivery, lactating mothers up to 6 months from delivery are also eligible for thi",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 0-6 years",
+      "field": "age",
+      "min": 0,
+      "max": 6
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof",
+    "pan_card"
+  ],
+  "application_url": "Individuals have to visit civil hospitals in their respective areas to register themselves for the PM SUMAN Yojana. Ideally, they have to fulfill the eligibility criteria and submit the mentioned docu",
+  "tags": [
+    "Pregnant",
+    "Health"
+  ],
+  "scheme_category_raw": "Health & Wellness, Women and Child"
+}

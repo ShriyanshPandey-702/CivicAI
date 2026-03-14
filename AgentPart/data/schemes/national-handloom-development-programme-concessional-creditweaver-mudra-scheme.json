@@ -1,0 +1,38 @@
+{
+  "id": "national-handloom-development--2165",
+  "name": "National Handloom Development Programme: Concessional Credit/Weaver MUDRA Scheme",
+  "slug": "national-handloom-development-programme-concessional-creditweaver-mudra-scheme",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 2000000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Margin Money Assistance: Individual Handloom Weaver/Weaver Entrepreneur- Margin Money assistance @20% of the loan amount, subject to a maximum of ₹25,000/-. Handloom organization - Margin money assistance @20% of the loan amount, subject to a maximum of ₹20.00 lakh (margin money @₹2.00 lakhs for eve",
+  "details": "The “National Handloom Development Programme: Concessional Credit/Weaver MUDRA Scheme” is one of the components of the National Handloom Development Programme (NHDP) was launched by the Ministry of Textiles, Government of India. The scheme aims to provide adequate and timely assistance from the banks to the handloom sector to meet their credit requirements for term loans & working capital in a flexible and cost-effective manner across the country. Participating Banks: All Scheduled Commercial Ba",
+  "eligibility_text": "The following agencies are eligible to avail loans from Banks/Financial Institutions: Handloom Weavers involved in weaving activity, Weaver Entrepreneur, Self Help Groups, Joint Liability Groups, Handloom organizations, including Primary Handloom Weavers’ Co-operative Societies, Apex Handloom Weavers’ Co-operative Societies, State Handloom Corporations and Producers’ Companies/Consortia promoted b",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 01-02 years",
+      "field": "age",
+      "min": 1,
+      "max": 2
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 01: Eligible beneficiaries are required to approach the Participating Bank concerned along with required documents etc. for availing of loan benefits under the scheme. Step 02: The applicants nee",
+  "tags": [
+    "Handloom",
+    "Concessional Credit",
+    "Weaver",
+    "MUDRA",
+    "Bank",
+    "Margin Money Assistance",
+    "Interest Subvention",
+    "Credit Guarantee"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance"
+}

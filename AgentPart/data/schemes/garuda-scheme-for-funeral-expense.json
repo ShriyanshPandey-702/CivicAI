@@ -1,0 +1,37 @@
+{
+  "id": "garuda-scheme-for-funeral-expe-0005",
+  "name": "Garuda Scheme for Funeral Expense",
+  "slug": "garuda-scheme-for-funeral-expense",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "State",
+  "state": "Andhra Pradesh",
+  "benefit_amount": 10000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Financial Assistance of ₹10,000/- for funeral expenses.",
+  "details": "Andhra Pradesh Brahmin Welfare Corporation (ABC), a Government of Andhra Pradesh undertaking, is announcing the \"Garuda Scheme for Funeral Expenses\" (GS- FE) for the poor Brahmins in Andhra Pradesh. Under this scheme, financial assistance of ₹10,000/- shall be provided to meet the Funeral Expenses of the deceased Brahmin, through the prescribed process. This scheme covers Andhra Pradesh all 13 districts, to meet the funeral expenses of the deceased Brahmi.",
+  "eligibility_text": "The applicant should be a close relative of the deceased (Spouse/Son/Daughter/Parent/Brother/Grandson). The applicant should provide a self-declaration that he/she is the legal heir of the deceased. The applicant should belong to the Brahmin community and reside in Andhra Pradesh. The applicant's annual family income should not exceed ₹75,000/-. The applicant should not have availed himself/ herse",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹75,000",
+      "field": "income",
+      "max": 75000
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "address_proof",
+    "ration_card",
+    "birth_cert"
+  ],
+  "application_url": "Registration and apply Step 01: Applicants have to visit the official website(https://www.andhrabrahmin.ap.gov.in/schemes/schemes.aspx#) and click on \"Scheme\" Step 02: Click on \"Registration\" After th",
+  "tags": [
+    "Social Welfare",
+    "Financial Assistance",
+    "Deceased",
+    "Brahmin"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

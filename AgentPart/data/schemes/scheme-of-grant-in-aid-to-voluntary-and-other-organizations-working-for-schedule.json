@@ -1,0 +1,40 @@
+{
+  "id": "scheme-of-grant-in-aid-to-volu-2835",
+  "name": "Scheme of Grant-in-Aid to Voluntary and other Organizations Working for Scheduled Castes",
+  "slug": "scheme-of-grant-in-aid-to-voluntary-and-other-organizations-working-for-schedule",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Educational Initiatives: Opening of Hostels and Residential Schools, ITIs, Arts and Craft Centers, or Any Other Income Generating Scheme. Tuition Fee Support: Meeting the Cost of Tuition Fees for Training in Information Technology at Institutions of Repute Selected by the Ministry of Social Justice",
+  "details": "The prime objective of the \"Scheme of Grant-in-Aid to Voluntary and other Organizations Working for Scheduled Castes\" by the Ministry of Social Justice and Empowerment, Department of Social Justice and Empowerment, is to enhance the reach of development interventions of the Government and fill the gaps in service-deficient Scheduled Caste dominant areas in sectors such as education, health, vocational training, etc., through the efforts of voluntary organizations and other organizations. This ai",
+  "eligibility_text": "For the Organization Registered under the Societies Registration Act, 1860 (XXI of 1860) or any relevant State/Union Territory Act. A public trust registered under the applicable law. A charitable company licensed under Section 25 of the Companies Act, 1956. Indian Red Cross Society or its branches. Any other public body or institution with legal status. Voluntary organizations should have been re",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "bank_passbook"
+  ],
+  "application_url": "Step 1: Application Preparation The organization shall submit the application in the prescribed format (Application-cum-Monitoring Form) following the procedure and guidelines provided by the Ministry",
+  "tags": [
+    "Scheduled Caste",
+    "Grant",
+    "NGO"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

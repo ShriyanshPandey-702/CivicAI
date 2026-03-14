@@ -1,0 +1,40 @@
+{
+  "id": "wise-fellowship-for-phd-3316",
+  "name": "WISE Fellowship for Ph.D.",
+  "slug": "wise-fellowship-for-phd",
+  "ministry": "",
+  "category": "women",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 100000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The fellowship amount under this programme is ₹37,000/- per month along with House Rent Allowances (HRA) as per norms. This Programme also provides a Research Grant of ₹1.00 lakh per year and Institutional overhead charges @₹ 0.50 lakh per year (as per DST norms).",
+  "details": "The \"WISE Fellowship for Ph.D. (WISE-PhD)\" was started by the Department of Science and Technology under ‘Women in Science and Engineering-KIRAN (WISE-KIRAN)’ Scheme to provide an opportunity to carry out Doctoral research in basic and applied sciences to women scientists and technologists between the age group of 27-45 years who want to pursue research in STEM fields as a bench-level scientist. Vision: WISE-PhD provides an opportunity for women to pursue higher education, i.e., a Ph.D. through",
+  "eligibility_text": "Unemployed women who want to pursue a Ph.D. can apply for a fellowship under WISE-PhD. The programme is open for both candidates; those who have not yet registered as well as those who have already registered for a Ph.D., but not availing of a fellowship from any sources. However, candidates who have completed two (2) years duration in Ph.D. as of the date of application are NOT eligible. The foll",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 27-45 years",
+      "field": "age",
+      "min": 27,
+      "max": 45
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 01: The call is open throughout the year for proposal submission under WISE-PhD at ePMS ( https://onlinedst.gov.in ). Step 02: The proposal format is available at https://dst.gov.in , https://onl",
+  "tags": [
+    "WISE",
+    "Fellowship",
+    "PhD",
+    "KIRAN",
+    "Woman"
+  ],
+  "scheme_category_raw": "Science, IT & Communications, Women and Child"
+}

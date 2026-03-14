@@ -1,0 +1,49 @@
+{
+  "id": "post-matric-scholarship-for-sc-2402",
+  "name": "Post-Matric Scholarship for SC students",
+  "slug": "post-matric-scholarship-for-sc-students",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 13000,
+  "benefit_frequency": "annual",
+  "benefit_description": "﻿ Category Of Courses Hostellers (Yearly) Day Scholars ( Yearly) Group-1 Degree and post Graduate Level professional courses ₹ 13,000/- ₹ 7,000/- Group-2: Other Professional Courses leading to Degree, Diploma, Certificate ₹ 9,500/- ₹ 6,500/- Group-3 Graduate and Post Graduate courses not covered und",
+  "details": "Objective The objective of the scheme is to appreciably increase the Gross Enrolment Ratio of SC students in higher education with a focus on those from the poorest households, by providing financial assistance at post-matriculation or post-secondary stage to enable them to complete their education Scope These scholarships are available for studies in India only and the awardees are selected by the State Government/Union Territory to which the applicant actually belongs (i.e. the State/UT in whi",
+  "eligibility_text": "The scholarships are open to Indian nationals only. Only candidates who belong to Scheduled Castes and have passed the Matriculation, Higher Secondary, or a higher examination of a recognized university or Board of Secondary Education are eligible. Scholarships will be paid to students whose parents' or guardians' income from all sources does not exceed ₹ 2,50,000/- per annum. The ceiling on age l",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹250,000",
+      "field": "income",
+      "max": 250000
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Registration for New Applicant Open the official NSP website and click on New Registration under Applicant Corner. Read the Instruction /Guidelines, provide the under taking by click on Check box and ",
+  "tags": [
+    "Scholarship",
+    "Student Finance",
+    "Education"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

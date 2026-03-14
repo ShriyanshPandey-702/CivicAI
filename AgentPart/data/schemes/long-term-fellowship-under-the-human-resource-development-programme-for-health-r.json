@@ -1,0 +1,37 @@
+{
+  "id": "long-term-fellowship-under-the-1742",
+  "name": "Long Term Fellowship under the Human Resource Development Programme for Health Research",
+  "slug": "long-term-fellowship-under-the-human-resource-development-programme-for-health-r",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 40000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Long-Term Fellowship (6-12 months) in Indian institutes: A consolidated stipend of ₹40,000/- per month for a period of stay in the host institute, which is at a different station from the parent Institute. In case, the training is at the same station, the rate of stipend payable will be ₹20, 000/- p",
+  "details": "“Long Term Fellowship” under the Human Resource Development Programme for Health Research aims to provide advanced training in India and abroad to medical and health research personnel in cutting-edge research areas related to medicine and health to create trained human resources for carrying out advanced research activities. The scheme is intended to create a pool of talented health research personnel in the country by upgrading the skills of medical students & faculty through specialized train",
+  "eligibility_text": "Only Indian citizens working in Indian institutes are eligible. Having M.D./ M.S./ M.D.S. or MBBS/BDS/ MVSc./ M.Sc./ M.Pharma/ M.Tech or equivalent with Ph.D. in a topic related to health/ medical research. The faculty should have at least three years of experience in the institute as a regular employee. Candidate should be below 45 years of age as of the last date of receipt of application. They",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 6-12 years",
+      "field": "age",
+      "min": 6,
+      "max": 12
+    }
+  ],
+  "documents_required": [
+    "caste_cert",
+    "birth_cert",
+    "disability_cert"
+  ],
+  "application_url": "Step 01: The full-length research proposals may be submitted online only and no proposal in physical/hard copy is to be submitted w.r.t. the advertisements published in leading newspapers and uploaded",
+  "tags": [
+    "Long Term",
+    "Fellowship",
+    "Medical",
+    "Health Research",
+    "Research",
+    "Stipend"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "prime-ministers-scholarship-sc-2485",
+  "name": "Prime Minister’s Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles",
+  "slug": "prime-ministers-scholarship-scheme-for-the-wards-of-central-armed-police-forces-",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The benefits under the scheme is as follows: Amount of Scholarship: •\t₹3,000/- per month for girls. •\t₹2,500/- per month for boys Note: The above scholarship amount is to be paid annually after selection @ ₹36,000/- to each girl & ₹30,000/- to each boy. Duration of Scholarship: Up to 5 years (depend",
+  "details": "The “Prime Minister’s Scholarship Scheme (PMSS) for the Wards of Central Armed Police Forces & Assam Rifles” is a scholarship scheme which was introduced by the Ministry of Home Affairs, Government of India from the academic year 2006-07 to encourage higher technical & professional education for the dependent wards & widows of Central Armed Police Forces & Assam Rifles (CAPFs & AR) Personnel. Number of Scholarship: For the wards of CAPFs & Assam Rifles, a total of 2000 Scholarships (equally for",
+  "eligibility_text": "The eligibility criteria for availing financial assistance under this scheme are as follows:- Wards/widows of deceased Central Armed Police Forces (CAPFs) and Assam Rifles (ARs) personnel who died in harness/election duty, wards of personnel disabled due to causes attributable to Government service, and Wards of Ex CAPFs & AR personnel in receipt of Gallantry Awards. Wards/widows of retired and se",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1-2 years",
+      "field": "age",
+      "min": 1,
+      "max": 2
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "disability_cert"
+  ],
+  "application_url": "Online submission for the scholarship can be done through the website of the National Scholarship Portal with the required documents: https://scholarships.gov.in/ ﻿ Registration for New Applicant: Ste",
+  "tags": [
+    "Scholarship",
+    "Student",
+    "Assam Rifles",
+    "CAPF",
+    "Ward",
+    "Widow"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

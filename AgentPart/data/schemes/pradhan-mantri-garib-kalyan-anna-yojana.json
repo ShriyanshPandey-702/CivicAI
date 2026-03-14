@@ -1,0 +1,57 @@
+{
+  "id": "pradhan-mantri-garib-kalyan-an-2418",
+  "name": "Pradhan Mantri Garib Kalyan Anna Yojana",
+  "slug": "pradhan-mantri-garib-kalyan-anna-yojana",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "PMGKAY provides 5 kg of food grain to each family holding a ration card free of cost and the 5 kg of subsidized food grain already offered through the Public Distribution System (PDS). Wheat has been allocated to 6 States/UTs, - Punjab, Haryana, Rajasthan, Chandigarh, Delhi, and Gujarat, and rice ha",
+  "details": "Pradhan Mantri Garib Kalyan Anna Yojana (PM-GKAY) is a scheme as part of Atmanirbhar Bharat to supply free food grains to migrants and poor. Phase-I and Phase-II of this scheme were operational from April to June, 2020 and July to November, 2020 respectively. Phase III of the scheme was operational from May to June, 2021. Phase-IV of the scheme during July-November, 2021 and Phase V from December 2021 till March, 2022 . Under this scheme, the center provides 5kg of free food grains per month to",
+  "eligibility_text": "Families belonging to Antyodaya Anna Yojana (AAY) and Priority Households (PHH) categories will be eligible for the scheme. PHH are to be identified by State Governments/Union Territory Administrations as per criteria evolved by them. AAY families are to be identified by States/UTs as per the criteria prescribed by the Central Government: Households headed by widows or terminally ill persons or di",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age 60 years or above",
+      "field": "age",
+      "min": 60
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "ration_card"
+  ],
+  "application_url": "Interested persons shall visit the nearest Fair Price Shop with the Ration Card: Beneficiaries can quote either their ration card number or the Aadhaar number to any Fair Price Shop dealer across the ",
+  "tags": [
+    "Ration",
+    "Anna",
+    "Wheat",
+    "Rice",
+    "Food Grains"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

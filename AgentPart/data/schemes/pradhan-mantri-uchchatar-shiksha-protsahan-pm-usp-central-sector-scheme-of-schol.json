@@ -1,0 +1,42 @@
+{
+  "id": "pradhan-mantri-uchchatar-shiks-2434",
+  "name": "Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University students",
+  "slug": "pradhan-mantri-uchchatar-shiksha-protsahan-pm-usp-central-sector-scheme-of-schol",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 12000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Rate of Scholarship ₹12,000/-per annum at the Graduation level for the first three years of College and University courses. ₹20,000 per annum at the Post-graduation level. ₹20,000/-per annum in the 4th and 5th year to the Students pursuing professional courses, in case, where the duration of the cou",
+  "details": "\"Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students\" is a Scholarship Scheme by the Department of Higher Education, Ministry of Education.  The primary objective of the scheme is to provide financial assistance to meritorious students from poor families to meet a part of their day-to-day expenses while pursuing higher studies. The scholarships are awarded based on the results of the Higher Secondary/ Class 12th Board Exami",
+  "eligibility_text": "The applicant must be above the 80th percentile of successful candidates in the relevant stream from the respective Board of Examination in Class 12th of 10+2 pattern or equivalent. The applicant must be pursuing regular degree courses. The applicant must be pursuing courses at colleges/ institutions recognized by the All India Council for Technical Education and the respective Regulatory Bodies c",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹450,000",
+      "field": "income",
+      "max": 450000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "disability_cert"
+  ],
+  "application_url": "New Registration : Step 1: Visit the Registration page of the National Scholarships Portal. Step 2: Guidelines for Registration will appear. Scroll to the bottom. Read carefully the undertaking. Accep",
+  "tags": [
+    "Scholarship",
+    "Student",
+    "Financial Assistance",
+    "College",
+    "University"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "free-coaching-scheme-for-sc-an-1111",
+  "name": "Free Coaching Scheme for SC and OBC Students",
+  "slug": "free-coaching-scheme-for-sc-and-obc-students",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 4000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Stipend @ ₹ 4000 per month for the full duration of the course not exceeding 12 months. ₹ 15,000 as an incentive to the successful students for coaching for interviews for all the students clearing the mains stage of Central Civil Services / State Civil Services Exams for Class 1 and Class 2 posts.",
+  "details": "\"Free Coaching Scheme for SC and OBC Students\" is an Education Scheme by the Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment. The objective of the Scheme is to provide coaching of good quality for economically disadvantaged Scheduled Castes (SCs) and Other Backward Classes (OBCs) candidates to enable them to appear in competitive examinations for obtaining appropriate jobs in the Public/Private Sector and/or for securing admission in reputed technical and",
+  "eligibility_text": "Eligibility Criteria for Students The applicant should be a student. The applicant should be from Scheduled Caste or Other Backward Class. The total annual family income of the applicant (from all sources) should be ₹ 8,00,000 or less. For the competitive exams for which the qualifying exam is class 12th, the candidate should have passed class 12th or be studying in class 12th as of the date of re",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 100-50 years",
+      "field": "age",
+      "min": 100,
+      "max": 50
+    },
+    {
+      "criterion": "Annual income below ₹50",
+      "field": "income",
+      "max": 50
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "address_proof",
+    "birth_cert"
+  ],
+  "application_url": "The Central University shall issue suitable advertisements inviting willing and eligible students to apply online on the Free Coaching Scheme Portal along with the details of the course he/she intends",
+  "tags": [
+    "Coaching",
+    "Scheduled Caste",
+    "Other Backward Class",
+    "Examination",
+    "Stipend"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

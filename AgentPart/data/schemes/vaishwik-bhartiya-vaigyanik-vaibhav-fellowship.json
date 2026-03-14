@@ -1,0 +1,40 @@
+{
+  "id": "vaishwik-bhartiya-vaigyanik-va-3268",
+  "name": "VAIshwik BHArtiya Vaigyanik (VAIBHAV) Fellowship",
+  "slug": "vaishwik-bhartiya-vaigyanik-vaibhav-fellowship",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 400000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Emoluments for the Fellowship: Fellowship in ₹4,00,000/- roughly (equivalent to USD 5000 per month), for a minimum of 1 month and a maximum of up to 2 months per year for a period of a maximum of 3 years, International Travel from place of work in parent institute to place of work in India in busine",
+  "details": "The “Vaishvik Bharatiya Vaigyanik (VAIBHAV) Fellowship” is a new programme which is implemented by the Department of Science & Technology, Ministry of Science and Technology, Government of India. This programme envisages collaboration between scientists of the Indian Diaspora with Indian Higher Educational Institutions (HEIs), Universities and/or Public Funded Scientific Institutions. The VAIBHAV Fellow would identify an Indian Institution for collaboration and may spend up to two months in a ye",
+  "eligibility_text": "Eligibility: (For applicants- VAIBHAV Fellow): Non-Resident Indian (NRI), Persons of Indian Origin (PIO), and Overseas Citizen of India (OCI), currently working abroad. Ph.D/M.D/M.S/M.Tech degree from a recognized University. Engaged in active research. Working/worked in an Institute/University of top-200 QS World University Ranking (subject wise) (in regular/tenure employment) for at least 5 year",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 200-5 years",
+      "field": "age",
+      "min": 200,
+      "max": 5
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Application Process: Step 01: The application should be submitted online to the Department of Science and Technology (DST). Step 02: The applicant can download the proposal formats of the VAIBHAV Fell",
+  "tags": [
+    "VAIBHAV",
+    "Fellowship",
+    "Fellow",
+    "Research",
+    "Science"
+  ],
+  "scheme_category_raw": "Education & Learning, Science, IT & Communications"
+}

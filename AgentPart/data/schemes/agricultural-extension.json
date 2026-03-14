@@ -1,0 +1,36 @@
+{
+  "id": "agricultural-extension-0203",
+  "name": "Agricultural Extension",
+  "slug": "agricultural-extension",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Benefits Of The Scheme To supplement efforts of public extension by necessarily providing extension and other services to the farmers on a payment basis or free of cost as per the business model of agri-preneur, local needs and affordability of the target group of farmers. To support agricultural de",
+  "details": "Extension Division endeavours towards successful implementation of Agricultural Extension activities. Through its various programmes, schemes and activities, Extension Division helps farmers to get information regarding scientific research and new knowledge in agricultural practices. It assists and encourages the State Governments in organizing, maintaining and operating professional Extension Services. Extension Division implements SMAE (Sub Mission on Agricultural Extension), a Sub Mission of",
+  "eligibility_text": "Eligibility Criteria For Candidates The scheme is open to the following categories of candidates of the age group of 18 to 60 years. Graduates in agriculture and allied subjects like Horticulture, Sericulture, Dairy, Animal Husbandry, Fisheries, Home/ Community Sciences, Biotechnology, Agricultural Engineering, Forestry, Food Technology, Food Nutrition, and Dietetics, etc, from SAUs/ Central Agric",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-60 years",
+      "field": "age",
+      "min": 18,
+      "max": 60
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Process of Selection of Candidates Call for applications from eligible candidates: Advertisements in local newspapers will be issued under intimation to local employment exchanges separately by the NT",
+  "tags": [
+    "Agricultural",
+    "Extension"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

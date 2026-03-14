@@ -1,0 +1,34 @@
+{
+  "id": "6-varsh-se-adhik-aayu-ke-bahuv-0096",
+  "name": "6 Varsh Se Adhik Aayu Ke Bahuviklang Aur Mansik Roop Se Aviksit Nisaktjan Ke Liye Sahayata Anudan Yojana",
+  "slug": "6-varsh-se-adhik-aayu-ke-bahuviklang-aur-mansik-roop-se-aviksit-nisaktjan-ke-liy",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "State",
+  "state": "Madhya Pradesh",
+  "benefit_amount": 600,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Cash Benefits- ₹ 600/- per month",
+  "details": "Chhe Varsh Se Adhik Aayu Ke Bahuviklang Aur Mansik Roop Se Aviksit Nisaktjan Ke Liye Sahayata Anudan Yojana Under the Department of Social Justice and Empowerment of Persons with Disabilities Government of Madhya Pradesh. To assist multiple handicapped and mentally underdeveloped persons above the age of six years who are unable to earn a living. At present there is no such provision; their parents and family members have to face a lot of difficulty in taking care of such disabled people. Giving",
+  "eligibility_text": "The applicant should be a native of Madhya Pradesh. The applicant should have a Certificate of 40 percent or more disability. The applicant's name should be mentioned on the Samagra portal and verified on the Sparsh portal The applicant should have an age certificate for being above six years of age.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 1: Applicants can apply for the scheme using the prescribed format and submitting the necessary documents either to the designated officer's office, the Gram Panchayat, or a Public Service Center",
+  "tags": [
+    "Empowerment",
+    "Social Welfare",
+    "Disabled",
+    "Mentally Underdeveloped",
+    "Financial"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "scheme-of-assistance-to-disabl-2715",
+  "name": "Scheme Of Assistance To Disabled Persons For Purchase/Fitting Of Aids/Appliances",
+  "slug": "scheme-of-assistance-to-disabled-persons-for-purchasefitting-of-aidsappliances",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 15000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "QUANTUM OF ASSISTANCE ﻿ (i) For aids /appliances costing up to Rs. 15,000: Full financial assistance under the scheme. ﻿ (ii) For aids /appliances costing between Rs. 15,001/- to Rs. 30000/-: Financial assistance up to Rs 15000/- ﻿ (iii) Further, all expensive items costing above Rs. 30,001/, except",
+  "details": "The \"Scheme of Assistance to Disabled Persons for Purchase/Fitting of Aids/Appliances\" or the \"ADIP Scheme\" was launched on 1st Jan 1981 by the Department of Empowerment of Persons with Disabilities, Ministry of Social Justice & Empowerment, to assist the disabled persons in procuring suitable, durable, scientifically-manufactured, modern, standard aids and appliances, that can promote their physical, social and psychological rehabilitation by reducing the effects of disabilities and enhance the",
+  "eligibility_text": "ELIGIBILITY OF IMPLEMENTING AGENCIES ﻿ The following agencies are eligible to implement the Scheme on behalf of the Department of Empowerment of Persons with Disabilities (Divyangjan) under the aegis of the Ministry of Social Justice and Empowerment, subject to fulfillment of the following terms and conditions: ﻿ Societies and their branches, if any, were registered separately under the Societies",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1860-40 years",
+      "field": "age",
+      "min": 1860,
+      "max": 40
+    },
+    {
+      "criterion": "Annual income below ₹30,000",
+      "field": "income",
+      "max": 30000
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "address_proof",
+    "ration_card",
+    "disability_cert",
+    "pan_card"
+  ],
+  "application_url": "Through Camp Activity: Implementing agencies will carry out assessments of beneficiaries in camp mode at district levels, followed by distribution camps. Implementing Agencies need to focus on coverag",
+  "tags": [
+    "Aids And Appliances",
+    "Social Welfare",
+    "PwD",
+    "Person With Disability"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

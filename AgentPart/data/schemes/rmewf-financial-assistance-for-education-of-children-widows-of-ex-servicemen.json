@@ -1,0 +1,32 @@
+{
+  "id": "rmewf-financial-assistance-for-2529",
+  "name": "RMEWF-Financial Assistance For Education Of Children & Widows Of Ex-Servicemen",
+  "slug": "rmewf-financial-assistance-for-education-of-children-widows-of-ex-servicemen",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "A financial assistance of Rs.1000/- per month per head (up to max two children) of eligible Ex-Servicemen and their widows is provided for the previous academic year, payable in one installment in a financial year. ﻿ Financial assistance of Rs. 1000 is also provided to widow of Ex-servicemen for pur",
+  "details": "A scheme to provide financial assistance to Ex-Servicemen and their widows for helping them in educating their child (for maximum two children) up to graduation and also for widows to pursue Post Graduation degree. ﻿ Aim of this scheme is to provide financial assistance to up to a maximum of two dependent children of those ESM or their widows, up to the ranks of Havildar in the Army and equivalent in the Navy and Air Force, who are not in receipt of such benefit from from the State or his Employ",
+  "eligibility_text": "The eligibility criteria for availing financial assistance under this scheme are as follows:- Applicant must be an ESM/ widow/Orphan dependent. Should be of rank Havildar/equivalent and below. The scheme is applicable for classes 1 to 12 of school and undergraduate classes of a degree college. This grant is also admissible to widows who wish to pursue 2-year post graduate degree. The ward/widow sh",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Eligible Ex-servicemen / their widows can visit the official website of Kendriya Sainik Board Secretariat https://ksb.gov.in/ ﻿ Click on “Register” which is available on the homepage of the portal. No",
+  "tags": [
+    "Wards Of Ex-Servicemen",
+    "Ex-Servicemen",
+    "Widow Of Ex-Servicemen",
+    "Grant"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

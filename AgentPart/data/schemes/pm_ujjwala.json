@@ -1,0 +1,33 @@
+{
+  "name": "PM Ujjwala Yojana",
+  "category": "social_welfare",
+  "description": "Free LPG connection to women of BPL families",
+  "eligibility_rules": {
+    "max_income": 100000,
+    "min_age": 18,
+    "max_age": null,
+    "caste": ["general", "obc", "sc", "st", "ews"],
+    "states": ["all"],
+    "occupation": ["all"],
+    "requires_land": false,
+    "min_land_acres": 0,
+    "additional_rules": [
+      "Must be adult woman belonging to BPL household",
+      "No other LPG connection in same household"
+    ]
+  },
+  "required_docs": [
+    "aadhaar",
+    "ration_card"
+  ],
+  "benefit_amount": 3200,
+  "benefit_description": "₹1,600 free LPG connection + ₹1,600 refill subsidy per year under Ujjwala 2.0",
+  "portal_url": "https://www.pmuy.gov.in",
+  "deep_eligibility_questions": [
+    {
+      "field": "has_existing_lpg",
+      "question": "Does anyone in your household already have an LPG gas connection?",
+      "type": "yes_no"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "swami-vivekananda-single-girl--3123",
+  "name": "Swami Vivekananda Single Girl Child Fellowship for Research in Social Sciences",
+  "slug": "swami-vivekananda-single-girl-child-fellowship-for-research-in-social-sciences",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 25000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Financial Assistance The financial assistance available under the scheme is as follows: 1.  Fellowship @ ₹25,000/- per month for the Initial two years; @ ₹28,000/- per month for the remaining tenure. 2.  Contingency @ ₹10,000/- per annum for initial two years; @ ₹20,500/- per annum for remaining ten",
+  "details": "A fellowship scheme by the University Grants Commission (UGC) for Single Girl Child for research in Social Sciences with an aim to compensate for direct costs of higher education, especially for such girls who happen to be the only girl child in their family. The objectives of the proposed scheme are: To support the higher education of single girl child in Social Sciences. To recognize the value of observance of the small family norms. To recognize the norm of single girl child in society. To pr",
+  "eligibility_text": "1. Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/ Institutes is eligible to apply under the scheme. In a family, if one son and one daughter are available then the girl child will not be considered for fellowship under the scheme. 2. The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. progr",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 40-45 years",
+      "field": "age",
+      "min": 40,
+      "max": 45
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "birth_cert",
+    "disability_cert"
+  ],
+  "application_url": "Applications are invited through online mode once a year through advertisements in leading newspapers & employment news. Short notification is also uploaded to the UGC Website: https://www.ugc.gov.in/",
+  "tags": [
+    "Single Girl Child",
+    "Fellowship",
+    "Research",
+    "Swami Vivekananda",
+    "Social Science",
+    "Girls Education",
+    "PhD"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

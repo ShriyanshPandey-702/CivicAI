@@ -1,0 +1,38 @@
+{
+  "id": "sub-mission-on-agriculture-mec-3063",
+  "name": "Sub-mission On Agriculture Mechanization",
+  "slug": "sub-mission-on-agriculture-mechanization",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "The stated objectives of the SMAM scheme are as follows. The main objective of this scheme is to provide agricultural machinery to poor and economically weak farmers and this subsidy is given by the government. Enhancing the reach of farm mechanization to small & marginal farmers and to the regions",
+  "details": "Agricultural machines take an important role to increase productivity with timely and precise fieldwork. To promote the usage of farm mechanization and increase the ratio of farm power to cultivable unit area up to 2.5 kW/ha, the scheme will be implemented in all the Indian states The SMAM scheme has both centrally sponsored and central sector scheme components. In the centrally sponsored scheme components, the Government of India funds 60% of the cost and the states’ share is 40% in all states",
+  "eligibility_text": "All landholding farmers' families, Self Help Groups (SHGs), User Groups, Cooperative Societies, Farmer Producer Organizations (FPOs) and Entrepreneurs The farmer must be a native of India. Women farmers can also take advantage of this scheme. They will be given priority in this scheme. The benefit of this scheme will be given by the central government to those farmers who are financially weak. The",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "pan_card"
+  ],
+  "application_url": "Visit https://agrimachinery.nic.in/Index/Index ﻿ Select the appropriate option from the Registration ﻿ ﻿ ﻿ dropdown option. Fill out the form with the required information and register.",
+  "tags": [
+    "Sub-Mission",
+    "Agriculture",
+    "Mechanization",
+    "SMAM"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

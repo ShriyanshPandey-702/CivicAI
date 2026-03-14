@@ -1,0 +1,33 @@
+{
+  "id": "financial-assistance-for-procu-0955",
+  "name": "Financial Assistance For Procuring Mobility Equipment To Disabled Ex-Servicemen (All Ranks)",
+  "slug": "financial-assistance-for-procuring-mobility-equipment-to-disabled-ex-servicemen-",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 100000,
+  "benefit_frequency": "annual",
+  "benefit_description": "A financial assistance of a maximum of ₹ 1,00,000. The beneficiary can re-apply for new mobility equipment after the lapse of 10 years from the date of purchase of the previous equipment.",
+  "details": "The scheme \"Financial Assistance For Procuring Mobility Equipment To Disabled Ex-Servicemen(All Ranks)\" by the Department of Ex-Servicemen Welfare of the Ministry of Defence, provide financial assistance for the procurement of modified scooter for those Ex-Servicemen (ESM), who are disabled after their retirement from service with disability of 50% or more. After their retirement, most of the ESMs continue to be engaged in physically challenging activities/work. Some of them unfortunately become",
+  "eligibility_text": "The applicant should be an Ex-Serviceman. The applicant should be disabled after retirement from the service. The percentage of the disability should be 50% or more. The applicant should not be covered under a similar scheme of the Army/Navy/Air Force. The application of the applicant should be recommended by the respective Zila Sainik Board (ZSB). The applicant should be capable of personally uti",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "disability_cert"
+  ],
+  "application_url": "Step 1: In the Registration Form , fill in all the mandatory fields and upload the required documents. Step 2: Fill in the verification code, and click \"Submit\" to complete your registration. Step 3: ",
+  "tags": [
+    "Ex-Servicemen",
+    "Person With Disability",
+    "Sainik",
+    "Handicapped",
+    "ESM"
+  ],
+  "scheme_category_raw": "Health & Wellness"
+}

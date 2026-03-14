@@ -1,0 +1,44 @@
+{
+  "id": "national-livestock-mission-est-2166",
+  "name": "National Livestock Mission: Establishment of Entrepreneurship for Breed Development of Rural Poultry",
+  "slug": "national-livestock-mission-establishment-of-entrepreneurship-for-breed-developme",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 2500000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Financial Assistance: One Time 50% capital subsidy of the total project cost will be provided with maximum subsidy up to ₹25 lakhs for each unit. Note 1: The Central Government will provide 50% capital subsidy for the cost of the project for establishment of Parent Farm, Rural hatchery and Mother Un",
+  "details": "The \"Establishment of Entrepreneurship for Breed Development of Rural Poultry\" is a component under the Sub-Mission on Breed Development of Livestock and Poultry, part of the National Livestock Mission (NLM). This initiative is introduced by the Department of Animal Husbandry and Dairying, under the Ministry of Fisheries, Animal Husbandry and Dairying, Government of India. Under this scheme, the Entrepreneurship will be developed by inviting the individual, Self Help Group (SHG)/Framers Producer",
+  "eligibility_text": "The applicant should be an individual, Self Help Group (SHG), Farmers Producer Organization (FPO), Farmers Cooperative (FCO), Joint Liability Group (JLG), or a Section 8 company. The applicant should establish a Parent Farm, Rural Hatchery, or Brooder cum Mother Unit with at least 1,000 parent layers. The applicant should arrange the remaining project cost through bank loans, financial institution",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1-2 years",
+      "field": "age",
+      "min": 1,
+      "max": 2
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "address_proof",
+    "pan_card"
+  ],
+  "application_url": "Step 1: Visit the Official Website of \"National Livestock Mission\" and click \" Apply Here \". Step 2: The following methods of Logging In will be displayed: Login as Entrepreneur Login as Government / ",
+  "tags": [
+    "Rural Poultry",
+    "Poultry Farming",
+    "Entrepreneurship",
+    "Brooder Cum Mother Unit",
+    "Parent Farm",
+    "Rural Hatchery",
+    "Subsidy"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Agriculture,Rural & Environment"
+}

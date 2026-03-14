@@ -1,0 +1,54 @@
+{
+  "id": "annal-ambedkar-business-champi-0234",
+  "name": "Annal Ambedkar Business Champions Scheme",
+  "slug": "annal-ambedkar-business-champions-scheme",
+  "ministry": "",
+  "category": "business",
+  "level": "State",
+  "state": "Tamil Nadu",
+  "benefit_amount": 15000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Under the scheme, the State Government will provide a 35% capital subsidy on the Eligible Project Cost, not exceeding ₹1.5 Crore. A 6% interest subvention will be given for loans sanctioned under this scheme. Note 01: Interest subvention will be given to loans sanctioned by scheduled Commercial Bank",
+  "details": "The scheme “Annal Ambedkar Business Champions Scheme (AABCS)” was launched by the Department of Micro, Small and Medium Enterprises, Government of Tamil Nadu. The Government of Tamil Nadu noted that the share of persons from Scheduled Caste and Scheduled Tribe communities who avail of various entrepreneurship promotion subsidies from the Government is very low. In order to promote the economic development of SC/ST entrepreneurs, this scheme has been launched by the Government of Tamil Nadu. The",
+  "eligibility_text": "The applicant should be a resident of the State of Tamil Nadu. The beneficiaries shall be persons belonging to SC/ST communities. Enterprises supported under the scheme shall be 100% owned by persons belonging to SC/STs. The enterprises may have any legal personality allowed to conduct business for profit as per prevailing laws which include sole proprietorship, partnership, and company. The schem",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 55-01 years",
+      "field": "age",
+      "min": 55,
+      "max": 1
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "address_proof",
+    "pan_card"
+  ],
+  "application_url": "Step 01: The applicant willing to avail loan under the AABCS scheme should fill up the online application through the Official Website of the Micro, Small and Medium Enterprises Department, Government",
+  "tags": [
+    "Ambedkar",
+    "AABCS",
+    "Scheduled Caste",
+    "Scheduled Tribe",
+    "Entrepreneur",
+    "Loan",
+    "Subsidy",
+    "MSME"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

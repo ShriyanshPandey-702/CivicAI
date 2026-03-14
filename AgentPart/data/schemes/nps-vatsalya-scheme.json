@@ -1,0 +1,31 @@
+{
+  "id": "nps-vatsalya-scheme-2100",
+  "name": "NPS Vatsalya Scheme",
+  "slug": "nps-vatsalya-scheme",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Opening an NPS Vatsalya account provides the child with a head start on saving for retirement and offers valuable financial lessons from an early age. It instills the importance of financial planning and discipline. which can benefit the child throughout their life. Upon reaching 18 years, the accou",
+  "details": "“NPS Vatsalya” Scheme was announced by the Hon’ble Finance Minister in the Union Budget for FY 2024-25 as a plan for contributions by parents and guardians for minors to be converted into a normal NPS account on the attainment of majority. Under this scheme, parents or guardians can open an NPS account for their children and contribute an amount every month or year till the child reaches 18 years. The minimum contribution is ₹ 1,000 per year, and there is no limit on the maximum contribution. Th",
+  "eligibility_text": "Any minor who is a Citizen of India is eligible for opening account under the scheme, until attaining the age of eighteen years. The account should be opened by a natural or legal guardian in the minor's name, as they will operate the account exclusively for the benefit of the minor. If the guardian is court-appointed, they must submit a copy of the court order confirming the guardianship and KYC",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "address_proof",
+    "birth_cert",
+    "pan_card"
+  ],
+  "application_url": "Step 1: Visit the NPS Trust Website https://npstrust.org.in Step 2: On the home page click, “Open NPS Vatsalya” Step 3: Subscriber will be directed to the page where the choice of any of the three CRA",
+  "tags": [
+    "NPS",
+    "Minor",
+    "Pension Fund",
+    "PFRDA",
+    "Saving Cum Pension",
+    "Financial"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance"
+}

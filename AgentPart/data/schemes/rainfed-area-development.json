@@ -1,0 +1,32 @@
+{
+  "id": "rainfed-area-development-2534",
+  "name": "Rainfed Area Development",
+  "slug": "rainfed-area-development",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "The scheme targets to provide following benefits: 1)\tEnhanced agriculture productivity and overall remuneration in the rainfed areas. 2)\tRisk mitigation against climatic stress such as droughts and heat stress and crop failure. 3)\tConservation of natural resources by soil fertility conservation, rai",
+  "details": "Rainfed Area Development (RAD) scheme was launched in 2014-15 to mainstream development of rainfed areas in a sustainable manner. It adopts an area-based approach, focuses on Integrated Farming System (IFS) for enhancing productivity and minimizing risks associated with climatic variability. Under this system, crops/ cropping system is integrated with activities like horticulture, livestock, fishery, agro-forestry, apiculture etc. to enable farmers not only in maximizing farm returns for sustain",
+  "eligibility_text": "All farmers are eligible under the scheme.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Step 01: Interested beneficiaries can get in touch with the District / Block Agriculture Officer to enquire about village/cluster’s eligibility for the scheme. Step 02: If found eligible, the proposal",
+  "tags": [
+    "Rainfed",
+    "Dryland Agriculture",
+    "Watershed",
+    "Sustainable Agriculture"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

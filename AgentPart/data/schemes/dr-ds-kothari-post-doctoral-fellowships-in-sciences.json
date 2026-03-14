@@ -1,0 +1,45 @@
+{
+  "id": "dr-ds-kothari-post-doctoral-fe-0802",
+  "name": "Dr. D.S. Kothari Post Doctoral Fellowships In Sciences",
+  "slug": "dr-ds-kothari-post-doctoral-fellowships-in-sciences",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 43800,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Financial Assistance: The tenure of the award is three years with no provision for further extension. The financial assistance available under the scheme is as follows: Fellowship: @ Rs. 43,800/- pm for I year @ Rs.45,000/- pm for II year @ Rs. 46,500/- pm for III year Contingency: @Rs.1,00,000/-p.a",
+  "details": "Dr. D.S. Kothari Post Doctoral Fellowships in Sciences was introduced by the University Grants Commission, Dept. of Higher Education. In addition to the existing RA/PDF positions provided by various funding agencies, a need was felt for a PDF scheme running in a flexible mode, with fast track, online handling, and decision-making. The initiative would offer ₹ 10,00,000/- in financial assistance to 132 selected candidates. The tenure is 2 years. The scheme is open for full-time research work, pre",
+  "eligibility_text": "The candidate must have a doctorate degree in the relevant subject preferably with published research work to their credit. Only Ph.D. awarded unemployed candidates will be eligible for the award of Post Doctoral Fellowship. The upper age limit for applicants is 35 years, with relaxation in age for SC/ST/OBC/Women candidates applicable as per Government of India Norms.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "bank_passbook"
+  ],
+  "application_url": "Application: The selection process is open all year round in `...as and when.... ' mode and not restricted by any specified deadlines as thesis submission and award of Ph. D degree are open-ended proc",
+  "tags": [
+    "Fellowship",
+    "Science",
+    "DS Kothari",
+    "Post Doctoral",
+    "PhD",
+    "Unemployed"
+  ],
+  "scheme_category_raw": "Education & Learning, Science, IT & Communications"
+}

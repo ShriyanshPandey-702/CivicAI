@@ -1,0 +1,47 @@
+{
+  "id": "national-fellowship-for-obc-st-2156",
+  "name": "National Fellowship For OBC Students",
+  "slug": "national-fellowship-for-obc-students",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Number of Slots for Fellowship - ﻿ The total number of slots for NFOBC under the scheme is 1000 per year. Out of 1000 slots available under this scheme, 750 will be allocated for the subjects under National Eligibility Test – Junior Research Fellowship (NET-JRF) of UGC and the remaining 250 UGC-Coun",
+  "details": "Background The scheme \"National Fellowship for OBC Students\" was launched by the University Grants Commission (UGC), Department of Higher Education (DoHE) during the financial year 2014-15 to increase the opportunities for the students of Other Backward Classes (OBCs) to pursue higher education leading to acquiring degrees such as M.Phil. and Ph.D. The scheme aims at providing financial assistance to OBC students in obtaining quality higher education leading to degrees such as M.Phil. and Ph.D.",
+  "eligibility_text": "The eligibility conditions are as per notification for UGC-NET and CSIR-UGC-NET examinations. ﻿ The other Backward Class (OBC) candidates qualifying for the award of NFOBC will be eligible to receive a fellowship subject to finding placement in the University/IITs/Institutions. The validity period of the offer is 3 years with effect from the date of issue of the JRF Award letter. However, in the c",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 5-2 years",
+      "field": "age",
+      "min": 5,
+      "max": 2
+    },
+    {
+      "criterion": "Must belong to OBC category",
+      "field": "caste",
+      "values": [
+        "obc",
+        "sc",
+        "st"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert"
+  ],
+  "application_url": "PROCEDURE FOR APPLYING FOR THE SCHEME Applications are invited online once a year through advertisements in leading newspapers and Employment News. The same is also uploaded on the UGC website. The se",
+  "tags": [
+    "Fellowship",
+    "OBC"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

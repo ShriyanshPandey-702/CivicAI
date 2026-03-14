@@ -1,0 +1,36 @@
+{
+  "id": "reimbursement-of-membership-fe-2588",
+  "name": "Reimbursement of membership Fee in Government promoted E-Commerce Portals",
+  "slug": "reimbursement-of-membership-fee-in-government-promoted-e-commerce-portals",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 25000,
+  "benefit_frequency": "annual",
+  "benefit_description": "The financial assistance may be provided 80% or a maximum of ₹ 25,000/- (excluding applicable taxes) whichever is less, per financial year for new as well as renewals for SC/ST MSE.",
+  "details": "Reimbursement of Membership fee of Government promoted e-commerce portals Scheme is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme. The component has provision for reimbursement of Annual Membership / Subscription fee of Government promoted e-commerce portals such as GeM, e-khadi, Tribal Cooperative Marketing Development Federation of India (TRIFED), Tribes India, MSME Mart, etc. to SC/ST Micro and Small Enterprises (MSEs). ﻿",
+  "eligibility_text": "Applicant should belong to Scheduled Caste(SC) / Scheduled Tribe (ST) category. He/She should represent any Micro and Small Enterprises (MSEs). ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "caste_cert",
+    "pan_card"
+  ],
+  "application_url": "Applicant need to visit the official website https://www.scsthub.in . For registration click on sign-up and provide the following details Full Name Valid Email ID Mobile Number Password and confirm pa",
+  "tags": [
+    "Financial Assistance",
+    "Business",
+    "Entrepreneurship"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

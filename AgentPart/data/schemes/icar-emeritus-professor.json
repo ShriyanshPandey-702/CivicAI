@@ -1,0 +1,39 @@
+{
+  "id": "icar-emeritus-professor-1359",
+  "name": "ICAR Emeritus Professor",
+  "slug": "icar-emeritus-professor",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "The number of slots available under the Scheme is 100 at a given time. The assistance available under the Scheme is : 1. Honorarium of Rs. 50,000/- p.m. 2. Contingency grant (Non-lapsable) of Rs.1,00,000/- p. a. towards secretarial assistance, travel within the country connected with the assignment,",
+  "details": "The ICAR floated the Scheme of Emeritus Professor in order to provide an opportunity to the superannuated teachers/ Scientists of universities, colleges and institutions under the ICAR-AU System who have been actively engaged in teaching/ training and research programmes of the State Agricultural Universities/CAUs/ICAR Deemed Universities/ Central Universities with Agricultural faculty in the preceding years to undertake teaching, other related activities, student research guidance and developin",
+  "eligibility_text": "The following criteria will be taken into consideration for the selection of an Emeritus Professor: The applicant should be an outstanding superannuated teacher/Scientist with a good record of published work and teaching/ training experience of a minimum of 5 years. ﻿ The ICAR Emeritus Professor can work under this scheme up to the age of 70 years or up to three years, whichever is earlier. ﻿ The",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 70-12 years",
+      "field": "age",
+      "min": 70,
+      "max": 12
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Details The applicants having one year of service left or superannuated before one year from the last working day of the month of notification (i.e. 3rd March, 2023) will only be eligible for consider",
+  "tags": [
+    "ICAR",
+    "Emeritus",
+    "Professor",
+    "Retired"
+  ],
+  "scheme_category_raw": "Skills & Employment"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "national-handicrafts-developme-2163",
+  "name": "National Handicrafts Development Programme: Research & Development Scheme",
+  "slug": "national-handicrafts-development-programme-research-development-scheme",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The financial assistance shall be extended to eligible organizations as 100% grants in aid. The payments to all beneficiaries/concerned must be made through PFMS only. The disbursement of the assistance will be in two installments: a)  1st Installment: 75% of the sanctioned amount will be released a",
+  "details": "The \"Research & Development Scheme\" is a component of the Umbrella Scheme \"National Handicrafts Development Programme (NHDP)\" by the Ministry of Textiles, Govt. of India. The scheme is introduced to generate feedback on the economic, social, aesthetic, and promotional aspects of various crafts and artisans in the handicraft sector. Under this scheme, the surveys and studies are sponsored/conducted to generate suitable inputs for planning purposes. Also, workshops, seminars, conferences, radio pr",
+  "eligibility_text": "Grants-in-aid can be given to a public body or an institution having a distinct legal entity viz. Institutions or Organizations setup as Autonomous Organisations, under a specific statute or as a society registered under the Societies Registration Act, 1860, or Indian Trusts Act, 1882. Producer Companies and Section-8 Companies (Company Act, 2013). Non-Government Organizations. Educational and Oth",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 1: The eligible agencies should submit the proposal for conducting Study/Survey and /or Seminar/workshop, as per the prescribed proforma , through the NGO Portal only (Govt. agencies can submit t",
+  "tags": [
+    "Handicraft",
+    "Textile",
+    "Research",
+    "Grant-in-Aid"
+  ],
+  "scheme_category_raw": "Sports & Culture, Skills & Employment"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "nari-adalat-2108",
+  "name": "Nari Adalat",
+  "slug": "nari-adalat",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "1)\tAccessible and affordable justice 2)\tConflict resolution 3)\tReconciliation 4)\tAwareness Generation ﻿",
+  "details": "Nari Adalat, a component of the \"Sambal\" sub-scheme under Mission Shakti, it aims to provide women with an alternate Grievance Redressal Mechanism for resolving cases of petty nature (harassment, subversion, curtailment of rights or entitlements) faced by them at Gram panchayat level by negotiation, mediation, and reconciliation with mutual consent for speedy, accessible, and affordable justice. It also be used as a platform for awareness of right, entitlements, social facilitation and hand hold",
+  "eligibility_text": "The only specific requirement for eligibility is that the applicant must be a woman/girl.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "For the application process, please approach the nearest Nari Adalat with your concern. They will guide you through the necessary steps and provide further assistance. The Scheme is being run in 50 Gr",
+  "tags": [
+    "Nari Adalat",
+    "Nyaya Sakhi",
+    "Women Grievance Redressal",
+    "Affordable Justice",
+    "Women Collectives"
+  ],
+  "scheme_category_raw": "Public Safety,Law & Justice, Social welfare & Empowerment"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bima-yojana-direct-benefit-to--0442",
+  "name": "Bima Yojana - Direct Benefit to Artisan",
+  "slug": "bima-yojana-direct-benefit-to-artisan",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 8000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Assistance from the government may be either in the form of monthly allowance, or lump sum grant or both. In no case however shall the assistance exceed ₹ 8,000/- (Rs. Eight thousand only) per month.",
+  "details": "Launched on 15th August 2022, the scheme \"Bima Yojana - Direct Benefit to Artisan (BYDBTA)\" is a Social Welfare Scheme by the Ministry of Textiles, Government of India. This scheme aims to provide financial assistance of up to ₹8,000 per month to senior and award-winning artisans, thereby ensuring their financial security and supporting the handicraft sector. The applications are accepted offline through the nearest Handicrafts Service Centre. The scheme is being implemented by the Office of Dev",
+  "eligibility_text": "The applicant should be a master craftsperson who has received Shilp Guru Awards, National Awards, Merit Certificates, or similar honours. The applicant should be aged 60 years or above (relaxation is available for artisans with disabilities). The applicant’s annual income should not exceed ₹1,00,000. The applicant should not be receiving similar financial assistance from other sources. The applic",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 60-1 years",
+      "field": "age",
+      "min": 60,
+      "max": 1
+    },
+    {
+      "criterion": "Annual income below ₹100,000",
+      "field": "income",
+      "max": 100000
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "birth_cert"
+  ],
+  "application_url": "Handicraft artisan registered with the office of DC (H) having valid photo identity card and such other conditions as deemed fit. The artisans should submit the application form duly filled in all res",
+  "tags": [
+    "Artisans",
+    "Insurance",
+    "Handicrafts",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Sports & Culture, Banking,Financial Services and Insurance"
+}

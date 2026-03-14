@@ -1,0 +1,50 @@
+{
+  "id": "top-class-education-for-schedu-3205",
+  "name": "Top Class Education For Scheduled Caste Students",
+  "slug": "top-class-education-for-scheduled-caste-students",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Payment of Full tuition fee and non-refundable charges (Ceiling of Rs. 2.00 LPA per student for private sector institutions; Ceiling of Rs.3.72 LPA per student for the private sector flying clubs for Commercial Pilot Training and Type Rating Courses) Living expenses: ₹ 3000/- per month per student.",
+  "details": "A scholarship scheme by Ministry of Social Justice and Empowerment for Scheduled Caste students pursuing studies beyond class 12th admitted in a full-time course in one of the notified institutions. The total annual family income from all sources must be less than or equal to Rs. 8.00 lakh. The benefit of the Scheme will not be provided to more than 2 siblings in a family. ﻿ The scholarship, once awarded, will continue till the completion of the course, subject to satisfactory performance of the",
+  "eligibility_text": "The applicant must be a student. The applicant must be pursuing studies beyond class 12th admitted in a full-time course in one of the \"notified institutions\" (refer definition). The applicant must be from a Scheduled Caste. The Total Annual Family Income of the applicant must be less than or equal to ₹ 8 Lakh per Annum.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹800,000",
+      "field": "income",
+      "max": 800000
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "address_proof"
+  ],
+  "application_url": "Step 1: Keep ready the soft copies of the required documents. Go to http://www.scholarships.gov.in/. and click “New Registration”. Guidelines for Registration will appear. Scroll to the bottom. Read c",
+  "tags": [
+    "Student",
+    "Scholarship",
+    "Education",
+    "Scheduled Caste",
+    "Tuition Fee"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

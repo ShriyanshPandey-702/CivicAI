@@ -1,0 +1,54 @@
+{
+  "id": "icmr-junior-research-fellowshi-1365",
+  "name": "ICMR-Junior Research Fellowship",
+  "slug": "icmr-junior-research-fellowship",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 31000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The Junior Research fellows will be paid a monthly stipend of ₹31,000/- for the 1st & 2nd year. The Senior Research Fellow (SRF) (if upgraded after completion of two years of JRF) will be paid a monthly stipend of ₹ 35,000/- for the 3rd, 4th & 5th years. There is an annual contingency grant of ₹20,0",
+  "details": "ICMR-Junior Research Fellowship (ICMR-JRF) examination is the first step in the process of admission to the PhD/Research Programme through the council's support. ICMR holds a national-level examination for determining the eligibility of Indian National candidates for the award of Junior Research Fellowships (JRF) through the Indian Council of Medical Research. The award of Junior Research Fellowship to the successful eligible candidates will depend on their finding placement in a medical college",
+  "eligibility_text": "The candidate should have a Post Graduate degree (M.Sc./MA) in basic science or a Post-Graduate degree (M.Sc./MA) in a professional course with 55% marks for General/Other Backward Class (OBC) and 50% for SC/ST/Physically Handicapped (PH)/Visually Handicapped (VH). The students having degrees like B. Tech/M. Tech in biomedical sciences, B. Pharma/M. Pharma or D. Pharma are not eligible. The upper",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "caste_cert"
+  ],
+  "application_url": "Step 01: The advertisement is published in leading English Newspapers of India usually during March/April and also on the official website . Step 02: The eligible candidates can fill out the applicati",
+  "tags": [
+    "JRF",
+    "Research",
+    "Fellowship",
+    "ICMR",
+    "Life Science",
+    "Social Science",
+    "SRF"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

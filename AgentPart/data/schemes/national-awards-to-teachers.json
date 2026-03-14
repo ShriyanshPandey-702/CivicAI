@@ -1,0 +1,34 @@
+{
+  "id": "national-awards-to-teachers-2141",
+  "name": "National Awards to Teachers",
+  "slug": "national-awards-to-teachers",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Public recognition is given away by The President of India (or) The Vice President of India on 5th September (Teacher's Day) every year. This recognition is for meritorious primary, middle and secondary school teachers. The purpose of National Awards to Teachers is to celebrate the unique contributi",
+  "details": "Launched in 1958, the scheme \"National Awards to Teachers\" by the Ministry of Education aims to honour and celebrate the unique contribution of some of the finest teachers in the country who, through their commitment, have enriched the lives of their students and improved the quality of school education. Two significant benefits of this scheme are to give public recognition to meritorious teachers and to honour those teachers who have not only improved the quality of school education but also en",
+  "eligibility_text": "1.   School teachers and Heads of Schools working in recognised primary/middle/high/higher secondary schools under the following categories are eligible: Schools run by the State Govt./Union Territories Administration, schools run by local bodies, schools aided by the State Govt. and Union Territories Administration, and Private schools affiliated to the State/Union Territories Board. Central Govt",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "For Registration Step 1: Visit the Official Web Portal of \"National Awards to Teachers\", and click \"New Registration\". Step 2: You will be taken to the \"Registration Form\". In the form, provide all th",
+  "tags": [
+    "Teacher",
+    "School",
+    "Student",
+    "Education",
+    "Award"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

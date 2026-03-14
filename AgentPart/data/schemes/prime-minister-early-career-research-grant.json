@@ -1,0 +1,44 @@
+{
+  "id": "prime-minister-early-career-re-2478",
+  "name": "Prime Minister Early Career Research Grant",
+  "slug": "prime-minister-early-career-research-grant",
+  "ministry": "",
+  "category": "science",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 6000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Nature & duration of support: Research rant up to ₹60 lakh plus overheads for a period of three years. The measures for ease of doing research include flexibility to utilize resources under recurring head; flexibility in manpower recruitment; enhanced travel, contingency and overhead charges; and su",
+  "details": "The “Prime Minister Early Career Research Grant” is a program initiated by the Anusandhan National Research Foundation (ANRF), under the Department of Science & Technology, Government of India. It aims to assist researchers to initiate their research career in a new institution with a flexible budget and progressive initiatives for ease of doing research. Objectives: To empower and support the early career researchers in their pursuit of research excellence, providing them with an enabling envir",
+  "eligibility_text": "The applicant should be an Indian citizen. Overseas Citizens of India (OCI) or Persons of Indian Origin (PIO) working as regular employees in any publicly funded and recognized R&D laboratories/institutions in India are eligible to apply as Principal Investigator (PI), in collaboration with an Indian Co-PI, provided they meet the eligibility criteria specified by ANRF (ANRF Funding Guidelines for",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "birth_cert"
+  ],
+  "application_url": "Step 1: Applicants should first register in the ANRF online portal, Click here to register . Step 2: After log-in, applicants are required to fill in all the mandatory fields under User Profile sectio",
+  "tags": [
+    "Research Grant",
+    "Researcher",
+    "ANRF",
+    "Research",
+    "PhD",
+    "Science",
+    "Engineering"
+  ],
+  "scheme_category_raw": "Science, IT & Communications"
+}

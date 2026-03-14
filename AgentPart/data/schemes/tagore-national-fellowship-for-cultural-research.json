@@ -1,0 +1,36 @@
+{
+  "id": "tagore-national-fellowship-for-3139",
+  "name": "Tagore National Fellowship for Cultural Research",
+  "slug": "tagore-national-fellowship-for-cultural-research",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Honorarium: A Tagore National Fellow who is from a University, College, Research Institute, or Government setup in India would be entitled to the same pay, including grade pay, etc., which he/she would have drawn had he/she continued in his/her parent organization. Essential or mandatory contributio",
+  "details": "The Scheme “Tagore National Fellowship for Cultural Research” has been introduced to invigorate and revitalize the various institutions under the Ministry of Culture (MoC) and other identified cultural institutions in the country, by encouraging Fellows/academicians to affiliate themselves with these institutions to work on projects of mutual interest. With a view to infuse fresh knowledge capital into the institutions, the scheme expects these Fellows/academicians to select specific resources o",
+  "eligibility_text": "Fellows who have sound academic or professional credentials and have made significant contributions to knowledge in their respective fields will be eligible to apply for Tagore National Fellowship. Preferably the Fellows who have 5 years of experience in conducting/guiding research or the same experience in performing/any other arts can apply for Tagore National Fellowship. The applicants must hav",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 01-02 years",
+      "field": "age",
+      "min": 1,
+      "max": 2
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "disability_cert"
+  ],
+  "application_url": "Application Process: Step 01: The Ministry of Culture and/or the concerned institution will widely advertise the Fellowship in the leading national/regional newspapers and on its website (which should",
+  "tags": [
+    "Tagore",
+    "Fellowship",
+    "Research",
+    "Cultural",
+    "Fellow"
+  ],
+  "scheme_category_raw": "Education & Learning, Sports & Culture"
+}

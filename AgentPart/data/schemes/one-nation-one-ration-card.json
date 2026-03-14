@@ -1,0 +1,26 @@
+{
+  "id": "one-nation-one-ration-card-2258",
+  "name": "One Nation One Ration Card",
+  "slug": "one-nation-one-ration-card",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "It will benefit approximately 81 crores beneficiaries by digitizing Ration Cards. This system allows all NFSA beneficiaries, particularly migrant beneficiaries, to claim either full or part food grains from any Fair Price Shop (FPS) in the country through an existing ration card with biometric/Aadha",
+  "details": "The \" One Nation One Ration Card\" (ONORC) Scheme was launched by the Department of Food & Supplies and Consumer Affairs, Ministry of Consumer Affairs, Food & Public Distribution in 2018. It is a national Ration Card portability scheme to ensure food security for all including internal migrants within India. It enables migrant workers and their family members to access PDS benefits from any Fair Price Shop anywhere in the country, thus ensuring the food security through the inter-state portabilit",
+  "eligibility_text": "The scheme is eligible to all ration cardholders or beneficiaries covered under the National Food Security Act (NFSA), 2013 with Aadhaar Card numbers seeded.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "ration_card"
+  ],
+  "application_url": "The interested person must provide their ration card details at the closest Fair Price Shop. Recipients can visit any Fair Price Shop in the nation with their Aadhaar number or their ration card numbe",
+  "tags": [
+    "Ration Card Holders",
+    "Migrant Workers",
+    "Food Security"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

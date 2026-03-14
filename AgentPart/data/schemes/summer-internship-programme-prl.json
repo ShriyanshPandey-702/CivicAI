@@ -1,0 +1,34 @@
+{
+  "id": "summer-internship-programme-pr-3093",
+  "name": "Summer Internship Programme (PRL)",
+  "slug": "summer-internship-programme-prl",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 100,
+  "benefit_frequency": "annual",
+  "benefit_description": "Certification: On successful completion of the program, participants will receive a certificate endorsed by PRL. Accommodation: Limited paid accommodation is available at ₹100/- per day for participants attending offline. Mentorship: Participants are mentored by PRL faculty members, offering in-dept",
+  "details": "The Physical Research Laboratory (PRL) Summer Internship Programme was launched by the Department of Space, Government of India. The scheme aims to provide a platform for highly motivated students and teachers to interact with PRL’s scientists, gaining exposure to the lab’s research areas and facilities. Participants will work on projects in fundamental science, technology, and their societal applications. The program offers hands-on experience in real research projects, helping young talents sh",
+  "eligibility_text": "Eligibility Criteria for Student: The student should be a citizen of India. The student should be pursuing undergraduate/post-graduation from a recognized University/Institution India or Abroad The student should have just completed undergraduate/post-graduation from a recognized University/Institution, seeking an internship opportunity (within six months from the date of award of degree) for prof",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Step-01: The student or teacher reviews the \" List of Projects \" available on the PRL's website and contacts the respective project supervisor for approval. Step-02: Once the project supervisor agrees",
+  "tags": [
+    "Internship",
+    "Students",
+    "Teachers",
+    "Research",
+    "Graduation",
+    "Post-Graduation"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "women-scientist-scheme-a-3365",
+  "name": "Women Scientist Scheme-A",
+  "slug": "women-scientist-scheme-a",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Rs 55,000/- pm (and HRA as applicable) for Ph.D. or equivalent (total project cost not exceeding Rs.30 lakh) Rs 40,000/- pm (and HRA as applicable) for M.Phil./MTech or equivalent (total project cost not exceeding Rs.25 lakh) Rs 31,000/- pm (and HRA as applicable) for M.Sc. or equivalent (total proj",
+  "details": "A Research Grant by MoST for female candidates to pursue research in frontier areas of science and engineering, preferably those having a break in career (minimum two years) and not having regular employment, to explore possibility of re-entry into the profession. ﻿ This scheme will provide a research grant for a well-defined project proposal for a period of maximum three years. This grant will cover the fellowship of the applicant and cost of small equipments, contingencies, travel, consumables",
+  "eligibility_text": "The applicant must be a FEMALE. The applicant must either be unemployed or in a position other than regular/permanent position. The age of the applicant must be between 27 and 57 years (5 year relaxation for SC/ST/OBC and physically challenged candidates) The applicant must hold either of the following Minimum essential qualification - Minimum Post Graduate degree, equivalent to M.Sc. in Basic or",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 27-57 years",
+      "field": "age",
+      "min": 27,
+      "max": 57
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "caste_cert",
+    "birth_cert"
+  ],
+  "application_url": "Step 1: Register at the online portal https://online-wosa.gov.in/wosa/ using your active email ID. An auto generated mail will be received with ID and link to create password. ﻿ Step 2: After logging ",
+  "tags": [
+    "Women",
+    "Scientist",
+    "Technology",
+    "Science",
+    "Empowerment",
+    "Fellowship",
+    "Education",
+    "Unemployed"
+  ],
+  "scheme_category_raw": "Education & Learning, Skills & Employment, Social welfare & Empowerment, Science, IT & Communication"
+}

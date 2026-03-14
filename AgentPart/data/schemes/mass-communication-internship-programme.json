@@ -1,0 +1,41 @@
+{
+  "id": "mass-communication-internship--1835",
+  "name": "Mass Communication Internship Programme",
+  "slug": "mass-communication-internship-programme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 10000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Honorarium : An honorarium of ₹10,000/- per month will be paid to each intern. Certificate: A certificate will be received upon successful completion of the internship. Facilities: The department provides working space, internet facility, and other necessities as deemed fit by the Heads. Placement:",
+  "details": "The \"Mass Communication Internship Programme\" was launched by the Department of Water Resources, River Development, and Ganga Rejuvenation, Ministry of Jal Shakti. The internship programme is short-term exposure designed to engage students in undergraduate, graduate, and postgraduate studies in the field of mass communication. The internship offers hands-on experience in media and social media activities, aiming to create awareness about the importance of water resources conservation and managem",
+  "eligibility_text": "The applicant should be a student. The applicant should be pursuing a BA/MA/PG in mass communication, journalism, public relations, MBA (Marketing)/ related fields or completed their degrees/diplomas in aforesaid course(s) from any recognized college/university. The applicant must have his own laptop for the internship. Required Skills and Interests: Writing, communication, time management, organi",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 4-2 years",
+      "field": "age",
+      "min": 4,
+      "max": 2
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "pan_card"
+  ],
+  "application_url": "Step 01: The student downloads the application form Annexure-I and the format of NOC is in Annexure-II . Step 02: In the application form, fill in all the mandatory fields, and attach copies of all th",
+  "tags": [
+    "Education",
+    "Honorarium",
+    "Student",
+    "Mass Communication",
+    "Intern"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

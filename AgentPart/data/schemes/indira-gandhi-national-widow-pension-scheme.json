@@ -1,0 +1,33 @@
+{
+  "id": "indira-gandhi-national-widow-p-1444",
+  "name": "Indira Gandhi National Widow Pension Scheme",
+  "slug": "indira-gandhi-national-widow-pension-scheme",
+  "ministry": "",
+  "category": "women",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 300,
+  "benefit_frequency": "monthly",
+  "benefit_description": "A pension of Rs.300/- per month is provided to Widows between 40 years and 79 years. For persons who are 80 years and above the pension is Rs.500/- per month.",
+  "details": "Indira Gandhi National Widow Pension Scheme (IGNWPS) is implemented by Ministry of Rural Development, Government of India. It is a non-contributory pension scheme to provide social security to widows of poor family (BPL)  of the society.",
+  "eligibility_text": "The eligibility criteria under Indira Gandhi National Widow Pension Scheme (IGNWPS) is:- ﻿ The applicant must be a widow in the age group of 40-79 years. The applicant should belong to a household living below the poverty line according to the criteria prescribed by the Govt. of India",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 40-79 years",
+      "field": "age",
+      "min": 40,
+      "max": 79
+    }
+  ],
+  "documents_required": [
+    "ration_card",
+    "birth_cert"
+  ],
+  "application_url": "One can download UMANG App or visit website https://web.umang.gov.in/web_new/home  The citizen can login using mobile number and OTP. Once logged In, citizen can search for NSAP. Click on “Apply Onlin",
+  "tags": [
+    "Widow",
+    "Pension",
+    "Below Poverty Line - BPL"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment, Banking,Financial Services and Insurance, Women and Child"
+}

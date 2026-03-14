@@ -1,0 +1,41 @@
+{
+  "id": "merit-cum-means-based-scholars-1899",
+  "name": "Merit Cum Means Based Scholarship For Students Belonging To The Minority Communities",
+  "slug": "merit-cum-means-based-scholarship-for-students-belonging-to-the-minority-communi",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 20000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Course Fee - ₹20,000/- per annum subject to actuals whichever is less (for both Hosteller & Day Scholar). Monthly Maintenance Allowance (for 10 months in an academic year) - ₹1,000/- for Hosteller; ₹ 500/- for Day Scholar. Scholarship for listed institutes - Full course fee is reimbursed for the lis",
+  "details": "A scholarship scheme by the Ministry of Minority Affairs for students from minority communities pursuing technical and professional courses at undergraduate and postgraduate levels in a listed institute. The scholarship will be awarded to the students who have secured not less than 50% marks (or equivalent grade) in the previous final examination and the annual income of their parents/guardian from all sources does not exceed ₹2.50 lakh. The scheme aims to encourage parents from minority communi",
+  "eligibility_text": "The applicant must be a student. The applicant must belong to a Minority Community. The applicant must be pursuing a technical or professional course at the undergraduate or postgraduate level. The applicant must have secured not less than 50% marks (or equivalent grade) in the previous final examination. The annual income of parents/guardians of the applicant (from all sources):  Less than or equ",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹200,000",
+      "field": "income",
+      "max": 200000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "address_proof",
+    "ration_card"
+  ],
+  "application_url": "New Registration : Step 1: Visit the New Registration page of the National Scholarships Portal. Step 2: Guidelines for Registration will appear. Scroll to the bottom. Read the undertaking carefully an",
+  "tags": [
+    "Student",
+    "Scholarship",
+    "Minority",
+    "Higher Education"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

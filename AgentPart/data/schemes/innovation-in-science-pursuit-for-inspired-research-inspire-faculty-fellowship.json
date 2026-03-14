@@ -1,0 +1,50 @@
+{
+  "id": "innovation-in-science-pursuit--1467",
+  "name": "Innovation In Science Pursuit For Inspired Research (INSPIRE) - Faculty Fellowship",
+  "slug": "innovation-in-science-pursuit-for-inspired-research-inspire-faculty-fellowship",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 125000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Amount Each selected INSPIRE Faculty Fellow will be eligible to receive a consolidated amount of ₹1,25,000/- per month as a fellowship with an annual increment of ₹2,000/-. In addition, a Research Grant of ₹7,00,000 every year for 5 years will also be provided to each successful candidate including",
+  "details": "The \"INSPIRE FACULTY FELLOWSHIP\" component provides opportunities to 100 persons every year with Ph.D. qualifications in the age group of 27-32 years for 5 years to carry out research in both basic and applied science areas including engineering, medicine, agriculture, and veterinary sciences for establishing themselves as independent researchers. It grants an attractive fellowship for a duration of 5 years. The objective of the scheme is to encourage young researchers to continue research in ar",
+  "eligibility_text": "Essential Indian citizens and People of Indian origin with PIO status having Ph.D. degrees (in science, mathematics, engineering, pharmacy, medicine, and agriculture-related subjects) from any recognized university in the world. Candidates should possess a minimum of 60% (or equivalent CGPA) marks throughout their academic profile starting from the Senior Secondary Examination (Class 12 onwards).",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1-37 years",
+      "field": "age",
+      "min": 1,
+      "max": 37
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "caste_cert",
+    "bank_passbook"
+  ],
+  "application_url": "Mode of Application Eligible candidates need to submit applications ONLINE through the portal of INSPIRE program only. No other mode of submission of the application is permitted. To apply ONLINE, ple",
+  "tags": [
+    "Research",
+    "Fellowship",
+    "Faculty",
+    "Science",
+    "PhD"
+  ],
+  "scheme_category_raw": "Science, IT & Communications, Education & Learning"
+}

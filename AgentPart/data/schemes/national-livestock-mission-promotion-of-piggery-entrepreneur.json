@@ -1,0 +1,38 @@
+{
+  "id": "national-livestock-mission-pro-2170",
+  "name": "National Livestock Mission: Promotion of Piggery Entrepreneur",
+  "slug": "national-livestock-mission-promotion-of-piggery-entrepreneur",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3000000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "1. Capital Subsidy: A one-time capital subsidy of 50% of the total project cost, up to ₹30 lakh, will be provided for infrastructure, breeding animals, transportation, insurance, and equipment/machines. Note 1: No subsidy will be provided for land purchase, rent, lease cost, working capital, or pers",
+  "details": "The \"Promotion of Piggery Entrepreneur\" is a scheme implemented under the Sub-mission on Breed Development of Livestock and Poultry, which is a component of the National Livestock Mission (NLM). This initiative is introduced by the Department of Animal Husbandry and Dairying, under the Ministry of Fisheries, Animal Husbandry and Dairying, Government of India. Under this scheme, a one-time capital subsidy of up to ₹30 lakh is provided to entrepreneurs, Self Help Groups (SHGs), Farmers Producer Or",
+  "eligibility_text": "General Eligibility: The applicant should be an Individual Entrepreneur, Self Help Group (SHG), Farmers Producer Organization (FPO), Farmers Cooperative (FCO), Joint Liability Group (JLG), or Section 8 Company. The applicant should be interested in setting up a breeder farm with at least 100 sows and 25 boars. The applicant should obtain breeding animals from Central/State Government farms, univer",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "address_proof",
+    "pan_card"
+  ],
+  "application_url": "Step 1: Visit the Official Website of \"National Livestock Mission\" and click \" Apply Here \". Step 2: The following methods of Logging In will be displayed: Login as Entrepreneur Login as Government / ",
+  "tags": [
+    "Enterpreneurship",
+    "Subsidy",
+    "Genetic Upgradation",
+    "Pork Export",
+    "Pork Production",
+    "Piggery",
+    "Entrepreneur"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Agriculture,Rural & Environment"
+}

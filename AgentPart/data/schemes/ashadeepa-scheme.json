@@ -1,0 +1,44 @@
+{
+  "id": "ashadeepa-scheme-0263",
+  "name": "Ashadeepa Scheme",
+  "slug": "ashadeepa-scheme",
+  "ministry": "",
+  "category": "employment",
+  "level": "State",
+  "state": "Karnataka",
+  "benefit_amount": 3000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Reimbursement of ESI and EPF contribution to the employers: The private sector employer, who newly employs SC and ST candidates, will be reimbursed the ESI and EPF contribution paid by them for a period of 2 years, subject to the maximum limit of ₹3,000/- per month per candidate. Reimbursement of St",
+  "details": "The \"Ashadeepa Scheme\" was introduced by the Government of Karnataka in the 2017-18 budget to encourage private sector industries and companies to provide employment opportunities to persons belonging to the Scheduled Caste and Scheduled Tribe categories, ensuring social justice. The scheme is implemented through the \"Karnataka State Workers Welfare and Social Security (Ashadeepa Scheme) Society (R).\" Objectives: To create employment opportunities to the candidates belonging to SC and ST categor",
+  "eligibility_text": "The applicant should be a resident of Karnataka. The applicant should belong to the Scheduled Castes (SC) or Scheduled Tribe (ST) category. Employment of the applicant should be in a private-sector industry or establishment. SC/ST candidates undergoing apprenticeship training under the Apprenticeship Act, of 1961, are eligible for stipend reimbursement. For candidates who complete an apprenticeshi",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a resident of Karnataka",
+      "field": "state",
+      "value": "Karnataka"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "bank_passbook"
+  ],
+  "application_url": "Step 1: Visit the official website of the Karnataka State Unorganized Workers Social Security Board. Karnataka State Unorganized Workers Social Security Board Step 2: Scroll down and click on the 'Ash",
+  "tags": [
+    "Employment",
+    "Scheduled Caste",
+    "Scheduled Tribe",
+    "Apprentice Trainee",
+    "Skill Development"
+  ],
+  "scheme_category_raw": "Skills & Employment"
+}

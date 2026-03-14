@@ -1,0 +1,33 @@
+{
+  "id": "prl-junior-research-fellowship-2284",
+  "name": "PRL Junior Research Fellowships",
+  "slug": "prl-junior-research-fellowships",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 37000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Fellowship Allowance: •\tJunior Research Fellow (JRF): ₹37,000/- per month. •\tSenior Research Fellow (SRF, after 2 years): ₹42,000/- per month (based on performance review). ﻿ Platinum Jubilee Research Fellowship (ATAL): •\tSelected meritorious JRFs may receive an additional ATAL fellowship of ₹40,000",
+  "details": "The Physical Research Laboratory (PRL), a prestigious institution under the Department of Space, Government of India, launched the Junior Research Fellowship (JRF) Program. The JRF program aims to provide highly motivated and academically excellent candidates with an opportunity to pursue cutting-edge research in a variety of science domains, such as Astronomy and astrophysics, atomic, Molecular, and optical Physics, Geosciences, Planetary Sciences, Space and Atmospheric Sciences, Solar Physics,",
+  "eligibility_text": "The applicant should be an Indian citizen. The applicant should have studied at recognized Universities/Institutes in India. The applicant’s age should be 28 years as of 01st July 2024. The applicant should complete a Bachelor’s and Master’s degree in science or engineering with at least 60% marks (or equivalent) at both levels. Candidates from disciplines of any branch of Physics, Chemistry, Engi",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 28-60 years",
+      "field": "age",
+      "min": 28,
+      "max": 60
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Step-01: The applicant visits the PRL website and navigate to the \"Opportunities\" section. Step-02: Click on \"Job Vacancies & Fellowship Programs\" and select \"PRL Junior Research Fellowships\" to acces",
+  "tags": [
+    "Fellowship",
+    "Research",
+    "Opportunity",
+    "Programme"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

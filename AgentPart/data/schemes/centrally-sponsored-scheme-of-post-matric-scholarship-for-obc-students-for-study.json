@@ -1,0 +1,49 @@
+{
+  "id": "centrally-sponsored-scheme-of--0500",
+  "name": "Centrally Sponsored Scheme of Post-Matric Scholarship for OBC Students for studying in India",
+  "slug": "centrally-sponsored-scheme-of-post-matric-scholarship-for-obc-students-for-study",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Maintenance Allowance ﻿ Group A Degree and Post Graduate level courses including M.Phil., PhD and Post Doctoral research in Medicine (Allopathic, Indian and other recognized systems of medicines), Engineering, Technology, Planning, Architecture, Design, Fashion Technology, Agriculture, Veterinary an",
+  "details": "\"Dr. Ambedakar Centrally Sponsored Scheme of Post-Matric Scholarships for the Other Backward Class (OBC) Students for Studying in India\" is a Scholarship Scheme by the Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment. The objective of the scheme is to provide financial assistance to OBC students studying at the post-matriculation or post-secondary stage to enable them to complete their education. These scholarships shall be available for studies in India o",
+  "eligibility_text": "Eligibility Criteria for Applicants - The applicant should be an Indian national. The applicant should belong to OBCs, as notified by their State Govt./ UT Admn. The applicant should be pursuing post-matriculation or post-secondary courses in a recognized institution. The applicant should be permanently settled and should have passed a recognized Matriculation or Higher Secondary or any higher exa",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹100,000",
+      "field": "income",
+      "max": 100000
+    },
+    {
+      "criterion": "Must belong to OBC category",
+      "field": "caste",
+      "values": [
+        "obc",
+        "sc",
+        "st"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 1: Visit the National Scholarship Portal and click “New Registration”. The guidelines for Registration will appear. Scroll to the bottom. Read carefully the undertaking. Accept the Terms. Click “",
+  "tags": [
+    "Scholarship",
+    "Other Backward Class",
+    "OBC",
+    "DBT",
+    "Post-Matric",
+    "Education"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

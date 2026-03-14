@@ -1,0 +1,53 @@
+{
+  "id": "pradhan-mantri-dakshta-aur-kus-2415",
+  "name": "Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi (PM-DAKSH)",
+  "slug": "pradhan-mantri-dakshta-aur-kushalta-sampann-hitgrahi-pm-daksh",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Key benefits: Training free of cost for the trainees, 100% grants by Government. Stipend will be given to trainees during the period of training. Trained candidates will be provided certification after successful completion of training and assessment. Trained candidates will be provided placement af",
+  "details": "The \"Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi\" (PM-DAKSH) scheme, launched by the Ministry of Social Justice & Empowerment, Government of India in 2020-21, is designed to uplift the marginalized sections of society by offering skill development programs. It targets SCs, OBCs, EWS, DNTs, and Safai Mitras, providing upskilling, reskilling, short-term training, and entrepreneurial development courses. The scheme aims to empower these groups by boosting their skills to improve their empl",
+  "eligibility_text": "Applicant must be an Indian national with valid proof of nationality. Applicant must be aged between 18 and 45 years. Applicant must belong to one of the following groups: Scheduled Castes (SC); Other Backward Classes (OBC); Economically Weaker Sections (EWS); Denotified & Nomadic Tribes (DNT0, or Safai Mitras (including Waste Pickers). Applicant from OBC or EWS must have an annual family income b",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-45 years",
+      "field": "age",
+      "min": 18,
+      "max": 45
+    },
+    {
+      "criterion": "Annual income below ₹300,000",
+      "field": "income",
+      "max": 300000
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Step 1: Visit the website of Skill India Digital Hub (SIDH). On top-right side, click on the \"Register\" button. Step 2: Choose \"Learner/Participant\" in next page. Step 3: Enter your mobile number. Cli",
+  "tags": [
+    "Skill",
+    "Training",
+    "Employment",
+    "Stipend",
+    "Scheduled Caste",
+    "Other Backward Class",
+    "Economically Weaker Section"
+  ],
+  "scheme_category_raw": "Skills & Employment"
+}

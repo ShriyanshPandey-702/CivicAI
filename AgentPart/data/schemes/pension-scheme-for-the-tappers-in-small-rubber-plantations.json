@@ -1,0 +1,33 @@
+{
+  "id": "pension-scheme-for-the-tappers-2335",
+  "name": "Pension Scheme for the Tappers in Small Rubber Plantations",
+  "slug": "pension-scheme-for-the-tappers-in-small-rubber-plantations",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1300,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The enrolled member who remits their annual contribution continuously up to the age of 60 years will get a pension of ₹1300/- per month. The members are also eligible for other benefits like family pension, financial assistance for permanent disability, Maternity Benefits, Medical Assistance, etc.,",
+  "details": "The scheme “Pension Scheme for the Tappers in Small Rubber Plantations” was launched by the Rubber Board, Ministry of Commerce & Industry, Government of India to motivate tappers and retain them in the tapping job. The Rubber Board proposes to extend support to tappers through convergence with the pension scheme being implemented through the Kerala Small Plantations Workers Welfare Fund Scheme. The Board offers financial support to the tune of 50% of the yearly contribution for a maximum period",
+  "eligibility_text": "A tapper aged between 18 to 55 years and having an experience of 90 days in the preceding 12 months. Engaged in tapping jobs throughout the year in small rubber plantations for wages or engaged in self-tapping in own small rubber plantation up to 1 ha. The tappers should be certified under Recognition of Prior Learning (RPL) of PMKVY of the Government of India or any training conducted by the Rubb",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-55 years",
+      "field": "age",
+      "min": 18,
+      "max": 55
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Step 01: A tapper has to submit a duly filled application form countersigned by the employer/RPS President/Field Officer, along with all the relevant documents. Step 02: The application forms will be ",
+  "tags": [
+    "Pension",
+    "Tapper",
+    "Rubber",
+    "Rubber Plantation"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment, Banking,Financial Services and Insurance"
+}

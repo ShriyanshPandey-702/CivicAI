@@ -1,0 +1,32 @@
+{
+  "id": "fellowship-for-superannuated-f-0941",
+  "name": "Fellowship For Superannuated Faculty Members",
+  "slug": "fellowship-for-superannuated-faculty-members",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Tenure and Slots Tenure: 3 years or upto 70 years whichever is earlier. Slots: 100 per annum or as may be decided by the Commission ﻿ Financial Assistance Fellowship: Rs. 50,000/- per month Contingency: Rs.50,000/- per annum ﻿",
+  "details": "The \"Fellowship for Superannuated Faculty Members\" scheme is a fellowship scheme by the University Grants Commission (UGC), Department of Higher Education to provide opportunities to superannuated faculty members of Universities/Institutes/Colleges, hereinafter “Institutions” to pursue research in their area(s). ﻿",
+  "eligibility_text": "(i) Faculty members at the level of Professors/Associate professors (who are going to superannuate within six months or already superannuated) from the following institutions are eligible to apply under the schemes: Universities (including constituent and affiliated colleges/institutions) are included under Section 2(f) of the UGC Act, 1956, and have valid accreditation from NAAC. Deemed to be Uni",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 67-3 years",
+      "field": "age",
+      "min": 67,
+      "max": 3
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Applications are invited through online mode once in a year through advertisements in leading newspapers & employment news. Short notification is also uploaded in the UGC website i.e. www.ugc.ac.in ﻿ ",
+  "tags": [
+    "Fellowship",
+    "Faculty"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

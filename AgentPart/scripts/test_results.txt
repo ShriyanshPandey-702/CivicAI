@@ -1,0 +1,253 @@
+﻿=================================================================
+SahayAI ΓÇö Profile Eligibility Test Suite (12 profiles)
+=================================================================
+
+Profile 1 ΓÇö Farmer Male OBC
+-------------------------------------------------------
+[debug discovery_rag] Before state filter: 7 schemes
+[debug discovery_rag] After state filter: 7 schemes
+[debug discovery_rag] profile.get('gender') -> male
+[filter] Removed 'Post Matric Scholarship OBC' ΓÇö occupation 'farmer' is not 'student'
+[debug discovery_rag] After post-RAG filter: 6 schemes
+[discovery] Final output: 6 schemes
+  -> PM-KISAN (confidence: 83%)
+  -> Atal Pension Yojana (confidence: 80%)
+  -> Pradhan Mantri Fasal Bima Yojana (confidence: 79%)
+  -> E-Shram (confidence: 78%)
+  -> PM Awas Yojana (confidence: 76%)
+  -> Ayushman Bharat (confidence: 76%)
+  Schemes returned: 6
+    Γ£à 83% ΓÇö PM-KISAN
+    Γ£à 80% ΓÇö Atal Pension Yojana
+    Γ£à 79% ΓÇö Pradhan Mantri Fasal Bima Yojana
+    Γ£à 78% ΓÇö E-Shram
+    Γ£à 76% ΓÇö PM Awas Yojana
+    Γ£à 76% ΓÇö Ayushman Bharat
+  RESULT: Γ£à PASSED
+
+Profile 2 ΓÇö Student Female General
+-------------------------------------------------------
+[debug discovery_rag] Before state filter: 5 schemes
+[debug discovery_rag] After state filter: 5 schemes
+[debug discovery_rag] profile.get('gender') -> female
+[filter] Removed 'Atal Pension Yojana' ΓÇö Atal Pension Yojana is not applicable for students
+[filter] Removed 'Sukanya Samriddhi Yojana' ΓÇö citizen age 20 and no eligible child under 10
+[debug discovery_rag] After post-RAG filter: 3 schemes
+[discovery] Final output: 3 schemes
+  -> NSP Scholarships (confidence: 80%)
+  -> Ayushman Bharat (confidence: 76%)
+  -> PM Awas Yojana (confidence: 76%)
+  Schemes returned: 3
+    Γ£à 80% ΓÇö NSP Scholarships
+    Γ£à 76% ΓÇö Ayushman Bharat
+    Γ£à 76% ΓÇö PM Awas Yojana
+  ΓÜá∩╕Å  MISSING: 'jeevan jyoti' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'suraksha bima' not found (expected)
+  RESULT: Γ£à PASSED
+
+Profile 3 ΓÇö Daily Wage Worker Female SC
+-------------------------------------------------------
+[debug discovery_rag] Before state filter: 2 schemes
+[debug discovery_rag] After state filter: 2 schemes
+[debug discovery_rag] profile.get('gender') -> female
+[debug discovery_rag] After post-RAG filter: 2 schemes
+[discovery] Filtered out (ineligible): Atal Pension Yojana ΓÇö Phase1 rule failed for 'atal pension'
+[discovery] Final output: 1 schemes
+  -> E-Shram (confidence: 76%)
+  Schemes returned: 1
+    Γ£à 76% ΓÇö E-Shram
+  ΓÜá∩╕Å  MISSING: 'jan dhan' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'ujjwala' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'ayushman' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'antyodaya' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'sukanya' not found (expected)
+  RESULT: Γ£à PASSED
+
+Profile 4 ΓÇö Self Employed Female SC with Disability
+-------------------------------------------------------
+[debug discovery_rag] Before state filter: 8 schemes
+[debug discovery_rag] After state filter: 8 schemes
+[debug discovery_rag] profile.get('gender') -> female
+[filter] Removed 'Sukanya Samriddhi Yojana' ΓÇö citizen age 28 and no eligible child under 10
+[filter] Removed 'NSP Scholarships' ΓÇö occupation 'self_employed' is not 'student'
+[debug discovery_rag] After post-RAG filter: 6 schemes
+[discovery] Final output: 6 schemes
+  -> Atal Pension Yojana (confidence: 80%)
+  -> Mudra Yojana (confidence: 80%)
+  -> E-Shram (confidence: 79%)
+  -> PM Awas Yojana (confidence: 77%)
+  -> Ayushman Bharat (confidence: 77%)
+  -> PM Ujjwala Yojana (confidence: 76%)
+  Schemes returned: 6
+    Γ£à 80% ΓÇö Atal Pension Yojana
+    Γ£à 80% ΓÇö Mudra Yojana
+    Γ£à 79% ΓÇö E-Shram
+    Γ£à 77% ΓÇö PM Awas Yojana
+    Γ£à 77% ΓÇö Ayushman Bharat
+    Γ£à 76% ΓÇö PM Ujjwala Yojana
+  ΓÜá∩╕Å  MISSING: 'stand-up india' not found (expected)
+  RESULT: Γ£à PASSED
+
+Profile 5 ΓÇö Unemployed Male ST
+-------------------------------------------------------
+[debug discovery_rag] Before state filter: 2 schemes
+[debug discovery_rag] After state filter: 2 schemes
+[debug discovery_rag] profile.get('gender') -> male
+[debug discovery_rag] After post-RAG filter: 2 schemes
+[discovery] Filtered out (ineligible): Atal Pension Yojana ΓÇö Phase1 rule failed for 'atal pension'
+[discovery] Final output: 1 schemes
+  -> E-Shram (confidence: 77%)
+  Schemes returned: 1
+    Γ£à 77% ΓÇö E-Shram
+  ΓÜá∩╕Å  MISSING: 'jan dhan' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'ayushman' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'mudra' not found (expected)
+  RESULT: Γ£à PASSED
+
+Profile 6 ΓÇö Widow Female BPL
+-------------------------------------------------------
+[debug discovery_rag] Before state filter: 2 schemes
+[debug discovery_rag] After state filter: 2 schemes
+[debug discovery_rag] profile.get('gender') -> female
+[filter] Removed 'Antyodaya Anna Yojana' ΓÇö ration card 'bpl' does not match AAY requirement
+[debug discovery_rag] After post-RAG filter: 1 schemes
+[discovery] Final output: 1 schemes
+  -> E-Shram (confidence: 76%)
+  Schemes returned: 1
+    Γ£à 76% ΓÇö E-Shram
+  ΓÜá∩╕Å  MISSING: 'widow pension' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'ayushman' not found (expected)
+  RESULT: Γ£à PASSED
+
+Profile 7 ΓÇö Senior Citizen Male BPL
+-------------------------------------------------------
+[debug discovery_rag] Before state filter: 2 schemes
+[debug discovery_rag] After state filter: 2 schemes
+[debug discovery_rag] profile.get('gender') -> male
+[filter] Removed 'Antyodaya Anna Yojana' ΓÇö ration card 'bpl' does not match AAY requirement
+[filter] Removed 'Post Matric Scholarship OBC' ΓÇö occupation 'unemployed' is not 'student'
+[debug discovery_rag] After post-RAG filter: 0 schemes
+[discovery] Final output: 0 schemes
+  Schemes returned: 0
+  ΓÜá∩╕Å  MISSING: 'old age pension' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'ayushman' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'antyodaya' not found (expected)
+  RESULT: Γ£à PASSED
+
+Profile 8 ΓÇö Married Female Farmer with Girl Child Age 6
+-------------------------------------------------------
+[debug discovery_rag] Before state filter: 7 schemes
+[debug discovery_rag] After state filter: 7 schemes
+[debug discovery_rag] profile.get('gender') -> female
+[filter] Removed 'Post Matric Scholarship OBC' ΓÇö occupation 'farmer' is not 'student'
+[debug discovery_rag] After post-RAG filter: 6 schemes
+[discovery] Final output: 6 schemes
+  -> PM-KISAN (confidence: 82%)
+  -> Atal Pension Yojana (confidence: 79%)
+  -> Pradhan Mantri Fasal Bima Yojana (confidence: 78%)
+  -> E-Shram (confidence: 77%)
+  -> PM Awas Yojana (confidence: 75%)
+  -> Ayushman Bharat (confidence: 75%)
+  Schemes returned: 6
+    Γ£à 82% ΓÇö PM-KISAN
+    Γ£à 79% ΓÇö Atal Pension Yojana
+    Γ£à 78% ΓÇö Pradhan Mantri Fasal Bima Yojana
+    Γ£à 77% ΓÇö E-Shram
+    Γ£à 75% ΓÇö PM Awas Yojana
+    Γ£à 75% ΓÇö Ayushman Bharat
+  ΓÜá∩╕Å  MISSING: 'sukanya' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'ujjwala' not found (expected)
+  RESULT: Γ£à PASSED
+
+Profile 9 ΓÇö Student Male OBC Hosteller
+-------------------------------------------------------
+[debug discovery_rag] Before state filter: 5 schemes
+[debug discovery_rag] After state filter: 5 schemes
+[debug discovery_rag] profile.get('gender') -> male
+[filter] Removed 'Sukanya Samriddhi Yojana' ΓÇö scheme is for girl children only (gender: male)
+[debug discovery_rag] After post-RAG filter: 4 schemes
+[discovery] Final output: 4 schemes
+  -> Post Matric Scholarship OBC (confidence: 82%)
+  -> NSP Scholarships (confidence: 80%)
+  -> Ayushman Bharat (confidence: 76%)
+  -> PM Awas Yojana (confidence: 75%)
+  Schemes returned: 4
+    Γ£à 82% ΓÇö Post Matric Scholarship OBC
+    Γ£à 80% ΓÇö NSP Scholarships
+    Γ£à 76% ΓÇö Ayushman Bharat
+    Γ£à 75% ΓÇö PM Awas Yojana
+  ΓÜá∩╕Å  MISSING: 'jeevan jyoti' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'suraksha bima' not found (expected)
+  RESULT: Γ£à PASSED
+
+Profile 10 ΓÇö Self Employed Male AAY
+-------------------------------------------------------
+[debug discovery_rag] Before state filter: 7 schemes
+[debug discovery_rag] After state filter: 7 schemes
+[debug discovery_rag] profile.get('gender') -> male
+[filter] Removed 'Sukanya Samriddhi Yojana' ΓÇö scheme is for girl children only (gender: male)
+[filter] Removed 'PM Ujjwala Yojana' ΓÇö scheme is for women beneficiaries only (gender: male)
+[debug discovery_rag] After post-RAG filter: 5 schemes
+[discovery] Final output: 5 schemes
+  -> Atal Pension Yojana (confidence: 82%)
+  -> E-Shram (confidence: 81%)
+  -> Mudra Yojana (confidence: 79%)
+  -> PM Awas Yojana (confidence: 77%)
+  -> Ayushman Bharat (confidence: 77%)
+  Schemes returned: 5
+    Γ£à 82% ΓÇö Atal Pension Yojana
+    Γ£à 81% ΓÇö E-Shram
+    Γ£à 79% ΓÇö Mudra Yojana
+    Γ£à 77% ΓÇö PM Awas Yojana
+    Γ£à 77% ΓÇö Ayushman Bharat
+  ΓÜá∩╕Å  MISSING: 'antyodaya' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'stand-up india' not found (expected)
+  RESULT: Γ£à PASSED
+
+Profile 11 ΓÇö Pregnant Woman Daily Wage
+-------------------------------------------------------
+[debug discovery_rag] Before state filter: 3 schemes
+[debug discovery_rag] After state filter: 3 schemes
+[debug discovery_rag] profile.get('gender') -> female
+[filter] Removed 'Antyodaya Anna Yojana' ΓÇö ration card 'bpl' does not match AAY requirement
+[debug discovery_rag] After post-RAG filter: 2 schemes
+[discovery] Final output: 2 schemes
+  -> Atal Pension Yojana (confidence: 77%)
+  -> E-Shram (confidence: 77%)
+  Schemes returned: 2
+    ΓÜá∩╕Å  77% ΓÇö Atal Pension Yojana
+    ΓÜá∩╕Å  77% ΓÇö E-Shram
+  Γ¥î WRONG SCHEME: 'atal pension' found ΓåÆ ['atal pension yojana']
+  ΓÜá∩╕Å  MISSING: 'matru vandana' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'ayushman' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'ujjwala' not found (expected)
+  RESULT: Γ¥î FAILED
+
+Profile 12 ΓÇö Young Male Farmer SC No Bank
+-------------------------------------------------------
+[debug discovery_rag] Before state filter: 7 schemes
+[debug discovery_rag] After state filter: 7 schemes
+[debug discovery_rag] profile.get('gender') -> male
+[filter] Removed 'Post Matric Scholarship OBC' ΓÇö occupation 'farmer' is not 'student'
+[filter] Removed 'NSP Scholarships' ΓÇö occupation 'farmer' is not 'student'
+[debug discovery_rag] After post-RAG filter: 5 schemes
+[discovery] Filtered out (ineligible): Atal Pension Yojana ΓÇö Phase1 rule failed for 'atal pension'
+[discovery] Final output: 4 schemes
+  -> PM-KISAN (confidence: 82%)
+  -> Pradhan Mantri Fasal Bima Yojana (confidence: 78%)
+  -> E-Shram (confidence: 77%)
+  -> PM Awas Yojana (confidence: 76%)
+  Schemes returned: 4
+    Γ£à 82% ΓÇö PM-KISAN
+    Γ£à 78% ΓÇö Pradhan Mantri Fasal Bima Yojana
+    Γ£à 77% ΓÇö E-Shram
+    Γ£à 76% ΓÇö PM Awas Yojana
+  ΓÜá∩╕Å  MISSING: 'jan dhan' not found (expected)
+  ΓÜá∩╕Å  MISSING: 'ayushman' not found (expected)
+  RESULT: Γ£à PASSED
+
+=================================================================
+SUMMARY: 11/12 profiles passed
+Failed profiles:
+  - Profile 11 ΓÇö Pregnant Woman Daily Wage
+=================================================================

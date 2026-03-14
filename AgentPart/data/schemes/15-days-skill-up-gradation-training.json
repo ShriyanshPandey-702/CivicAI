@@ -1,0 +1,36 @@
+{
+  "id": "15-days-skill-up-gradation-tra-0093",
+  "name": "15 Days Skill Up-gradation Training",
+  "slug": "15-days-skill-up-gradation-training",
+  "ministry": "",
+  "category": "employment",
+  "level": "State",
+  "state": "Andhra Pradesh",
+  "benefit_amount": 7000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Stipend of ₹7,000/-. Skill development training for construction workers. Tool kits provided post-training.",
+  "details": "The A. P. Building and Other Construction Workers Welfare Board launched a welfare scheme \"15 Days Skill Up-gradation Training\". The scheme aims to provide skill training, safety, and hygiene education for building and other construction workers registered with the Andhra Pradesh Building and Other Construction Workers Welfare Board. Upon successful completion of the training, workers will receive stipends and tool kits. This scheme will help workers acquire new skills or upgrade existing ones,",
+  "eligibility_text": "The applicant should be a registered construction worker under the Andhra Pradesh Building and Other Construction Workers Welfare Board.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a registered construction worker",
+      "field": "occupation",
+      "values": [
+        "daily_wage",
+        "self_employed"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Step-1: The interested applicant should visit (during office hours) the A.P. Building & Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application for",
+  "tags": [
+    "Stipend",
+    "Construction Worker",
+    "Skill Upgradation",
+    "Training"
+  ],
+  "scheme_category_raw": "Skills & Employment"
+}

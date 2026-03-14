@@ -1,0 +1,39 @@
+{
+  "id": "credit-based-schemes-for-sc-te-0636",
+  "name": "Credit Based Schemes For SC - Term Loan (TL)",
+  "slug": "credit-based-schemes-for-sc-term-loan-tl",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500000,
+  "benefit_frequency": "quarterly",
+  "benefit_description": "Term loan up to 95% of the cost of project Upto Rs.5.00 lakh at Interest rates of 6% Term loan up to 95% of the cost of project Above Rs. 5.00 lakh & upto Rs.10.00 lakh at Interest rates of 8% Term loan up to 95% of the cost of project Above Rs. 10.00 lakh & upto Rs.50.00 lakh at Interest rates of 9",
+  "details": "A loan scheme by Ministry of Social justice and Empowerment for Entrepreneur of Scheduled Caste Category. ﻿ Quantum of Assistance ﻿ NSFDC provides term loan up to 95% of the cost of project, subject to the condition that the SCAs contribute their share of assistance as per their schemes and also provide the required subsidy besides tying up of the financial resources from other sources available. ﻿ At least 50% of funding to the beneficiaries having annual family income up to Rs. 1.50 lakh and b",
+  "eligibility_text": "The scheme is for entrepreneurs of the Scheduled Caste Category.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook"
+  ],
+  "application_url": "The interested eligible person shall contact the nearest Channeling Agency (https://nsfdc.nic.in/channel-patrners/ ) . ﻿ Indicative Format ﻿ https://nsfdc.nic.in/UploadedFiles/other/form/termloan-engl",
+  "tags": [
+    "Entrepreneur",
+    "Scheduled Caste",
+    "Socities",
+    "Companies"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Banking,Financial Services and Insurance, Social welfare & Empowerment"
+}

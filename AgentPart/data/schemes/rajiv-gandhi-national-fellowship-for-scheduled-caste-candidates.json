@@ -1,0 +1,35 @@
+{
+  "id": "rajiv-gandhi-national-fellowsh-2545",
+  "name": "Rajiv Gandhi National Fellowship For Scheduled Caste Candidates",
+  "slug": "rajiv-gandhi-national-fellowship-for-scheduled-caste-candidates",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "one_time",
+  "benefit_description": "DURATION OF FELLOWSHIP ﻿ Name of the Course: M.Phil. Maximum Duration: 2 years or submission of dissertation whichever is earlier Admissibility of JRF: 2 years; Admissibility of SRF: Nil ﻿ Name of the Course: M.Phil./Ph.D. Maximum Duration: 5 years from the commencement of fellowship or submission o",
+  "details": "INTRODUCTION The Rajiv Gandhi National Fellowship (RGNF) Scheme for Scheduled Caste is formulated and funded by the Ministry of Social Justice &Empowerment. The scheme is open to candidates who belong to Scheduled Caste and are pursuing higher studies such as regular and full-time M.Phil.and Ph.D.degrees in Sciences, Humanities, Social Sciences, and Engineering & Technology. There are 2000 slots for Scheduled Caste every year for all the subjects. 3% fellowships are reserved for Persons with Dis",
+  "eligibility_text": "TARGET GROUP The candidates belonging to one of the SC categories who have passed the post-graduation examination in the concerned subject and who are pursuing full-time research without JRF of UGC-NET or UGC-CSIR NET. ﻿ ELIGIBILITY A candidate has to fulfill the following conditions to be eligible for the award of this fellowship: i. The candidate should belong to SC/ST and should have passed the",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert"
+  ],
+  "application_url": "The applications are invited through online mode once in a year through advertisements in leading newspapers and Employment News from, the candidate belonging to the SC category fulfilling the eligibi",
+  "tags": [
+    "Fellowship",
+    "Scheduled Caste"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

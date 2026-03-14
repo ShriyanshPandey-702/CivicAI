@@ -1,0 +1,29 @@
+{
+  "id": "post-office-monthly-income-sch-2397",
+  "name": "Post Office Monthly Income Scheme",
+  "slug": "post-office-monthly-income-scheme",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Benefits: Capital Protection- As the Government backs it, the return is safe. Low-risk Investment- Post office monthly income schemes online have no risk involved in market capitalization. Lock-in Period- A minimum of 5 years is the lock-in period which can be withdrawn after maturity. Affordable Pr",
+  "details": "Post Office Monthly Income Scheme (POMIS) is an investment scheme recognized and validated by the Ministry of Finance. It is one of the highest-earning schemes with an interest rate of 6.6%. The interest in this scheme is disbursed monthly. After opening a POMIS account, individuals can invest a suitable amount based on affordability, which, however, should not be less than ₹1500. It provides low risk and steady income where an investor can deposit every month and get interested of MIS in the po",
+  "eligibility_text": "The applicant must be a citizen of India. The applicant must be residing in India. The applicant should be at least 18 years old. ﻿ Note: You can open an account on behalf of a minor who is 10 years old or older. When kids reach the age of 18, they will be able to access the fund. After reaching the age of majority, a minor must apply for conversion of the account in his name.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be 18 years or older",
+      "field": "age",
+      "min": 18
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "To open an account under Post Office Monthly Income Scheme, follow the steps given below- ﻿ First, you must have a Post Office savings account. Open the same account if you do not have one Get an appl",
+  "tags": [
+    "Investment"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "scheme-of-internship-of-studen-2837",
+  "name": "Scheme of Internship of Students to DRDO Labs/Estts for Project Training",
+  "slug": "scheme-of-internship-of-students-to-drdo-labsestts-for-project-training",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Internship Training is provided in the areas relevant to DRDO. Provide opportunity to interns to be associated with projects. Note: DRDO shall not be liable for any compensation in case of personal injury resulting from an accident occurring during the students' attachment to DRDO Labs/Establishment",
+  "details": "The scheme \"Scheme of Internship of Students to DRDO Labs/Estts for Project Training\" has been launched by the Defence Research and Development Organisation (DRDO), Ministry of Defence. It aims to provide an opportunity and exposure to prospective graduates and postgraduates in Engineering and General Sciences to the research and development activities carried out by DRDO in state-of-the-art technology fields relevant to the defense sector.",
+  "eligibility_text": "Students pursuing undergraduate or postgraduate degrees in Engineering or General Sciences are eligible. Interns will be permitted access only to UNCLASSIFIED areas of DRDO Labs/Establishments. Note 1: The provisions of the Apprentices Act, 1961, do not apply to this scheme. Note 2: DRDO is under no obligation to offer employment to students upon completion of their training.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Students who are interested can apply through their respective institutes or colleges by corresponding with concerned laboratories or establishments that align with their academic disciplines. Interns",
+  "tags": [
+    "Internship",
+    "Student",
+    "DRDO",
+    "Project Training",
+    "Graduate",
+    "Postgraduates"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

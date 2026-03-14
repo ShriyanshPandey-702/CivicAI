@@ -1,0 +1,46 @@
+{
+  "id": "post-graduate-scholarships-for-2399",
+  "name": "Post-Graduate Scholarships for Professional Courses for SC/ST Candidates",
+  "slug": "post-graduate-scholarships-for-professional-courses-for-scst-candidates",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 7800,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The tenure of the award is for two/three years depending upon the tenure of the postgraduate course and not for an extended period of study, if any. Candidates selected for the award of PG scholarships (under ME/M.Tech.) shall be provided a Scholarship @ ₹7800/-per month for the duration of the PG S",
+  "details": "The scheme “Post Graduate Scholarships for Professional Courses for SC/ST Candidates” has been initiated to provide opportunities to the deprived sections of the society, viz. the Scheduled Caste (SC) and Scheduled Tribe (ST) for undertaking postgraduate level studies in Professional subjects like Engineering & Technology, Management, Pharmacy etc. in recognized Indian Universities/Institutions/Colleges. Objective: The objective of the scheme is to provide financial assistance to 1000 SC/ST cand",
+  "eligibility_text": "The students should belong to the SC/ST category. The candidate must have obtained a Graduate degree in the relevant subject and obtained admission at the Postgraduate level for regular full-time courses in any of the Professional subjects in a recognized University/Institution/College. Only students pursuing the first year of a postgraduate course during the current academic year are eligible to",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "disability_cert"
+  ],
+  "application_url": "Step 01: The candidates fulfilling the eligibility conditions are required to apply online on the National Scholarship Portal after the issue of an advertisement to be published by the UGC once in a y",
+  "tags": [
+    "Post Graduate",
+    "Scholarship",
+    "Professional Course",
+    "ST",
+    "SC",
+    "Student",
+    "UGC"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

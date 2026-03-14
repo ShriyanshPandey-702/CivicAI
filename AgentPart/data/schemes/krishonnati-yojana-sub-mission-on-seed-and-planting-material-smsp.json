@@ -1,0 +1,32 @@
+{
+  "id": "krishonnati-yojana-sub-mission-1683",
+  "name": "Krishonnati Yojana - Sub Mission On Seed And Planting Material (SMSP)",
+  "slug": "krishonnati-yojana-sub-mission-on-seed-and-planting-material-smsp",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 6000000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Intervention: Strengthening for Seed Quality Control Pattern of Funding: 100% GOI share, except a new sub-component with 75:25 Centre:State share Rate of Assistance: (i) Seed Testing Laboratories Equipment for Seed Testing Laboratories: Assistance for Rs.60 lakh per laboratory will be available for",
+  "details": "The scheme \"Sub Mission on Seed and Planting Material (SMSP)\" is a centrally sponsored scheme under the umbrella scheme of \"Green Revolution – Krishonnati Yojana\". ﻿ \"Green Revolution – Krishonnati Yojana\" is an Umbrella Scheme for the agriculture sector that has been implemented since 2016-17 by clubbing several schemes/missions under one umbrella scheme. The Umbrella scheme comprises 11 Schemes/Missions. These schemes look to develop the agriculture and allied sector holistically and scientifi",
+  "eligibility_text": "The applicant must be a Small or Marginal Farmer.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Bona fide farmers can apply to the District Agriculture Officer of the concerned districts/Agriculture Development Officer of C&RD Block/ Agriculture Circle, by submitting copies of the required docum",
+  "tags": [
+    "Farmer",
+    "Agriculture",
+    "Subsidy"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

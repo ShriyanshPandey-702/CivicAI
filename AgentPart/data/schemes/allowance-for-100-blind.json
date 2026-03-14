@@ -1,0 +1,54 @@
+{
+  "id": "allowance-for-100-blind-0219",
+  "name": "Allowance for 100% Blind",
+  "slug": "allowance-for-100-blind",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "State",
+  "state": "Uttar Pradesh",
+  "benefit_amount": 2000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Pension of ₹2,000/- per month. *The existing beneficiaries who are on receipt of benefits under the scheme can continue to do so.",
+  "details": "The scheme “Allowance for 100% Blind\" is a Pension Scheme launched by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme aims to provide a monthly pension of ₹2,000/- to the blind persons of Tripura aged 10 years and above having 100% blindness. The application should be submitted to the nearest Child Development Project Officer (CDPO).",
+  "eligibility_text": "The applicant should be a resident of Tripura. The applicant should be 100% visually handicapped. The applicant's age should be 10 years and above. The annual income of the applicant's family should be up to ₹ 1,00,000/-.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 10-1 years",
+      "field": "age",
+      "min": 10,
+      "max": 1
+    },
+    {
+      "criterion": "Annual income below ₹100,000",
+      "field": "income",
+      "max": 100000
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    },
+    {
+      "criterion": "Must be a resident of Tripura",
+      "field": "state",
+      "value": "Tripura"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "address_proof",
+    "ration_card",
+    "birth_cert"
+  ],
+  "application_url": "Step 1: The interested applicant should take print of the prescribed format of the application form. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photogr",
+  "tags": [
+    "Blind",
+    "Pension",
+    "Financial Assistance",
+    "Disability",
+    "Allowance"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

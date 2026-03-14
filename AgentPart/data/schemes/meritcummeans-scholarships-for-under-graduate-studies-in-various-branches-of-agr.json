@@ -1,0 +1,40 @@
+{
+  "id": "meritcummeans-scholarships-for-1906",
+  "name": "Merit·cum·Means Scholarships For Under Graduate Studies In Various Branches Of Agriculture And Animal Science Subjects",
+  "slug": "meritcummeans-scholarships-for-under-graduate-studies-in-various-branches-of-agr",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The value of the scholarships for undergraduate studies in Agriculture (including Agricultural Engineering & Home Science) and Animal Science subjects will be ₹ 1,000/- per month per student. The scholarship will be tenable for the full duration of the degree course in the concerned subject.",
+  "details": "The \"Merit-cum-Means Scholarships for Undergraduate Studies in Agriculture and Animal Science\" is a prestigious scheme introduced by the Indian Council of Agricultural Research (ICAR), Department of Agricultural Research and Education (DARE). The objective of this scholarship is to attract meritorious students to pursue undergraduate studies in Agriculture, Agricultural Engineering, Home Science, Dairy, and Animal Husbandry. ﻿ The scholarship is awarded annually based on merit-cum-means criteria",
+  "eligibility_text": "The applicant should have domiciled in India. The applicant should be a student who meets the Means Test condition as defined in the scheme guidelines. The applicant should have secured at least 60% marks or equivalent grade points in the qualifying examination. The applicant should be considered on inter-se merit in case of a tie, with preference given to those with higher marks in science subjec",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹100,000",
+      "field": "income",
+      "max": 100000
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Step 1: The interested applicant should visit (during office hours) the University/College, and request the hard copy of the prescribed format of the application form from the concerned authority. Ste",
+  "tags": [
+    "Scholarship",
+    "Student",
+    "Agriculture",
+    "Financial"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

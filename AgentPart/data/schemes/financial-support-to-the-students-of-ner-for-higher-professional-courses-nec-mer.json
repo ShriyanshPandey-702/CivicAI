@@ -1,0 +1,43 @@
+{
+  "id": "financial-support-to-the-stude-1087",
+  "name": "Financial Support To The Students Of N.E.R For Higher Professional Courses (NEC Merit Scholarship)",
+  "slug": "financial-support-to-the-students-of-ner-for-higher-professional-courses-nec-mer",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Rates of Scholarships (₹ per annum) for fresh and renewal cases (existing students): The present rate of scholarship for related Subjects/Courses at different levels is as under: Diploma: 20,000/- Degree: 22,000/- Postgraduate: 25,000/- M.Phil./Ph.D.: 30,000/- ﻿ The number of Fresh Scholarships to b",
+  "details": "A scholarship scheme by the North Eastern Council (NEC), Ministry of Development of North Eastern Region for the students of the North Eastern States undergoing studies in different disciplines at different levels in Institutions inside as well as outside the North-East but within the country as specified hereinafter. The scholarship under this scheme shall be disbursed only through National Scholarship Portal (NSP). The scholarship shall be admissible to students who get admission in Diploma, D",
+  "eligibility_text": "The applicant must be a permanent resident of any of the North Eastern States. The applicant must be admitted in Diploma, Degree, Post-graduate or registered in M.Phil. / Ph.D. courses of any institute recognized by the Government. The total annual income of the applicant's parents/guardian (from all sources) shall not exceed ₹8,00,000. The applicant must fulfill the following eligibility criteria",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 2019-20 years",
+      "field": "age",
+      "min": 2019,
+      "max": 20
+    },
+    {
+      "criterion": "Annual income below ₹800,000",
+      "field": "income",
+      "max": 800000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook"
+  ],
+  "application_url": "The applicants are required to fill up the application form on National Scholarship Portal (NSP) (www.scholarships.in), within the prescribed date for receipt of the application, following due procedu",
+  "tags": [
+    "Scholarship",
+    "Student"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

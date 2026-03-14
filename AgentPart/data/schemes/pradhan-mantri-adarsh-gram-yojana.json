@@ -1,0 +1,41 @@
+{
+  "id": "pradhan-mantri-adarsh-gram-yoj-2411",
+  "name": "Pradhan Mantri Adarsh Gram Yojana",
+  "slug": "pradhan-mantri-adarsh-gram-yojana",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Physical Infrastructure 1.  Should be connected to the nearest major road by an all-weather road. Likewise, in the case of a multi-hamlet village, all hamlets should be connected with each other by an all-weather road. 2.  Access for all to safe drinking water on a sustainable basis. 3.  All houses",
+  "details": "With a view to enabling an area-based development approach, a new scheme Pradhan Mantri Adarsh Gram Yojana (PMAGY) was launched during 2009-10. The Scheme aims at integrated development of Scheduled Castes majority villages. ﻿ The principal objective of PMAGY is the integrated development of SC majority Villages: (a) Primarily through convergent implementation of the relevant Central and State/UT Government Schemes; and (b) By taking up identified activities, which do not get covered under the e",
+  "eligibility_text": "Out of the villages having more than 50% SC population, only those with a total population greater than 500 will be eligible for selection in descending order of their SC population in the first instance under the Scheme. (As per the Census 2011, there are 46844 villages having more than 50% Scheduled Castes population. These villages are spread over 570 districts of 25 States & UTs.) ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 50-500 years",
+      "field": "age",
+      "min": 50,
+      "max": 500
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "",
+  "tags": [
+    "Rural Development",
+    "Social Justice"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

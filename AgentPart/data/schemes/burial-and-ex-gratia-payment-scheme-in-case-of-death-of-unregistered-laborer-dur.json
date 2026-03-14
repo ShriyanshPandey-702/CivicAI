@@ -1,0 +1,39 @@
+{
+  "id": "burial-and-ex-gratia-payment-s-0003",
+  "name": "Burial and Ex-gratia Payment Scheme in Case of Death of Unregistered Laborer During Work at Construction Site",
+  "slug": "burial-and-ex-gratia-payment-scheme-in-case-of-death-of-unregistered-laborer-dur",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "State",
+  "state": "Madhya Pradesh",
+  "benefit_amount": 3000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Funeral Assistance: ₹3,000 payable in case of death of a construction laborer. Grace Amount: Death due to an accident during construction work: ₹4,00,000/-. Permanent disability due to an accident during construction work: ₹2,00,000/-.",
+  "details": "Launched in 2014, the \" Burial and Ex-gratia Payment Scheme in Case of Death of Unregistered Laborer During Work at Construction Site\" is a welfare initiative by the M.P. Building and Other Construction Workers Welfare Board, Government of Madhya Pradesh. The scheme provides funeral assistance of ₹3,000 and ex-gratia payments in the event of death or permanent disability of unregistered laborers during construction work. It supports construction workers in the unorganized sector who are not regi",
+  "eligibility_text": "The deceased construction worker should have been registered with the Madhya Pradesh Building and Other Construction Workers Welfare Board (MPBOCWWB). The deceased construction worker should have held an active regular membership. The only person who is a legal heir/dependent family member of the deceased registered worker is eligible to apply under the scheme. The deceased worker should have vali",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a registered construction worker",
+      "field": "occupation",
+      "values": [
+        "daily_wage",
+        "self_employed"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "address_proof",
+    "ration_card",
+    "disability_cert"
+  ],
+  "application_url": "Step 1: The interested applicant should visit (during office hours) the Chief Executive Officer, District Panchayat and Commissioner/Chief Municipal Officer Municipal Body and request the hard copy of",
+  "tags": [
+    "Building Worker",
+    "Construction Workers",
+    "Unregistered Laborer",
+    "Death"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

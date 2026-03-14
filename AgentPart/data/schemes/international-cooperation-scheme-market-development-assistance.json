@@ -1,0 +1,40 @@
+{
+  "id": "international-cooperation-sche-1517",
+  "name": "International Cooperation Scheme- Market Development Assistance",
+  "slug": "international-cooperation-scheme-market-development-assistance",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Under this scheme component, financial assistance is provided on a reimbursement basis for airfare, Space Rent (Stall Charges), Duty allowance, Freight charges, advertisement & publicity charges, entry/registration fees, holding/organizing International conferences/ summits/ workshops/ seminars, etc",
+  "details": "The scheme “International Cooperation Scheme” was launched by the Ministry of Micro, Small and Medium Enterprises, Government of India with the aim to capacity build MSMEs for entering the export market by facilitating their participation in international exhibitions/fairs/conferences/seminars/buyer-seller meets abroad as well as providing them with actionable market-intelligence and reimbursement of various costs involved in the export of goods and services. The Scheme provides opportunities fo",
+  "eligibility_text": "Eligible Organisations: Events under the scheme can be organized by: a) Ministry of MSME and organizations under the Ministry; b) State/Central Government Organisations/Institutions; and c) Registered Industry/Enterprise Associations Conditions: The applicant organization should be suitably registered under the relevant Act (i.e., companies under the Companies Act, Societies under the Societies Ac",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 01: The applicant organization will submit an online application for financial assistance, along with the relevant documents and the budget estimate of the expenditure on the proposed event in th",
+  "tags": [
+    "International",
+    "Cooperation",
+    "Market",
+    "Development",
+    "Industry",
+    "Enterpris",
+    "MSME"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance, Business & Entrepreneurship"
+}

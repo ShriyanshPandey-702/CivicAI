@@ -1,0 +1,40 @@
+{
+  "id": "prime-ministers-scholarship-sc-2480",
+  "name": "Prime Minister's Scholarship Scheme",
+  "slug": "prime-ministers-scholarship-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 2500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The scholarship amount is ₹2500 per month for boys and ₹3000 per month for girls. The scholarship amount is paid annually to the selected students for a period of one to five years as per the duration of the courses approved by the concerned regulatory bodies. A total number of 5500 (2750 Boys and 2",
+  "details": "Prime Minister’s Scholarship Scheme was introduced in the Academic year 2006-07 by the Department of Ex-servicemen Welfare, Ministry of Defence, to encourage higher technical and professional education for the dependent wards of Ex-Servicemen / Ex-Coast Guard personnel and their widows. ﻿ A total number of 5500 (2750 Boys and 2750 Girls) wards / widows of Ex-servicemen are selected for the scholarship in each academic year. Scholarship amount is paid annually to the selected students for a perio",
+  "eligibility_text": "The applicant should be a student admitted in 1st year (except Lateral Entry & Integrated Course). The applicant should have scored 60% and above in Minimum Educational Qualification (MEQ) i.e. 10+2 / Diploma / Graduation. The MEQ for entry to various professional courses varies according to the course opted for. The list is available here http://ksb.gov.in/writereaddata/DownLoad/List_of_Authorise",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Step 1: Visit the KSB Website www.ksb.gov.in and click on List of documents to be uploaded under the PMSS link and Download Annexures 1, 2 and 3 Step 2: Complete these three Annexures in all respects ",
+  "tags": [
+    "Ex-servicemen",
+    "Student",
+    "Education",
+    "Scholarship",
+    "Ex-Coast Guard",
+    "Widow"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

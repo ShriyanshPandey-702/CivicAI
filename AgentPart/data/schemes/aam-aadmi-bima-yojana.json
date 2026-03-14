@@ -1,0 +1,43 @@
+{
+  "id": "aam-aadmi-bima-yojana-0133",
+  "name": "Aam Aadmi Bima Yojana",
+  "slug": "aam-aadmi-bima-yojana",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 30000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Life Insurance Coverage: Natural death: ₹30,000/- Death due to accident: ₹75,000/- Disability Benefits: Total permanent disability (loss of two eyes or two limbs) due to accident: ₹75,000/- Partial permanent disability (loss of one eye or one limb) due to accident: ₹37,500/- Scholarship: Two childre",
+  "details": "The Aam Aadmi Bima Yojana (AABY) is a social security scheme launched by the Ministry of Labour & Employment, Government of India, and implemented through LIC. It provides death and disability coverage to members of 48 specific occupational/vocational groups, rural landless households, and unorganized workers. Beneficiaries aged 18–59 years pay subsidized annual premiums of ₹200 for insurance coverage. Additionally, scholarships are granted for children studying in grades 9–12, ensuring holistic",
+  "eligibility_text": "The applicant should be aged between 18 and 59 years. The applicant should normally be the head of the family or an earning member. The applicant’s family should be categorized as below the poverty line (BPL) or marginally above the poverty line. The applicant should belong to an identified occupational or vocational group. The applicant should be part of a rural landless household.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-59 years",
+      "field": "age",
+      "min": 18,
+      "max": 59
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "ration_card"
+  ],
+  "application_url": "Death Claim Procedure: Step 1: The nominee of the deceased member submits a claim application to the designated official of the Nodal Agency along with the original death certificate and an attested c",
+  "tags": [
+    "Bima",
+    "Insurance",
+    "Labour Welfare",
+    "DBT",
+    "Incentive"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

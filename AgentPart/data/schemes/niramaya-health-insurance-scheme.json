@@ -1,0 +1,37 @@
+{
+  "id": "niramaya-health-insurance-sche-2216",
+  "name": "Niramaya Health Insurance Scheme",
+  "slug": "niramaya-health-insurance-scheme",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 100000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Health insurance coverage: Up to ₹1,00,000/- for various expenses. Outpatient department (OPD) treatment: Covers medicines, pathology, diagnostic tests, etc. Regular medical checkups: For non-ailing individuals with disabilities. Dental care: Preventive dentistry services. Surgery: To prevent furthe",
+  "details": "“Niramaya Health Insurance Scheme” was launched by the Department of Empowerment of Persons with Disabilities, Ministry of Social Justice & Empowerment. Government of India. The objective of the scheme is to provide affordable Health Insurance to persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities. The scheme provides insurance coverage of up to ₹1,00,000/-, which must be renewed annually after the financial year.",
+  "eligibility_text": "All the disable person who have at least one of the disabilities under the National Trust Act, 1999 with valid disability certificate.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "income_cert",
+    "bank_passbook",
+    "address_proof",
+    "disability_cert"
+  ],
+  "application_url": "Enrolment process: Step 01: Parents/guardian of the PwD will visit the nearest Registered Organization (RO) for Niramaya enrolment with required documents. Step 02: RO will fill up the Niramaya applic",
+  "tags": [
+    "Person With Disability",
+    "Insurance",
+    "Financial Assistance",
+    "Autism",
+    "Cerebral Palsy",
+    "Mental Retardation"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment, Health & Wellness"
+}

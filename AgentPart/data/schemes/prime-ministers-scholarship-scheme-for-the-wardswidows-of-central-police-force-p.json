@@ -1,0 +1,45 @@
+{
+  "id": "prime-ministers-scholarship-sc-2482",
+  "name": "Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel",
+  "slug": "prime-ministers-scholarship-scheme-for-the-wardswidows-of-central-police-force-p",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1250,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Amount of Scholarship: 1.\t₹1250/- per month for boys 2.\t₹1500/- per month for girls Duration of the Scholarship: 1.\tTwo to five years as approved by the concerned regulatory body for the programme.",
+  "details": "The scheme “Prime Minister’s Scholarship Scheme for the Wards/Widows of Central Police Force Personnel” was introduced by the Ministry of Home Affairs, Government of India in the Academic year 2006-07 to encourage higher technical and professional education for the wards of widows and ex-CPFs personnel. Service conditions of Central Police Forces (CPFs) Personnel are extremely exacting, tough, rigorous, and peculiar to the Services. The service condition often keeps these personnel away from fam",
+  "eligibility_text": "1. Persons eligible for the scholarship: (a) Wards and widows of CPFs personnel died in harness. (b) Wards of ex-CPFs personnel disabled while on duty. (c) Wards of ex-CPFs personnel in receipt of Gallantry Awards. (d) Wards & widows of Ex-CPFs/in-service personnel (Below Officer Rank i.e. up to the rank of Subedar Major /Inspector only). 2. Order of preference: If the number of applications for s",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 02-2 years",
+      "field": "age",
+      "min": 2,
+      "max": 2
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "disability_cert"
+  ],
+  "application_url": "Step 01: The applications are invited from eligible candidates by 30th November of each year. Step 02: Each applicant should submit his/her application to the concerned force Head Quarter. ( Applicati",
+  "tags": [
+    "Scholarship",
+    "Wards",
+    "Widow",
+    "Central Police Force",
+    "Ex-servicemen",
+    "CPF"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

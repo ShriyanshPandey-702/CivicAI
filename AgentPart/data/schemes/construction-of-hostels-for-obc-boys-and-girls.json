@@ -1,0 +1,48 @@
+{
+  "id": "construction-of-hostels-for-ob-0628",
+  "name": "Construction of Hostels for OBC Boys and Girls",
+  "slug": "construction-of-hostels-for-obc-boys-and-girls",
+  "ministry": "",
+  "category": "housing",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 350000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "1. The cost per hostel seat in different areas under the scheme are as follows:- North Eastern Region: ₹3.50 lakh per seat Himalayan Regions: ₹3.25 lakh per seat Rest of country: ₹3.00 lakh per seat (OR) as per the schedule of the rates for the concerned State Government, whichever is lower. 2. Ther",
+  "details": "The scheme “Construction of Hostels for OBC Boys and Girls” is a Centrally Sponsored Scheme launched by the Department of Social Justice & Empowerment, Ministry of Social Justice & Empowerment in 1998-99 to address the problem of educational backwardness of OBCs. The Scheme was initiated with a view to facilitate continuation of education by students belonging to OBCs, especially those hailing from rural and remote areas and from poor families. Objective: The scheme aims at providing hostel faci",
+  "eligibility_text": "Agencies eligible for financial assistance under the Scheme will be as follows: State Governments and UT Administrations. Institutions or organizations set up by the Central Government as autonomous bodies under a statute (e.g. Central Universities, IIT, NIT, etc.). Location and Capacity of Hostels to be constructed under the Scheme: 1.\tWhile sanctioning hostels, priority will be given to: (i)\tReg",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1-2 years",
+      "field": "age",
+      "min": 1,
+      "max": 2
+    },
+    {
+      "criterion": "Must belong to OBC category",
+      "field": "caste",
+      "values": [
+        "obc",
+        "sc",
+        "st"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 1: Eligible agencies seeking assistance under the scheme may download the proposal format prescribed in Annexure-I of the official scheme document. Step 2: Complete the form and submit it along w",
+  "tags": [
+    "Construction Of Hostels",
+    "OBC",
+    "Central Universities",
+    "Funding For Construction"
+  ],
+  "scheme_category_raw": "Housing & Shelter"
+}

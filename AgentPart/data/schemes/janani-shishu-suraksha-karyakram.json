@@ -1,0 +1,35 @@
+{
+  "id": "janani-shishu-suraksha-karyakr-1574",
+  "name": "Janani Shishu Suraksha Karyakram",
+  "slug": "janani-shishu-suraksha-karyakram",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "For pregnant women- Free and cashless delivery Free C-Section Free drugs and consumables Free diagnostics Free diet during stay in the health institutions Free provision of blood Exemption from user charges Free transport from home to health institutions Free transport between facilities in case of",
+  "details": "A scheme by Ministry of MoHFW for pregnant women who access government health facilities for their delivery. to absolutely free and no expense delivery, including caesarean section. Essential care is provided to the mother and her neonate within 48 hours. Reasons like high out of pocket expenditure ondiagnostics/investigations, blood, drugs, food and user charges institutional delivery JSSK was launched in June 2011 to eliminate out-of-pocket expenses for institutional delivery of pregnant women",
+  "eligibility_text": "The applicant must be a pregnant woman. The applicant must be admitted in a government health facility.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof",
+    "ration_card"
+  ],
+  "application_url": "The pregnant woman is referred by the competent staff of the public health facility for JSSK.",
+  "tags": [
+    "Pregnant",
+    "Newborn",
+    "Medicine",
+    "Free Diet",
+    "Woman"
+  ],
+  "scheme_category_raw": "Health & Wellness, Women and Child"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "scheme-for-adolescent-girls-2698",
+  "name": "Scheme For Adolescent Girls",
+  "slug": "scheme-for-adolescent-girls",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 9,
+  "benefit_frequency": "annual",
+  "benefit_description": "Nutrition Component: Take Home Ration or Hot Cooked Meal for out of school girls - Nutrition Provision ₹ 9.50 per day (600 calories; 18‐20 gram of protein and recommended daily intake of micronutrients per day for 300 days in a year.). The financial norms will be ₹ 9.5/- per beneficiary per day for",
+  "details": "A support scheme by Ministry of Women & Child Development enabling self-development and empowerment of out-of-school adolescent girls, and improving their nutritional, health & hygiene  status. ﻿ The scheme aims at supporting out of school AGs to successfully transition back to formal schooling or bridge learning / skill training. Upgrade their home-based skills and life skills. Provide information/guidance about existing public services such as Primary Health Centers, Rural Hospitals/CHCs, Post",
+  "eligibility_text": "The applicant must be a FEMALE . The age of the applicant must be between 11 and 14 years .",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 11-14 years",
+      "field": "age",
+      "min": 11,
+      "max": 14
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "birth_cert"
+  ],
+  "application_url": "The out-of-school adolescent girls (11 - 14 years age) are identified by the State / UT through a Base Line Survey, a one-time activity carried out by the Anganwadi Workers (AWW) who should go from ho",
+  "tags": [
+    "Female",
+    "Health",
+    "Medicine",
+    "Free Meal",
+    "Nutrition",
+    "Youth",
+    "Empowerment"
+  ],
+  "scheme_category_raw": "Health & Wellness, Social welfare & Empowerment, Women and Child"
+}

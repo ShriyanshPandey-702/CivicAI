@@ -1,0 +1,38 @@
+{
+  "id": "loan-based-scheme-for-pay-and--1736",
+  "name": "Loan based Scheme for Pay and Use Community Toilets",
+  "slug": "loan-based-scheme-for-pay-and-use-community-toilets",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 2500000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Livelihood: Enables Safai Karamcharis to shift from manual scavenging to a respectable, income-generating sanitation business. Collateral-Free, Low-Interest Loan: Offers up to ₹25 lakh without collateral, at just 4% interest (even lower for women and timely repayment). Moratorium period: Six Months",
+  "details": "The Pay and Use Community Toilets Scheme was  launched by the Ministry of Social Justice and Empowerment, aims to empower Safai Karamcharis and their dependents through livelihood-linked sanitation entrepreneurship. It is a Loan Based Scheme implemented by the National Safai Karamcharis Finance and Development Corporation (NSKFDC). The Loans are extended through Channelizing Agencies (CAs) i.e. State Channelizing Agencies (SCAs), Regional Rural Banks (RRBs) and Public Sector Banks (PSBs) to the",
+  "eligibility_text": "Indian citizens aged 18 years or above are eligible belonging to the category of: Safai Karamcharis Manual scavengers Dependents of the above groups Individual beneficiaries/ self-help groups from the target group of NSKFDC, through State Channelizing Agencies (SCAs), in collaboration with reputed organizations are eligible to apply for the scheme. ﻿ Note: Scavenger/Safai Karamchari and their depe",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-2013 years",
+      "field": "age",
+      "min": 18,
+      "max": 2013
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "birth_cert"
+  ],
+  "application_url": "Loan applications are submitted by the applicants to the district offices of SCAs of NSKFDC of RRBs and Nationalised Banks. These applications are then sent to the head offices where the project propo",
+  "tags": [
+    "Pay And Use Toilets",
+    "Toilet Construction Loan",
+    "Safai Karamchari"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance, Social welfare & Empowerment, Utility & Sanitation"
+}

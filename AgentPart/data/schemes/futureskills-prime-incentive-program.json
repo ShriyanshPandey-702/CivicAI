@@ -1,0 +1,40 @@
+{
+  "id": "futureskills-prime-incentive-p-1156",
+  "name": "FutureSkills Prime Incentive Program",
+  "slug": "futureskills-prime-incentive-program",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 8000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Course Categories and Incentives ﻿ DeepSkilling – Paid Pathway Incentive Threshold: Post successful course completion and certification, the maximum incentive per Deep Skilling course is limited to 50% of the course fee paid by the Subscriber/beneficiary, up to ₹8,000 (inclusive of all applicable ta",
+  "details": "The scheme \"FutureSkills Prime Incentive Program\" is being administered by the MeitY (Ministry of Electronics and Information Technology) to promote a novel skilling ecosystem in the country, the programme/scheme would incentivize the cost of the eligible course(s) concerned, providing authentic and accredited certifications that are acceptable in the industry. FutureSkills Prime has introduced a first-of-its-kind incentive program for digital upskilling. The learners can upskill in 10 of the mo",
+  "eligibility_text": "The applicant should be a citizen of India. The incentive program is open to all Indian citizens, regardless of their age, educational qualification, or income level. The incentive can be availed for all courses offered on the FutureSkills Prime platform, except for free courses. The incentive can be availed only once for each course. ﻿ Eligibility Criteria based on the Course Categories ﻿ DeepSki",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 180-1 years",
+      "field": "age",
+      "min": 180,
+      "max": 1
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Step 1: Create Account Visit the Official Website of FutureSkills Prime. Click on the \" Sign Up \" button. Enter your name, email address, and phone number. Create a password and click on the \"Create A",
+  "tags": [
+    "Skill",
+    "Training",
+    "Learning",
+    "Education",
+    "Course"
+  ],
+  "scheme_category_raw": "Education & Learning, Skills & Employment"
+}

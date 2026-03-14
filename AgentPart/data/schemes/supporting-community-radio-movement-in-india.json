@@ -1,0 +1,31 @@
+{
+  "id": "supporting-community-radio-mov-3111",
+  "name": "Supporting Community Radio Movement in India",
+  "slug": "supporting-community-radio-movement-in-india",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "one_time",
+  "benefit_description": "The Scheme encourages more and more Community Based organisations to come forward and setup Community Radios in larger public interests. Financial assistance is provided once the CRS is made operational by Licensee.",
+  "details": "Community Radio is a form of local broadcasting that focuses on the needs and interests of a community. The Community Radio is an important third tier in Radio Broadcasting, distinct from Akashwani and Private FM Radio. The Community Radio is built on the principles of access, participation and the ability to represent one’s voice. It provides a platform to communities to air their voices on issues concerning their lives. The Community Radios are essentially low power FM Radio stations (having a",
+  "eligibility_text": "An organisation desirous of operating a Community Radio Station (CRS) must be able to satisfy and adhere to the following principles: It should be explicitly constituted as a ‘non-profit’ organisation and should have a proven record of at least three years of service to the local community; The CRS to be operated by it should be designed to serve a specific well defined local community; It should",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "pan_card"
+  ],
+  "application_url": "For Registration and for apply Visit the official poral . Follow the required instruction. ﻿",
+  "tags": [
+    "Community Radio Stations",
+    "NGOs Operating CRS",
+    "Educational Institutions Operating CRS"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

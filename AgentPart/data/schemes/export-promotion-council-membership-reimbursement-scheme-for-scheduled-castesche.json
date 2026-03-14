@@ -1,0 +1,40 @@
+{
+  "id": "export-promotion-council-membe-0912",
+  "name": "Export Promotion Council Membership Reimbursement Scheme for Scheduled Caste/Scheduled Tribe",
+  "slug": "export-promotion-council-membership-reimbursement-scheme-for-scheduled-castesche",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 20000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Reimbursement of 80% or ₹ 20,000/- (excluding GST and other applicable taxes), whichever is less, in a financial year to SC/ST MSEs on annual membership subscription fee / one time subscription charges / entry fee charged by various Export Promotion Councils (EPC). ﻿",
+  "details": "Launched by the Ministry Of Micro, Small & Medium Enterprises, Export Promotion Council Membership Reimbursement Scheme is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme. Under this scheme, reimbursement will be provided to an Scheduled Caste (SC)/Scheduled Tribe (ST) Micro & small enterprises(MSEs), on annual membership subscription fee/one-time subscription charges/entry fee charged by various Export Promotion Councils (EPC). ﻿",
+  "eligibility_text": "Applicant should belong to Scheduled Caste(SC)/Scheduled Tribe (ST) category. He/She should represent any Micro and Small Enterprises (MSEs). ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "caste_cert",
+    "pan_card"
+  ],
+  "application_url": "Registration Process: Step 01: Visit https://www.scsthub.in/nssh-schemes/. ﻿ Step 02: From the scheme list select “ Export Promotion Council Membership Fee Reimbursement Scheme ” by clicking on it. St",
+  "tags": [
+    "Reimbursement",
+    "Subscription Fee",
+    "Membership Fee",
+    "Financial Assistance",
+    "Scheduled Caste",
+    "Scheduled Tribe",
+    "Business & Entrepreneurship"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

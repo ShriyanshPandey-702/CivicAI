@@ -1,0 +1,45 @@
+{
+  "id": "national-scheme-of-incentive-t-2182",
+  "name": "National Scheme Of Incentive To Girls For Secondary Education",
+  "slug": "national-scheme-of-incentive-to-girls-for-secondary-education",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3000,
+  "benefit_frequency": "annual",
+  "benefit_description": "A sum of ₹3000/- (Rupees three thousand only) would be deposited under term deposit/ fixed deposit in a public sector bank or in a post office in the name of every eligible girl child. The term/ period of the deposit may be counted from the date of deposit to the date on which the girl child attains",
+  "details": "The National Scheme of Incentive to Girls for Secondary Education promotes the girl child's enrolment of 14-18 years age group at secondary stage, who passes class 8th and subsequently drops out for various socio-economic reasons. The proposed scheme is further intended to retain such girl children up to class 12th. In the year 2004-05, the dropout rate of girls from classes 1st to 8th was about 50.8%. For classes 1st to 10th the dropout rate of girls was about 64% in the same year. Hence, only",
+  "eligibility_text": "1.  The applicant should be a girl child. 2.  The applicant should be from Scheduled Caste / Scheduled Tribe SC/ST 3.  The applicant should have passed class 8th from Kasturba Gandhi Balika Vidhalayas (irrespective of whether they belong to Scheduled Castes or Tribes) 4.  The applicant should have enrolled for class 9th in State/UT Government, Government-aided, or local body schools in the academi",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "address_proof",
+    "disability_cert"
+  ],
+  "application_url": "New Registration : Step 1: Visit the Registration page of the National Scholarships Portal. Step 2: Guidelines for Registration will appear. Scroll to the bottom. Read carefully the undertaking. Accep",
+  "tags": [
+    "Incentive",
+    "Education",
+    "Girl Child",
+    "Pre-Matric"
+  ],
+  "scheme_category_raw": "Education & Learning, Women and Child"
+}

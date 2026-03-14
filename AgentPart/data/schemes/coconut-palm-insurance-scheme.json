@@ -1,0 +1,40 @@
+{
+  "id": "coconut-palm-insurance-scheme-0597",
+  "name": "Coconut Palm Insurance Scheme",
+  "slug": "coconut-palm-insurance-scheme",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 9,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Sum Insured & Premium : Under this scheme, 50% of the premium is borne by the Board and balance is shared between the State Government and Farmers @ 25% each, as below: Age group of Palms Premium per plant/year Board’s Share (50%) State Govt. Share (25%) Farmer’s Share (25%) Sum insured per palm 4-1",
+  "details": "The “Coconut Palm Insurance Scheme (CPIS)” is being implemented by the Coconut Development Board, Ministry of Agriculture and Farmers Welfare, Government of India, with the objective of insuring coconut palms against natural calamities, climatic risks, pests, diseases, and other perils. Under this scheme, all healthy nut-bearing coconut palms in the age group of 4 years to 60 years in a contiguous area (mono/mixed) can be insured against natural perils leading to death/loss of palm/becoming unpr",
+  "eligibility_text": "Eligibility criteria: As per the Scheme, individual farmers/growers offering at least 5 healthy nuts-bearing palms for insurance in specified age groups, (4-60 years for dwarf, hybrid, and 7-60 years for tall) contiguous area/plots will be eligible for insurance. Note 01: Insurance is for individual palms and not area-based. Note 02: Partial insurance of the plantation is not allowed. Note 03: A m",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 4-60 years",
+      "field": "age",
+      "min": 4,
+      "max": 60
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "land_record",
+    "bank_passbook"
+  ],
+  "application_url": "Application Process: Farmers/growers desiring insurance may directly contact representatives/authorized agents of the Insurance Company or may contact the nearest office of the Agriculture/Horticultur",
+  "tags": [
+    "Coconut",
+    "Palm",
+    "Insurance",
+    "Farmer",
+    "Coconut Grower"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment, Banking,Financial Services and Insurance"
+}

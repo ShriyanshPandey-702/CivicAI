@@ -1,0 +1,46 @@
+{
+  "id": "post-doctoral-fellowship-to-wo-2376",
+  "name": "Post Doctoral Fellowship To Women Candidates",
+  "slug": "post-doctoral-fellowship-to-women-candidates",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 38800,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The financial assistance available under the scheme is as follows: The fellowship under the scheme is @ ₹38,800/- per month for fresh candidates. The fellowship under the scheme is @ ₹46,500/- per month after two years. An annual contingency of ₹50,000/- will be given to the eligible student for fiv",
+  "details": "The UGC has initiated a scheme of “Post Doctoral Fellowship for Women” to those candidates, who are unemployed holding Ph.D. degrees in their respective subject areas with an aim to accelerate the talented instincts of the women candidates to carry out the advanced studies and research. The total duration of the fellowship is five years with no provision for further extension. The number of slots available under the scheme is 100 per year. Objective:  The objective of this award is to provide an",
+  "eligibility_text": "The candidate should be unemployed. The candidates must have been awarded the Ph.D. degree to be eligible to apply (Provisional Certificate may be accepted in case the degree is not awarded). The candidate should be 55 years of age as of the last date of submission of the online application. There shall be age relaxation for SC/ST/OBC/PWD (Persons with Disabilities for 5 years. In the case of the",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 5-60 years",
+      "field": "age",
+      "min": 5,
+      "max": 60
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "disability_cert"
+  ],
+  "application_url": "Application Process: Applications are invited through online mode once in a year through advertisement in leading newspapers & employment news. Short notification is also uploaded in the UGC website .",
+  "tags": [
+    "Post Doctoral",
+    "Fellowship",
+    "Woman",
+    "UGC"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

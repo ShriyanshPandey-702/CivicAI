@@ -1,0 +1,35 @@
+{
+  "id": "rajbhasha-gaurav-puraskar-sche-2540",
+  "name": "Rajbhasha Gaurav Puraskar Scheme for writing original book in Hindi",
+  "slug": "rajbhasha-gaurav-puraskar-scheme-for-writing-original-book-in-hindi",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 200000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Award Scheme Summary: A.\tRajbhasha Gaurav Puraskar for writing original book in Hindi on knowledge and science based subjects: First Prize: ₹2,00,000/-, a certificate and a memento Second Prize: ₹1,25,000/-, a certificate and a memento Third Prize: ₹75,000/-, a certificate and a memento B.\tRajbhasha",
+  "details": "The scheme “Rajbhasha Gaurav Puraskar Scheme for Writing Original Book in Hindi” was launched by the Department of Official Language, Ministry of Home Affairs, Government of India with an objective to encourage writing books originally in Hindi and to promote Official Language. Under the scheme, the citizens of India will be awarded as follows:- Rajbhasha Gaurav Puraskar for writing original book in Hindi on knowledge and science-based subjects. Rajbhasha Gaurav Puraskar for writing original boo",
+  "eligibility_text": "The author/co-author should be a citizen of India. The book should be written in the genres mentioned as follows:- Engineering, Electronics, Computer Science, Physics, Biology, Energy, Space Science, Medicine, Chemistry, Information Technology, Management, Psychology, etc; Contemporary subjects such as Liberalisation, Globalisation, Consumerism, Human Rights and Pollution etc. Forensic Science, Po",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1-31 years",
+      "field": "age",
+      "min": 1,
+      "max": 31
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Procedure for sending the entries: Step 01: The applicants need to visit the official website of the department and download the application proforma . Step 02: Fill out the author entry proforma with",
+  "tags": [
+    "Rajbhasha",
+    "Puraskar",
+    "Hindi",
+    "Official Language",
+    "Award"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

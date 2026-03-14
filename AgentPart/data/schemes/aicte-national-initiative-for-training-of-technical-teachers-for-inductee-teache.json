@@ -1,0 +1,33 @@
+{
+  "id": "aicte-national-initiative-for--0122",
+  "name": "AICTE-National Initiative for Training of Technical Teachers (for Inductee Teachers) Scheme",
+  "slug": "aicte-national-initiative-for-training-of-technical-teachers-for-inductee-teache",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Training: Inductee Teachers will get training in three phases. Certification: Only after successful completion of all the three phases, a final training completion certificate shall be issued to the Inductee Teacher.",
+  "details": "In order to train the Inductee Teachers in AICTE approved / recognised institutions, this National Initiative for Technical Teachers Training (for Inductee Teachers) has been launched in 2020. It imparts training to the Inductee Teachers in three phases. The first phase of the training programme for the Inductee Teachers shall be conducted in Massive Open Online Courses (MOOCs) mode for eight modules on the SWAYAM platform through the NITTT portal followed by one-month industrial internship (sec",
+  "eligibility_text": "All the teachers working in technical institutions/universities imparting technical education (as defined in Section 2(h) of AICTE Act 1987). ﻿ Programmes should be recognised by AICTE.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 01: Participant need to visit: https://www.nittt.ac.in/nittt/index.php/site/register.html ﻿ Step 02: Click on Participant Corner , then select Participant Register . Step 03: On the next page, en",
+  "tags": [
+    "Training",
+    "Technical Education",
+    "Pedagogy Modules",
+    "Inductee Teacher"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-ollama
+langgraph
+langchain-community
+supabase
+pytesseract
+Pillow
+fpdf2
+playwright
+python-dotenv
+ollama
+numpy
+requests
+python-multipart

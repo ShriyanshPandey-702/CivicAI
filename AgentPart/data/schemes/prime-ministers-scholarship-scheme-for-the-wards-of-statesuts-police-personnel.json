@@ -1,0 +1,35 @@
+{
+  "id": "prime-ministers-scholarship-sc-2486",
+  "name": "Prime Minister’s Scholarship Scheme for the Wards of States/UTs Police Personnel",
+  "slug": "prime-ministers-scholarship-scheme-for-the-wards-of-statesuts-police-personnel",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The benefits under the scheme is a follows: Amount of Scholarship: •\t₹3,000/- per month for girls. •\t₹2,500/- per month for boys Note: The above scholarship amount is to be paid annually after selection @ ₹36,000/- to each girl & ₹30,000/- to each boy. Duration of Scholarship: Up to 5 years (dependi",
+  "details": "The “Prime Minister’s Scholarship Scheme (PMSS) for the Wards of States/UTs Police Personnel” is a scholarship scheme which was introduced by the Ministry of Home Affairs, Government of India during the academic session 2019-20 to encourage higher technical & professional education for the dependent wards of States/UTs Police Personnel who are martyred during Terror/Naxal attacks. Number of Scholarship: A total of 500 scholarships will be given to the wards of State Police Personnel who are mart",
+  "eligibility_text": "Dependent wards of States/UTs Police Personnel who are martyred during Terror/Naxal attacks are eligible under this category subject to the following:- Pursuing first professional degree programme in the field of Engineering, Medicine, Dental, Veterinary, BBA, BCA, B. Pharma, B.SC (Nursing, Agriculture, etc.), MBA and MCA, etc. in accordance with the guidelines as mentioned in Para- 8 (B). Having",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "disability_cert"
+  ],
+  "application_url": "Online submission for the scholarship can be done through the website of the National Scholarship Portal with the required documents:  https://scholarships.gov.in/ ﻿ Registration for New Applicant Ste",
+  "tags": [
+    "Wards",
+    "Police Personnel",
+    "Scholarship",
+    "Higher Technical",
+    "Professional Education"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

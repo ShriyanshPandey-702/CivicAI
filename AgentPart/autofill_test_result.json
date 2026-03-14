@@ -1,0 +1,10 @@
+{
+  "success": false,
+  "error": "CAPTCHA or OTP detected. Please complete this step manually.",
+  "captcha_detected": true,
+  "screenshot_url": "/api/screenshots/test_citizen_pm-kisan_1773476286.png",
+  "manual_url": "https://pmkisan.gov.in",
+  "fields_filled": [],
+  "fields_skipped": [],
+  "portal_url": "https://pmkisan.gov.in"
+}

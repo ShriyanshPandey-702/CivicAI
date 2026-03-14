@@ -1,0 +1,41 @@
+{
+  "id": "startup-india-seed-fund-scheme-3012",
+  "name": "Startup India Seed Fund Scheme- For Startups",
+  "slug": "startup-india-seed-fund-scheme-for-startups",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 2000000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Seed Funds to an eligible startup by the incubator shall be disbursed as follows: Up to ₹20 Lakhs as a grant for validation of Proof of Concept, prototype development, or product trials. The grant shall be disbursed in milestone-based installments. These milestones can be related to the development",
+  "details": "The scheme “Startup India Seed Fund Scheme (SISFS)” was launched by the Department for Promotion of Industry and Internal Trade (DPIIT) on 19th April 2021 with an outlay of INR 945 Crore to provide financial assistance to startups for Proof of Concept, prototype development, product trials, market-entry, and commercialization. Eligible startups can apply for the scheme on the Startup India portal. The Seed Fund will be disbursed to selected startups through eligible incubators across India. Obje",
+  "eligibility_text": "The eligibility criteria for a startup to apply under the Startup India Seed Fund Scheme shall be as follows: A startup, recognized by DPIIT, incorporated not more than 2 years ago at the time of application. Startups must have a business idea to develop a product or a service with market fit, viable commercialization, and scope of scaling. A startup should be using technology in its core product",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 10-51 years",
+      "field": "age",
+      "min": 10,
+      "max": 51
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "pan_card"
+  ],
+  "application_url": "Application Procedure: Step 01: An online call for applications shall be hosted on an ongoing basis on the Startup India portal. Step 02: The DPIIT-recognized startup can apply through the official St",
+  "tags": [
+    "Startup",
+    "Seed Fund",
+    "Financial Assistance",
+    "Incubator",
+    "Grant"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

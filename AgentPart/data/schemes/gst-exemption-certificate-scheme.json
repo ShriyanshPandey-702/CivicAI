@@ -1,0 +1,36 @@
+{
+  "id": "gst-exemption-certificate-sche-1159",
+  "name": "GST Exemption Certificate Scheme",
+  "slug": "gst-exemption-certificate-scheme",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "one_time",
+  "benefit_description": "A concession of 10% on GST can be availed through this certificate and zero cess would be applicable. A person availing of this certificate will have to pay 18% GST & no cess instead of 28% GST & applicable cess on the purchase of a car. The certificate is issued within a month of receipt of the app",
+  "details": "The \"GST Exemption Certificate Scheme\" has been introduced by the Department of Heavy Industries, Ministry of Heavy Industries for issuing certificates to Persons with Disabilities (PwDs) having a disability percentage equal to or greater than 40%. The scheme provides GSC Concession to orthopedically disabled persons on purchase of a car.",
+  "eligibility_text": "Any Orthopedic Physically handicapped person having a permanent disability of 40% & above can apply for the benefit under the scheme, irrespective of whether the applicant drives the vehicle himself or otherwise. Cars (automatic or manual) having a length less than or equal to 4m and engine capacity of not more than 1200 cc (petrol, Liquefied Petroleum Gases (LPG) or compressed natural gas (CNG) o",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "disability_cert",
+    "pan_card"
+  ],
+  "application_url": "Interested and eligible applicants may send their applications in the prescribed format along with all required documents to the following address: The Under Secretary (AEI Section), Department of Hea",
+  "tags": [
+    "GST",
+    "Person With Disability",
+    "PwD",
+    "Concession",
+    "Certificate",
+    "Car"
+  ],
+  "scheme_category_raw": "Transport & Infrastructure, Social welfare & Empowerment, Utility & Sanitation"
+}

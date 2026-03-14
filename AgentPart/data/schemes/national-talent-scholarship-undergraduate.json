@@ -1,0 +1,32 @@
+{
+  "id": "national-talent-scholarship-un-2191",
+  "name": "National Talent Scholarship Undergraduate",
+  "slug": "national-talent-scholarship-undergraduate",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 2000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The value of the scholarship shall be ₹ 2,000/- per month to undergraduate (Bachelor's degree) students.",
+  "details": "National Talent Scholarship (NTS) was launched by the Indian Council of Agricultural Research for students pursuing a Bachelor's program in an ICAR-recognized agricultural university located outside of his/her state of domicile and duly funded under the planning scheme “Strengthening and Development of Higher Agricultural Education in India\" of the Education Division of the ICAR. The amount of the scholarship is ₹ 2,000/- per month for Bachelor's (Under Graduate). The scholarship will be awarded",
+  "eligibility_text": "1.  The applicant should be a student pursuing a Bachelors's from an Agricultural University recognized by ICAR, located outside his/her state of domicile. 2.  The applicant should be admitted into the university through the All India Entrance Examination (AIEE). 3.  The university should be duly funded under \"Strengthening and Development of Higher Agricultural Education in India\" of the Educatio",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "address_proof"
+  ],
+  "application_url": "Application Forms can only be submitted online mode on the website https://icar.nta.ac.in. The Application Form other than online mode will not be accepted.",
+  "tags": [
+    "Student",
+    "Scholarship",
+    "Agriculture",
+    "Education"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

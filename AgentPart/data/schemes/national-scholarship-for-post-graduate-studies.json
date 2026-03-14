@@ -1,0 +1,32 @@
+{
+  "id": "national-scholarship-for-post--2185",
+  "name": "National Scholarship For Post Graduate Studies",
+  "slug": "national-scholarship-for-post-graduate-studies",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 15000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Scholarships of Rs.15,000/- per month for 10 months in a year.",
+  "details": "The National Scholarship for Post-Graduate Studies (NSPG) scheme was established by the Ministry of Education, Government of India. The scheme was initially launched with the aim of providing financial assistance to meritorious students from economically weaker sections of society to pursue postgraduate studies in India.",
+  "eligibility_text": "Applicant must be pursuing first postgraduate degree. Applicant who have already completed a postgraduate degree are not eligible to apply. Applicant must be enrolled in first year of postgraduate program. Applicant must be under 30 years old. Applicant must be enrolled in full-time program. Applicant must be pursuing recognized postgraduate degree program.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "pan_card"
+  ],
+  "application_url": "Registration for New Applicant Open the official NSP website and click on New Registration under Applicant Corner. Read the Instruction /Guidelines, provide the under taking by click on Check box and ",
+  "tags": [
+    "Scholarship",
+    "Education",
+    "Student Finance"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

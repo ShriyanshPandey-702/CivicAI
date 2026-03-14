@@ -1,0 +1,43 @@
+{
+  "id": "scheme-for-award-of-financial--2700",
+  "name": "Scheme For Award Of Financial Assistance For Education To The Wards Of Beedi/Cine/IOMC/LSDM Workers – Pre & Post-Matric",
+  "slug": "scheme-for-award-of-financial-assistance-for-education-to-the-wards-of-beedicine",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Quantum of Financial Assistance to be paid to Eligible Students (₹/Annum) w.e.f. AY 2022-23): Class 1st to 4th (for purchase of dress/books etc.): 1000 Class 5th to 8th: 1500 Class 9th & 10th: 2000 Class 11th & 12th: 3000 Industrial Training Institute (ITI): 6000 Polytechnic: 6000 Degree Courses (in",
+  "details": "A scholarship scheme by the Directorate of Social Welfare, Ministry of Labour and Employment wherein financial assistance for education is provided to the Wards of Beedi/Iron Ore Mines, Manganese Ore & Chrome Ore Mines (IOMC)/Limestone Mines, Dolomite Mines (LSDM)/Mica Mines and Cine Workers, varying from ₹1,000/- to ₹25,000/- per student per annum. The benefits under the scheme are being transferred through the DBT system and the applications under this scheme are invited and processed through",
+  "eligibility_text": "Candidates for the award of scholarships should have taken regular admission for studies at recognized institutions in India in any course of general or technical education, including medical, engineering, and agricultural studies. The total monthly Income of the Worker’s family from all sources should not exceed under:- Beedi Workers - ₹10,000/-; Mine Workers – a)   The Mineworkers doing manual,",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 10-8 years",
+      "field": "age",
+      "min": 10,
+      "max": 8
+    },
+    {
+      "criterion": "Annual income below ₹10,000",
+      "field": "income",
+      "max": 10000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "income_cert",
+    "bank_passbook"
+  ],
+  "application_url": "Step 1: Keep ready the soft copies of the required documents. Go to http://www.scholarships.gov.in/. and click “New Registration”. Guidelines for Registration will appear. Scroll to the bottom. Read c",
+  "tags": [
+    "Student",
+    "Scholarship",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Skills & Employment, Education & Learning, Social welfare & Empowerment"
+}

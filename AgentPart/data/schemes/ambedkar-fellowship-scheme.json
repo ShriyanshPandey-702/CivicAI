@@ -1,0 +1,57 @@
+{
+  "id": "ambedkar-fellowship-scheme-0225",
+  "name": "Ambedkar Fellowship Scheme",
+  "slug": "ambedkar-fellowship-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "State",
+  "state": "Rajasthan",
+  "benefit_amount": 15000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Financial Assistance: Selected Ph.D. candidates receive a monthly fellowship of ₹15,000 for up to three years. Mode of Disbursement: The fellowship amount is directly transferred to the student's bank account by cheque or DD. Duration : The fellowship continues for a maximum duration of 3 years, sub",
+  "details": "The \"Ambedkar Fellowship Scheme\" was launched by the Social Justice and Empowerment Department, Government of Rajasthan, with the objective of providing financial assistance to meritorious students from the Scheduled Caste category for research at the Ph.D. level. In the first phase, six students will benefit annually from the scheme. Under this scheme, selected students will receive a monthly fellowship grant to support their research in specific subjects, including Sociology, Public Administra",
+  "eligibility_text": "The applicant should be a native of Rajasthan. The applicant should belong to the Scheduled Caste (SC) category. The applicant should have completed a postgraduate degree with at least 55% marks. The applicant should be below 35 years of age at the time of application. The applicant's annual family income should not exceed ₹2,50,000/- from all sources. Priority is given to candidates enrolled in c",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 2-10 years",
+      "field": "age",
+      "min": 2,
+      "max": 10
+    },
+    {
+      "criterion": "Annual income below ₹250,000",
+      "field": "income",
+      "max": 250000
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Step 1: Fill Out the Application Form The applicant must fill out the prescribed application form released by the Rajasthan Government. Ensure that all personal, educational, and bank details are corr",
+  "tags": [
+    "Student",
+    "Fellowship",
+    "PhD",
+    "Scheduled Caste",
+    "SC"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "post-graduate-indira-gandhi-sc-2378",
+  "name": "Post Graduate Indira Gandhi Scholarship For Single Girl Child",
+  "slug": "post-graduate-indira-gandhi-scholarship-for-single-girl-child",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 36200,
+  "benefit_frequency": "annual",
+  "benefit_description": "Nature of Assistance Available Under the Scheme Amount of fellowship: ₹36,200/- per annum for a period of two years only i.e. full duration of a PG course. 3,000 fresh scholarships will be awarded every year and will be paid on DBT mode on annual basis. ﻿ Note No other additional grant will be payab",
+  "details": "A scholarship scheme by the University Grants Commission for Girl students who are admitted in the first year of PG courses in any designated university or a postgraduate college, and happen to be the only girl child in the family. The amount of fellowship is ₹ 36,200/- p.a. for the full duration of a PG course. The scheme has been introduced with an aim to compensate direct costs of girl education at all levels, especially for such girls who happen to be the only girl child in their families. ﻿",
+  "eligibility_text": "1. The applicant must be a citizen of India. 2. The applicant must be the only girl child in the family. 3. Girl students without having any brothers or the girl student who are twin daughters/ fraternal daughters may also apply 4. The age of the applicant should not be more than 30 years at the time of admission in the first year of PG course. 5. The applicant must have taken admission to regular",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 30-6 years",
+      "field": "age",
+      "min": 30,
+      "max": 6
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "birth_cert"
+  ],
+  "application_url": "Procedure for Applying Step-1: The candidates fulfilling the eligibility conditions are required to apply online on the National Scholarship Portal after initiation of the application process and noti",
+  "tags": [
+    "Scholarship",
+    "Girl Child"
+  ],
+  "scheme_category_raw": "Education & Learning, Women and Child"
+}

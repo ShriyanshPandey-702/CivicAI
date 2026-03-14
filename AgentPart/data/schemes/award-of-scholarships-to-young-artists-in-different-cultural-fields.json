@@ -1,0 +1,42 @@
+{
+  "id": "award-of-scholarships-to-young-0333",
+  "name": "Award Of Scholarships To Young Artists In Different Cultural Fields",
+  "slug": "award-of-scholarships-to-young-artists-in-different-cultural-fields",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 5000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Under the scheme, total number of scholarships is 400. Each scholar will be paid ₹5000/- per month for a period of two years to cover his/ her living expenses on travel, books, art material, or other equipment and tuition or training charges, if any. The scholarships are provided in the field of Ind",
+  "details": "The scheme “Award of Scholarships to Young Artists in Different Cultural Fields” was launched by the Ministry of Culture, Government of India. This scheme seeks to give assistance to young artists of outstanding promise for advanced training within India in the field of Indian Classical Music, Indian Classical Dance, Theatre, Mime, Visual art, Folk, Traditional and Indigenous Arts, and Light Classical Music. Subjects/Fields in which Scholarships can be awarded: Indian Classical Music - Classical",
+  "eligibility_text": "Candidates should be Indian Nationals. Candidates should have adequate general education to pursue their training effectively. Candidates must give evidence of their desire to make the pursuit of their training effectively. As the scholarships are meant for advanced training and not for beginners, candidates must have already acquired a degree of proficiency in the chosen field. The candidate shou",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-25 years",
+      "field": "age",
+      "min": 18,
+      "max": 25
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "caste_cert",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Application Process: Step 01: An advertisement inviting applications will be issued by the Centre for Cultural Resources and Training (CCRT), New Delhi. Step 02: Applicants are required to submit onli",
+  "tags": [
+    "Scholarship",
+    "Young Artists",
+    "Culture",
+    "Advanced Training",
+    "Music",
+    "Dance"
+  ],
+  "scheme_category_raw": "Sports & Culture, Education & Learning"
+}

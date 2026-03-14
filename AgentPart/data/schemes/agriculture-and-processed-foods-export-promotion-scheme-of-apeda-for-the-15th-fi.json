@@ -1,0 +1,52 @@
+{
+  "id": "agriculture-and-processed-food-0207",
+  "name": "Agriculture And Processed Foods Export Promotion Scheme Of APEDA For The 15th Finance Commission Cycle (2021-22 To 2025-26)",
+  "slug": "agriculture-and-processed-foods-export-promotion-scheme-of-apeda-for-the-15th-fi",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 20000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Development of Export Infrastructure: Assistance for the Establishment of Processing and Supply Chain Infrastructure: Benefits: 1. The assistance will be up to 40% subject to a ceiling of ₹200 lakhs. 2. The assistance will be up to 90% of the approved cost subject as in the case of assistance under",
+  "details": "The Financial Assistance Scheme (FAS) is an export promotion scheme run by APEDA. APEDA is an export promotion body under the Ministry of Commerce and Industry for the promotion of Agricultural and Processed Food Products. The scheme has been open and implemented for the period of 2021-22 to 2025-26.  The scheme aims to facilitate the export of agri-products by providing assistance to exporters. It achieves its objective through the following: Understanding the several challenges faced by agri-e",
+  "eligibility_text": "1. APEDA registered Exporters are eligible to apply for assistance under 1(a)-(e) Central and state government institutions and public sector enterprises are eligible to apply for assistance under 1(f), as per Operational Guidelines of APEDA. 2. Assistance will be applicable for all APEDA scheduled products. 3. The date of submission of the online application in APEDA shall be considered as the da",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 10-30 years",
+      "field": "age",
+      "min": 10,
+      "max": 30
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "1. For Govt., PSU, and Others: Online application ﻿ https://itrack.apeda.gov.in/onlineregistration/fasonlinereg.aspx   2. For Exporters: Online application ﻿ https://itrack.apeda.gov.in/default.aspx?U",
+  "tags": [
+    "Agriculture",
+    "Processed Food",
+    "Export Promotion",
+    "APEDA",
+    "Export Infrastructure",
+    "Quality Development",
+    "Market Development",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

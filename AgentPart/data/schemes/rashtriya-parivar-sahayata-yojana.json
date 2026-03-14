@@ -1,0 +1,41 @@
+{
+  "id": "rashtriya-parivar-sahayata-yoj-2559",
+  "name": "Rashtriya Parivar Sahayata Yojana",
+  "slug": "rashtriya-parivar-sahayata-yojana",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 20000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Eligible applicants are entitled to a lump sum grant of Rs. 20,000/",
+  "details": "Under the National Social Assistance Program (NFBS) by the Government of India, Ministry of Rural Development, Department of Rural Development, such members of the families living below the poverty line whose natural/unnatural death, for the purpose of providing social security to the victim's family Financial aid is provided. The implementation and operation of the scheme is being done by the Government of Madhya Pradesh, Social Justice and Disabled Welfare Department.",
+  "eligibility_text": "The deceased’s age should be between 18 to 59 years. The deceased should belong to Below Poverty Line. The deceased should be the primary breadwinner of the family.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-59 years",
+      "field": "age",
+      "min": 18,
+      "max": 59
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Applicants have to visit Gram Panchayat/Janpad Panchyat for rural Areas and Nagar Nigam/Nagar Panchayat/Nagar Parishad for urban areas. Applicants have to get the application form and fill out the app",
+  "tags": [
+    "Financial Assistance",
+    "Empowerment",
+    "Social Justice"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "national-post-doctoral-fellows-2178",
+  "name": "National Post Doctoral Fellowship",
+  "slug": "national-post-doctoral-fellowship",
+  "ministry": "",
+  "category": "science",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 55000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The fellows will be entitled to receive the grants as given below: Sl. No. Budget Head Amount 1 Fellowship ₹55,000/- per month (consolidated) and ₹35,000/- per month for candidates who have submitted the thesis but degree not awarded 2 Research Grant ₹2,00,000/- per annum 3 Overheads ₹1,00,000/- per",
+  "details": "The “National Post Doctoral Fellowship (N-PDF)” was launched by the Science and Engineering Research Board, Government of India to identify motivated young researchers and provide them support for doing research in frontier areas of science and engineering. The fellows will work under a mentor, and it is hoped that this training will provide them with a platform to develop as independent researchers. Duration of fellowship: The fellowship is purely a temporary assignment and is tenable for a per",
+  "eligibility_text": "The applicant should be an Indian citizen. The applicant must have obtained PhD/M.D/M.S degree from a recognized University. Those who have submitted their PhD/M.D/M.S. thesis and are awaiting the award of the degree are also eligible to apply. However, such candidates, if selected, will be offered a lower fellowship amount till they qualify for the eligible degree. The upper age limit for the fel",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 35-01 years",
+      "field": "age",
+      "min": 35,
+      "max": 1
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "birth_cert"
+  ],
+  "application_url": "Application Process: Step 01: The call for applications for SERB-N PDF will be notified through the website www.serbonline.in and https://serb.gov.in/ ﻿ Step 02 : The application form along with a res",
+  "tags": [
+    "National",
+    "Post Doctoral",
+    "Fellowship",
+    "Science",
+    "Research",
+    "Fellow"
+  ],
+  "scheme_category_raw": "Science, IT & Communications"
+}

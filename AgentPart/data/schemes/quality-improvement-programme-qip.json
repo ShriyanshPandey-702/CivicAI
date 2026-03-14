@@ -1,0 +1,34 @@
+{
+  "id": "quality-improvement-programme--2524",
+  "name": "Quality Improvement Programme (QIP)",
+  "slug": "quality-improvement-programme-qip",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 9000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Duration Master of Engineering (ME) or Master of Technology (M.Tech) Programs: 2 years, with no provision for an extension. Ph.D. Program: The duration is normally 3 years, and in exceptional cases, it can be extended by 1 year as a special case at the Quality Improvement Programme (QIP) center, but",
+  "details": "The scheme \"Quality Improvement Programme\" was launched by the All India Council for Technical Education (AICTE) in the year 1970. One of its primary objectives is to enhance the expertise and capabilities of faculty members in degree and diploma-level institutions across the country. The program is overseen by the All India Council for Technical Education. In the \"Quality Improvement Programme,\" only sponsored teachers are eligible for admission to both Master's and Doctoral Degree Programs. Th",
+  "eligibility_text": "1. For Master's Degree Program: - Full-time regular/permanent faculty members of AICTE-approved Polytechnic (Diploma) institutes having 1. One year of teaching experience at the polytechnic level. 2. A Bachelor's degree in the appropriate branch. 3. In addition to the above minimum eligibility, the criteria of the respective QIP center must be fulfilled. ﻿ 2. For Ph.D. Program in Engineering/Manag",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1-2 years",
+      "field": "age",
+      "min": 1,
+      "max": 2
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Step 1: Application - Faculty Members of AICTE approved Institutions should visit the Official Website of QIP within the specified dates. Fill out the detailed online application form. Step 2: Eligibi",
+  "tags": [
+    "Faculty",
+    "Scholarship",
+    "Allowance",
+    "Postgraduation",
+    "Direct Benefit Transfer"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "deen-dayal-disabled-rehabilita-0667",
+  "name": "Deen Dayal Disabled Rehabilitation Scheme",
+  "slug": "deen-dayal-disabled-rehabilitation-scheme",
+  "ministry": "",
+  "category": "housing",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "The Deen Dayal Disabled Rehabilitation Scheme (DDRS) provides a wide range of benefits to persons with disabilities, including: Early intervention : The DDRS provides financial assistance to voluntary organizations for early intervention programs for children with disabilities. These programs help t",
+  "details": "The Deen Dayal Disabled Rehabilitation Scheme (DDRS) is a Central Sector Scheme of the Government of India that provides financial assistance to voluntary organizations working for the education and rehabilitation of persons with disabilities. The scheme was launched in 1999 and was revised and renamed in 2003. ﻿ Objective Create an enabling environment to ensure equal opportunities, equity, social justice, and empowerment of persons with disabilities. Encourage voluntary action for ensuring eff",
+  "eligibility_text": "Organizations registered under the Societies Registration Act, 1860, or relevant Act of the State/Union Territory. A public trust that is registered under the law temporarily. A charitable company that is licensed under Section 25 of the Companies Act 1958. The organization must have been in existence for at least two years. The organization must have a properly constituted governing body with its",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "bank_passbook"
+  ],
+  "application_url": "All applications by NGOs seeking Grant-in-aid (GIA) should have register themselves on NGO Darpan portal of NITI Aayog . Get the Unique ID. Now apply through on-line process on the online E-Anudaanpor",
+  "tags": [
+    "Training",
+    "Pre-School",
+    "Special Schools"
+  ],
+  "scheme_category_raw": "Housing & Shelter"
+}

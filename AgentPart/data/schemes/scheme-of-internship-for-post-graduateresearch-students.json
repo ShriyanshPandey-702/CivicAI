@@ -1,0 +1,33 @@
+{
+  "id": "scheme-of-internship-for-post--2836",
+  "name": "Scheme of Internship for Post-Graduate/Research Students",
+  "slug": "scheme-of-internship-for-post-graduateresearch-students",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 10000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Remuneration A token stipend of ₹10,000/- (consolidated) @ ₹5,000/- per month would be paid to the selected intern on successful completion of his /her internship, at the end of the internship period. Stipend to interns would be transferred directly into their bank account only through electronic mo",
+  "details": "The Ministry of Statistics & Programme Implementation (MoSPI) is implementing a scheme of Internship for Post-graduate/Research Students of Statistics/ Mathematical Statistics/Operations Research/ Economics/ Demography or any of the applied fields of Statistics of recognized Universities/Institutions during 2023-24. The scheme is as follows: Aim, Objectives & Scope To facilitate the students pursuing post-graduate/research in statistics to study and get familiarized with the prevailing system of",
+  "eligibility_text": "The applicant should be a citizen of India and; He/She must be pursuing post-graduation/research from a recognized College/University/Research institute in Statistics/ Mathematical Statistics/Operational Research/Economics/Demography or any of the applied fields of Statistics. Note:- The internship will be for a period of 2 months from the date of joining. Each intern/student shall be required to",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Application:- Step 1: Register on the National Career Service (NCS) Portal and keep NCS ID ready for filling application form. Step 2: Download application format in MS Excel File of \" Group A \" or \" ",
+  "tags": [
+    "Internship",
+    "Student",
+    "Education",
+    "Statistics"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

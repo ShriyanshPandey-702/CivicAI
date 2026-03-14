@@ -1,0 +1,35 @@
+{
+  "id": "prime-ministers-fellowship-for-2483",
+  "name": "Prime Minister’s Fellowship for Doctoral Research",
+  "slug": "prime-ministers-fellowship-for-doctoral-research",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Under this scheme, full-time PhD scholars get double the JRF/SRF fellowship amount, as a scholarship. The scheme has the provision to award up to 100 new scholarships every year. One-half of this scholarship comes from the government; the second half comes from a partner company that also works clos",
+  "details": "Prime Minister’s Fellowship for Doctoral Research scheme is a prestigious initiative of the Science and Engineering Research Board (SERB), Department of Science & Technology, Government of India towards the advancement of university research engagements in line with industry requirements. This scheme is aimed at encouraging young, talented, enthusiastic, and result-oriented scholars to take up industry-relevant research by partnering with institutions of academic excellence. The intent was to le",
+  "eligibility_text": "The applicant should be Indian. The applicant should be a full-time PhD scholar in any recognized Indian university/institute/research laboratory. The scholar’s PhD registration date should not be more than 14 months from the date of submission of application i.e. the applicant should apply within 14 months of PhD admission/registration whichever date is earlier. The applicant should have a valid",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Application Procedure: Step 01: Register as a student on the portal or www.primeministerfellowshipscheme.in or www.serbficci-iirrada.in. Step 02: The application form should be prepared according to t",
+  "tags": [
+    "Fellowship",
+    "Doctoral",
+    "Research",
+    "SERB",
+    "PhD",
+    "Fellow"
+  ],
+  "scheme_category_raw": "Education & Learning, Science, IT & Communications"
+}

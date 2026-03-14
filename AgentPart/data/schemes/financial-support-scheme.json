@@ -1,0 +1,39 @@
+{
+  "id": "financial-support-scheme-1085",
+  "name": "Financial Support Scheme",
+  "slug": "financial-support-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 400000,
+  "benefit_frequency": "annual",
+  "benefit_description": "﻿ S. No. Family income (in ₹) per annum Fee waiver (percentage) Remarks Category 1 Less than or equal to ₹ 4,00,000/ Up to 100% Actual fee or up to a maximum of ₹ 10,000/- Category 2 Between ₹ 4,00,000/- and ₹ 8,00,000/- Up to 50% Actual fee or up to a maximum of ₹ 8,000/- ﻿",
+  "details": "“Financial Support Scheme” implemented by the Delhi University aims to provide equity and access to quality education to the economically weak students. This scheme also provides financial support for such students which will include fee waiver of all components of fee paid by students (except examination fee & hostel fee). ﻿",
+  "eligibility_text": "Should be a bonafide student. The student should be studying in any UG/ PG Degree program at a Department/ Institution/Centre of University of Delhi. Family income of the student’s should be less than ₹ 8,00,000/-. ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹800,000",
+      "field": "income",
+      "max": 800000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "income_cert",
+    "pan_card"
+  ],
+  "application_url": "Step 1: Eligible students can fill in the online Application Form available on the website of the Dean Students’ Welfare Office. Step 2: Students must submit a copy of their Application Form and all d",
+  "tags": [
+    "Fee Waiver",
+    "Financial Assistance",
+    "Delhi University",
+    "EWS",
+    "OBC"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

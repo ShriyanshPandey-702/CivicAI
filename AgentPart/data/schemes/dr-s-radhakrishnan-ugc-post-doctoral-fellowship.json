@@ -1,0 +1,41 @@
+{
+  "id": "dr-s-radhakrishnan-ugc-post-do-0813",
+  "name": "Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship",
+  "slug": "dr-s-radhakrishnan-ugc-post-doctoral-fellowship",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "No. of Slots: 900 The slots will be allocated as per Govt. of India reservation policy. However, 30% of slots will be reserved for women candidates. ﻿ Nature of Assistance: Fellowship @ ₹ 50,000/- p.m. Contingency @ ₹ 50,000/- p.a. Escorts/Reader Assistance @ ₹ 3000/-p.m.(fixed) in cases of PWD (Per",
+  "details": "The scheme \"Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship\" is a fellowship scheme by the University Grants Commission (UGC), Department of Higher Education (DoHE). Post-doctoral research is an important enabling step in grooming young researchers for launching an academic/research career. A post-doctoral stint also provides an opportunity to acquire new skills, broaden one's horizon and offer a platform for transition into cross-disciplinary areas. University Grants Commission provides oppor",
+  "eligibility_text": "(A) Eligibility Criteria for Candidate ﻿ a. Only the unemployed candidates who have been awarded the Ph.D. degree in the relevant subject/discipline of Sciences, Engineering and Technology, Humanities, and Social Sciences including languages are eligible to apply. (Provisional Certificate may be accepted in case the degree is not awarded). Persons already in regular service are not eligible to app",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 35-5 years",
+      "field": "age",
+      "min": 35,
+      "max": 5
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Applications are invited through online mode once a year through advertisements in leading newspapers & employment news. Short notification is also uploaded to the UGC website i.e. www.ugc.ac.in ﻿ ﻿ S",
+  "tags": [
+    "Fellowship",
+    "Research"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

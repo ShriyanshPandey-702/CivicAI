@@ -1,0 +1,25 @@
+{
+  "id": "nikshay-poshan-yojana-nutritio-2215",
+  "name": "Nikshay Poshan Yojana (Nutritional Support To TB Patients)",
+  "slug": "nikshay-poshan-yojana-nutritional-support-to-tb-patients",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "CASH or IN-KIND Financial incentive of ₹500/- per month for each notified TB patient for the duration for which the patient is on anti-TB treatment. In-kind where the total value of the food basket being distributed must not be less than ₹500 per month. ﻿ (It is the discretion of each state as to wh",
+  "details": "An incentive scheme under National Health Mission (NHM) by Central TB Division of MoHFW for Tuberculosis (TB) patients who are under treatment and have registered / notified themselves on the NIKSHAY portal. All TB patients notified on or after 1st April 2018 including all existing TB patients under treatment are eligible to receive incentives. The patient must be registered\\notified on the NIKSHAY portal. The scheme is registered under Direct Benefit Transfer. The incentives can be distributed",
+  "eligibility_text": "The applicant must be a Tuberculosis (TB) Patient. The applicant must be registered / notified on the NIKSHAY Portal.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Step 1: The patient must visit the nearest healthcare facility to get registered on the NIKSHAY portal: https://www.nikshay.in/",
+  "tags": [
+    "Patient",
+    "Health"
+  ],
+  "scheme_category_raw": "Health & Wellness"
+}

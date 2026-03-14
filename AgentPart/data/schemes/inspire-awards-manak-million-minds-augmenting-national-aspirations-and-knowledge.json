@@ -1,0 +1,41 @@
+{
+  "id": "inspire-awards-manak-million-m-1378",
+  "name": "INSPIRE Awards – MANAK (Million Minds Augmenting National Aspirations and Knowledge)",
+  "slug": "inspire-awards-manak-million-minds-augmenting-national-aspirations-and-knowledge",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 10000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Disbursement of INSPIRE Award of ₹ 10,000/- into bank accounts of students through Direct Benefit Transfer (DBT) scheme . Mentoring and funding support for prototype development to 1000 students shortlisted after SLEPC for participation in NLEPC. 1,00,00 awards are given every year. 1,000 Prototype",
+  "details": "‘Innovation in Science Pursuit for Inspired Research’ (INSPIRE) scheme is one of the flagship programmes of the Department of Science & Technology (DST), Ministry Of Science And Technology, Government of India. The scheme was launched by the Hon’ble Prime Minister on 13th December 2008, the INSPIRE Awards – MANAK (Million Minds Augmenting National Aspirations and Knowledge), being executed by DST with National Innovation Foundation – India (NIF), an autonomous body of DST, aims to motivate stude",
+  "eligibility_text": "Eligibility Criteria for Student The applicant should be in the age group of 10-15 years. The applicant should be in Class 6th to Class 10th. ﻿ Eligibility Criteria for School All schools in the country are eligible irrespective of Central/State Board affiliation. Upto 2-3 nominations from each school are accepted every year. ﻿ Selection Criteria Selection of ideas/innovations will be based on nov",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 10-15 years",
+      "field": "age",
+      "min": 10,
+      "max": 15
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Before filling out the registration, the school must have a valid email ID. It is advisable to use the school email ID which can be used, even if the authority changes. ﻿ Step 1: Registration Visit th",
+  "tags": [
+    "Award",
+    "Student",
+    "Innovation",
+    "Direct Benefit Transfer",
+    "DBT",
+    "School"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

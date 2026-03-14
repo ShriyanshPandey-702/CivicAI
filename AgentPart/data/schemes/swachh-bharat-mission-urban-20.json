@@ -1,0 +1,25 @@
+{
+  "id": "swachh-bharat-mission-urban-20-3117",
+  "name": "Swachh Bharat Mission – Urban 2.0",
+  "slug": "swachh-bharat-mission-urban-20",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "A Financial support of minimum Rs - 6667 (in Andhra Pradesh ,Bihar, Chhattisgarh ,Goa, Gujarat, Haryana, Jharkhand, Karnataka ,Kerala, Madhya Pradesh, Maharashtra ,Odisha, Punjab, Rajasthan, Tamil Nadu, Telangana, Uttar Pradesh, West Bengal), Rs - 12,000 (in Uttarakhand, Himachal Pradesh, Arunachal",
+  "details": "A sanitation scheme for the construction of Individual Household Latrines (IHHL) for urban households. The Mission has the following components: Household toilets, including conversion of insanitary latrines into pour-flush latrines. Community toilets Public toilets Solid waste management IEC & Public Awareness Capacity building and Administrative & Office Expenses (A&OE)",
+  "eligibility_text": "Any household that does not have access to an individual household toilet ( 80% of urban households engaging in open defecation ) or has an insanitary toilet.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Applicant creates an Applicant Login ID by registering on IHHL using Name , Mobile Number ,  Email , Address , ID Type, ID Number. After successful login the applicant enters the following details In ",
+  "tags": [
+    "Toilet",
+    "Sanitation"
+  ],
+  "scheme_category_raw": "Utility & Sanitation, Health & Wellness"
+}

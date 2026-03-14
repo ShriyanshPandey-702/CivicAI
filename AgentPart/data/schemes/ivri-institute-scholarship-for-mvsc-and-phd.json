@@ -1,0 +1,46 @@
+{
+  "id": "ivri-institute-scholarship-for-1380",
+  "name": "IVRI Institute Scholarship For M.V.Sc. And Ph.D.",
+  "slug": "ivri-institute-scholarship-for-mvsc-and-phd",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 7560,
+  "benefit_frequency": "monthly",
+  "benefit_description": "For Master Programme The amount of the scholarship for the Master’s Degree programme is Rs. 7,560/- per month for 2 years with a contingent grant of Rs. 6,000/- per annum for two years ﻿ For Doctoral Programme In the Doctoral programme, it is Rs. 13125/- per month for three years with a contingent g",
+  "details": "The Indian Veterinary Research Institute will award scholarships to MVSc and PhD students ﻿ IVRI Scholarship is admissible to only those candidates who are admitted through competitive entrance examination for MVSc/PhD degree programmes. The award to the fresh students shall be made by the Joint Director (Acad.) of the Institute on the recommendation of the ‘Standing Committee on Scholarship, Financial Assistance and Academic Progress’ which shall take into consideration the merit of each applic",
+  "eligibility_text": "Entrance Requirements: The Indian Veterinary Research Institute will award a scholarship to MVSc and PhD students on the following terms and conditions: IVRI Scholarship is admissible to only those candidates who are admitted through competitive entrance examination for MVSc/PhD degree programmes. It is essential to maintain a CGPA of 7.00 out of 10.00 at the end of each semester for Masters's or",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 50-23 years",
+      "field": "age",
+      "min": 50,
+      "max": 23
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "For Master Programme Admission for MVSc programme will be held on the basis of all India Competitive Examination conducted by the Education Division, Indian Council of Agricultural Research, New Delhi",
+  "tags": [
+    "IVRI Institute",
+    "Scholarship"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

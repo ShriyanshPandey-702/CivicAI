@@ -1,0 +1,32 @@
+{
+  "id": "national-talent-scholarship-po-2190",
+  "name": "National Talent Scholarship Postgraduate",
+  "slug": "national-talent-scholarship-postgraduate",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The value of the scholarship shall be Rs 3,000/- per month to postgraduate (Master's degree) students at present. No contingency grant is paid.",
+  "details": "National Talent Scholarship (NTS) was launched by the Indian Council of Agricultural Research for students pursuing a master's degree program in an ICAR-recognized agricultural university located outside of his/her state of domicile and duly funded under the planning scheme “Strengthening and Development of Higher Agricultural Education in India\" of the Education Division of the ICAR. The amount of the scholarship is ₹ 3000/- per month for a Master's (Post Graduate). The scholarship will be awar",
+  "eligibility_text": "A student is eligible for the scholarship provided he/she: • Takes up studies in approved courses and takes admission in the Agricultural University located outside their State of domicile. • Maintains merit and good conduct as certified by Head of the College ' University ' Institution. • Does not remain absent without prior permission and does not participate in any agitation! strike etc. during",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "address_proof",
+    "pan_card"
+  ],
+  "application_url": "Application Forms can only be submitted online mode on the website https://icar.nta.ac.in. The Application Form other than online mode will not be accepted.",
+  "tags": [
+    "Scholarship",
+    "Agricultural",
+    "Postgraduate"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

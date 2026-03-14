@@ -1,0 +1,41 @@
+{
+  "id": "grant-for-organizing-conferenc-1226",
+  "name": "Grant For Organizing Conference",
+  "slug": "grant-for-organizing-conference",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 300000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Onsite Conference National Level Conference: One-third of the total expenditure incurred on organizing the Conference is subject to a maximum of ₹ 3,00,000. International Level Conference: One-third of the total expenditure incurred on organizing the Conference is subject to a maximum of ₹ 4,00,000.",
+  "details": "The scheme of \"Grant for Organizing Conference (GOC)\" is a grant scheme by the All India Council for Technical Education (AICTE), Department of Higher Education (DoHE). The scheme provides financial assistance to institutions for organizing conferences in various fields of technical education. Both Onsite Conferences and Online Conferences are supported. The objective is to promote high standards in technical education by way of extending opportunities to academicians and working professionals b",
+  "eligibility_text": "(a) AICTE-approved institute with at least 8 years of existence. (b) Coordinator must: (i) be a full-time regular Associate Professor or Professor or a senior faculty with at least 10-year experience in teaching and research with publications and (ii) have organized at least three conferences if applying for an international conference and one conference if applying for the national conference. (c",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 15-25 years",
+      "field": "age",
+      "min": 15,
+      "max": 25
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Application (a) Applications are invited throughout the year. (b) Institute must apply through its login ID at http://www.aicte-india.org and must apply at least: (i) 6 months prior to the date of the",
+  "tags": [
+    "Grant",
+    "Conference"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

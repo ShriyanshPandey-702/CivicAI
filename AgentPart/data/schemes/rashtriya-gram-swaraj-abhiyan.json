@@ -1,0 +1,28 @@
+{
+  "id": "rashtriya-gram-swaraj-abhiyan-2557",
+  "name": "Rashtriya Gram Swaraj Abhiyan",
+  "slug": "rashtriya-gram-swaraj-abhiyan",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Capacity Building and Training (CB&T). Gram Panchayat Infrastructure. Use of IT for Distance Learning & for e-Enablement of Panchayats. Institutional Support for Innovations. Gap-Filling Support of Economic Development & Income Enhancement. Technical Support including Human Resources (HR) based on I",
+  "details": "Rashtriya Gram Swaraj Abhiyan (RGSA) was launched on 24th April 2018 'National Panchayat Day' by the Hon'ble Prime Minister, an umbrella scheme of the Ministry of Panchayati Raj, Govt. of India. It is a unique scheme proposed to develop and strengthen the Panchayati Raj System across India in rural areas. ﻿ The scheme of RGSA aims to strengthen the capacities of institutions for rural local governance to become more responsive towards local development needs, prepare participatory plans leveragi",
+  "eligibility_text": "Panchayati Raj Institutions of all the States/UTs are eligible. Including the institutions of rural local government in non-part IX areas, where Panchayats do not exist. ﻿ The essential conditions to be fulfilled by States and Union Territories to access RGSA funds are - Regular conduct of elections to Panchayats or local rural bodies in non-Part IX areas. Not less than one third reservation for w",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "1. Registration on On Rashtriya Gram Swaraj Abhiyan Portal Link : gramswaraj.nirdpr.in ﻿ ﻿ ﻿ 2. Click on Register. ﻿ 3. Fill in the required details. ﻿ ﻿ ﻿ ﻿ ﻿",
+  "tags": [],
+  "scheme_category_raw": "Utility & Sanitation, Agriculture,Rural & Environment, Transport & Infrastructure"
+}

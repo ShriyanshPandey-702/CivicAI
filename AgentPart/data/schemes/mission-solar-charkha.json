@@ -1,0 +1,37 @@
+{
+  "id": "mission-solar-charkha-1919",
+  "name": "Mission Solar Charkha",
+  "slug": "mission-solar-charkha",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 31500000,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Project Interventions/Financial Assistance: One cluster of Solar Charkha would involve a maximum subsidy of ₹9.599 cr. The scheme would cover three types of Interventions, namely- A. Capital subsidy for individual and for Special Purpose Vehicle (SPV): 2000 Solar Charkhas at the maximum price of ₹45",
+  "details": "The scheme “Mission Solar Charkha” a pilot project was implemented by the Ministry of Micro, Small & Medium Enterprises, Government of India. The scheme envisages setting up of Solar Charkha Clusters which would mean a focal village and other surrounding villages in a radius of 8 to 10 Kilometres. Further, such a cluster will have 200 to 2042 beneficiaries (spinners, weavers, stitches, and other skilled artisans). Each spinner will be given two charkhas of 10 spindles each. On average, it is con",
+  "eligibility_text": "Criteria for selection of Promoter Agency/SPV: A. Existing Khadi and Village Industry Institution (KVI) could apply for setting up such a Cluster. However, the following parameters must be fulfilled: KVI having a positive balance sheet and assets in favour of the institution. KVI having an artisan base of not less than 200. KVI having a sales turnover of not less than ₹1.00 Crore in each of the pr",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 200-200 years",
+      "field": "age",
+      "min": 200,
+      "max": 200
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Step 01: The applicant/Promoter Agency may visit the Official Website of Mission Solar Charkha (MSC) to apply online: https://kviconline.gov.in/msc/view1.jsp ﻿ Step 02: The registered applicant may ap",
+  "tags": [
+    "Solar Charkha",
+    "Employment",
+    "Capital Subsidy",
+    "Solar Grid",
+    "Interest Subvention",
+    "Capacity Building",
+    "Spinner",
+    "Weaver"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance"
+}

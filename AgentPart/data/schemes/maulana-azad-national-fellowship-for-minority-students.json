@@ -1,0 +1,32 @@
+{
+  "id": "maulana-azad-national-fellowsh-1868",
+  "name": "Maulana Azad National Fellowship For Minority Students",
+  "slug": "maulana-azad-national-fellowship-for-minority-students",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 31000,
+  "benefit_frequency": "annual",
+  "benefit_description": "The rate of fellowship for JRF and SRF is at par with the UGC fellowship, presently the rates are as follows: Fellowship in Science Humanities and Social Science: ₹ 31,000/- p.m. for initial two years (JRF), and ₹ 35,000/- pm. for remaining tenure (SRF) Fellowship in Engineering & Technology: ₹ 31,0",
+  "details": "Maulana Azad National Fellowship For Minority Students was launched in 2009 by the Ministry of Minority Affairs for providing financial aid to students for their higher studies. ﻿ The objective of the Fellowship is to provide five year fellowships in the form of financial assistance to students from minority communities, notified by the Central Government, to pursue M. Phil and Ph.D. ﻿ The scheme covers all Universities/Institutions recognized by the University Grants Commission (UGC) as under :",
+  "eligibility_text": "The applicant should be a part of one of the minority communities (Buddhist, Christian, Jain, Muslim, Sikh, or Zoroastrian (Parsi)). Applicant must qualify the UGC-NET or Joint CSIR-UGC NET examination. If  applicant does not complete his/her research work during the period of fellowship shall not be eligible to apply again under this scheme. If applicant completely or partially availed any fellow",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "The candidates should apply and appear in UGC-NET / Joint CSIR-UGC Test for both i.e. Junior Research Fellowship (JRF) as well as Eligibility for Assistant Professor. This fellowship is awarded only t",
+  "tags": [
+    "Fellowship",
+    "Higher Studies",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

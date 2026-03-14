@@ -1,0 +1,33 @@
+{
+  "id": "post-matric-scholarship-scheme-2387",
+  "name": "Post Matric Scholarship Scheme For The Students Belonging To Scheduled Tribe For Studies In India",
+  "slug": "post-matric-scholarship-scheme-for-the-students-belonging-to-scheduled-tribe-for",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Stipend: The student will be entitled to stipend as per rates listed below. ﻿ ﻿ Courses Hostellers Day Scholar Bachelor, Master Degree, MPhil/PhD degree leading to Degree, PG Diploma, in professional courses in various streams Monthly: 1200 ; Annually: 12000 Monthly: 500 ; Annually: 5500 All non-pro",
+  "details": "\"Post Matric Scholarship Scheme For The Students Belonging To Scheduled Tribe For Studies In India\" is a centrally sponsored scheme by the Ministry of Tribal Affairs, for the students of Scheduled Tribe (ST) for studies in India. This scheme is for pursuing higher education starting from class XI to Post Graduation courses in India. Objective of the scheme: To enable eligible Scheduled Tribe students to undertake quality education from Post Matric to Post Graduate level by providing them financi",
+  "eligibility_text": "The scholarships are open to nationals of India. These scholarships will be given for the study of all recognized post-matriculation post-secondary courses pursued in recognized institutions. Only those candidates who belong to Scheduled Tribes so specified in relation to the State/Union Territory to which the applicant actually belongs (i.e. permanently settled) and who have passed the Matriculat",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "income_cert"
+  ],
+  "application_url": "Application complete in all respects shall be submitted to the Head of the Institution, being attended or last attended by the candidates and shall be addressed to an officer specified for this purpos",
+  "tags": [
+    "Scholarship",
+    "Scheduled Tribe Students",
+    "Post Matric",
+    "Education",
+    "Study"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

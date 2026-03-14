@@ -1,0 +1,25 @@
+{
+  "id": "nikshay-poshan-yojana-2214",
+  "name": "Nikshay Poshan Yojana",
+  "slug": "nikshay-poshan-yojana",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Financial incentive of Rs.500/- per month for each notified TB patient for duration for which the patient is on anti-TB treatment ﻿",
+  "details": "The NIKSHAY - TB Notification incentive for Private Sector scheme is a Government of India initiative to incentivize private sector healthcare providers for notifying tuberculosis (TB) cases to the government. The scheme was launched in 2018 and is implemented by the Ministry of Health and Family Welfare. ﻿ All notified TB patients are beneficiaries of the scheme. All TB patients notified on or after 1st April 2018 including all existing TB patients under treatment are eligible to receive incent",
+  "eligibility_text": "All patients with tuberculosis (TB) who are notified to the government on or after April 1, 2018, including those who are already being treated for TB, are eligible for financial incentives. To be eligible for the incentives, patients must be registered or notified on the NIKSHAY portal.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "To register on the NIKSHAY portal, please follow these steps: Visit the NIKSHAY portal website. Click on the \" Register \" button. Enter your personal information, such as your name, email address, and",
+  "tags": [
+    "Tuberculosis",
+    "Health",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Health & Wellness"
+}

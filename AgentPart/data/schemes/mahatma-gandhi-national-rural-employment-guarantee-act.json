@@ -1,0 +1,34 @@
+{
+  "id": "mahatma-gandhi-national-rural--1759",
+  "name": "Mahatma Gandhi National Rural Employment Guarantee Act",
+  "slug": "mahatma-gandhi-national-rural-employment-guarantee-act",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "The applicant receives guaranteed employment within 15 days from the date of application. Work is to be provided within a radius of 5 kilometers of the applicant’s residence if possible, and in any case within the Block. If the applicant lives more than 5 km away from the worksite, he/she will be en",
+  "details": "An employment scheme by the Ministry of Rural Development, providing provide at least 100 days of guaranteed wage employment in a financial year to every rural household whose adult members volunteer to do unskilled work. Any Indian citizen above the age of 18 years and residing in a rural area can apply to this scheme. The applicant receives guaranteed employment within 15 days from the date of application. ﻿ The wage is deposited directly in the Bank Account / Post Office Account of the applic",
+  "eligibility_text": "The applicant must be at least 18 years of age. The applicant must be residing in a Rural Area.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be 18 years or older",
+      "field": "age",
+      "min": 18
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "ration_card"
+  ],
+  "application_url": "Step 1: The application for registration may be given on plain paper to the local Gram Panchayat. An individual may appear personally before the Panchayat Secretary or Gram Rozgar Sahayak and make an ",
+  "tags": [
+    "Employment",
+    "Labour",
+    "Unskilled",
+    "Panchayat",
+    "Job"
+  ],
+  "scheme_category_raw": "Skills & Employment, Social welfare & Empowerment"
+}

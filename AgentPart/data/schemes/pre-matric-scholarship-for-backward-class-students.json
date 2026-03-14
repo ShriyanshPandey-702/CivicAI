@@ -1,0 +1,36 @@
+{
+  "id": "pre-matric-scholarship-for-bac-0011",
+  "name": "Pre-Matric Scholarship for Backward Class Students",
+  "slug": "pre-matric-scholarship-for-backward-class-students",
+  "ministry": "",
+  "category": "education",
+  "level": "State",
+  "state": "",
+  "benefit_amount": 20,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Classes 6th to 8th Boys: ₹20/- per month Girls: ₹30/- per month Classes 9th to 10th Boys: ₹30/- per month Girls: ₹40/- per month NOTE:  The scheme is individual in nature, covering all of Madhya Pradesh. Scholarships are awarded for 10 months annually and paid in one installment on 30th September.",
+  "details": "The scheme \"Pre-Matric Scholarship for Backward Class Students\" by the Backward Classes and Minorities Welfare Department, Government of Madhya Pradesh aims to provide financial assistance to backward class students studying at the pre-matriculation level in India. Through this scheme, monthly scholarships of varying amounts are provided to eligible students to help them complete their education. The applications for this scheme are processed through educational institutions. The scheme is imple",
+  "eligibility_text": "The applicant should be a student of classes 6th to 10th. The parents/guardians of the applicant should not be income taxpayers. The parents/guardians of the applicant should not own more than 10 acres of land.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "birth_cert"
+  ],
+  "application_url": "Step 1: The interested applicant should visit the Head of the Educational Institution and request the hard copy of the prescribed format of the application form. Step 2: In the application form, fill ",
+  "tags": [
+    "Financial Assistance",
+    "Backward Class",
+    "Student",
+    "Education",
+    "School"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

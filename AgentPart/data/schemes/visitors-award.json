@@ -1,0 +1,33 @@
+{
+  "id": "visitors-award-3305",
+  "name": "Visitor's Award",
+  "slug": "visitors-award",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 250000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Citation and cash reward will be presented to the awardee. The total value of the cash reward will be ₹2,50,000/- If there are two or more recipients, the cash reward is subject to the condition that, each awardee will receive a minimum of ₹1,00,000/-",
+  "details": "Visitor's Award under the Department of Higher Education provided To encourage excellence through competition. These awards would help to promote healthy competition amongst Faculties/Students of the Central Universities and motivate them to adopt best practices from around the world in the pursuit of excellence. ﻿ Under the Visitor's Award, there are three categories: For Innovation. For Research. 2.1. Humanities, Arts and Social Sciences. 2.2. Physical Sciences. 2.3. Biological Sciences. For T",
+  "eligibility_text": "All faculty members and students of all the Central Universities will be eligible for the Visitor’s Awards.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Registration: Step-1: Visit the official website . Step-2: Click on the Registration button. Step-3: Choose the type Individual or  Organization. Step-4.1: Under the Individual category provide the fo",
+  "tags": [
+    "Student",
+    "Research",
+    "Innovation",
+    "Awards"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

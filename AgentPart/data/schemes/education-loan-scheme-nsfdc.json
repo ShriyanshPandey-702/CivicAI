@@ -1,0 +1,51 @@
+{
+  "id": "education-loan-scheme-nsfdc-0858",
+  "name": "Education Loan Scheme (NSFDC)",
+  "slug": "education-loan-scheme-nsfdc",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Maximum Loan Limit: Up to ₹30,00,000/- (for studies in India) and upto ₹40,00,000/- (for studies abroad) or 90% of course fee, whichever is less. Rate of Interest: For studies in India: NSFDC shall charge interest @ 2% per annum from the SCAs, which in turn, shall charge 6% per annum from the benefi",
+  "details": "The \"Education Loan Scheme\" is implemented by the National Scheduled Castes Finance and Development Corporation (NSFDC) under the Ministry of Social Justice and Empowerment, Government of India. Under this Scheme, the loan is provided for pursuing full-time Professional/Technical courses in recognized institutions as one-time assistance. The Educational Loan shall cover Admission Fee, Tuition Fee, Books, Stationery, Equipment, Examination Fee, Hostel and Mess Expenses, Insurance Premium for Poli",
+  "eligibility_text": "The applicant should be a student pursuing regular full-time Professional or Technical courses in a recognized institution in India or abroad. The applicant should belong to a Scheduled Caste community. The applicant's annual family income should be less than ₹3,00,000/-, both in rural and urban areas. The education loan assistance will be provided as a one-time assistance.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹300,000",
+      "field": "income",
+      "max": 300000
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "address_proof"
+  ],
+  "application_url": "Step 1: The applicants should contact the District Office of State Channelizing Agencies (SCAs) if they wish to avail NSFDC Education loan. Step 2: The applicants are required to submit the applicatio",
+  "tags": [
+    "Education Loan",
+    "NSFDC",
+    "Student",
+    "Study In India",
+    "Study Abroad",
+    "Scheduled Caste"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance, Education & Learning"
+}

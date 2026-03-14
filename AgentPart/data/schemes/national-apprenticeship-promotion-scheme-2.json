@@ -1,0 +1,33 @@
+{
+  "id": "national-apprenticeship-promot-2115",
+  "name": "National Apprenticeship Promotion Scheme-2",
+  "slug": "national-apprenticeship-promotion-scheme-2",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Under the scheme, training will be imparted in Designated Trades (DT) and Optional Trades (OT). A. Designated Trades (DT) Designated Trade means any trade or occupation or any subject field in engineering or non-engineering or technology or any vocational course which the Central Government. Duratio",
+  "details": "The Ministry of Skill Development and Entrepreneurship (MSDE) launched the National Apprenticeship Promotion Scheme (NAPS) on 19th August 2016 to provide financial incentives to the establishments engaging apprentice under the Apprentices Act, 1961. National Apprenticeship Promotion Scheme-2 (NAPS-2) aims to promote apprenticeship training in the country, by providing partial stipend support to the apprentices engaged under the Apprentice Act, 1961, undertaking capacity building of the apprentic",
+  "eligibility_text": "Minimum age for an apprentice is 14 years, and 18 years for designated trades related to hazardous industries, as per Section 3(a) of the Apprentices Act, 1961. Apprenticeship training is primarily a transition from academia to workplace, and therefore, to avail partial stipend support by the Government, at the time of registration the upper age limit should be 35 years. Candidates from skill deve",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 14-18 years",
+      "field": "age",
+      "min": 14,
+      "max": 18
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Visit the official page of Apprenticeship Portal i.e https://www.apprenticeshipindia.gov.in/  Click on Login/Register and choose from the listed options i.e as Candidate, Establishment, Third Party Ag",
+  "tags": [
+    "Apprenticeship Training",
+    "Skilled Workforce",
+    "Up-skilling Opportunities",
+    "Skill India Programme"
+  ],
+  "scheme_category_raw": "Skills & Employment, Social welfare & Empowerment, Business & Entrepreneurship"
+}

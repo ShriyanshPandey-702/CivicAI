@@ -1,0 +1,35 @@
+{
+  "name": "Post Matric Scholarship OBC",
+  "category": "education",
+  "description": "Financial assistance to students belonging to OBC category for post-matriculation studies",
+  "eligibility_rules": {
+    "max_income": 250000,
+    "min_age": 15,
+    "max_age": null,
+    "caste": ["obc"],
+    "states": ["all"],
+    "occupation": ["student", "all"],
+    "requires_land": false,
+    "min_land_acres": 0,
+    "additional_rules": [
+      "Must have passed previous board or university exam",
+      "Not receiving other educational scholarships"
+    ]
+  },
+  "required_docs": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook"
+  ],
+  "benefit_amount": 10000,
+  "benefit_description": "Variable maintenance allowance up to ₹10,000/year plus fee reimbursement",
+  "portal_url": "https://scholarships.gov.in",
+  "deep_eligibility_questions": [
+    {
+      "field": "is_studying_post_matric",
+      "question": "Are you currently studying in class 11 or above (including college/university)?",
+      "type": "yes_no"
+    }
+  ]
+}

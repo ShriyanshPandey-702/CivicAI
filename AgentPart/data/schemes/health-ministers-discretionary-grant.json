@@ -1,0 +1,33 @@
+{
+  "id": "health-ministers-discretionary-1328",
+  "name": "Health Minister’s Discretionary Grant",
+  "slug": "health-ministers-discretionary-grant",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 50000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Financial assistance towards treatment in Government hospitals including super specialty Government hospitals / institutes. Financial Assistance of ₹50,000/- if the estimated cost of treatment is up to ₹1,00,000/- . Financial Assistance of ₹75,000/- if the estimated cost of treatment is above ₹1,00,",
+  "details": "A health scheme by Ministry of Health & Family Welfare for financially poor patients to defray a part of the expenditure on Hospitalization/treatment in Government Hospitals,for life threatening diseases covered under Rashtriya Arogya Nidhi (RAN), in cases where free medical facilities are not available. Only those having annual family income up to Rs.1.25,000/- and below are eligible for financial assistance from Health Minister’s Discretionary Grant (HMDG). Under this scheme, Financial assista",
+  "eligibility_text": "The applicant must not be an employee of either Central or State Govt. The applicant must have been Hospitalized / Undergoing Treatment in a Government Hospital (including super specialty Government hospitals / institutes). The Total Annual Family Income of the applicant must not exceed ₹1,00,000/- per annum.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹100,000",
+      "field": "income",
+      "max": 100000
+    }
+  ],
+  "documents_required": [
+    "ration_card"
+  ],
+  "application_url": "Step 1: The application form can be downloaded from the following link: ﻿ https://main.mohfw.gov.in/sites/default/files/4451946500hmdgappl_1_1_0.pdf ﻿ ﻿ ﻿ ﻿ ﻿ Step 2: ﻿ ﻿ Take print of the application",
+  "tags": [
+    "Health",
+    "Disease",
+    "Hospital",
+    "Medical Facility",
+    "Patient"
+  ],
+  "scheme_category_raw": "Health & Wellness"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Atal Pension Yojana",
+  "category": "social_welfare",
+  "description": "A guaranteed pension scheme for unorganized sector workers",
+  "eligibility_rules": {
+    "max_income": null,
+    "min_age": 18,
+    "max_age": 40,
+    "caste": ["general", "obc", "sc", "st", "ews"],
+    "states": ["all"],
+    "occupation": ["farmer", "daily_wage", "self_employed", "unemployed", "other"],
+    "requires_land": false,
+    "min_land_acres": 0,
+    "additional_rules": [
+      "Must have a savings bank account",
+      "Should not be a member of any statutory social security scheme"
+    ]
+  },
+  "required_docs": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "benefit_amount": 60000,
+  "benefit_description": "Guaranteed minimum monthly pension of ₹1,000 to ₹5,000 (up to ₹60,000/year) after age 60",
+  "portal_url": "https://npscra.nsdl.co.in/scheme-details.php",
+  "deep_eligibility_questions": [
+    {
+      "field": "has_epf_account",
+      "question": "Are you already a member of EPF or any other statutory social security scheme?",
+      "type": "yes_no"
+    }
+  ]
+}

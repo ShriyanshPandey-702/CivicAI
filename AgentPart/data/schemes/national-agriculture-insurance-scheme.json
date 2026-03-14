@@ -1,0 +1,34 @@
+{
+  "id": "national-agriculture-insurance-2113",
+  "name": "National Agriculture Insurance Scheme",
+  "slug": "national-agriculture-insurance-scheme",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Comprehensive Crop Coverage: Protection against crop loss due to natural calamities (floods, droughts, hailstorms), pests, diseases, and localized risks. Includes coverage for sowing, standing crops, and post-harvest losses. Subsidized Premiums for Small Farmers: Small and marginal farmers receive p",
+  "details": "The National Agriculture Insurance Scheme (NAIS) was introduced by the Government of India to provide comprehensive insurance coverage and financial support to farmers against crop losses due to natural calamities, pests, and diseases. The scheme promotes the stability of farm incomes and encourages farmers to adopt modern agricultural practices. ﻿ Key Features Coverage for food crops, oilseeds, and selected commercial/horticultural crops. Protection against crop loss due to natural calamities s",
+  "eligibility_text": "Loanee Farmers: Farmers who avail seasonal agricultural operations (SAO) loans from financial institutions (banks, co-operative societies, etc.) are automatically covered under the scheme. The coverage for loanee farmers is compulsory, and premiums are deducted from the loan amount. ﻿ Non-Loanee Farmers: Non-loanee farmers can apply voluntarily for the insurance coverage. The application must be s",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "land_record",
+    "bank_passbook"
+  ],
+  "application_url": "Application Process for Loanee Farmers Step-1 : Loanee farmers need to visit their nearest bank or primary agricultural cooperative society (PACS) branch, where they have taken the loan. Step-2: The b",
+  "tags": [
+    "Farmers",
+    "Crop Insurance",
+    "Agriculture Subsidy",
+    "Natural Disaster Coverage"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

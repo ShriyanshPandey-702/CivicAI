@@ -1,0 +1,46 @@
+{
+  "id": "micro-credit-finance-nsfdc-1908",
+  "name": "Micro Credit Finance (NSFDC)",
+  "slug": "micro-credit-finance-nsfdc",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 125000,
+  "benefit_frequency": "quarterly",
+  "benefit_description": "Maximum Loan Limit: NSFDC provides loans up to 90% of the Project Cost with the maximum amount of ₹1.25 lakhs. Rate of Interest: The NSFDC shall charge interest @ 2.5% from the SCAs/CAs, which in turn, shall charge 6.5% from the Beneficiaries. Repayment Period: The loan under the Scheme is to be rep",
+  "details": "The scheme \"Micro Credit Finance\" is implemented by the National Scheduled Castes Finance and Development Corporation (NSFDC) under the Ministry of Social Justice and Empowerment, Government of India. Under this scheme, loans are provided to individuals from the Scheduled Caste community for units costing up to ₹1,40,000/-. The loans support income-generating activities such as running a betel leaf shop, bakery, candle making, cycle repair, goat rearing, beauty parlour, vegetable vending, incens",
+  "eligibility_text": "1.\tThe Individual applicant should belong to a Scheduled Caste community. 2.\tThe applicant's annual family income should be less than ₹3,00,000/-, both in rural and urban areas w.e.f. 08.03.2018. 3.\tThe Partnership Firms and Co-operative Societies are also eligible to apply under the scheme. However, proposals submitted by Partnership Firms and Co-operative Societies shall be considered subject to",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹300,000",
+      "field": "income",
+      "max": 300000
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "Step 1: The applicants should contact the District Office of State Channelizing Agencies (SCAs) if they wish to avail NSFDC Education loan. Step 2: The applicants are required to submit the applicatio",
+  "tags": [
+    "Micro Credit",
+    "NSFDC",
+    "Loan",
+    "Self-employment",
+    "Scheduled Caste"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance, Business & Entrepreneurship"
+}

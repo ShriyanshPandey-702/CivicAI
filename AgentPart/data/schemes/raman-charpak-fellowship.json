@@ -1,0 +1,34 @@
+{
+  "id": "raman-charpak-fellowship-2553",
+  "name": "Raman-Charpak Fellowship",
+  "slug": "raman-charpak-fellowship",
+  "ministry": "",
+  "category": "science",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "To and fro air ticket in economy class between India and France. Insurance coverage (travel & health) wherever is required & Carte de Sejour (if any). Any administrative costs for Visa and Registration (if any). Support for attending conferences/seminars/workshops during the stay. Value of Fellowshi",
+  "details": "The “Raman-Charpak Fellowship Programme” is in honour of two Nobel Laureates in Physics, Prof C.V. Raman, Indian Nobel Laureate (1930) and Prof Georges Charpak, French Nobel Laureate (1992). The Fellowship was launched during the State visit of the President of France to India in February 2013. The aim is to facilitate the exchange of doctoral students between the two countries, in order to broaden the scope and depth of future engagements in Science, Technology and Innovation. This programme im",
+  "eligibility_text": "Applicants from India must be Indian citizens residing in India and have registered for a PhD in a recognized university or research institution in India. Applicants from France must be residing in France and have registered for a PhD/Master’s Degree in a recognized university or research institution in France. Maximum age 30 years as of 1st April of the call year. Students once supported by CEFIP",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "The eligible candidates need to register and apply at www.cefipra.org or log on to: http://www.cefipra.org/proposal/index.aspx  Note 01: The application opens during April/May and closes during June/J",
+  "tags": [
+    "Fellowship",
+    "Raman",
+    "Charpak",
+    "France",
+    "Student"
+  ],
+  "scheme_category_raw": "Science, IT & Communications"
+}

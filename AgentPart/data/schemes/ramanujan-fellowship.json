@@ -1,0 +1,36 @@
+{
+  "id": "ramanujan-fellowship-2554",
+  "name": "Ramanujan Fellowship",
+  "slug": "ramanujan-fellowship",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 700000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The amount of the Fellowship will be ₹1,35,000/- per month (consolidated including HRA). Each Fellow will, in addition, receive a research grant of ₹7.00 lakh per annum (for consumables, travel, research personnel & contingencies, etc.) and ₹60,000/- per annum as overhead charges. The Ramanujan Fell",
+  "details": "\"Ramanujan Fellowship\" is meant for brilliant Indian scientists and engineers from outside India to take up scientific research positions in India, those Indian scientists/engineers who want to return to India from abroad. The fellowship is scientist-specific and very selective. The Ramanujan Fellows could work in any of the scientific institutions and universities in the country and they would be eligible for receiving regular research grants through the extramural funding schemes of various S&",
+  "eligibility_text": "The fellowship is open to brilliant Indian scientists and engineers from all over the world who are below the age of 40 years, who want to return to India from abroad. The applicant should possess a higher degree or equivalent, such as a Ph.D. in Science/Engineering, Master in Engineering or Technology/MD in Medicine, etc., and have adequate professional experience. These Fellowships are very sele",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 40-40 years",
+      "field": "age",
+      "min": 40,
+      "max": 40
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Methodology for Nomination & Selection: Step 01: The scientists can choose to work at any S&T Institution including University Departments or other Academic Institutions and National Laboratories in I",
+  "tags": [
+    "Ramanujan",
+    "Fellowship",
+    "Scientist",
+    "Engineer",
+    "Fellow",
+    "Science"
+  ],
+  "scheme_category_raw": "Education & Learning, Science, IT & Communications"
+}

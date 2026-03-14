@@ -1,0 +1,40 @@
+{
+  "id": "paired-early-career-fellowship-2292",
+  "name": "Paired Early Career Fellowship in Applied Research",
+  "slug": "paired-early-career-fellowship-in-applied-research",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 100000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The financial support shall be provided as a time grant and it will be limited to: Fellowship: € 2300 per month/fellow on a pro-rata basis. Single round trip economy class airfare including visa fees and medical/travel insurance approximately ₹ 1 lakh (for Indian fellow) and € 1500 (for German fello",
+  "details": "Indo-German Science & Technology Centre (IGSTC) established a joint initiative of the Department of Science and Technology (DST), Government of India and the Federal Ministry of Education and Research (BMBF), Government of Germany invites applications for “Paired Early Career Fellowship in Applied Research (PECFAR)” from early-career Indian and German researchers to explore, connect and network for research collaboration in applied research. Aim of the Fellowship: The Fellowship intends to- Supp",
+  "eligibility_text": "Early Career Researchers holding regular positions in academia/research institution/industry or holding long-term nationally recognized fellowships (4 years and above) will be eligible to apply. The applicant should possess the minimum qualification as “Masters in Science/Bachelor in Engineering (4 years)”. PhD Students/Post-docs affiliated with research institutions/industries may also apply. The",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 35-03 years",
+      "field": "age",
+      "min": 35,
+      "max": 3
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Application Process: Step 01: The applicant may submit the application for online via the “ Application Portal ”. Step 02: To start the online application, the applicant must register on the portal fi",
+  "tags": [
+    "Fellowship",
+    "Applied Research",
+    "IGSTC",
+    "Indo-German",
+    "Fellow",
+    "Germany"
+  ],
+  "scheme_category_raw": "Education & Learning, Science, IT & Communications"
+}

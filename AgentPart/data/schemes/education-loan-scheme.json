@@ -1,0 +1,53 @@
+{
+  "id": "education-loan-scheme-0857",
+  "name": "Education Loan Scheme",
+  "slug": "education-loan-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 3000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Maximum Loan Limit: Up to ₹30 lakhs (for studies in India) and upto ₹40 lakhs (for studies abroad) or 90% of course fee, whichever is less. Rate of Interest: For studies in India, upto ₹30 lakhs or 90% of course fee, whichever is less. The rate of interest for male candidates is 6% whereas for femal",
+  "details": "A scheme named \" Education Loan Scheme \" by National Scheduled Castes Finance and Development Corporation (NSFDC) under the M/o Social Justice and Empowerment provides loans to students from Scheduled Castes who are pursuing full-time professional or technical courses in recognized institutions. The objective of the scheme is to extend Education Loans to the students of Backward Classes for pursuing professional/technical education at the graduate and higher levels and for pursuing vocational Co",
+  "eligibility_text": "The beneficiary (ies) should be from the Scheduled Caste Community. Individuals, Partnership Firms, and Co-operative Societies can undertake income-generating activities. The annual family income of each member/applicant should not exceed Rs.3.00 lakh. Applicants must apply for financial assistance from NSFDC through the concerned State Channelizing Agencies (SCAs)/Channelizing Agencies (CAs). Ann",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 3-08 years",
+      "field": "age",
+      "min": 3,
+      "max": 8
+    },
+    {
+      "criterion": "Annual income below ₹300,000",
+      "field": "income",
+      "max": 300000
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert"
+  ],
+  "application_url": "Click on official website to apply for the scheme. ﻿ ﻿ ﻿ ﻿ Fill the Education Loan Application Form with all the details. Click on Submit.",
+  "tags": [
+    "Higher Education",
+    "Loans To Students",
+    "National Scheduled Castes Finance And Development Corporation"
+  ],
+  "scheme_category_raw": "Education & Learning, Banking,Financial Services and Insurance"
+}

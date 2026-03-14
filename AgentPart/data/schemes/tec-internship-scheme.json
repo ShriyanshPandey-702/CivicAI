@@ -1,0 +1,35 @@
+{
+  "id": "tec-internship-scheme-3137",
+  "name": "TEC Internship Scheme",
+  "slug": "tec-internship-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 15000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Token Amount The interns will be paid a token amount of ₹ 15,000/- per month. ﻿ Certificate The Interns will be issued a Certificate at the end of the internship.",
+  "details": "The ‘TEC Internship Scheme’ by the Telecommunication Engineering Centre (TEC), Department of Telecommunications, New Delhi intends to engage 25 Interns in order to study/formulate/operationalize/assess various works/projects/policies etc. The internship Programme will allow young talent to be associated with the TEC work for mutual benefit. It will enable TEC to interact with young scholars and get fresh ideas and study/ research support from academics. At the same time, it will provide an oppor",
+  "eligibility_text": "1.   The applicant should be a citizen of India. 2.   The applicant should be studying at a recognized university in India or abroad. 3.   The applicant should be studying in the 3rd/ 4th year (Final or pre-final year) in Bachelor's Degree course in Electronics/ Communications/ Telecommunication/ Radio/ Information Technology/ Computers / Electrical Engineering or related discipline and secured a",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Interested and eligible candidates must submit their applications, specifying their areas of work interest in the prescribed format through the online link available on the TEC website on or before 31",
+  "tags": [
+    "Internship",
+    "Student",
+    "Telecommunication",
+    "Research",
+    "Graduation",
+    "Postgraduation"
+  ],
+  "scheme_category_raw": "Science, IT & Communications, Education & Learning"
+}

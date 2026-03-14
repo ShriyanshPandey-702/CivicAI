@@ -1,0 +1,39 @@
+{
+  "id": "krishi-unnati-yojana-movcdner-1681",
+  "name": "Krishi Unnati Yojana - MOVCDNER",
+  "slug": "krishi-unnati-yojana-movcdner",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "one_time",
+  "benefit_description": "Developing crop specific organic production cluster Clusters development and formation of Farmer Producer Organizations/ Companies Crop/commodity-specific production clusters will be developed in a concentrated mode for ease in training, hand holding, certification and collection and aggregation. Fa",
+  "details": "About Realizing the potential of organic farming in the North Eastern Region of the country Ministry of Agriculture and Farmer Welfare has launched a Central Sector Scheme entitled “Mission Organic Value Chain Development for North Eastern Region\" for implementation in the states of Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim and Tripura, during the 12th plan period. The scheme aims at development of certified organic production in a value chain mode to link growers w",
+  "eligibility_text": "Value Chain Post Harvest Financial assistance for setting up of functional infrastructure for collection units, grading units and North East organic bazaar (NE organic Bazaar) State lead agencies will facilitate FPCs for development of functional infrastructure for collection and grading units under the ownership of FPCs through technical consultancies and hired experts. NE organic Bazaar will be",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 400-75 years",
+      "field": "age",
+      "min": 400,
+      "max": 75
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Subsidy application procedure State Lead Agency (SLA) shall be responsible for selection of eligible participants/ beneficiaries in the scheme. The beneficiary selection process to be adopted by the S",
+  "tags": [
+    "Krishi",
+    "Unnati",
+    "KUY",
+    "MOVCDNER"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment"
+}

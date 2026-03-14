@@ -1,0 +1,69 @@
+{
+  "id": "pradhan-mantri-matru-vandana-y-2430",
+  "name": "Pradhan Mantri Matru Vandana Yojana",
+  "slug": "pradhan-mantri-matru-vandana-yojana",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "The cash incentives is provided in two instalments for the first child as per the schedule provided in table below: Scheme Condition for First Child Instalment Conditions Amount (in Rs.) First Instalment On registration of pregnancy and at least one Antenatal checkup within six months from last mens",
+  "details": "The Pradhan Mantri Matru Vandana Yojana (PMMVY) is a Centrally Sponsored flagship scheme by the Ministry of Women and Child Development, Government of India, designed to support pregnant women and lactating mothers. The scheme is to provide maternity benefits to women belonging to socially and economically disadvantaged sections of society. The maternity benefit is to be provided to a woman for the first two living children provided the second child is a girl. For the first child the maternity b",
+  "eligibility_text": "The applicant should be of at least 19 years old and a pregnant women. The applicant should be employed and experiencing wage-loss due to the pregnancy. The scheme is applicable only for the first live birth. Eligible beneficiary can apply for the benefit under PMMVY scheme within 270 days from the child birth. If a beneficiary delivers twins/ triplets/ quadruplets in her second pregnancy, with on",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 270-40 years",
+      "field": "age",
+      "min": 270,
+      "max": 40
+    },
+    {
+      "criterion": "Annual income below ₹800,000",
+      "field": "income",
+      "max": 800000
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "ration_card",
+    "birth_cert"
+  ],
+  "application_url": "Citizen visit the official website of the Ministry and click on the Citizen login tab. Enter mobile number and verify. Then enter details like Full Name, State, District, Area, Block, Village and rela",
+  "tags": [
+    "Maternity Benefit Programme",
+    "Financial Assistance",
+    "Pregnant Women",
+    "Cash Incentive",
+    "Good Nutrition"
+  ],
+  "scheme_category_raw": "Health & Wellness, Social welfare & Empowerment, Utility & Sanitation, Women and Child"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "dr-ambedkar-central-sector-sch-0785",
+  "name": "Dr Ambedkar Central Sector Scheme of Interest Subsidy on Educational Loans for Overseas Studies for Other Backward Classes (OBCs) and Economically Backward Classes (EBCs)",
+  "slug": "dr-ambedkar-central-sector-scheme-of-interest-subsidy-on-educational-loans-for-o",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 2000000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Under the scheme, interest payable by the students availing the education loans of the IBA for the period of moratorium (i.e. course period, plus one year or six months after getting a job, whichever is earlier) as prescribed under the Education Loan Scheme of the IBA, shall be borne by the Governme",
+  "details": "\"Dr Ambedkar Central Sector Scheme of Interest Subsidy on Educational Loans for Overseas Studies for Other Backward Classes (OBCs) and Economically Backward Classes (EBCs)\" is an Education Loan Scheme by the Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment. ﻿ Implementing Agency The Scheme will be implemented by the Nodal Bank as per the MoU between the Banks and the Ministry of Social Justice & Empowerment. ﻿ Scope The scheme provides interest subsidy to",
+  "eligibility_text": "The applicant should be a Student. The student should have secured admission in the approved course at Masters, M.Phil or PhD levels abroad for the listed courses . The applicant should have availed loan from a scheduled bank under the Education Loan Scheme of the Indian Banks Association (IBA) for the purpose. The total income of the applicant (from all sources) shall not exceed ₹ 8,00,000 per an",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹800,000",
+      "field": "income",
+      "max": 800000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook"
+  ],
+  "application_url": "Step 1: The interest Subsidy shall be linked with the existing Educational Loan Scheme of the Indian Banks Association (IBA) and restricted to students enrolled for courses at Master, M.Phil and PhD l",
+  "tags": [
+    "Loan",
+    "Subsidy",
+    "Interest",
+    "Education",
+    "Other Backward Class",
+    "Economically Backward Class"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment, Banking,Financial Services and Insurance"
+}

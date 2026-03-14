@@ -1,0 +1,34 @@
+{
+  "id": "swarnajayanti-fellowships-sche-3128",
+  "name": "Swarnajayanti Fellowships Scheme",
+  "slug": "swarnajayanti-fellowships-scheme",
+  "ministry": "",
+  "category": "science",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 25000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The award consists of a Fellowship of ₹25,000/- per month in addition to the salary drawn from the parent Institute for a period of 5 years. The fellows selected along with their projects will be considered for funding by the Science & Engineering Research Board (SERB) as per SERB norms, for fellows",
+  "details": "The Government of India had instituted a scheme \"Swarnajayanti Fellowships Scheme\" to commemorate India's fiftieth year of Independence. Under this scheme, a selected number of young scientists, with a proven track record, are provided special assistance and support to enable them to pursue basic research in frontier areas of science and technology. Scientists selected for the award will be allowed to pursue unfettered research with freedom and flexibility in terms of expenditure as approved in",
+  "eligibility_text": "The fellowship is open to Indian Nationals having a regular position in a recognized Indian academic/research organization. The applicant should possess a Ph.D. in Science/Engineering/Medicine and should not be drawing Fellowship from any other Scheme of Government of India. Scientists should be active in the frontier area of science and engineering with outstanding contributions in the form of re",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 30-40 years",
+      "field": "age",
+      "min": 30,
+      "max": 40
+    }
+  ],
+  "documents_required": [
+    "aadhaar"
+  ],
+  "application_url": "Step 01: Applications for the “SwarnaJayanti Fellowships Scheme” are invited from eligible candidates in the format as given on DST online portal. Step 02: Candidates may log on to https://onlinedst.g",
+  "tags": [
+    "Swarnajayanti",
+    "Fellowship",
+    "Young Scientist",
+    "Research",
+    "PhD"
+  ],
+  "scheme_category_raw": "Science, IT & Communications"
+}

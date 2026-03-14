@@ -1,0 +1,44 @@
+{
+  "id": "pradhan-mantri-ujjwala-yojana-2436",
+  "name": "Pradhan Mantri Ujjwala Yojana",
+  "slug": "pradhan-mantri-ujjwala-yojana",
+  "ministry": "",
+  "category": "women",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1600,
+  "benefit_frequency": "annual",
+  "benefit_description": "Rs. 1600 for a connection 14.2kg cylinder or Rs. 1150 for a 5 kg cylinder. Additionally, All PMUY beneficiaries will be provided with first LPG refill and Stove (hot plate) both free of cost along with their deposit free connection. ﻿ Note: Priority would be given to the states which have lower LPG",
+  "details": "In May 2016, the Ministry of Petroleum and Natural Gas (MOPNG), introduced the ‘Pradhan Mantri Ujjwala Yojana’ (PMUY) as a flagship scheme with an objective to make clean cooking fuel such as LPG available to the rural and deprived households which were otherwise using traditional cooking fuels such as firewood, coal, cow-dung cakes etc. Usage of traditional cooking fuels had detrimental impacts on the health of rural women as well as on the environment. The scheme was launched on 1st May 2016 i",
+  "eligibility_text": "An adult woman belonging to a poor household and not having an LPG connection in her household will be eligible under UJJWALA 2.0. The beneficiaries should belong to any of the following categories: Eligible as per SECC 2011 list Belongs to SC/ST households, be a beneficiary of Pradhan Mantri Awas Yojana (PMAY), Antyodaya Anna Yojana (AAY), Forest dwellers, Most Backward Classes (MBC), Tea and Ex-",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be 18 years or older",
+      "field": "age",
+      "min": 18
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "ration_card"
+  ],
+  "application_url": "Following are the prerequisites for the enrollment process: Aadhar Card Ration card Address Proof Passport size photograph Bank Details Apply the application form through online official website . Sel",
+  "tags": [
+    "Ujjwala",
+    "Women",
+    "BPL",
+    "Gas Cylinder",
+    "LPG Cylinder"
+  ],
+  "scheme_category_raw": "Utility & Sanitation, Women and Child"
+}

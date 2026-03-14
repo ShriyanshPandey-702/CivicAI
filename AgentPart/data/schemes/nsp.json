@@ -1,0 +1,34 @@
+{
+  "name": "NSP Scholarships",
+  "category": "education",
+  "description": "Centralized scholarships for pre-matric, post-matric, and higher education",
+  "eligibility_rules": {
+    "max_income": 200000,
+    "min_age": 5,
+    "max_age": 30,
+    "caste": ["general", "obc", "sc", "st", "ews"],
+    "states": ["all"],
+    "occupation": ["student", "all"],
+    "requires_land": false,
+    "min_land_acres": 0,
+    "additional_rules": [
+      "Must have 50% marks in previous exam"
+    ]
+  },
+  "required_docs": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "mark_sheet"
+  ],
+  "benefit_amount": 5000,
+  "benefit_description": "Annual scholarship varying by course and grade level",
+  "portal_url": "https://scholarships.gov.in",
+  "deep_eligibility_questions": [
+    {
+      "field": "has_50_percent_marks",
+      "question": "Did the student secure at least 50% marks in their previous final examination?",
+      "type": "yes_no"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "indo-french-postdoctoral-resea-1460",
+  "name": "Indo-French Postdoctoral Research Programme for Women in Science",
+  "slug": "indo-french-postdoctoral-research-programme-for-women-in-science",
+  "ministry": "",
+  "category": "women",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 90000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "For Indian National: Fellowship Euros 2000/- per month along with miscellaneous allowances. To and Fro International travel between India and France. For French National: Fellowship ₹90,000/- per month along with miscellaneous allowances. To and Fro International travel between France and India.",
+  "details": "The “Indo-French Postdoctoral Research Programme for Women in Science (PROWIS-I)” is dedicated to the young women scientists of both India and France. This programme will provide a platform for women candidates to engage & work with Indian/French scientific communities with an aim to accelerate their talented instincts towards carrying out advanced studies and research in the frontier areas of Science & Technology. Duration of Fellowship: The duration of the Fellowship will be for a period of th",
+  "eligibility_text": "Women applicants must be Indian or French citizens (citizens residing in France) from a recognized university or research institution in India/France. Indian applicants should be holding a PhD degree & sanctioned/tenured post in a scientific/academic institution and willing to undertake collaborative research projects in French institutions/universities are eligible to apply. French women applican",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "The eligible candidates need to register and apply at https://www.cefipra.org/ or log on to: https://cefipra.org/prowiss/ ﻿",
+  "tags": [
+    "Postdoctoral",
+    "Research",
+    "Woman",
+    "Science",
+    "French",
+    "Fellowship",
+    "CEFIPRA"
+  ],
+  "scheme_category_raw": "Science, IT & Communications, Women and Child"
+}

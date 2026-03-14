@@ -1,0 +1,52 @@
+{
+  "id": "post-matric-scholarship-studen-2388",
+  "name": "Post Matric Scholarship Students With Disabilities",
+  "slug": "post-matric-scholarship-students-with-disabilities",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Maintenance Allowance (₹ per Month): ﻿ Group 1: All Bachelor’s/Post-Graduate Degree Courses in Medicine, Engineering/Technology, Planning/Architecture, Fashion Technology, Management, Business/Finance Administration, Computer Science/Applications, Agriculture, Veterinary and Allied Sciences; Hostell",
+  "details": "A scholarship scheme by DoEPwD for students with disabilities pursuing a post-matric qualification from UGC/AICTE recognized universities, i.e. students of Class 11th, Class 12th, including Polytechnics, Post-Matriculation Diploma/Certificates and Bachelor’s Degree/Diploma in India and Master’s Degree/Diploma. ﻿ The students with the specified disabilities defined in Schedule of the \"Rights of Persons with Disabilities Act, 2016\" will be eligible under this scheme. This includes persons with vis",
+  "eligibility_text": "The applicant must be a student. The applicant must be pursuing a post-matric qualification, i.e. Class 11th, Class 12th, including Polytechnics, Post-Matriculation Diploma/Certificates and Bachelor’s Degree/Diploma in India and Master’s Degree/Diploma. The applicant must be disabled, with disability percentage of 40% or above. The Total Annual income of parents/guardians of the applicant (from al",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 40-2 years",
+      "field": "age",
+      "min": 40,
+      "max": 2
+    },
+    {
+      "criterion": "Annual income below ₹200,000",
+      "field": "income",
+      "max": 200000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    }
+  ],
+  "documents_required": [
+    "income_cert"
+  ],
+  "application_url": "Step 1: Keep ready the soft copies of the required documents. Go to http://www.scholarships.gov.in/. and click “New Registration”. Guidelines for Registration will appear. Scroll to the bottom. Read c",
+  "tags": [
+    "Persons With Disability",
+    "Post-Matric",
+    "Student",
+    "Scholarship",
+    "Diploma",
+    "Degree",
+    "Graduation",
+    "Post-Graduation"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

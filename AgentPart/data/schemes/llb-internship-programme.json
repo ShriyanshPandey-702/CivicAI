@@ -1,0 +1,33 @@
+{
+  "id": "llb-internship-programme-1695",
+  "name": "LLB Internship Programme",
+  "slug": "llb-internship-programme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 5000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Honorarium The interns may be given an honorarium of ₹ 5,000/- on completion of their internship. Certificate On satisfactory completion of the internship, a Certificate of Internship shall be awarded.",
+  "details": "Ministry of Law and Justice under the Department of Justice (DoJ) has introduced an Internship Programme named \"LLB Internship Programme\" for young law students. The purpose of this Programme is to well acquaint young law students with the working of Department of Justice by giving training in the field of research & referencing work, in various specialized areas of justice delivery, such as:- Access to Justice (Tele-Law, Nyaya Bandhu, Legal Aid, Pro Bono Legal Services); e-Courts services; Fast",
+  "eligibility_text": "Indian students who have completed : 2nd year of study and have written the examination to enter 3rd year or; studying in the 3rd year of three-year degree course or; the students studying in the 4th year who have written examination to enter 5th year or; studying in the 5th year of five-year degree course.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Visit the official website of Department of Justice - LLB Internship Programme Online Application page: https://dashboard.doj.gov.in/internship/ ﻿ ﻿ ﻿ Fill the complete application form by choosing th",
+  "tags": [
+    "Internship",
+    "Law Students",
+    "Research",
+    "Access To Justice"
+  ],
+  "scheme_category_raw": "Education & Learning, Public Safety,Law & Justice, Skills & Employment"
+}

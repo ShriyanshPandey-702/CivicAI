@@ -1,0 +1,32 @@
+-- Run this SQL in your Supabase SQL editor to add all new profile columns.
+-- These columns were added to the CLI profile collection but were missing from the database schema.
+
+ALTER TABLE citizen_profiles
+ADD COLUMN IF NOT EXISTS gender text,
+ADD COLUMN IF NOT EXISTS marital_status text,
+ADD COLUMN IF NOT EXISTS ration_card_type text,
+ADD COLUMN IF NOT EXISTS has_bank_account boolean,
+ADD COLUMN IF NOT EXISTS has_disability boolean,
+ADD COLUMN IF NOT EXISTS land_ownership text,
+ADD COLUMN IF NOT EXISTS crop_type text,
+ADD COLUMN IF NOT EXISTS irrigation_type text,
+ADD COLUMN IF NOT EXISTS kisan_credit_card boolean,
+ADD COLUMN IF NOT EXISTS soil_health_card boolean,
+ADD COLUMN IF NOT EXISTS education_level text,
+ADD COLUMN IF NOT EXISTS institution_type text,
+ADD COLUMN IF NOT EXISTS course_type text,
+ADD COLUMN IF NOT EXISTS previous_scholarship boolean,
+ADD COLUMN IF NOT EXISTS hosteller text,
+ADD COLUMN IF NOT EXISTS work_type text,
+ADD COLUMN IF NOT EXISTS eshram_registered boolean,
+ADD COLUMN IF NOT EXISTS has_epfo boolean,
+ADD COLUMN IF NOT EXISTS business_type text,
+ADD COLUMN IF NOT EXISTS existing_mudra_loan boolean,
+ADD COLUMN IF NOT EXISTS udyam_registered boolean,
+ADD COLUMN IF NOT EXISTS job_seeker_registered boolean,
+ADD COLUMN IF NOT EXISTS seeking_skill_training boolean,
+ADD COLUMN IF NOT EXISTS has_children boolean,
+ADD COLUMN IF NOT EXISTS youngest_child_age integer,
+ADD COLUMN IF NOT EXISTS disability_type text,
+ADD COLUMN IF NOT EXISTS disability_percentage text,
+ADD COLUMN IF NOT EXISTS disability_certificate boolean;

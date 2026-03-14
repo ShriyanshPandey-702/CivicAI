@@ -1,0 +1,46 @@
+{
+  "id": "national-fellowship-scholarshi-2155",
+  "name": "National Fellowship & Scholarship For Higher Education Of Scheduled Tribe (ST) Students",
+  "slug": "national-fellowship-scholarship-for-higher-education-of-scheduled-tribe-st-stude",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 31000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "A. Value of Fellowship: The applicant selected for the scholarship will be entitled to the stipend as stipulated in the following table subject to fulfillment of conditions laid down in the scheme. 1. Course: M.Phil Stream: Humanities & Social Sciences Scholarship Monthly: Rs.31000/- Contingency Ann",
+  "details": "Part-A: Fellowship Scheme The National Fellowship Scheme is a Central Sector Scheme by the Ministry of Tribal Affairs with the objective to provide financial assistance to meritorious students from Scheduled Tribes to enable them to pursue higher education (M.Phil or Ph.D.) after completing a post-graduate degree (Master's degree). Salient Features of the Scheme - Fellowship under the Scheme will be for pursuing MPhil, Ph.D. by those ST students who have passed the Post-graduation/Master's Degre",
+  "eligibility_text": "Part-A: Fellowship Scheme 1. Eligibility Criteria and Course Duration Eligibility:- (i) Post-Graduation and should have taken admission in the universities covered under the category. (ii) The candidates should have a minimum of 55% marks at the final examination/grading at the PG level. (iii) There are no income criteria for eligibility in respect of this scholarship. (iv) The Maximum Age limit i",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 36-2 years",
+      "field": "age",
+      "min": 36,
+      "max": 2
+    },
+    {
+      "criterion": "Annual income below ₹600,000",
+      "field": "income",
+      "max": 600000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "I. Fellowship Scheme A. Registration Process for Digi locker:- (Only for those who have their Digilocker IDs) The applicant whose account is not on Digi Locker will have to first register his/her new ",
+  "tags": [
+    "Financial Assistance",
+    "Fellowship",
+    "Scholarship",
+    "Scheduled Tribe"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

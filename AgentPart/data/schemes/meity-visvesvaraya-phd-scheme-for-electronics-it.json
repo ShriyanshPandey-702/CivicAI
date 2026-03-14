@@ -1,0 +1,45 @@
+{
+  "id": "meity-visvesvaraya-phd-scheme--1893",
+  "name": "MeitY - Visvesvaraya PhD Scheme For Electronics & IT",
+  "slug": "meity-visvesvaraya-phd-scheme-for-electronics-it",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 31500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Full-Time Ph.D. Candidates Fellowship: ₹ 31,500/- per month (I & II years); ₹ 35,000/-(III to V year); revised to 38,750/- per month (I & II years); ₹ 43,750/-(III to V year). Annual Contingency Grant support of ₹ 30,000/- per year. Following items may be booked under 'Annual Contingency grant/suppo",
+  "details": "A scholarship scheme by the Ministry of Electronics and Information Technology with an objective to enhance the number of PhDs in Electronics System Design & Manufacturing (ESDM) and IT/IT Enabled Services (IT/ITES) sectors in the country. Cabinet Committee on Economic Affairs (CCEA) approved the scheme in 2014 for a period of nine years with a total estimated cost of ₹ 466 crores. The duration of the scheme is five years for the purpose of selecting candidates for support under the scheme. Howe",
+  "eligibility_text": "[The Eligibility Criteria for this scheme vary with the institute] ﻿ Eligibility Criteria for the Applicant Minimum Grade Point Average of 6.5/10 or 60% (55% marks for SC/ST) of marks in M.E./M.Tech/M.S. in Electronics/Communications/ComputerScience/Instrumentation/Biomedical/Mechanical/Microelectronics/Solid-state Technology/MEMS/Nano Science/Nano Technology/Material Science/Engineering Physics o",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 6-6 years",
+      "field": "age",
+      "min": 6,
+      "max": 6
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "birth_cert"
+  ],
+  "application_url": "[the application process varies with the institute] ﻿ Step 1: The applicant should take print of the application form hosted on the institute's website. Step 2: The applicant should duly fill the mand",
+  "tags": [
+    "Fellowship",
+    "PhD"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

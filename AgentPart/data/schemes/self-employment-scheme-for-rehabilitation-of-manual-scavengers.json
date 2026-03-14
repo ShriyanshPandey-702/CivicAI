@@ -1,0 +1,29 @@
+{
+  "id": "self-employment-scheme-for-reh-2895",
+  "name": "Self Employment Scheme For Rehabilitation Of Manual Scavengers",
+  "slug": "self-employment-scheme-for-rehabilitation-of-manual-scavengers",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 40000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Identified manual scavengers, one from each family, are provided one-time cash assistance of ₹ 40,000. The identified manual scavengers and their dependents are provided project-based upfront capital subsidy up to ₹ 5,00,000 and concessional loans for undertaking self-employment ventures. Sanitation",
+  "details": "The Self Employment Scheme for Rehabilitation of Manual Scavengers (SRMS) was introduced in January 2017 by the Ministry of Social Justice and Empowerment, to assist the identified manual scavengers and their dependants in rehabilitation in alternative occupations. SRMS was revised in November 2013 in consonance with the provision of the “Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013 (MS Act, 2013).",
+  "eligibility_text": "The applicant should be engaged or employed as a Manual Scavenger by an individual or a local authority or an agency or a contractor (as identified during the survey conducted by State Governments & allotted MS-ID/Receipt No. and their dependents). Sanitation Workers and their dependents are eligible only for assistance for sanitation-related self-employment projects.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Application for One-Time Cash Assistance (OTCA) -  Identification of manual scavengers is done by the concerned State Governments through surveys by the Urban Local Bodies/Gram Panchayats.",
+  "tags": [
+    "Employment",
+    "Rehabilitation",
+    "Scavengers",
+    "Financial Assistance",
+    "Loan",
+    "Subsidy"
+  ],
+  "scheme_category_raw": "Skills & Employment, Social welfare & Empowerment, Education & Learning"
+}

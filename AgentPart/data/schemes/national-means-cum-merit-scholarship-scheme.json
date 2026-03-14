@@ -1,0 +1,49 @@
+{
+  "id": "national-means-cum-merit-schol-2171",
+  "name": "National Means-Cum-Merit Scholarship Scheme",
+  "slug": "national-means-cum-merit-scholarship-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Under this scheme, 1,00,000 fresh scholarships @ Rs. 12,000/- per annum (₹1,000 per month) are awarded to meritorious students every year at the Class IX level, which can be continued up to Class 12th. The sanction of funds will be done from the Annual Budget Provision for releasing them to SBI, the",
+  "details": "A scholarship scheme by the Department of School Education & Literacy, Ministry of Education wherein 1,00,000 scholarships is offered to the gifted or meritorious students whose parental income is not more than ₹3,50,000/- per annum from all sources at the time of selection of awardees for a scholarship. Each State /UT has a fixed quota of scholarships for the concerned age group of class 7th and 8th. The scheme will provide reservations to different categories of students as per the State/UT no",
+  "eligibility_text": "For Fresh Applications: The parental income of the applicant (from all sources) should be ₹3,50,000 per annum. The applicant must be studying as a regular student and entering class  9th in a government, Government-aided, local body school. A separate examination shall be conducted by the State Governments/UT Administrations for the selection of students for the award of the National Means-cum-Mer",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 8-2 years",
+      "field": "age",
+      "min": 8,
+      "max": 2
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "income_cert",
+    "caste_cert",
+    "bank_passbook",
+    "address_proof",
+    "disability_cert"
+  ],
+  "application_url": "New Registration : Step 1: Visit the Registration page of the National Scholarships Portal. Step 2: Guidelines for Registration will appear. Scroll to the bottom. Read carefully the undertaking. Accep",
+  "tags": [
+    "Scholarship",
+    "Economically Weaker Sections"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

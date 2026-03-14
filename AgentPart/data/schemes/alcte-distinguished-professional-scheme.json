@@ -1,0 +1,28 @@
+{
+  "id": "alcte-distinguished-profession-0216",
+  "name": "AlCTE - Distinguished Professional Scheme",
+  "slug": "alcte-distinguished-professional-scheme",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 15000,
+  "benefit_frequency": "annual",
+  "benefit_description": "Honorarium of ₹15,000 per day for full-day interaction with faculty members/students. Travel and local hospitality arrangements will be managed by the host institution. Professionals are encouraged to visit at least three rural institutions per year.",
+  "details": "The All India Council for Technical Education (AICTE), under the Ministry of Education, has launched the AICTE-Distinguished Professionals Scheme. This initiative aims to enhance the quality of technical education in India by leveraging the expertise of professionals, emeritus professors, and eminent personalities. Objective: The Distinguished Professional Scheme (DPS) intends to utilize the expertise of highly qualified and eminent professionals by creating a pool of experts from industry, inst",
+  "eligibility_text": "The applicant must have made unparalleled technical or professional contributions to society in their respective fields. The applicant should have acknowledged leader (Professionals) in their particular field with active engagement in research, technology development, and innovation. The applicant should conduct 2 visits per month with a maximum of 12 visits per year.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Apply Procedure: Step 1: The interested applicant needs to fill a Google Form to apply for the scheme. Step 2: Fill in the required information and upload all the essential documents. Selection Proced",
+  "tags": [
+    "AICTE",
+    "Student",
+    "Honorarium",
+    "Technical Education",
+    "Professors"
+  ],
+  "scheme_category_raw": "Education & Learning, Skills & Employment, Science, IT & Communications"
+}

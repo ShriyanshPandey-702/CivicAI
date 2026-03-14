@@ -1,0 +1,45 @@
+{
+  "id": "internship-programme-for-women-1526",
+  "name": "Internship Programme for Women Students / Scholars / Social Activists / Teachers",
+  "slug": "internship-programme-for-women-students-scholars-social-activists-teachers",
+  "ministry": "",
+  "category": "women",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 20000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Each intern would be provided a lump sum stipend of ₹20,000/- per month and reimbursement of travel cost (by Deluxe/AC Bus/3 Tier AC Train) for joining of the programme in the Ministry and return back home at the end of the programme. Interns proceeding on tour as part of the programme would be reim",
+  "details": "The Ministry of Women and Child Development launched the Internship Programme aims to tap the talent of the interns, giving them an opportunity to work for infusing further efficiency in implementation of schemes as also deliberate on its policies through different assignments. The Internship Programme would provide a common platform for meaningful interaction and space for research related to Government programs/initiatives. This Programme is expected to yield promptness in bridging possible in",
+  "eligibility_text": "The women students, scholars, social activists and teachers from non-tier-I cities and rural parts of India will be eligible for the programme. The women students, scholars, social activists, teachers (herein after referred to as interns) need to be enrolled in/associated with any university/academic/non-academic institution. The age of the applicant should be between 21 to 40 years.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 21-40 years",
+      "field": "age",
+      "min": 21,
+      "max": 40
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "address_proof"
+  ],
+  "application_url": "Registration Applicant have to visit the official portal . Click on the Register button, from the top menu. Provide the below required details. Name Date of Birth Gender State District City E-Mail Mob",
+  "tags": [
+    "Internship Programme",
+    "Women Student",
+    "Teachers",
+    "Scholars",
+    "Opportunity",
+    "Social Activist"
+  ],
+  "scheme_category_raw": "Women and Child"
+}

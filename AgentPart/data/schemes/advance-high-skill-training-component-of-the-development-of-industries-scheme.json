@@ -1,0 +1,36 @@
+{
+  "id": "advance-high-skill-training-co-0029",
+  "name": "\"Advance / High Skill Training\" Component of the \"Development of Industries\" Scheme",
+  "slug": "advance-high-skill-training-component-of-the-development-of-industries-scheme",
+  "ministry": "",
+  "category": "employment",
+  "level": "State",
+  "state": "",
+  "benefit_amount": 2500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Skill Training Selected candidates are sponsored to training in relevant courses offered by reputed Training Institutions situated in the neighbouring states. Stipend to Trainee (per month) Higher Secondary / ITI: ₹ 2,500/-. Any Graduate or 3 years Diploma in Engineering or equivalent: ₹ 3,000/-. Tr",
+  "details": "The \"Advance / High Skill Training\" Component of the \"Development of Industries\" Scheme by the District Industries Centre, Department of Industries and Commerce, Union Territory of Puducherry aims to enhance the skill of those who have completed the basic training and are interested in advanced training in their trade or the candidates having technical qualification who are willing to undergo some special high skilled training to start their ventures or to get suitable employment opportunity in",
+  "eligibility_text": "The applicant should be between 18 and 35 years of age. The applicant should possess the educational qualification as prescribed by the Training Units/ Institutions. The applicant should be a native of the Union Territory of Puducherry (or) continuous resident of the area for the past three years.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof",
+    "birth_cert"
+  ],
+  "application_url": "Step 1: The interested applicant should take print of the prescribed format of the application form. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photogr",
+  "tags": [
+    "Skill",
+    "Training",
+    "Youth",
+    "Employment",
+    "Stipend",
+    "ITI"
+  ],
+  "scheme_category_raw": "Skills & Employment"
+}

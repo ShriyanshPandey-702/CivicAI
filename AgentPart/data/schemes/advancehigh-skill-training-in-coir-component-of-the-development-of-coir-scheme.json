@@ -1,0 +1,41 @@
+{
+  "id": "advancehigh-skill-training-in--0030",
+  "name": "\"Advance/High Skill Training in Coir\" Component of the \"Development of Coir\" Scheme",
+  "slug": "advancehigh-skill-training-in-coir-component-of-the-development-of-coir-scheme",
+  "ministry": "",
+  "category": "employment",
+  "level": "State",
+  "state": "",
+  "benefit_amount": 2500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Trainees receive a stipend of ₹2,500 per month. Accommodation charges for trainees are ₹500 per month. Travelling allowance covers to-and-fro 2nd class sleeper train fare. Full course fees are paid to the training units/institutions as prescribed.",
+  "details": "The \"Advance/High Skill Training in Coir\" Component of the \"Development of Coir\" Scheme by the Department of Industries and Commerce, Union Territory of Puducherry, aims to enhance the skills of Coir artisans and interested individuals. The objective is to acquire the latest skills and modern technologies through advanced/high-skilled training available across various locations in India, offering valuable benefits to eligible candidates.",
+  "eligibility_text": "The applicant must either be a native of Puducherry or have been a continuous resident for the past 3 years. The age limit for applicants is between 18 to 35 years. Educational qualifications should meet the standards specified by the Training Units/Institutions. Candidates who have already undergone this training are not eligible to apply. ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-35 years",
+      "field": "age",
+      "min": 18,
+      "max": 35
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "address_proof",
+    "birth_cert"
+  ],
+  "application_url": "Step 1: The interested applicant should take print of the prescribed format of the application form. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photogr",
+  "tags": [
+    "Training",
+    "Skill",
+    "Coir",
+    "Accomodation",
+    "Allowance",
+    "Trainee"
+  ],
+  "scheme_category_raw": "Skills & Employment"
+}

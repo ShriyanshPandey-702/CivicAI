@@ -1,0 +1,37 @@
+{
+  "id": "credit-based-schemes-for-sc-aa-0635",
+  "name": "Credit Based Schemes For SC - Aajeevika Micro-Finance Yojana (Livelihood Microfinance Scheme)",
+  "slug": "credit-based-schemes-for-sc-aajeevika-micro-finance-yojana-livelihood-microfinan",
+  "ministry": "",
+  "category": "finance",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 140000,
+  "benefit_frequency": "quarterly",
+  "benefit_description": "Financial Assistance up to 90% of Project Cost of Rs. 1,40,000 for small income-generating activities at  Interest rates  chargeable at  11% (10% for Women) ﻿ Repayment Period Within 3 and ½ years, in quarterly installments from the date of each disbursement including the moratorium period. The loan",
+  "details": "Micro finance scheme by Ministry of Social justice and Empowerment for Entrepreneur of Scheduled Caste Category. ﻿ Objective To provide prompt and need-based micro finance to eligible scheduled caste persons at a reasonable interest rate through NBFC-MFIs to pursue small/micro business activities. ﻿ Financial Assistance up to 90% of Project Cost of Rs. 1,40,000 for small income-generating activities at  Interest rates  chargeable at 11% (10% for Women) ﻿ Eligibility of Non-Banking Financial Comp",
+  "eligibility_text": "The scheme is for entrepreneurs of the Scheduled Caste Category. ﻿ ﻿",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook"
+  ],
+  "application_url": "The interested eligible person shall contact the nearest Channeling Agency (https://nsfdc.nic.in/channel-patrners/ ) . ﻿ Indicative Format ﻿ Https://Nsfdc.Nic.In/UploadedFiles/Other/Form/Termloan-Engl",
+  "tags": [
+    "Entrepreneur",
+    "Scheduled Caste"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Banking,Financial Services and Insurance, Social welfare & Empowerment"
+}

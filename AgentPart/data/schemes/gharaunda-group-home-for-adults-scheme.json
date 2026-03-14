@@ -1,0 +1,38 @@
+{
+  "id": "gharaunda-group-home-for-adult-1186",
+  "name": "Gharaunda-Group Home for Adults Scheme",
+  "slug": "gharaunda-group-home-for-adults-scheme",
+  "ministry": "",
+  "category": "social_welfare",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "An assured home and minimum quality of care services throughout the life of the PwD. Adequate and quality care service with acceptable living standards including provision of basic medical care from professional doctors. Vocational activities, pre-vocational activities and assistance for further tra",
+  "details": "Gharaunda-Group Home for Adults scheme, launched by the Department of Empowerment of Persons with Disabilities,aims at setting up Gharaunda Centres or Registered Organisations (RO) for for all Adult PwDs covered under the National Trust Act with adequate and quality care service with acceptable living standards including provision of basic medical care from professional doctors. ﻿ The objective of Gharaunda scheme is to provide an assured home and minimum quality of care services throughout the",
+  "eligibility_text": "Eligibility criteria for the PwD: PwD should be more than 18 years of age. PwD should have one of the disabilities under the National Trust Act, 1999, which are Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities. ﻿ Eligibility criteria for Registered Organization: Applicant should be registered with the National Trust. Applicant should have a valid registration under the PwD Act",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 1999-1995 years",
+      "field": "age",
+      "min": 1999,
+      "max": 1995
+    }
+  ],
+  "documents_required": [
+    "income_cert",
+    "bank_passbook",
+    "address_proof",
+    "birth_cert",
+    "disability_cert"
+  ],
+  "application_url": "Enrolment of PwD at the Gharaunda Centre Step 1: PwD arrives at or is brought to the Gharaunda Centre. ﻿ Step 2: Gharaunda Centre conducts an Individual PwD Assessment Test with a Therapist or Counsel",
+  "tags": [
+    "Person With Disability",
+    "Respite And Residential Care",
+    "Group Home",
+    "Life Long Shelter",
+    "Abandoned"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment"
+}

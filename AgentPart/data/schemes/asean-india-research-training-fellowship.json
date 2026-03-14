@@ -1,0 +1,42 @@
+{
+  "id": "asean-india-research-training--0130",
+  "name": "ASEAN-India Research Training Fellowship",
+  "slug": "asean-india-research-training-fellowship",
+  "ministry": "",
+  "category": "science",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "1.\t Full financial assistance will be provided to the selected Fellows which includes the following:- a) Round trip international airfare by lowest economy class and by the shortest route from the international airport in the home country of the applicant to the international airport nearest to the",
+  "details": "The “ASEAN-India Research Training Fellowship (AI-RTF)” is a fellowship scheme initiated by the Department of Science & Technology (DST), Government of India. The scheme is launched as an initiative under the ASEAN-India Science & Technology Development Fund (AISTDF) to support young talented researchers/scientists of ASEAN member countries (namely Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam) to carry out research at any of th",
+  "eligibility_text": "Indian nationals are not eligible for the Fellowship. Applicant must be holding the nationality of any of the ASEAN Member Countries. Applicant should possess at least a Master’s Degree in any Natural Sciences or an equivalent degree in Technology/Engineering/Medicine / allied disciplines. Applicant should be working/studying and/or affiliated with any national R&D or academic institution in his/h",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 45-01 years",
+      "field": "age",
+      "min": 45,
+      "max": 1
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 01: The applications are to be submitted only ONLINE at www.aistic.gov.in . Step 02: Applicants should first register in the ASEAN online portal. Click here to register ﻿ Step 03: After successfu",
+  "tags": [
+    "ASEAN",
+    "Research",
+    "Fellowship",
+    "FICCI",
+    "Science",
+    "Technology",
+    "Innovation"
+  ],
+  "scheme_category_raw": "Science, IT & Communications"
+}

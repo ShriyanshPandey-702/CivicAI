@@ -1,0 +1,41 @@
+{
+  "id": "centrally-sponsored-scheme-of--0502",
+  "name": "Centrally Sponsored Scheme of Pre-matric Scholarship to Other Backward Classes (OBC) for Studies in India",
+  "slug": "centrally-sponsored-scheme-of-pre-matric-scholarship-to-other-backward-classes-o",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Scholarship Hostellers: Class 3rd to 10th: ₹ 500/- per month for 10 months. Day Scholars: Class 1st to 10th: ₹ 100/- per month for 10 months. Ad-Hoc Grant An ad-hoc grant of ₹ 500/- per student per annum to all students i.e. hostlers as well as day scholars will also be given. ﻿ The scholarship amou",
+  "details": "\"Centrally Sponsored Scheme of Pre-matric Scholarship to Other Backward Classes (OBC) for Studies in India\" is a Scholarship Scheme by the Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment. The objective is to award scholarships to school-going children of poorer OBC parents whose annual income is below double the poverty line. ﻿ Duration of Scholarship The scholarships may be given to the students enrolled in class 1st or any subsequent class of the pre-ma",
+  "eligibility_text": "The scholarship award will be sanctioned in the case of students whose parents/guardians' income from all sources does not exceed ₹ 2,50,000/- per annum. The scholarship will be tenable only in such institutions and for such pre-matriculation courses, which have been duly recognized by the concerned State Government and Union Territory Administrations. Regular attendance records of not less than 6",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹250,000",
+      "field": "income",
+      "max": 250000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "bank_passbook"
+  ],
+  "application_url": "Step 1: Visit the National Scholarship Portal . Here, you should click on the \"New Registration\" option. This will lead you to a set of guidelines for registration. Please scroll down to read the unde",
+  "tags": [
+    "Scholarship",
+    "Other Backward Class",
+    "OBC",
+    "Pre-Matric",
+    "Student"
+  ],
+  "scheme_category_raw": "Social welfare & Empowerment, Education & Learning"
+}

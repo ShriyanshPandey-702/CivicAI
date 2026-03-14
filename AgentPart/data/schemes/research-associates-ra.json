@@ -1,0 +1,37 @@
+{
+  "id": "research-associates-ra-2597",
+  "name": "Research Associates (RA)",
+  "slug": "research-associates-ra",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 55000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Stipend: RAs are awarded a fellowship of ₹55,000 per month, plus house rent allowance (HRA) and other benefits. The fellowship is tenable for two years, with the possibility of renewal for another two years based on satisfactory performance.",
+  "details": "The objective of DBT-Research Associateship (DBT-RA) Programme is to train and nurture young researchers, scientists and generate a critical mass of trained manpower in modern areas of biology and biotechnology and build a robust postdoctoral base for the growth of Biotechnology sectors in the country.",
+  "eligibility_text": "Applicant  must have Ph.D./ M.D./ M.S. degree in a relevant field. Applicant  must have good academic record. Age limit is 40 years for male candidates and 45 years for female candidates. Applicants who are employed can apply, but must relinquish their employment to accept the fellowship. The DBT-RA fellowship can be availed only once in a career.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 40-45 years",
+      "field": "age",
+      "min": 40,
+      "max": 45
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "birth_cert"
+  ],
+  "application_url": "Application for DBT-RA programme shall be by ONLINE mode only. To apply, interested applicants may kindly visit DBT-RA Online Portal https://ra.dbtindia.gov.in/ ﻿ Applicants must register on the DBT-R",
+  "tags": [
+    "Education",
+    "Employment",
+    "Bio-Technology"
+  ],
+  "scheme_category_raw": "Education & Learning, Skills & Employment"
+}

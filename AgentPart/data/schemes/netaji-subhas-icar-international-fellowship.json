@@ -1,0 +1,39 @@
+{
+  "id": "netaji-subhas-icar-internation-2208",
+  "name": "Netaji Subhas - ICAR International Fellowship",
+  "slug": "netaji-subhas-icar-international-fellowship",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Amount of Fellowship: 1.   To-and-fro, economy class air ticket for international travel, by the shortest route, from the airport, nearest to the residence/ workplace of the candidate to the airport, nearest to the destination University in respect of both Indian and Overseas candidates (Air tickets",
+  "details": "“Netaji Subhas - ICAR International Fellowship (NS-ICAR IF)” is a Fellowship Scheme by the Indian Council of Agricultural Research (ICAR), Department of Agricultural Research and Education (DARE), Ministry of Agriculture & Farmers Welfare. The objective is to develop competent human resource that are trained in the identified best laboratories in the world (for Indian candidates) and similarly expose overseas candidates to the best Indian Agricultural Universities (AUs) in the ICAR-AU system for",
+  "eligibility_text": "Master’s degree in agriculture/allied sciences with an Overall Grade Point Average (OGPA) 6.60 out of 10.0 or 65% marks or equivalent will be the eligibility requirement for the NS-ICAR IFs. The fresh candidates should not be more than 35 years of age on the last date prescribed for receipt of applications. The upper age limit for In-service candidates will be 40 years on the last date for receipt",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 6-35 years",
+      "field": "age",
+      "min": 6,
+      "max": 35
+    },
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "address_proof",
+    "birth_cert"
+  ],
+  "application_url": "The applications for NS-ICAR IFs will be invited on annual basis through announcements published in Indian national newspapers and the notification on ICAR website “http://www.icar.org.in”. Indian dip",
+  "tags": [
+    "Fellowship",
+    "Agriculture"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

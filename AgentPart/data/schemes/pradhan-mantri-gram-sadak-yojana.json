@@ -1,0 +1,32 @@
+{
+  "id": "pradhan-mantri-gram-sadak-yoja-2420",
+  "name": "Pradhan Mantri Gram Sadak Yojana",
+  "slug": "pradhan-mantri-gram-sadak-yojana",
+  "ministry": "",
+  "category": "agriculture",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "The benefits of the Pradhan Mantri Gram Sadak Yojana (PMGSY) are - 1.  All-weather connection to the hamlets that are least or not connected. 2.  Overall Development of the country allows for easy movement of goods and vehicles. 3.  There are better employment opportunities for those from villages t",
+  "details": "With the objective of providing rural connectivity, the Government of India launched the Pradhan Mantri Gram Sadak Yojana (referred to as PMGSY-I hereinafter) on 25th December 2000 to provide all-weather access to eligible unconnected habitations with a population of up to 500(Census 2001) in plain area and 250 and above in Special category States(States of North East, Jammu, and Kashmir, Himachal Pradesh, Uttarakhand), Desert Area as identified by Desert Development Program and 88 selected Back",
+  "eligibility_text": "1.  A region must be a habitation. It cannot be a hamlet or revenue village to be eligible for the Pradhan Mantri Gram Sadak Yojana (PMGSY). ﻿ 2.  The Central Government describes habitation as a population cluster residing within an area that remains constant over time. Some of the local words used to describe a habitation are: Majras, Desam, Hamlets, Tolas, Dhanis ﻿ 3.  The hamlet must have a hi",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 2-3 years",
+      "field": "age",
+      "min": 2,
+      "max": 3
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "The list of road works to be taken up under the Programme will be finalized each year by the District Panchayat in accordance with the allocation of funds communicated to the district. The District Pa",
+  "tags": [
+    "Road",
+    "Rural"
+  ],
+  "scheme_category_raw": "Agriculture,Rural & Environment, Transport & Infrastructure"
+}

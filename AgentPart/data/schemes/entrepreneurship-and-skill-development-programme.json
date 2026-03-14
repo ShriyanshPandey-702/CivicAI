@@ -1,0 +1,63 @@
+{
+  "id": "entrepreneurship-and-skill-dev-0893",
+  "name": "Entrepreneurship and Skill Development Programme",
+  "slug": "entrepreneurship-and-skill-development-programme",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Assistance under the ESDP Scheme: The programme includes the following modules- 1.\tEntrepreneurship Awareness Programme (EAP): One Day Entrepreneurship Awareness Programme is an activity to identify and motivate traditional/non-traditional entrepreneurs, who have the potential to set up MSEs with th",
+  "details": "The O/o DC-MSME under the \"Development of MSMEs\" vertical has launched the \"Entrepreneurship and Skill Development Programme (ESDP)\". The Programme is being organized regularly to nurture the talent of youth by enlightening them on various aspects of industrial/business activity required for setting up MSMEs. These Programmes are conducted for youth and other people interested in setting up their own industrial/self-employment venture. Such activities are also organized in ITIs, Polytechnics and",
+  "eligibility_text": "The age of the participants will be 18 years and above. Youth and other people interested in setting up their own industrial/business/self-employment venture. The qualification of the participants and structure of the fees will be decided by the Implementing Agencies i.e. Director/Officer in charge of the programme conducting organization. About 40% of the targeted beneficiaries of E-SDPs should b",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-40 years",
+      "field": "age",
+      "min": 18,
+      "max": 40
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must have a disability certificate",
+      "field": "has_disability",
+      "value": true
+    },
+    {
+      "criterion": "Must belong to BPL family",
+      "field": "ration_card_type",
+      "values": [
+        "BPL",
+        "AAY"
+      ]
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "disability_cert"
+  ],
+  "application_url": "Application Process: The interested & eligible candidates may please contact the nearby MSME Development Institute, MSME-Technology Centre. Addresses and contact details of these organizations are ava",
+  "tags": [
+    "Entrepreneurship",
+    "Skill Development",
+    "MSME",
+    "ESDP",
+    "Self-employment"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Skills & Employment"
+}

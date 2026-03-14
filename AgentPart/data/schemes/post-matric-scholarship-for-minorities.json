@@ -1,0 +1,41 @@
+{
+  "id": "post-matric-scholarship-for-mi-2385",
+  "name": "Post Matric Scholarship For Minorities",
+  "slug": "post-matric-scholarship-for-minorities",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 7000,
+  "benefit_frequency": "annual",
+  "benefit_description": "(subject to actuals): Admission and tuition fee (both Hosteller & Day Scholar): For Class 11th & 12th: Rs. 7,000/- per annum For technical and vocational courses of level of Class 11th & 12th (more than 1 year in duration): Rs. 10,000/- per annum For UG & PG level: Rs. 3,000/- per annum Maintenance",
+  "details": "A scholarship scheme by Ministry of Minority Affairs for students from minority communities pursuing a post-matric course from a notified institution in India in a government or private school, including such residential Government institutes and eligible private institutes selected and notified in a transparent manner by the State Government and Union Territory Administration concerned. ﻿ It will also cover technical and vocational courses in Industrial Training Institutes/ Industrial Training",
+  "eligibility_text": "The applicant must be pursuing a post-matric qualification. The applicant must be from a Minority Community. The Annual income of parents/guardians of the applicant (from all sources) should be less than or equal to ₹ 2,00,000/- per annum. The applicant must not be availing any other scholarship by the govt. The applicant must not be the third sibling in his/her family who has been given this scho",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹200,000",
+      "field": "income",
+      "max": 200000
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "bank_passbook",
+    "address_proof"
+  ],
+  "application_url": "New Registration : Step 1: Visit the New Registration page of the National Scholarships Portal. Step 2: Guidelines for Registration will appear. Scroll to the bottom. Read the undertaking carefully an",
+  "tags": [
+    "Post-Matric",
+    "Scholarship",
+    "Minority",
+    "Education",
+    "Student"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

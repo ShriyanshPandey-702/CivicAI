@@ -1,0 +1,40 @@
+{
+  "id": "arunachal-pradesh-entrepreneur-0254",
+  "name": "Arunachal Pradesh Entrepreneurship Challenge",
+  "slug": "arunachal-pradesh-entrepreneurship-challenge",
+  "ministry": "",
+  "category": "employment",
+  "level": "State",
+  "state": "Uttar Pradesh",
+  "benefit_amount": 5,
+  "benefit_frequency": "annual",
+  "benefit_description": "Financial: Top 50 entrepreneurs will be selected for the Incubation and Pre-Incubation programs facilitated by the IIM Calcutta Innovation Park. Out of these, the top 10 entrepreneurs will be awarded up to Rs. 5 lakhs and the next 40 entrepreneurs will be awarded up to Rs. 4 lakhs. Government Suppor",
+  "details": "The \"Arunachal Pradesh Entrepreneurship Development Programme (APEDP)\" was launched by Hon'ble Chief Minister Pema Khandu. The APEDP is aimed at “catalyzing an inclusive solution to the motley local challenges by developing a vibrant entrepreneurial ecosystem in the state and facilitating aspiring entrepreneurs with comprehensive support and nurturing,” the DIPR informed in a release. The objective of APEDP is to formulate an inclusive solution to the motley local challenges faced by aspiring en",
+  "eligibility_text": "1.\tThe applicant should be a resident of Arunachal Pradesh above 18 years of age with principal business units or should have a proposal to set up branches in Arunachal Pradesh or an Arunachali currently working or residing outside the state, but wishes to return back to the state & become an Entrepreneur. 2.\tThe applicant should be promised an idea and plan or prototype/working model. 3.\tThe appl",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 2-3 years",
+      "field": "age",
+      "min": 2,
+      "max": 3
+    },
+    {
+      "criterion": "Must be a resident of Arunachal Pradesh",
+      "field": "state",
+      "value": "Arunachal Pradesh"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Step 01: Visit the Official Website of Arunachal Pradesh Startup Portal ﻿ ﻿ Step 02: Click on Register Now. It will take you to the Register Page. ﻿ Step 03: Then on the Register page click on Registe",
+  "tags": [
+    "Entrepreneurship",
+    "Training",
+    "Self-employed",
+    "Business Venture",
+    "Arunachal Pradesh"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship, Skills & Employment"
+}

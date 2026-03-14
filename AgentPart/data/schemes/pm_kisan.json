@@ -1,0 +1,46 @@
+{
+  "name": "PM-KISAN",
+  "category": "agriculture",
+  "description": "Income support of ₹6,000/year to all landholding farmer families",
+  "eligibility_rules": {
+    "max_income": null,
+    "min_age": 18,
+    "max_age": null,
+    "caste": ["general", "obc", "sc", "st", "ews"],
+    "states": ["all"],
+    "occupation": ["farmer"],
+    "requires_land": true,
+    "min_land_acres": 0.01,
+    "additional_rules": [
+      "Must have land registered in name or family member",
+      "Must have active bank account",
+      "Should not be a government employee",
+      "Should not be income tax payer"
+    ]
+  },
+  "required_docs": [
+    "aadhaar",
+    "land_record",
+    "bank_passbook"
+  ],
+  "benefit_amount": 6000,
+  "benefit_description": "₹6,000 per year in 3 installments of ₹2,000 each",
+  "portal_url": "https://pmkisan.gov.in",
+  "deep_eligibility_questions": [
+    {
+      "field": "has_bank_account",
+      "question": "Do you have an active bank account linked to Aadhaar?",
+      "type": "yes_no"
+    },
+    {
+      "field": "is_government_employee",
+      "question": "Are you or any household member a government employee?",
+      "type": "yes_no"
+    },
+    {
+      "field": "is_income_tax_payer",
+      "question": "Do you or any household member pay income tax?",
+      "type": "yes_no"
+    }
+  ]
+}

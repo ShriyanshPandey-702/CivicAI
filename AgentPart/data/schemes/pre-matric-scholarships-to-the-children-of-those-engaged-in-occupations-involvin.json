@@ -1,0 +1,36 @@
+{
+  "id": "pre-matric-scholarships-to-the-2459",
+  "name": "Pre-Matric Scholarships to the Children of Those Engaged in Occupations Involving Cleaning and Prone to Health Hazards",
+  "slug": "pre-matric-scholarships-to-the-children-of-those-engaged-in-occupations-involvin",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 110,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Rate of Scholarship Day Scholars: Class 1st to 10th: ₹ 110/- per month for ten months. Hostellers: Class 3rd to 10th: ₹ 700/- per month for ten months. ﻿ Ad-Hoc Grant ₹ 750/- per student per annum to all-day scholars. ₹ 1000/- per student per annum to hostellers. ﻿ Additional Provisions for Students",
+  "details": "Launched in the year 1977-78, the scheme \"Pre-Matric Scholarships to the Children of Those Engaged in Occupations Involving Cleaning and Prone to Health Hazards\" is a Scholarship Scheme by the Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment. The objective of the scheme is to provide financial assistance to children whose parents/guardians belong to one of the following categories, to pursue Pre-Matric education: Tanners, Flayers, Waste Pickers and Persons",
+  "eligibility_text": "Eligibility The scholarship will be admissible to the children/wards of Indian Nationals who, irrespective of their religion belong to one of the following categories: Tanners & Flayers. Waste Pickers. Persons who are Manual Scavengers as defined under section 2(I) (g) of the Manual Scavengers Act 2013. Persons engaged in hazardous cleaning as defined in Section 2(I) (d) of the Manual Scavengers A",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook",
+    "birth_cert",
+    "disability_cert"
+  ],
+  "application_url": "Announcement of Scheme The scheme will be announced by the concerned State Government/Union Territory Administration well in time, by giving advertisements in the leading language newspapers local dai",
+  "tags": [
+    "Scholarship",
+    "Pre-Matric",
+    "School",
+    "Education",
+    "Student"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

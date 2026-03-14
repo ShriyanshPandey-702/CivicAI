@@ -1,0 +1,34 @@
+{
+  "id": "national-handloom-development--2164",
+  "name": "National Handloom Development Programme (NHDP): Scholarship Component",
+  "slug": "national-handloom-development-programme-nhdp-scholarship-component",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 5000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Financial Coverage: The scholarship covers tuition fees, admission fees, examination fees, and other annual fees/charges as required by the academic institution. Stipend: In addition to the academic fees, eligible candidates will receive a stipend of ₹5,000 per month, subject to a maximum of ₹2,00,0",
+  "details": "The National Handloom Development Programme (NHDP) Scholarship Component, running from 2021-22 to 2025-26, aims to bolster India's handloom sector and improve the lives of handloom weavers. It particularly targets the children of these weavers, offering financial assistance of up to ₹2,00,000 annually. This support covers tuition, admission, and examination fees at recognized textile institutions. Additionally, beneficiaries receive a monthly stipend of ₹5,000. The scheme's primary objective is",
+  "eligibility_text": "The scholarship is for the children of handloom weavers/workers (up to 2 children). This support is available for pursuing 3/4 years Diploma/Graduate/Post Graduate courses at Central/State Government recognized and funded Textiles Institutions.",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "address_proof"
+  ],
+  "application_url": "Step 1: Filing Up the Application Form In the prescribed format of the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), attach copies of all the",
+  "tags": [
+    "Scholarship",
+    "Textile",
+    "Handloom",
+    "Weaver"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}

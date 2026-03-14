@@ -1,0 +1,31 @@
+{
+  "id": "national-youth-corps-2195",
+  "name": "National Youth Corps",
+  "slug": "national-youth-corps",
+  "ministry": "",
+  "category": "employment",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 5000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "An honorarium of ₹ 5000 per month is provided for serving up to two years (including the period of training which will be for 4 weeks) in the identified development activities on a full-time basis.",
+  "details": "A volunteership scheme by Ministry of Youth Affairs And Sports to tap the potential of the disciplined and dedicated youth In the age group of 18 to 29 years who have the inclination and spirit to engage in nation building exercises, to serve up to two years in Nation Building activities for which they would receive a monthly honorarium of Rs- 5000/- . ﻿ Each NYV is required to be IT Savvy. Further NYVs should have the capability of preparing report/documentation of youth program and upload onli",
+  "eligibility_text": "The applicant must be between 18 - 29 years of age. The applicant must have passed Class 10th.",
+  "eligibility_criteria": [],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "address_proof",
+    "birth_cert"
+  ],
+  "application_url": "The online application form is available on www.nyks.nic.in After successful submission of online application form, an Application number is generated automatically and displayed on the screen which s",
+  "tags": [
+    "Youth",
+    "Sports",
+    "Volunteer",
+    "IT",
+    "Media",
+    "Development"
+  ],
+  "scheme_category_raw": "Skills & Employment, Social welfare & Empowerment"
+}

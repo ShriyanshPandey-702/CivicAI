@@ -1,0 +1,48 @@
+{
+  "id": "new-swarnima-scheme-for-women-2211",
+  "name": "New Swarnima Scheme For Women",
+  "slug": "new-swarnima-scheme-for-women",
+  "ministry": "",
+  "category": "women",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 200000,
+  "benefit_frequency": "annual",
+  "benefit_description": "A subsidy amount of ₹2,00,000/- @ 5% per annum, for self-employment. (The remaining amount has to be self-owned by the beneficiary.) The beneficiary woman is not required to invest any amount of her own on the projects upto cost of Rs.2,00,000/-.",
+  "details": "A term loan scheme by the Ministry of Social Justice and Empowerment for women entrepreneurs from backward classes to obtain a loan of up to ₹2,00,000/- @ 5% per annum, thereby providing them social & financial security. The scheme is introduced by National Backward Classes Finance and Development Corporation (NBCFDC) and implemented by State Channelising Agencies (SCAs) which act as the nodal agency.",
+  "eligibility_text": "The applicant must be a FEMALE . The age of the applicant must be between 18 and 55 years . The applicant must be an Entrepreneur The Total Annual Family Income of the Applicant must be Less than ₹ 3 Lakh per Annum",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 18-55 years",
+      "field": "age",
+      "min": 18,
+      "max": 55
+    },
+    {
+      "criterion": "Annual income below ₹300,000",
+      "field": "income",
+      "max": 300000
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "caste_cert",
+    "address_proof",
+    "ration_card"
+  ],
+  "application_url": "Step 1: Eligible applicant needs to visit nearest SCA office, apply on prescribed form for Swarnima Scheme for Women. You can find your nearest SCA office at this link - https://nsfdc.nic.in/channel-p",
+  "tags": [
+    "Entrepreneur",
+    "Women",
+    "Business",
+    "Empowerment",
+    "Backward Class",
+    "Financial Assistance"
+  ],
+  "scheme_category_raw": "Banking,Financial Services and Insurance, Business & Entrepreneurship, Social welfare & Empowerment,"
+}

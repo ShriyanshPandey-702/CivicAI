@@ -1,0 +1,64 @@
+{
+  "id": "national-overseas-scholarship--2174",
+  "name": "National Overseas Scholarship For Scheduled Caste Etc. Candidates",
+  "slug": "national-overseas-scholarship-for-scheduled-caste-etc-candidates",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Annual Maintenance Allowance: For the United States of America (USA) & other countries except for the UK: 15400 US Dollars. For United Kingdom (UK): 9900 Great Britain Pounds Contingency Allowance: For the United States of America (USA) & other countries except for the UK: 1500 US Dollars. For Unite",
+  "details": "A scholarship scheme by Ministry of Social Justice & Empowerment for regular, full-time students from Scheduled Castes, Denotified Nomadic and Semi Nomadic Tribes, Landless Agricultural Labourers and Traditional Artisans; to obtain higher education viz., Master degree or Ph.D courses by studying abroad in Institutions/Universities accredited by the Government/authorized body of that country in any field of study.",
+  "eligibility_text": "The applicant must be a student belonging to a Scheduled Caste, Denotified Nomadic, Semi Nomadic Tribe, Landless Agricultural Labourer, or a Traditional Artisan. The applicant must have been admitted to or received an unconditional offer of admission for pursuing a master's / Ph.D. from an institute/university located abroad. The institute/university of the applicant must be accredited by the Gove",
+  "eligibility_criteria": [
+    {
+      "criterion": "Age between 30-115 years",
+      "field": "age",
+      "min": 30,
+      "max": 115
+    },
+    {
+      "criterion": "Annual income below ₹800,000",
+      "field": "income",
+      "max": 800000
+    },
+    {
+      "criterion": "Must belong to SC/ST/OBC category",
+      "field": "caste",
+      "values": [
+        "sc",
+        "st",
+        "obc"
+      ]
+    },
+    {
+      "criterion": "Must be a woman/female applicant",
+      "field": "gender",
+      "value": "female"
+    },
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "income_cert",
+    "caste_cert",
+    "address_proof"
+  ],
+  "application_url": "Step 1: The candidates can apply online on the portal: www.nosmsje.gov.in ﻿ Step 2: The new applicants need to register under the “Student Register Form” under the login tab: https://nosmsje.gov.in/Re",
+  "tags": [
+    "Student",
+    "Scholarship",
+    "Scheduled Caste",
+    "International Education",
+    "PhD",
+    "Degree",
+    "Post-Graduation",
+    "Tuition Fees"
+  ],
+  "scheme_category_raw": "Education & Learning, Social welfare & Empowerment"
+}

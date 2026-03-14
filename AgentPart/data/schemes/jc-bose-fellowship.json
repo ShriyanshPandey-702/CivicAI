@@ -1,0 +1,34 @@
+{
+  "id": "jc-bose-fellowship-1562",
+  "name": "J.C. Bose Fellowship",
+  "slug": "jc-bose-fellowship",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 1500000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "The fellowship amount is ₹25,000/- per month in addition to regular income. Research grant of ₹15 lakhs per annum. Overhead of ₹1.00 lakh per annum to the host institute.",
+  "details": "The “J.C. Bose fellowship” is awarded to active scientists in recognition of their outstanding performance. The fellowship is scientist-specific and very selective. The scientist should be in service at the time of nomination to this fellowship. The nominee should be an Indian national working in institutions in India. Duration of Fellowship: The duration of the fellowship will be initially for five years. In case, the fellow superannuates during the term of the fellowship, the fellowship can be",
+  "eligibility_text": "The candidate should be an active scientist with a record of outstanding performance apparent from the award of the SS Bhatnagar prize and/or fellowship of science academies (including engineering, agriculture, and medicine). The scientist should be in service at the time of nomination to this fellowship. The nominee should be an Indian national working in institutions/Universities in India. The f",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be engaged in farming/agriculture",
+      "field": "occupation",
+      "value": "farmer"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "address_proof"
+  ],
+  "application_url": "Nomination: The nominations can be sent by the Heads of the Institutions; JC Bose Fellows and Presidents of National Science Academies. The nominations are received throughout the year. Online Applica",
+  "tags": [
+    "Fellowship",
+    "Science",
+    "Research",
+    "Scientist",
+    "Bose"
+  ],
+  "scheme_category_raw": "Education & Learning, Science, IT & Communications"
+}

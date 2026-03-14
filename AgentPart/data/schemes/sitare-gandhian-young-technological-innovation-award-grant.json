@@ -1,0 +1,33 @@
+{
+  "id": "sitare-gandhian-young-technolo-2624",
+  "name": "SITARE-Gandhian Young Technological Innovation Award Grant",
+  "slug": "sitare-gandhian-young-technological-innovation-award-grant",
+  "ministry": "",
+  "category": "business",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 0,
+  "benefit_frequency": "annual",
+  "benefit_description": "Support provided to beneficiaries under the scheme: The funding support under SITARE is in the form of grant-in-aid. The extent of funding is up to INR 15 lakhs. The fund allocation is milestone-based and released in installments of up to INR 5 lakhs each based on the review of the milestone achieve",
+  "details": "“Students Innovations for Translation & Advancement of Research Explorations (SITARE)” Scheme is started by the Biotechnology Industry Research Assistance Council (BIRAC) for supporting innovative student projects in the area of biotechnology. The scheme’s mandate is to promote and encourage young students for embracing translational research to develop innovative products and technologies addressing unmet needs. The scheme has two components: SITARE-Gandhian Young Technological Innovation Award",
+  "eligibility_text": "An Indian student pursuing a Ph.D/Masters* in any discipline is eligible to apply for this award grant. The student should have a valid ID issued by the Institution/University. A No Objection Certificate (NoC), as per the prescribed format needs to be submitted along with the application. A student can receive a SITARE-GYTI Award Grant only once. The scheme encourages postgraduate and doctoral stu",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "pan_card"
+  ],
+  "application_url": "Application process: •\tProposals shall be submitted online only during an active Call for Proposals. • Frequency of Call: Once a year • Month of announcement: August/September • Call Duration: The cal",
+  "tags": [
+    "SITARE",
+    "GYTI",
+    "Student",
+    "Innovation",
+    "Translational Research"
+  ],
+  "scheme_category_raw": "Business & Entrepreneurship"
+}

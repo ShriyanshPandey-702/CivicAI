@@ -1,0 +1,33 @@
+{
+  "id": "jiyo-parsi-scheme-health-of-th-1599",
+  "name": "Jiyo Parsi Scheme – Health of the Community",
+  "slug": "jiyo-parsi-scheme-health-of-the-community",
+  "ministry": "",
+  "category": "health",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 8000,
+  "benefit_frequency": "monthly",
+  "benefit_description": "Under this component, financial assistance will be available to Parsi couples to take care of existing children and the newborn child(ren) at the rate of ₹8,000/- per month till the age of 18 years. The rate of assistance for dependent elderly family members will be ₹10,000/- per month per dependent",
+  "details": "The \"Jiyo Parsi Scheme – Health of the Community\" is a unique Central Sector Scheme launched by the Ministry of Minority Affairs, Government of India. It aims to motivate Parsi couples to have more children. Under this scheme, financial assistance is provided to eligible couples to take care of their dependent elderly family members and children. This assistance is available only to Parsi couples who have a child after the introduction of this component in 2017-18 and whose annual family income",
+  "eligibility_text": "Assistance under this component is available to only those Parsi Couples who bear a child after the introduction of this component i.e. 2017-18 and whose annual family income from all sources is less than ₹15 Lakh per annum. The applicant should be a resident of India. The applicant should belong to a notified minority community, i.e., Parsi/Zoroastrian. Note 1: No funds will be provided under the",
+  "eligibility_criteria": [
+    {
+      "criterion": "Annual income below ₹1,500,000",
+      "field": "income",
+      "max": 1500000
+    }
+  ],
+  "documents_required": [
+    "income_cert",
+    "birth_cert"
+  ],
+  "application_url": "Step 1: Eligible beneficiaries who wish to avail benefits under this scheme may visit or contact Parsi Punchayets, Anjumans, or Agiaries. Step 2: Collect the application form and fill in the required ",
+  "tags": [
+    "Parsi Community",
+    "Health",
+    "Parsi Couples",
+    "Zoroastrians"
+  ],
+  "scheme_category_raw": "Health & Wellness"
+}

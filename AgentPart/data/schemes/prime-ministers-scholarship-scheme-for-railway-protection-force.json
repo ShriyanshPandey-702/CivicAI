@@ -1,0 +1,34 @@
+{
+  "id": "prime-ministers-scholarship-sc-2481",
+  "name": "Prime Minister's Scholarship Scheme for Railway Protection Force",
+  "slug": "prime-ministers-scholarship-scheme-for-railway-protection-force",
+  "ministry": "",
+  "category": "education",
+  "level": "Central",
+  "state": null,
+  "benefit_amount": 2500,
+  "benefit_frequency": "monthly",
+  "benefit_description": "1. The amount of the scholarship would be as follows: (i) ₹2500/- per month for male students (ii) ₹3000/- per month for female students 2.\tLetter from Hon’ble Prime Minister - All applicants selected under the new category will be given a personal letter from Hon’ble Prime Minister in appropriate l",
+  "details": "Prime Minister’s Scholarship Scheme (PMSS) for Railway Protection Force (RPF) was announced by the Hon’ble Prime Minister of India in his address to the nation from the historical Red Ford on 15th August 2005. Prime Minister’s Scholarship Scheme for RPF was introduced in the Academic year 2008-09. It was introduced to encourage higher technical and professional education for the dependent wards of Ex/Serving RPF/RPSF personnel and widows (below the Rank of Gazetted officer). Scholarship Availabl",
+  "eligibility_text": "Eligibility of Students: The dependent wards of Ex/Serving RPF/RPSF personnel and widows (below the Rank of Gazetted officer) are eligible to apply under the scheme. Students who have taken regular admission are only eligible for PMSS. Students should have secured 60% and above in Minimum Entry Qualification (MEQ) i.e. 12th Std., Diploma/Graduation. The scholarship is admissible for only two wards",
+  "eligibility_criteria": [
+    {
+      "criterion": "Must be a student",
+      "field": "occupation",
+      "value": "student"
+    }
+  ],
+  "documents_required": [
+    "aadhaar",
+    "bank_passbook"
+  ],
+  "application_url": "Application Process: Step 01: Online submission of the Application form can be done through the website of the National Scholarship Portal . Step 02: On the home page, select “Central Schemes” and the",
+  "tags": [
+    "Scholarship",
+    "RPF",
+    "RPSF",
+    "Student",
+    "Railway"
+  ],
+  "scheme_category_raw": "Education & Learning"
+}
